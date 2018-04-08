@@ -1,0 +1,112 @@
+-- Cisco Margins Threatened as VMware Sparks Startup Buyouts
+-- B y   P e t e r   B u r r o w s
+-- 2012-08-14T04:01:00Z
+-- http://www.bloomberg.com/news/2012-08-14/cisco-margins-threatened-as-vmware-sparks-startup-buyouts.html
+Cisco Systems Inc. (CSCO) , the largest
+maker of computer-networking gear, faces fresh threats to its
+profit margins from a new breed of software that’s helping
+customers handle data traffic with fewer switches and routers.  Technology from startups such as  Arista Networks Inc. ,  Big
+Switch Networks Inc.  and  Cyan Inc.  is designed to help
+businesses run their  computer networks  more efficiently,
+lessening the need for the kinds of devices that make up most of
+Cisco’s revenue.  Demand for cheaper ways to manage a rising flood of
+information over networks will propel software-related
+networking revenue to $17 billion worldwide by 2016, from $6
+billion last year, according to Pacific Crest Securities.  Oracle (ORCL) 
+Corp. and VMware Inc. have used acquisitions to make forays into
+the market, fueling concern that Cisco’s profit margin -- which
+slipped to 61 percent in fiscal 2011 from a peak of 70 percent
+about a decade ago -- will come under further pressure.  “It’s a healthy shift,” said Erez Yarkoni, chief
+information officer at wireless carrier T-Mobile USA Inc., in an
+interview. “I don’t think Cisco keeps those 60 percent margins
+unless they start selling more software themselves.”  Cisco, which is scheduled to report fiscal fourth-quarter
+results tomorrow, will have a  gross margin  of 62 percent for the
+year, according to the average of analysts’ estimates compiled
+by Bloomberg.  VMware (VMW)  is projected to generate a margin of 88
+percent this year, while analysts estimate Oracle will have an
+80 percent margin for its 2013 fiscal year, which ends in May.
+Among peer companies on the Russell 1000 Index, Cisco has had
+the smallest average profit-margin growth over five years, data
+compiled by Bloomberg show.  Nascent Technology  Chief among Cisco’s challenges is a nascent technology
+called software-defined networking, which lets customers program
+networks from one central console and do more jobs with fewer
+switches and routers. VMware made a foray into the market last
+month when it bought  Nicira Inc.  for $1.26 billion. Oracle
+announced plans a week later to buy Xsigo Systems Inc.  Wireless carriers that once deployed technicians to adjust
+cables on machines as traffic shifted can use SDN to reconfigure
+networks with a few clicks of a mouse, T-Mobile’s Yarkoni said.  “Increasingly, it’s less about chips and hardware, and
+more about software,” said Arista Chief Executive Officer
+Jayshree Ullal, a former Cisco executive. “We saw that happen
+in servers and in storage, but it’s taken decades for networking
+software to evolve. Now, you’re seeing the next wave.”  Open Source  Arista, based in  Santa Clara ,  California , makes most of its
+money from high-speed switches used by  AT&T Inc. (T)  and EBay Inc.
+to rapidly handle Internet traffic and by many Wall Street firms
+to trim microseconds from their high-frequency trading programs.
+The company uses open-source technologies that other developers
+can use to write applications for its hardware, a feature
+recently adopted by Cisco.  Ullal said the company has been profitable for the past six
+quarters and is searching for a new chief financial officer,
+often a precursor to an initial public offering. Arista is on
+track to bring in sales of $100 million to $200 million this
+year, according to two people familiar with the matter who asked
+not to be named because the information isn’t public.  Software-Centric  Cisco, recognizing the value of software, said in March
+that it will acquire NDS Group Ltd. for about $5 billion, adding
+programs that run cable set-top boxes, power digital video
+recorders and enforce copyright restrictions that prevent
+piracy. Chief Executive Officer  John Chambers  said at the time
+that Cisco is “moving to a more software-based model.”  The company  announced  plans in June to publish instructions
+for developers to write programs running on its equipment. Cisco
+also said it will  introduce  an open-source central console
+capable of running hardware from other companies.  “We not only want to participate in this market, we want
+to lead,” said David Yen, manager of Cisco’s data-center group,
+in an interview.  Cisco also was in talks to acquire Nicira, and was outbid,
+two people with knowledge of the matter said.  Even as Cisco expands in software, Padmasree Warrior, chief
+technology officer, has downplayed the potential for networking
+startups to curb demand for switches and routers.  Software innovations “are not going to commoditize the
+underlying networking infrastructure,” Warrior said in an Aug.
+2  blog  post. “These architectures actually place more demands
+on the core infrastructure.”  Optical Gear  The technology can also provide alternatives to Cisco’s
+hardware. Cyan focuses on phone carriers that need to keep pace
+with soaring  Internet traffic . Cyan’s machines combine routing
+features in optical gear that transports data within cities, so
+traffic such as e-mail between neighbors doesn’t need to go
+through a router to reach its destination. The Petaluma,
+California-based company also makes stand-alone software that
+customers can run on other suppliers’ routers.  Cyan’s revenue will approach $100 million this year,
+according to two people familiar with the matter. Mike Hatfield,
+founder and president, declined to provide sales figures, though
+he said revenue has doubled in each of the past three years.  “We’re at the scale that we can be a public company,”
+Hatfield said in an interview. “We’re going to monitor when the
+right time is.”  Fewer Routers  TDS Telecommunications Corp., a phone provider in rural
+U.S. communities, has been using Cyan’s gear for more than two
+years, said Ken Paker, vice president of engineering and
+architecture.  “We’re not putting routers into places we otherwise would
+have,” Paker said. “People talk about replacing routers. We
+talk about avoiding putting more in.”  Omar Baldonado , another former Cisco executive, heads
+product management at Big Switch, a  Palo Alto , California-based
+provider of open-source tools for making networks faster and
+more affordable to operate. Its programs act as a central
+console, so data center operators can easily control hundreds or
+thousands of separate pieces of networking hardware.  Nicira makes technology to help networks run more
+efficiently, helping companies cut hardware costs. Xsigo gives
+Oracle technology to simplify cloud-based computing over the
+Internet and let customers connect any server to any network,
+reducing hardware needs. Oracle paid about $200 million for the
+company, a person familiar with the transaction said.  Potential Suitors  Big Switch, the closest competitor to Nicira, is likely to
+be acquired soon, said Brent Bracelin, an analyst at Pacific
+Crest Securities. Potential suitors include International
+Business Machines Corp., Oracle and Dell Inc., he said.  Arista could be bought for more than $1 billion, drawing
+interest from the same companies that might consider Big Switch,
+Bracelin said.  Cisco, for its part, might snap up storage companies such
+as NetApp Inc., he said. Cisco could also deal with competition
+by pushing into the same kind of networking software offered by
+startups, said  Simona Jankowski , an analyst at Goldman Sachs
+Group Inc., in a research report.  Networking software could spark the development of
+thousands of powerful new ways for companies to get more out of
+their networks. Since software is much more profitable than
+hardware, “this could be phenomenal news for Cisco,” said T-
+Mobile’s Yarkoni.  “Now they have to pick up the ball and run with it.”  To contact the reporter on this story:
+Peter Burrows in  San Francisco  at 
+ pburrows@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

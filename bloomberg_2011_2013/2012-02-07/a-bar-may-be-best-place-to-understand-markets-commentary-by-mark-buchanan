@@ -1,0 +1,108 @@
+-- A Bar May Be the Place to Understand Markets: Buchanan
+-- B y   M a r k   B u c h a n a n
+-- 2012-02-07T00:00:00Z
+-- http://www.bloomberg.com/news/2012-02-07/a-bar-may-be-best-place-to-understand-markets-commentary-by-mark-buchanan.html
+The aftermath of the Lehman Brothers
+Holdings Inc. bankruptcy in 2008 was a scary time: One measure
+of stock-market volatility, known as the  VIX  or the “fear
+index,” reached a peak daily closing price of more than 80,
+compared with about 18 today. Scarier is the knowledge that
+we’ll be there again sometime. That’s how markets go: Unexpected
+chaos is the rule.  Economists have wondered for decades why markets have
+“excess volatility” -- that is, why prices move up and down
+more than they should by any sensible reckoning of assets’
+fundamental value. We routinely have things like the crash of
+1987, or the Flash Crash of May 6, 2010, shocking events that
+seem to strike out of nowhere.  Yet the nature of this chaos might not be as mysterious as
+it seems. From the right perspective -- not that of mainstream
+economics -- it looks like a natural consequence of a market
+game that often deludes investors into thinking they know how it
+works.  The idea comes by way of a silly  thought experiment 
+invented in 1994 by Brian Arthur, an economist then at  Stanford
+University . Imagine a college bar with music and cheap drinks
+every Thursday night. Naturally, lots of students want to go.
+Trouble is, it’s a tiny place, and they will enjoy it only if 60
+percent or fewer of them go. Otherwise, they will suffer
+miserably in the cramped heat. Hence, each week, every student
+faces a tricky decision: How to do what most other people will
+not do. (No cheating -- everyone has to decide at the same
+time.)  Game Theory  By tradition, economists analyze situations like this using
+game theory, which attempts to explain strategic interactions.
+It assumes that every student will think hard about the best
+strategy, and remain aware that others will do the same,
+everyone taking into account everyone else’s likely actions. By
+this method, the bar problem is devilish. Deductive thinking
+can’t give a good solution because if everyone chose one
+“best” solution, all students would go to the bar or stay at
+home, and be miserable either way. Strict reasoning falls down.  Drawing on psychology, Arthur argued that people might make
+decisions in more practical terms using simple theories or
+hypotheses. For example, a person might think, “crowded last
+week, should be less crowded this week,” and choose to go.
+Another might think differently, “crowded two weeks in a row,
+likely to be crowded again,” and stay at home. Psychologists
+have shown that people often make decisions by holding a handful
+of such theories in their minds, using whichever one seems
+recently to be working best.  Looking at the bar puzzle this way, Arthur found, you can
+quickly see how what happens at popular nightspots might
+fluctuate quite randomly from night to night. He used a computer
+to simulate a group of people using various theories about
+whether to go to the bar, and learning by trial and error. Quite
+quickly, the weekly attendance settled at an average of about 60
+percent. But -- and this is the significant point -- the number
+didn’t settle down to 60. Rather, it kept fluctuating above and
+below in a random way, as people changed their tactics from week
+to week, responding to others who were also changing theirs.  Notice that there’s no “equilibrium” here of the kind
+that economists often like and expect. There’s no state of
+unchanging balance into which things settle. Lots of surprises
+emerge from a completely static situation: people just trying to
+solve the same problem week after week.  OK, cute puzzle. So what?  With a few small adjustments, this game can be used to
+describe the stock market. Replace “go” with “buy” and
+“stay at home” with “sell,” and suppose the difference in
+the number buying and selling drives a price change up or down.
+The bar game then takes a step toward the kind of thing that
+John  Maynard Keynes  had in mind when he suggested that markets
+resemble a beauty contest  in which people guess whom they think
+most others will choose as the most beautiful. In the markets,
+Keynes suggested, we must “devote our intelligences to
+anticipating what average opinion expects the average opinion to
+be.”  Ecological Models  Two decades later, the bar game now looks more profound
+than anyone would have imagined it could. Step by step, a
+handful of physicists, computer scientists and economists have
+transformed this curiosity into what are now arguably the most
+realistic models of markets. Such models treat markets as ever-
+evolving ecologies of investors who aim to profit on the basis
+of strategies they keep updating as they learn, or at least try
+to learn, from the past. Among other things, these ecological
+models reproduce the same kind of “excess” price fluctuations
+and sporadic upheavals we see in real markets.  In reality, of course, markets are often whacked by
+external events such as  bank failures  and policy announcements.
+But in these models, tumultuous market plunges can also emerge
+from nothing more than a chance momentary concentration of
+investors’ strategies -- a crowd-like similarity in thinking and
+behavior. There are periods when many market participants see
+patterns they interpret similarly. As a result, they react
+similarly and in concert, yet in a way that no one sees coming
+in advance.  This kind of natural herding leads to the so-called fat-
+tailed statistics of markets, reflecting their susceptibility to
+large crashes and rallies over minutes, hours and months. It
+also leads to many other more subtle, but realistic, features of
+real markets, such as their “long memory” -- an episode of
+high market volatility now has measurable effects lasting as
+long as 10 years into the future. None of these things emerges
+in any natural way from traditional equilibrium models.  Of course, no one working on these models would claim that
+they offer anything more than a crude picture. But the picture
+gets a few things right, and takes a first step into seeing the
+consequences of real human behavior in all its adaptive,
+changeable and less-than-rational glory. (I’ve given some
+further detail on market models of this kind on my  blog .)  No theory of markets will ever come to a final set of
+elegant equations, like one often finds in physics.
+Understanding markets, like understanding evolution or the
+weather, means dealing in approximations, in decent but flawed
+models, and exploring any scheme that helps make sense of a very
+chaotic and changeable reality. Even if it does start off as a
+silly game about a bar.  (Mark Buchanan, a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  Read more opinion online from  Bloomberg View .  To contact the writer of this article:
+ Mark Buchanan  at  buchanan.mark@gmail.com   To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net . 

@@ -1,0 +1,102 @@
+-- Oracle, Google Prepare for ‘World Series’ of IP Trials
+-- B y   K a r e n   G u l l o
+-- 2012-04-11T16:40:06Z
+-- http://www.bloomberg.com/news/2012-04-11/oracle-google-prepare-for-trial-in-world-series-of-ip-cases-.html
+Oracle Corp. (ORCL)  will ask a jury next
+week to find that Google Inc. stole its intellectual property to
+make Android software in a trial that a federal judge called the
+“ World Series  of IP cases.”  Oracle, the database maker seeking to wring profit from its
+$7.4 billion 2010 acquisition of  Sun Microsystems Inc. (JAVA) , is
+seeking $1 billion in damages and an injunction to block Android
+software that allegedly infringes patents it owns through Sun.
+Google, whose Android software is running on more than 150
+million devices, denies any infringement and says the Oracle-
+owned technology it used isn’t covered by copyright.  “This is the World Series of IP cases,” U.S. District
+Judge William Alsup, who will preside over the trial in  San
+Francisco , told lawyers for both companies March 28. “Only one
+winner comes out of the World Series.”  The eight-week trial is scheduled to begin April 16 with
+jury selection. Oracle alleges that Google copied parts of the
+Java programming language platform when designing the Android
+operating system without taking a license. The arrangement and
+structure of 37 application programming interfaces, or APIs --
+tools used for building software applications -- Google used are
+original expressions that are copyrightable, Oracle’s attorneys
+have said.  ‘Art, Not a Science’  “We’re talking about the design of the libraries by
+designers who are designing something that is an art, not a
+science, and that is creative,” Oracle lawyer  Michael Jacobs 
+said in a March 28 court hearing.  More than 97 percent of Android phones active in the past
+two weeks contain copied code, Oracle said in an April 5 court
+filing. An injunction is needed to stop Google from distributing
+infringing products to phone makers, the  Redwood City ,
+California-based company said. Alsup would decide after the
+trial whether an injunction is warranted if the jury finds
+Google infringed.  Settlement talks held April 2 and in September failed to
+resolve the lawsuit. Oracle fell 2 cents to $28.33 and Google
+rose $7.07 to $633.93 at 12:28 p.m. in Nasdaq Stock Market
+trading.  Developed by Sun in the mid-1990s, Java lets developers
+write programs that work across different operating systems and
+on a variety of computers. It formed a key building block of the
+Web and is widely used in business applications. The software
+also runs on billions of mobile devices.  Google relies on Android, the most popular U.S. smartphone
+operating system, to compete with Apple Inc. in the mobile-phone
+market and lessen its dependence on traditional Web-search
+advertising.  ‘Two Different Ideas’  Google claims the APIs it used are general-purpose methods
+of operation that simply describe how to do a task, and aren’t
+subject to copyright.  “Having two different ways of organizing something doesn’t
+mean those are expression,” said Michael Kwun, a Google
+attorney, at the March 28 hearing. It “just means those are two
+different ideas.”  He told Alsup that a tiny fraction of the 15 million lines
+of code on an Android phone are alleged to have been copied.
+Google has removed all allegedly copied material from the most-
+recent version of Android, said company spokesman Jim Prosser.  Names Aren’t Protected  The jury will be told at trial that the names of items in
+the API packages, such as API files and methods, aren’t
+protected, Alsup said in a ruling today. The jury will also be
+told that Java is free and open for anyone to use and the Oracle
+and Google disagree on whether the APIs are part of the Java
+programming language, he said in the ruling.  A finding that APIs are copyrightable would be “fairly
+catastrophic” for the U.S. software industry, said Simon
+Wardley, a researcher at  Computer Sciences Corp. (CSC) ’s U.K.-based
+Leading Edge Forum, a global research and advisory forum for
+corporate IT chiefs. Common functions that programmers use would
+become protected, leading to more lawsuits, he said in an e-
+mail.  “If you’re looking for a case where the U.S. legal system
+might throw the golden goose under a bus, then this one is a
+pretty good candidate,” Wardley said.  Percentage of Revenue  Oracle also alleges that Google infringed the two Java
+patents in the case that a court-appointed expert estimated are
+worth $2.8 million in damages.  If the jury finds Google infringed, future damages for one
+patent that expires in December should be 0.5 percent of Android
+revenue and future damages on the other patent that expires in
+2018 should be 0.015 percent of Android revenue, Google said,
+citing the court-appointed expert, in court documents.  The expert’s report isn’t public. Google doesn’t disclose
+revenue for the operating system.  Oracle’s expert says total damages through 2011 are $1
+billion, according to court filings.  “The reality is that the jury may perceive the court-
+appointed expert to be the truly objective expert,” said David
+Kleinfeld, an intellectual property and business litigation
+partner at Goodwin Procter who isn’t involved in the case.  Google E-Mail  Oracle’s original lawsuit filed in 2010 claimed Google was
+infringing seven patents. All but two have been removed from the
+case. Google won a ruling last year throwing out Oracle’s $6.1
+billion damage estimate. Alsup ruled that damage estimates
+should start at $100 million, the figure that Google considered
+and rejected in 2006 for a Java license from Sun.  Alsup also ruled that the jury may see an internal Google
+e-mail showing that top executives were told in 2010 that the
+company should negotiate a license for Java. The e-mail, written
+by a Google engineer just days before Oracle’s lawsuit, said co-
+founders  Larry Page  and  Sergey Brin  had asked for an
+investigation into technical alternatives to Java for Android.  “We’ve been over a bunch of these, and think they all
+suck,” the engineer, Tim Lindholm, wrote. “We conclude that we
+need to negotiate a license for Java under the terms we need.”  The e-mail is “going to be important” at trial, said Paul Neale, chief executive officer at Lynbrook, New York-based DOAR
+Litigation Consulting.  ‘Violating the Trust’  “We see lawyers focusing on the technology and the patents
+and complexity when jurors are interested in knowing what the
+relationship was between the parties and whether one party is
+seen as violating the trust,” said Neale in a phone interview.  Still, convincing a jury that Google is infringing codes of
+a programming language that is in the public domain and free for
+anyone to use won’t be a simple task, Alsup said.  “I promise you, there are going to be people on the jury
+who, when they understand that you have no claim to the Java
+programming language, that’s going to be the end of the line for
+them,” Alsup told Oracle’s Jacobs at a March 28 hearing.  Today Alsup ruled that the jury will be told that Java is
+free and open for anyone to use and the Oracle and Google
+disagree on whether the APIs are  The case is Oracle America Inc. v.  Google Inc. (GOOG) , 10-03561,
+U.S. District Court, Northern District of  California  (San
+Francisco).  To contact the reporter on this story:
+Karen Gullo in San Francisco at   kgullo@bloomberg.net   To contact the editor responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net . 

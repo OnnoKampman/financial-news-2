@@ -1,0 +1,64 @@
+-- Threatened Cyber Attack on Banks ‘Credible,’ McAfee Says
+-- B y   E r i c   E n g l e m a n   a n d   J o r d a n   R o b e r t s o n
+-- 2012-12-13T20:25:46Z
+-- http://www.bloomberg.com/news/2012-12-13/threatened-cyber-attack-on-banks-credible-mcafee-says.html
+A cyber fraud campaign targeting
+U.S. brokerages and banks is a “credible threat,” and at least
+500 accounts are vulnerable after early attacks planted software
+that could help thieves steal money, according to a  report 
+released today.  Plans announced by a cybercriminal known as vorVzakone to
+attack 30 U.S. banks by next spring, in a campaign dubbed
+Project Blitzkrieg, appear to be authentic, according to the
+report from  Intel Corp. (INTC) ’s McAfee unit, which sells security
+software.  McAfee said it found evidence that initial forays had
+installed software on accountholders’ computers that would let
+hackers get access to balances and information needed to
+transfer money.  “We do know that the thieves have had an active system
+since April 2012, with at least 500 victims who can be linked to
+vorVzakone,” the report said. “Most victims’ accounts are at
+investment banks. It will be interesting to see how the
+attackers will move money from these accounts, which are
+certainly targets of high value.”  VorVzakone announced plans for the campaign in an online
+posting in September that sought to recruit hackers. The
+software being used in the campaign has been in development
+since 2008 and online thieves have used it to steal $5 million,
+according to the posting.  The McAfee report said that, while vorVzakone’s declaration
+was met with initial skepticism, it had found evidence of
+malware infecting computers with access to online accounts.  ‘Real Attack’  “What the McAfee report has done has confirmed this may in
+fact be a real attack in the spring,”  Doug Johnson , vice
+president of risk management policy at the  American Bankers
+Association  in  Washington , said in an interview. “We’re
+operating under the assumption that the attack is going to occur
+and defending ourselves accordingly.”  The campaign is “fairly narrow in scope,” and the banking
+industry has a lot of information about the attackers’ methods,
+Johnson said.  The malicious software infects personal computers via e-
+mail messages, steals the user names and passwords of victims
+when they access their online accounts, and sends that
+information to a remote server, said Ryan Sherstobitoff, a
+researcher at McAfee Labs who prepared the report. The software
+lets online thieves connect remotely and access accounts through
+the victim’s computer, making it harder to identify the location
+of the criminals, he said.  Under Radar  In some cases, the malware is grabbing account balance
+information, an indication that the criminals are sifting
+through the data to target rich clients, Sherstobitoff said.  “McAfee Labs believes that Project Blitzkrieg is a
+credible threat to the financial industry and appears to be
+moving forward as planned,” the report said.  The campaign is targeting accounts at investment banks,
+consumer banks and  credit unions , Sherstobitoff said, declining
+to name targeted companies. The report said attacks appears to
+be selective, rather than a mass campaign.  “Rather they will stay under the radar by attacking
+selected groups,” according to the report. “A limited number
+of infections reduces the malware’s footprint and makes it hard
+for network defenses to detect its activities.”  While coordinated fraud campaigns against banks aren’t new,
+the latest threat is noteworthy for the mass profit-sharing
+model the attackers have proposed, said Sean Bodmer, chief
+researcher at CounterTack Inc., a computer security firm.  “It would seem that the criminal underground is maturing
+at a much faster pace than world governments believe,” Bodmer
+wrote in an e-mail.  Many of the largest U.S. banks including  Bank of America
+Corp.  and  JPMorgan Chase & Co. (JPM)  were targeted by hackers in a
+series of so-called denial of service attacks this year that
+flooded the banks’ websites with traffic and caused disruptions
+for online customers.  To contact the reporter on this story:
+Eric Engleman in Washington at 
+ eengleman1@bloomberg.net   To contact the editor responsible for this story:
+Bernard Kohn at 
+ bkohn2@bloomberg.net  

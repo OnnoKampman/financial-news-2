@@ -1,0 +1,33 @@
+-- Twitter Uses Forward Secrecy Technology for Encryption
+-- B y   B r i a n   W o m a c k
+-- 2013-11-23T05:01:00Z
+-- http://www.bloomberg.com/news/2013-11-23/twitter-uses-forward-secrecy-technology-for-encryption.html
+Twitter Inc. (TWTR)  said it has stepped up
+encryption of its service, in the latest effort by a technology
+company to beef up security following reports of spying on
+digital content by the National Security Agency.  The San Francisco-based microblogging service said in a
+ blog post  yesterday that it recently enabled a technology dubbed
+forward secrecy for traffic going through its websites, which
+makes it more difficult for hackers to decrypt information.  “Forward secrecy is just the latest way in which Twitter
+is trying to defend and protect the user’s voice,” the company
+said in the post.  Amid the fallout over NSA spying on digital information,
+technology companies including  Google Inc. (GOOG)  and  Yahoo! Inc. (YHOO)  have
+taken measures to strengthen security of their information. Many
+are using harder-to-crack code to shield their networks and
+online customer data from unauthorized U.S. spying. The
+companies, trying to distance themselves from concerns about
+user data, have said they do not provide NSA direct access to
+their servers.  Earlier this week, Yahoo said it will encrypt all
+information that flows between its data centers. Google has said
+it was ramping up similar efforts.  Jim Prosser, a spokesman for Twitter, didn’t immediately
+respond to a phone message seeking further comment.  In August, the Electronic Frontier Foundation, a nonprofit
+that works for protections in the digital world, said it was
+promoting the technology of  perfect forward secrecy  because it
+helps make session keys that a server computer generates “truly
+ephemeral,” which helps keep data from prying eyes. The
+technology is “an important Web privacy protection,” the group
+said.  To contact the reporter on this story:
+Brian Womack in  San Francisco  at 
+ bwomack1@bloomberg.net   To contact the editor responsible for this story:
+Pui-Wing Tam at 
+ ptam13@bloomberg.net  

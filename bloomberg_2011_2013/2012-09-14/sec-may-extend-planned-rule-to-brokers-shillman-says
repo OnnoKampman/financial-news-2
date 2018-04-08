@@ -1,0 +1,94 @@
+-- SEC May Extend Planned Rule to Brokers, Shillman Says
+-- B y   N i n a   M e h t a   a n d   N i k o l a j   G a m m e l t o f t
+-- 2012-09-14T17:24:51Z
+-- http://www.bloomberg.com/news/2012-09-14/sec-may-extend-planned-rule-to-brokers-shillman-says.html
+The U.S. Securities and Exchange
+Commission may include large brokers and dark pools in a planned
+rule aimed at ensuring that regulated securities markets have
+adequate technology systems, an SEC official said.  The SEC is working to turn policies on how exchanges manage
+their automated systems into regulations in the wake of a $440
+million  Knight Capital Group Inc. (KCG)  trading loss triggered by a
+software malfunction last month.  The commission’s so-called automation review policy program
+was established after the 1987 market crash to ensure exchanges
+and clearing agencies have the capacity to handle sudden surges
+in trading. The initiative evolved to encompass the security of
+automated systems and make sure the technology wouldn’t fail
+during or after a crisis, according to David Shillman, associate
+director in the SEC’s division of trading and markets.  The aim now is “to codify that, to make the standards
+clearer, perhaps expand them a bit,” Shillman said yesterday at
+a conference in New York sponsored by the Futures Industry
+Association and Options Industry Council. Minimum standards for
+automated systems, which currently cover exchanges and
+clearinghouses, “could be applied to other market
+participants” including brokers and dark pools, he said.  SEC Chairman  Mary Schapiro  said on Aug. 3, two days after
+the Knight error, that she had asked her staff to hasten work on
+the rule. Knight’s loss, which drove the company to the brink of
+bankruptcy before it shored up its finances by selling shares to
+a consortium of investors, was the latest damage to confidence
+in a market infrastructure following this year’s botched initial
+public offerings of Facebook Inc. and Bats Global Markets Inc.  SEC Roundtable  Shillman said he expects the automation review policy, or
+ARP, program to be discussed during a  roundtable  meeting about
+technology the SEC is holding in  Washington  on Oct. 2. That
+dialogue will focus on the “ways in which technology can be
+used to prevent errors” and address mistakes when they occur,
+he said.  Schapiro said in a March 2011  speech  that compliance with
+the ARP guidelines should be made mandatory. The Government
+Accountability Office  urged  that action in 2004, she said.  While the SEC’s focus in the ARP program has been on
+trading systems, that’s likely to broaden following the recent
+technology mishaps, Shillman said.  ‘Enforceable Rule’  “We recognize that other technologies are important to the
+markets as well, including market data provision, routing
+services, issuer services and the like,” Shillman said. “The
+main goal of the initiative is to see whether objective
+industry-wide standards can be devised that are appropriate for
+the securities industry and to have an enforceable rule to
+buttress that,” he said.  The SEC’s project to update the ARP guidelines is one of
+several initiatives to improve the securities industry’s ability
+to manage automated trading. The agency is now conducting
+reviews stemming from its so-called market-access rule, adopted
+in 2010 to reduce the risk of trading disruptions and improper
+and manipulative activity, Shillman said. The rule, which went
+into effect last year, requires brokers to employ risk checks on
+orders before they’re sent to markets to make sure they aren’t
+erroneous and don’t exceed preset capital and credit levels.  The commission is “getting a sense of best practices and
+looking for weaknesses in the controls as well as looking for
+potential violations of the rule,” Shillman said. He declined
+to comment on Knight’s trading activity on Aug. 1, saying that
+regulators are “still looking into the Knight incident.”  Improper Reporting  The Financial Industry Regulatory Authority, which oversees
+about 4,400 brokers, has uncovered problems through its reviews
+of brokers’ trading practices following the implementation of
+the market-access rule, according to Gene DeMaio, senior vice
+president for market regulation at Finra.  Finra has seen a “real uptick” in brokers improperly
+reporting the positions of so-called large traders in options,
+DeMaio said yesterday at the conference. This is part of a
+“whole host of misreporting issues,” he said.  The regulator is conducting reviews to look for instances
+where orders are coded as coming from customers even when
+they’re from a broker-dealer, he said. The codes affect how the
+orders are executed by options exchanges and the trading fees
+they’re charged.  Potentially manipulative activity is another area receiving
+greater scrutiny after an increase in complaints, DeMaio said.
+These may involve efforts to move the price of a stock to affect
+an options position and attempts to manipulate the volatility of
+an options contract, he said. He added that these are “hard
+cases to prove.”  Microbursts, Blips  Finra is also examining issues related to high rates of
+order message traffic by brokers, DeMaio said. The focus is on
+“microbursts” of quoting activity and not efforts to slow down
+data transmission “by barraging the system with quotes or
+message traffic,” he said.  “Most of the problems we’re seeing are these microbursts
+of activity, these blips where there really wasn’t a controlled
+review of the algo sending the quotes in advance, or at least
+the due diligence wasn’t there to ensure that these problems
+weren’t going to arise,” he said.  Algorithms are trading strategies that automate the
+submission of orders or quotations to a venue such as an
+exchange. Some algorithms may submit hundreds or thousands of
+orders, including updates and cancellations, each second.  “What we’re looking for is situations where there are
+numerous blips over an elongated period of time,” DeMaio said.
+Finra is also probing instances when it has told a firm to
+address a problem related to microbursts “and then we continue
+to see those blips happen day after day or week after week,” he
+said.  To contact the reporters on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net ;
+Nikolaj Gammeltoft in New York at 
+ ngammeltoft@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

@@ -1,0 +1,172 @@
+-- Bats CEO Blaming Code Stirs Concern on Market Complexity
+-- B y   N i n a   M e h t a ,   W h i t n e y   K i s l i n g   a n d   I n y o u n g   H w a n g
+-- 2012-03-26T19:08:41Z
+-- http://www.bloomberg.com/news/2012-03-26/bats-ceo-blaming-code-in-ipo-stirs-concern-on-market-complexity.html
+The software error that derailed
+the initial public offering of  Bats Global Markets Inc. (BATS) , where
+11 percent of all U.S. stock trading occurs, rattled investors
+concerned about the growing complexity of financial markets.  Joe Ratterman, the chief executive officer, canceled the
+March 23 IPO after a computer malfunction kept Bats from trading
+on its own platform and forced a halt in  Apple Inc. (AAPL) , the world’s
+biggest company by market value. Transactions in Apple and
+trades for more than 1 million Bats shares were later canceled.  While engineers at the third-largest U.S. exchange owner
+reacted in seconds to restore order, the failed debut
+highlighted concerns about electronic exchanges at a time when
+regulation of financial markets is increasing after the worst
+crisis since the Great Depression. New venues have helped cut
+the proportion of shares changing hands on the  New York  Stock
+Exchange and Nasdaq Stock Market in the corporations they list
+to less than 26 percent from at least 80 percent in 1997.  “The electronic market operates very efficiently and it
+can accommodate many more trades than a human-only market, but I
+think what happened Friday shows that you still need boots on
+the ground,” Walter “Bucky” Hellwig, who helps manage $17
+billion at BB&T Wealth Management in Birmingham,  Alabama , said
+in a phone interview yesterday. “That it was corrected quickly
+helped. But the fact that it happened at all makes people just
+stand back.”  No Payday  Ratterman, 45, is facing the biggest crisis of his career
+after the IPO was pulled, denying a payday for Wall Street firms
+such as  Bank of America Corp. (BAC)  and Deutsche Bank AG that own
+stakes in Lenexa, Kansas-based Bats, which was founded by a
+high-frequency trader in 2005. The IPO was managed by three of
+Bats’s owners, Morgan Stanley, Citigroup Inc. and Credit Suisse
+Group AG. Banks on the IPO will lose $7.1 million in fees
+because of the withdrawal, data compiled by Bloomberg show.  The rapid drop to 0.02 cent from $16 in  Bats (BATS)  just as it
+started changing hands on March 23 reminded investors of the so-
+called “flash crash” in May 2010, a much larger breakdown.
+Bats’s board, which hasn’t discussed any leadership changes,
+will meet this week to consider options and it’s yet to be
+determined if another IPO will be attempted, Ratterman said in a
+Bloomberg television interview today.  Yet to Recover  U.S. markets have yet to recover from the subprime mortgage
+crisis and financial meltdown that began in 2007. The Standard &
+Poor’s 500 Index, which has more than doubled from its bottom
+three years ago, remains 12 percent below its peak. Regulators
+are still putting in place checks on  Wall Street , including the
+so-called Volcker rule designed to keep banks from taking risks
+with depositors’ money.  The  S&P 500  rose 1.2 percent to 1,414 at 2:59 p.m. in New
+York today as Bats’s share of U.S. equity trading slipped below
+its one-month average. Its two exchanges handled 10.73 percent
+of U.S. volume as of 2:30 p.m. New York time, according to data
+compiled by Bloomberg Between Feb. 27 and March 22, the average
+was 11.57 percent.  Bats priced 6.3 million shares on March 22 and was ready to
+begin trading a day later when one of its computers
+malfunctioned, triggering events that ended with the IPO’s
+cancellation. While the company reported its opening transaction
+for $15.25 a share at 10:45 a.m. New York time on its website,
+ feeds  including those sent to Bloomberg LP displayed different
+prices as a result of the error related to the auction process.
+By 11:14 a.m., more than 1 million shares had traded.  Apple Circuit Breaker  Compounding the confusion, a single transaction for 100
+shares executed on a Bats venue briefly sent Apple, which has a
+market value of $555.7 billion, down more than 9 percent,
+setting off a circuit breaker that halted the stock everywhere
+in the country for five minutes. The shares rebounded and the
+errant trade at 10:57 a.m., along with all transactions in Bats
+shares, were later voided.  “There are going to be isolated events at the different
+market centers over time,” Ratterman said in a March 24
+interview. “We’ve had historically very few instances where our
+systems have gone down, but they have gone down in different
+ways in the past like every other venue. I don’t think this is
+anything new as much as it was under a bright spotlight.”  Market Availability  BZX Exchange, its main market, was accessible to users
+99.94 percent of the time last year, according to a regulatory
+filing. BYX Exchange, its second market, was available 99.998
+percent of the time, the company said. The main market processed
+an average of about 29,000 order messages per second.  The U.S. Securities and Exchange Commission is in
+discussions with Bats to determine the cause of the incident and
+review the steps the company is taking to remedy the issues,
+according to SEC spokesman  John Nester . To  Andrew Ross , a
+partner at New York-based proprietary trader First New York
+Securities LLC, technical problems that affect trading are
+becoming routine.  “Situations like this happen so frequently that I almost
+ignored it on Friday, which is a testament to the issue of these
+technological failures,” Ross said in a phone interview
+yesterday. “People who trade every day realize that these kinds
+of errors happen. But it looks awful for Bats, given that
+they’re an exchange that claims to have technological prowess as
+a platform for high-frequency trading.”  Weighing Benefits  Daniel Hawke, an official with the SEC’s enforcement
+division, said last month that the agency is examining trading
+practices that gained dominance in the past decade amid the
+shift to automation. Regulators are weighing the benefits of
+electronic markets and exchange competition, which sped up
+executions and cut commissions for individuals, against
+technology concerns linked to faster trading and connections
+between venues.  About  11 percent  of American share volume occurs on venues
+run by Bats, which called itself “a technology company at our
+core” in the IPO prospectus. Its founder, Dave Cummings, 43,
+sent an e-mail to traders yesterday saying that while Bats
+should suspend employee bonuses, the incident was no reason to
+dismantle the equities market structure.  “This was a freak one-time event,” Cummings wrote. “The
+Bats matching engine has literally matched billions of orders
+without problems. However, the code to open an IPO is new. It
+has been tested in the lab, but until this week not in real-
+world production.”  Bats, Brokerages  Pulling the IPO hurt Bats and the brokerage and trading
+firms who steered it to prominence as a way of holding down fees
+when the New York Stock Exchange and Nasdaq Stock Market
+expanded by buying electronic rivals in the mid-2000s. The
+company was initially built to service brokers and high-
+frequency firms, which make trading decisions in milliseconds.
+Those companies include  Tradebot Systems Inc. , whose chairman is
+Cummings, and Getco LLC, both of which have stakes in Bats.  Almost half of the 6.3 million Class A shares that were
+being offered were from the estate of Lehman Brothers Holdings
+Inc., with another 1.1 million from Getco, according to Bats’s
+March 21 filing with the Securities and Exchange Commission.
+Bats also planned to pay a $100 million dividend to shareholders
+including its 10 main financial company investors such as Bank
+of America Corp.,  Deutsche Bank AG (DBK)  and Instinet Inc. The failure
+of the deal voided the payment.  Ratterman wrote to customers and traders in a letter dated
+yesterday, explaining the technical issues, apologizing for the
+breakdown and pledging to do better in future.  ‘Shouldn’t Have Failed’  “We take pride in our technology, and Friday’s failure to
+perform as expected has no excuses,” Ratterman wrote. “In
+addition to several months of our own internal testing, we
+thoroughly tested this new auction functionality with trading
+participants for many weeks prior to Friday. It shouldn’t have
+failed, but it did, and the timing couldn’t have been worse.”  The malfunctions are focusing investor attention on the
+structure of U.S. markets, where two decades of  government
+regulation  have broken the grip of the biggest exchanges and
+left trading  fragmented  over dozens of venues, including
+electronic communications networks and so-called dark pools,
+which unlike exchanges don’t display quotes publicly. Bats,
+whose name stands for Better Alternative Trading System,
+expanded in tandem with the automated firms that now dominate
+the buying and selling of American equities.  Bats held a conference call with its underwriters before
+the opening auction process began at 10:30 a.m. New York time on
+March 23 that lasted into the afternoon. The software error
+became obvious “immediately following the auction” when the
+transaction didn’t appear on public feeds and quotations weren’t
+processed, Ratterman said. Engineers rushed to diagnose the
+problem and developers fixed the code once the error was
+identified, he said.  $15.25 Price  The $15.25 level generated by the auction, even though it
+was down 75 cents from the price set by underwriters the night
+before, was valid because the software breakdown didn’t affect
+the process of establishing it, he said. Bats planned to be the
+first company to list on its exchange.  “That print, we believe, was a correct price,” said
+Ratterman, who holds a bachelor’s degree in math and computer
+science from Central Missouri State University and oversaw 650
+people as chief technology officer at Bridge Information Systems
+Inc. before joining Tradebot in 2004. “It was a little
+disappointing personally, but we were more focused on the
+functioning of the system.”  Ratterman, who was among the 12 employees Cummings brought
+over from Tradebot when he started Bats, became CEO in 2007.  Decision to Cancel  Bats sent a notice about 10 minutes before the Apple halt
+saying it was investigating “system issues.” More than three
+hours after trading closed, the company said in a statement that
+a computer that matches orders in companies with ticker symbols
+starting with A to BFZZZ “encountered a software bug related to
+IPO auctions.” The glitch made existing customer orders for
+those securities unavailable for trading.  Ratterman said the decision to cancel the offering was made
+by his executive team in consultation with the syndicate desks
+of the underwriters. Bats also discussed withdrawing the IPO
+with board members on the pricing committee. Scrapping the deal
+reflected its responsibility as a self-regulatory organization
+to maintain fair and orderly trading, he said.  “I don’t think you can stop the progress of moving things
+toward computer trading, because that’s where it’s going and
+most of the time it works really well,” Rod Smyth, the
+Richmond, Virginia-based chief investment strategist of
+Riverfront Investment Group, which manages $3 billion, said in a
+telephone interview yesterday. “But clearly we’ve seen a couple
+times where computers do things that no human would do.”  To contact the reporters on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net ;
+Whitney Kisling in New York at 
+ wkisling@bloomberg.net ;
+Inyoung Hwang in New York at 
+ ihwang7@bloomberg.net   To contact the editor responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net  

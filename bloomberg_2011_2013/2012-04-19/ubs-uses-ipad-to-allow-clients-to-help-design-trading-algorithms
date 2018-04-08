@@ -1,0 +1,105 @@
+-- UBS Uses IPad to Let Clients Design Trading Algorithms
+-- B y   N i n a   M e h t a
+-- 2012-04-19T20:24:19Z
+-- http://www.bloomberg.com/news/2012-04-19/ubs-uses-ipad-to-allow-clients-to-help-design-trading-algorithms.html
+(Corrects to remove algorithms from reference to U.S.
+equity commissions in paragraph after ‘Credit Suisse’ subhed.)  UBS AG (UBSN)  will let clients design
+trading algorithms on  Apple Inc. (AAPL) ’s iPad, putting tailor-made
+tools in their hands more quickly in an effort to improve
+performance and capture equities market share, according to
+executives at the Zurich-based bank.  The move extends a trend toward customization that began
+about five years ago. Algorithms, used by U.S. asset managers to
+trade 19 percent of their volume, according to Greenwich
+Associates, are automated tactics that break larger buy or sell
+orders into hundreds or thousands of smaller pieces over a
+specified period to mute price impact and mask activity.
+Customization allows traders to fine-tune automated strategies.  “We can now build an algorithm in days and we won’t have
+the lost-in-translation problem about what will ultimately be
+built -- what’s lost in phone calls and e-mails,” Owain Self,
+global head of algorithmic trading at UBS, said in an interview.
+“We’re eliminating the slippage and improving execution.” The
+electronic strategies will be “more client-centric, more
+scientific and ultimately more scalable,” Self said.  UBS’s Direct Execution trading group, the 100-person unit
+in the bank’s global equities division, will extend technology-
+driven tools to customers as part of a new service called Quant
+on Demand, said Self, who co-runs the electronic group with
+Charles Susi. The first product is the QUOD Studio offering of
+individual algorithms in equities and futures, available today
+to clients in the U.S.,  Canada  and  Europe . It will be accessible
+to customers in the Asia-Pacific region later this year.  ‘Way Less Scary’  The bank has offered individualized algorithms to clients
+for several years. The iPad system is more visual and intuitive,
+Susi said. “It is super-powerful and way less scary,” he
+added.  “It allows clients to have the perfect algorithm for
+them,” Susi, managing director in equities, said in an
+interview in UBS’s New York office. “They get the benefit of
+our research lab. We make clients happy and the ultimate goal
+for us is to get more clients and market share.”  The bank’s electronic trading group has built 25 to 30
+algorithms using the QUOD Studio tools for at least 20 clients
+in the U.S., excluding UBS’s own trading desks, since late 2011,
+Self said. Until now customers haven’t been able to use the iPad
+application to help devise their own algorithms and the bank has
+done it for them to make sure the process worked, he said.
+Managers and quantitative analysts will begin visiting clients
+in the U.S. and Europe today to show them the product, he said.  Performance Targets  Traders use different algorithms to achieve varying
+performance targets, denoted by the average price per share,
+based on factors such as the stock’s daily volume, market
+capitalization, volatility and moves during the day. They often
+adapt the strategies based on how aggressively they want to buy
+or sell, broader market conditions that affect individual stock
+behavior, and activity in the shares.  Goldman Sachs Group Inc. (GS) ,  Credit Suisse Group AG (CSGN) ,  Bank of
+America Corp. (BAC) , Barclays Plc and others offer algorithms that can
+be customized or built to clients’ specifications. Others such
+as Orc Group AB and Tbricks AB, both in  Stockholm , and Actant AG
+in Zug,  Switzerland , are specialist firms that allow asset
+managers and professional traders to develop their own tactics.  Asset managers traded 19 percent of the dollar value of
+their U.S. equity orders through algorithms in the year ending
+mid-February 2011, according to data from Greenwich Associates.
+Institutions paid their brokers an average commission of 2.69
+cents per share across all types of orders, the Stamford,
+Connecticut-based research firm said in a June report. The
+average commission rate for algorithms was 1.3 cents.  Credit Suisse  Credit Suisse (CS)  won the most U.S. equities trading among
+institutional investors surveyed based on total commissions
+spent, followed by  Morgan Stanley (MS) , according to Greenwich
+Associates. UBS, which wasn’t among the top five U.S. brokers,
+was second in European equities, an August report from the
+research company showed.  The iPad algorithm-development application allows UBS
+clients to see simulations of how fast and at what prices
+standardized or custom algorithms will process an order, such as
+the purchase of 500,000 shares of  Cisco Systems Inc. (CSCO) , based on
+the automated behavior and parameters chosen and limits on
+acceptable prices or the volume-based rate of trading. The
+system uses data from quiet or volatile days, based on what the
+trader wants to test.  Building Blocks  Mutual fund traders and others can use building blocks from
+UBS’s current list of algorithms to construct the strategy they
+want. They can tailor standardized algorithms and cobble
+together multiple tactics, switching between them when a
+condition such as the stock falling below a certain level is
+met, and reverting to a strategy used earlier in the day once
+the number of shares left to purchase declines to a specified
+number. Any tweak can be inserted into the instructions to
+replicate decisions a trader would make.  Customers can create algorithms they’ll use for a few weeks
+during the corporate earnings season or in the run-up to the
+ rebalance  of Russell indexes, an event in June when the
+constituents of the benchmark gauges and their weightings are
+revamped, Susi said. The day of the rebalance is among the
+busiest of the year because of the volume that funds must trade.  When a customer finishes constructing an algorithm with a
+UBS employee, he presses a button and sends it to the bank’s
+development team so it can be vetted and tested. Risk filters
+are applied before the user can employ it a day or two later,
+Susi said. Clients pay the same amount they do for other UBS
+algorithms, although rates differ among customers, Self said.  Goldman Sachs  The top algorithm providers based on the frequency with
+which they were cited by asset managers in a Tabb Group LLC
+study on U.S. institutional equities in November were Credit
+Suisse, Goldman Sachs,  Investment Technology Group Inc. (ITG) , Bank of
+America and UBS, the company said in a report. UBS had been
+fourth in 2010, the New York-based firm said.  “Coupled with a strong broker relationship, longstanding
+algorithms act as strong magnets for order flow and make it
+harder for traders to dislodge the broker,” the Tabb report
+said. Still, the firm said novel products could gain traction.
+“It is possible for a firm -- through a powerful idea and well-
+thought go-to-market strategy -- to obtain market share even in
+a crowded and commoditized sector,” according to the report.  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net  

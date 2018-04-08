@@ -1,0 +1,122 @@
+-- Obamacare Security Tests Increase as Failings Scrutinized
+-- B y   A l e x   W a y n e
+-- 2013-11-13T19:42:57Z
+-- http://www.bloomberg.com/news/2013-11-13/obamacare-security-tests-increase-as-failings-scrutinized.html
+Republican lawmakers criticized
+potential security flaws in the U.S. health exchanges as Obama
+administration officials said they have made protecting customer
+privacy a top priority in their efforts to fix the website.  Identity theft, misrouted data and unencrypted information
+were among the concerns about the health-insurance marketplace
+leading up to its Oct. 1. debut. At a House hearing today,
+Republicans sparred with Democrats over whether the questioning
+of the main technology officials for the exchanges was designed
+to solve problems or embarrass the Obama administration.  Henry Chao, the deputy chief information officer for the
+Centers for Medicare & Medicaid Services, told the committee
+there were “unanticipated technical problems.” Still, he
+recommended to his boss that she should let the exchange open
+without a full security test, a Sept. 27 memo shows. The
+decision to do so by CMS Administrator  Marilyn Tavenner ,
+combined with other flaws in the website, was fateful.  “This wasn’t a small mistake, this wasn’t a scaling
+mistake, this was a monumental mistake to go live and
+effectively explode on the launchpad,” said Representative
+Darrell Issa, the California Republican who is chairman of the
+House Oversight and Government Reform Committee. “Efforts were
+taken to cut corners to meet political deadlines at the end.”  Testing Waiver  Tavenner’s decision to temporarily waive completion of the
+full security tests allowed the Obama administration to open the
+website to the public as promised on Oct. 1, a core part of the
+Patient Protection and Affordable Care Act of 2010. While
+errors, outages and flaws continue to prevent some people from
+using the exchange, Tavenner told senators at a Nov. 5 hearing
+that the website is secure and “testing never ends.”  The Obama administration plans to release today a
+comprehensive report on first-month enrollment, which it has
+said would probably be lower than anticipated because of the
+software problems that prevented many potential customers from
+accessing the website.  U.S. Chief Technology Officer Todd Park unexpectedly
+appeared at the today’s House hearing and said progress is being
+made on fixing the exchanges.  “Since the beginning of October, I have shifted into
+working full-time on the team that is working around the clock
+to fix healthcare.gov and bring it to the place it should be,”
+Park said at the hearing.  The White House had said Park wouldn’t attend the hearing
+because it would take him away from the repair effort.  Security Standards  While Democrats said contractors failed to fully deliver on
+the website, they criticized Issa’s hearing, saying his effort
+at oversight is a veiled tactic to scare Americans from using
+the health exchanges.  “For the past three years, the No. 1 priority for
+congressional Republicans has been to bring down this law,”
+said Representative Elijah Cummings of  Maryland , the top
+Democrat on the committee.  The parts of the federal website, healthcare.gov, that are
+operational comply with information-security laws and parameters
+from the National Institutes of Standards and Technology, said
+Patti Unruh, a spokeswoman for the Centers for Medicare and
+Medicaid Services.  “When consumers fill out their online marketplace
+applications, they can trust that the information that they are
+providing is protected by stringent security standards,” she
+said in an e-mail. “Security testing happens on an ongoing
+basis using industry best practices to appropriately safeguard
+consumers’ personal information.”  Identity Thieves  Insurance markets for 36 states where people can shop for
+private health plans with the help of government subsidies, are
+being run by the federal government, while 14 states have
+created their own sites. The government’s computer networks
+collect personal information such as family size and Social
+Security numbers, as well as financial records and other data
+from seven federal agencies to determine what health plans
+people can buy and whether they’ll receive tax credits.  For identity thieves, “this is the opportunity you’ve been
+waiting a lifetime for: a brand-new reason for people to put in
+personal information who otherwise wouldn’t have done it
+before,” Stephen Parente, a University of  Minnesota  health
+economist who consulted on Republican Senator John McCain’s
+presidential campaign, said in a phone interview prior to the
+hearing.  Kathleen Sebelius, the U.S. health secretary, told senators
+last week in a hearing that little of the information is stored
+by the government’s website, and insurers receive only enough to
+know who their customers are and how much they owe.  275,000 E-Mails  Tavenner’s agency has been making hundreds of fixes to
+healthcare.gov and conducting weekly and monthly security tests.  Initial reports show that fewer than 100,000 people have
+signed up for health plans using the exchanges, largely because
+of the software errors. The Obama administration has since
+shaken up management of the U.S. website and promised to get the
+exchange fully functioning by the end of this month.  About 275,000 people who tried and failed to sign up for
+health plans when the website debuted are being asked by the
+U.S. government to return and try again as the flaws are
+corrected.  People are being contacted this week in a “series of e-mails in waves” to avoid too many getting on the website at the
+same time, Julie Bataille, a CMS spokeswoman told reporters
+yesterday on a conference call. Additional people who weren’t
+able to complete applications will be solicited later.  Four Teams  The repair effort for the website is divided into four
+teams of workers including one focused on security issues and
+“continuing to ensure rigorous protection of the system and its
+data,” Jeffrey Zients said on a Nov. 1 conference call,
+President  Barack Obama  asked Zients, a management consultant
+slated to become his director of the National Economic Council
+beginning in January, to help fix the website.  The entire website project is budgeted to cost $630
+million, Bataille said on a Nov. 1 conference call.  Representative John Duncan, a Republican from  Tennessee ,
+asked the administration officials at the hearing today if any
+of them could say what repairs to healthcare.gov would cost. All
+of the men remained silent.  David Powner, a director of information technology
+management at the Government Accountability Office, said that by
+the end of September there had been “north of $600 million
+spent” on the project. He told Duncan the cost of repairs is
+“a key question.”  Managing Risks  A transcript of a Nov. 1 meeting between Issa’s Oversight
+Committee and Chao, the information officer, reveals the
+website’s builders were primarily concerned about “unauthorized
+access” to customer data because security testing hadn’t been
+fully conducted. Chao said the government was willing to accept
+a “level of an increased risk” in order to make sure the site
+was running by Oct. 1.  Chao and another CMS official, James Kerr, the acting
+deputy director of operations at the Center for Consumer
+Information and Insurance Oversight, recommended Tavenner sign
+off on opening the website even though a major security test
+required for all federal computer systems “was only partly
+completed,” according to the Sept. 27 memo. A full testing
+would be completed by January, according to the memo.  “They had risks they knew they couldn’t manage, and they
+chose to go down the path of accepting those risks,” said Mark Forman, a consultant who was the U.S. chief information officer
+under former President George W. Bush. “That’s a no-no.”  Green Light  Tavenner’s signing of the “Authority to Operate” memo
+effectively became the green light for the website to go live
+as-is on Oct. 1. Sebelius told senators last week that she “did
+not know that the memo existed in September.” And a spokesman
+for the president’s Office of Management and Budget, Steven Posner, said agencies aren’t required to seek the White House’s
+approval for such information-technology matters.  Agencies are responsible for implementing their security
+programs by assessing risk and then putting in place measures to
+mitigate that risk, based on their unique circumstances, he said
+in an e-mail.  To contact the reporter on this story:
+Alex Wayne in Washington at 
+ awayne3@bloomberg.net   To contact the editor responsible for this story:
+Reg Gale at 
+ rgale5@bloomberg.net  

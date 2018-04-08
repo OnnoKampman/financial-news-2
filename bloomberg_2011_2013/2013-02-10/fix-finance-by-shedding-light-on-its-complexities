@@ -1,0 +1,78 @@
+-- Fix Finance by Shedding Light on Its Complexities
+-- B y   M a r k   B u c h a n a n
+-- 2013-02-10T23:30:00Z
+-- http://www.bloomberg.com/news/2013-02-10/fix-finance-by-shedding-light-on-its-complexities.html
+Economists teach us that a financial
+market is a powerful technology for processing information. It
+brings everyone’s knowledge and greed into play, devouring every
+available scrap of information to achieve optimal risk sharing
+and put resources to the best possible use.  That’s the theory. In practice, things often don’t work
+that way. The 2008 financial crisis demonstrated that the
+information processor, confounded by overly complex securities
+and specious AAA ratings, can easily misallocate resources and
+ultimately grind to an inglorious halt.  When a technology fails, we naturally look for a fix. If
+markets don’t digest information very well, we ought to ask why,
+and whether some re-engineering could help them do better. The
+idea that a little central planning might help markets will
+undoubtedly perturb free-market puritans, but it may be just
+what we need.  Let’s start with a simple observation: The overwhelming
+complexity of today’s markets renders banks unable to judge
+risks as rationally as standard theories of finance assume they
+do. The health of any decent-sized financial institution depends
+on a vast web of links to other institutions that even the most
+sophisticated risk manager cannot hope to penetrate.  Network Interdependence  To make things specific, consider the interbank lending
+market, which played a leading role in the financial meltdown of
+2007 and 2008. Banks use the market to manage demands for cash
+by shuttling funds among themselves, often overnight. If Bank A
+wants to judge the risk of lending to Bank B, it’s not enough to
+look at its assets and liabilities. If Bank B has loans
+outstanding to Bank C and Bank D, its creditworthiness depends
+on the state of those banks, too, which in turn depends on that
+of other banks to which they have made loans. Given the rich
+network interdependence, Bank A can’t possibly gather enough
+information to judge Bank B or any other.  Amid this complexity, how can we hope to get a market that
+functions? Two European physicists, Stefan Thurner and Sebastian
+Poledna,  offer  a bold idea: Use computing technology to achieve
+a radical transformation of banking transparency, turning
+information into a public resource and making it much harder for
+banks to hide risks.  Here’s how it would work for the interbank market.
+Developed-nation authorities, such as the U.S. Federal Reserve
+and the European Central Bank, have access to fairly complete
+information on who has loaned how much to whom -- just what is
+needed to shed light on the broader network. They would use
+these data to calculate a measure of risk called DebtRank, which
+captures the intuitive idea that the most risky banks are those
+that have lots of links to other risky banks. Banks connected to
+more banks with high DebtRank scores would naturally have higher
+DebtRank scores themselves (see my previous  article  on the
+subject). If the regulators made the results public, then anyone
+would, at a glance, gain a much more accurate view of the true
+risks associated with any bank.  The second step would involve using the risk assessments to
+rearrange incentives. The financial system, as a whole, would be
+better off if banks seeking to borrow funds did so from the
+least risky banks. To achieve this, regulators could require
+borrowers to favor lenders with the lowest DebtRank scores. The
+system would punish banks that take on too much risk by
+constraining their lending, and would inhibit the emergence of
+any single counterparty risky enough to threaten the entire
+system (see my  blog  for further detail).  Simple Changes  Speculative as the idea might seem, it deserves attention.
+In preliminary studies using computer simulations, Thurner and
+Poledna found that the simple changes would reduce the chance of
+widespread banking crises while improving the efficiency of the
+interbank lending network. The approach could easily be
+generalized to include reporting on links established by credit-
+default swaps and other derivatives, and perhaps could be
+extended to markets more generally, as well.  The beauty of the idea is that it introduces strong
+incentives for banks to reduce their systemic risk. Of course,
+such an unorthodox solution will almost certainly draw the
+criticism of banks and other market participants who profit
+precisely from taking on big risks and hiding those risks from
+others. But for the rest of us, and for the economy at large,
+the added transparency would only bring benefits, and might help
+the market live up to its reputation as a powerful processor of
+information.  ( Mark Buchanan , a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  To contact the writer of this article:
+Mark Buchanan at  buchanan.mark@gmail.com   To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net  

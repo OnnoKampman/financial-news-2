@@ -1,0 +1,61 @@
+-- Hackers Encrypt Health Records and Hold Data for Ransom
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-08-10T17:00:01Z
+-- http://www.bloomberg.com/news/2012-08-10/hackers-encrypt-health-records-and-hold-data-for-ransom.html
+As more patient records go digital,
+a recent hacker attack on a small medical practice shows the big
+risks involved with electronic files.  The Surgeons of Lake County, a medical facility in the
+northern Illinois suburb of Libertyville, revealed last month
+that hackers had burrowed deeply into its computer network,
+infiltrating a server where e-mails and electronic medical
+records were stored, Bloomberg.com reported on its Tech Blog.  Unlike many other data breaches, the hackers made no
+attempt to keep their presence a secret. In fact, they all but
+fired a flare to announce the break-in, taking the extreme step
+of encrypting their illicit haul and posting a digital ransom
+note demanding payment for the password.  The doctors turned the server off and notified the
+authorities, refusing to pay.  “This story is so ironic -- most people worry that their
+health records will be spread all over their local newspaper,”
+said Dorothy Glancy, a professor at Santa Clara University’s law
+school who specializes in digital privacy. “But in this case,
+the doctors -- in fact, nobody --  can access these records.”  The Surgeons of Lake County isn’t the first health care
+provider to be targeted by extortionists. The incident, which
+was spotted by  privacy blogger Dissent Doe  in a  federal database
+of health-related breaches , showcases an unsettling new strain
+of opportunism that is emerging as criminals try to exploit the
+industry’s shift to digital medical records.  Data Breach  The attackers’ choice of tactics, particularly the use of
+encryption, indicates a level of sophistication and targeting
+that suggests they knew what they were doing, said Rick Kam,
+president of ID Experts, a Portland, Oregon-based company that
+makes data-breach prevention technology and specializes in
+health care.  Based on the number of practices moving to electronic
+health records, “many more” of these types of breaches should
+be expected, Kam wrote in an e-mail.  Until now, medical-data blackmail has been a niche crime,
+largely because of the difficulty and risk involved. Spam and
+online bank fraud are easier ways for fraudsters to make money.  One case involved  Express Scripts (ESRX) , the large prescription-
+drug benefits manager, and a threat it received in 2008. Someone
+sent the St. Louis-based company personal information on about
+75 of its members, including identification numbers and
+prescription records, and demanded an unspecified sum. The
+company refused to pay, and eventually told 700,000 customers
+that their information could have been exposed.  Patient Confidentiality  In 2003 and 2004, health care facilities came under fire
+for outsourcing their transcription chores when several
+California hospitals were blackmailed by their own workers in
+India and  Pakistan .  The  spiraling cost  of health care and lack of insurance for
+millions of people have made medical  identity theft  a growing
+risk. Security and privacy risks are also emerging with the
+creation of “health information exchanges,” vast databases
+that states are setting up to handle electronic medical records.  It’s unclear whether the Illinois surgical center’s records
+were backed up or have been recovered. The organization declined
+to comment.  “Safeguarding every patient’s personal information is a
+top priority at the Surgeons of Lake County,” Scott Otto, the
+center’s president, said in a  statement . “We are devoting
+significant people and technological resources to help protect
+patient confidentiality.”  For all of the benefits of making health records
+electronic, this incident highlights a downside, said Santa
+Clara University’s Glancy.  “This is a warning bell,” she said. “Maybe they’re the
+canary in the  coal mine  that unpredictable things can happen to
+data once it’s digitized.”  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

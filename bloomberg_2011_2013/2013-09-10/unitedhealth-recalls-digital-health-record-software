@@ -1,0 +1,88 @@
+-- UnitedHealth Recalls Digital Health Record Software
+-- B y   J o r d a n   R o b e r t s o n
+-- 2013-09-10T04:01:00Z
+-- http://www.bloomberg.com/news/2013-09-10/unitedhealth-recalls-digital-health-record-software.html
+UnitedHealth Group Inc. (UNH)  has
+recalled software used in hospital emergency departments in more
+than 20 states because of an error that caused doctor’s notes
+about patient prescriptions to drop out of their files.  Certain versions of the software made by the largest U.S.
+health insurer had a bug that didn’t print information related
+to the medication and failed to add data to patients’ charts,
+according to a document filed with the U.S.  Food and Drug
+Administration  and  posted  July 29.  The technology is used in 35 facilities in states including
+ California ,  New Jersey  and  Florida , the document shows. The
+recall began June 21. There were no reports of patient harm and
+each facility was notified and received a digital fix, said Kyle
+Christensen, a spokesman for the UnitedHealth division that
+makes the  Picis ED PulseCheck  software that was recalled.  The incident shows how software errors can create dangers
+for patients at a time when digital health records are being
+implemented as a cornerstone of President  Barack Obama ’s
+modernization of the nation’s health-care system.  The global market for electronics health records reached
+$24.2 billion last year and is expected to grow an average of 10
+percent a year through 2015, according to Accenture Research.
+Leading companies include Epic Systems Corp.,  McKesson Corp. (MCK) ,
+and  Cerner Corp. (CERN)   The Picis recall highlights how little information is
+disclosed about such issues, said Ross Koppel, adjunct professor
+of sociology and medicine at the  University of Pennsylvania , who
+has studied errors in health information technology. While
+medical device companies are required to report safety issues to
+the FDA, makers of electronic health record software are under
+no such obligation, he said.  Unreported Errors  “It’s admirable that the vendor reported this, but realize
+that this is one of the more obvious errors,” said Koppel.
+“Most are not as obvious and go unreported.”  Doctor’s notes are critical for some medications, as they
+contain directions about diet and use. Failure to include the
+instructions could lead to serious injury or death, Koppel said.  The adoption of digital health records, spurred by $27
+billion that the Obama administration has set aside to help
+health-care organizations buy the systems and looming penalties
+for those that don’t upgrade, has dramatically reduced some
+common medical errors, as Bloomberg reported in June.  More than 17 million medication mistakes are now avoided in
+the U.S. each year because hospitals are using computerized
+systems for ordering  prescription drugs , which reduce the risks
+from sloppy handwriting and dangerous drug combinations,
+according to a study published in February in the Journal of the
+American Medical Informatics Association.  Six Recalls  An online database maintained by the FDA shows that Picis
+Inc., a Wakefield, Massachusetts-based company that UnitedHealth
+acquired in 2010 for an undisclosed price, has reported six
+recalls involving electronic health record software since 2009.  One  incident  in 2011 involved anesthesia-management
+software sold nationwide that in one instance displayed a
+patient’s medical information in another patient’s file.  Another 
+involved software sold worldwide where on an unspecified number
+of occasions, the program failed to display the discontinued
+status on medication orders. Others included glitches that
+caused a  failure  to display appropriate allergy interaction
+warnings, the  freezing  of administrative controls, and other
+issues.  Legal Wrangles  Alleged flaws in electronic health records have led to
+lawsuits. Scot Silverstein, a doctor and health-care informatics
+professor at  Drexel University , sued Abington Memorial Hospital
+in  Pennsylvania  in 2011 over the death that year of his 84-year-old mother. He blamed her death on a flaw in her electronic
+health record that he claims caused a critical heart medication
+to vanish from her file. One of the systems involved was made by
+Picis, according to his lawsuit. Picis is not being sued.  Linda Millevoi, a spokeswoman for Abington Memorial,
+declined to comment.  Picis disclosed the latest recall voluntarily, according to
+the FDA document.  “Picis completed a routine software update that resolved
+an issue in specific releases where some physician notes entered
+manually on a prescription were not included when the
+prescription was issued,” Christensen said in a statement.
+“Picis reported the resolution of this issue to clients and the
+FDA in the normal course of business.”  Limited Disclosures  Other makers of digital health record software said they
+also disclose issues. Cerner voluntarily discloses to the FDA
+recall and other public-safety issues involving its electronic
+records, Gay Johannes, Cerner’s chief quality officer, said in a
+statement.  Barb Hernandez, a spokeswoman for Epic, declined to
+comment. Kris Fortner, a spokesman for McKesson, didn’t return
+messages for comment.  Koppel said reporting on snafus related to digital medical
+records is limited as some companies require health facilities
+to sign non-disclosure agreements and doctors and nurses are
+often puzzled by changes in complicated systems and aren’t aware
+of the technology’s role in errors. In 2005, he co-authored a
+ study  that found a widely used electronic prescription-ordering
+system contributed to 22 types of medication errors.  “When using the electronic health records, clinicians
+often feel we are sinners in the hands of an angry and
+capricious god -- what you could do yesterday you can’t do
+today, and you don’t know why there’s been a change in the
+program,” he said. “So you’re always going, ‘what the hell
+happened now?’”  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Pui-Wing Tam at 
+ ptam13@bloomberg.net  

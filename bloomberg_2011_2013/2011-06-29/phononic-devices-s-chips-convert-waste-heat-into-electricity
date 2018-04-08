@@ -1,0 +1,113 @@
+-- 
+Phononic Devices’s Chips Convert Waste Heat into Electricity
+
+-- B y   K a r e n   A .   F r e n k e l
+-- 
+2011-06-29T19:49:06Z
+
+-- http://www.bloomberg.com/news/2011-06-29/phononic-devices-s-chips-convert-waste-heat-into-electricity.html
+In 2008, the Rockefeller Family’s Silicon
+Valley  venture capital  firm, Venrock, tapped chemist-turned-
+venture-capitalist Anthony Atti to evaluate promising thermoelectric
+research conducted by Patrick McCann, a professor of engineering
+at the University of  Oklahoma . McCann’s technology showed the
+potential to use semiconductors to capture waste heat and
+convert it into power, as well as to displace heat to cool
+everything from personal computers to tractor-trailer
+refrigeration units.  About 55 percent of all energy consumed in the U.S. returns to
+the environment as wasted heat, according to energy systems
+analyst A.J. Simon of the Energy Dept.’s Lawrence Livermore
+National Laboratory. Traditional thermoelectric devices used for
+cooling are quiet, compact, and reliable, but efficiency has
+been very low since they were first commercialized more than 25
+years ago. McCann’s breakthrough could make them more efficient
+by using new materials.  In 2009, with $1 million from Venrock and  Oak Investment
+Partners , Atti and McCann exclusively licensed the technology
+from the university, launching  Phononic Devices  in Raleigh,
+N.C., with Atti as chief executive officer. Today, the 16-
+employee company makes thermoelectric semiconductor chips that
+capture waste heat and convert it into usable electric power or
+-- depending on the source of heat -- provide refrigeration and
+cooling.  Phononic Devices has received a total of $12 million in venture
+capital from Venrock and Oak, plus $3 million from the Energy
+Dept.’s Advanced Research Projects Agency Energy program. Atti
+expects to start selling the devices to electronics cooling-and-
+refrigeration customers near the end of 2012. Phononic Devices
+is one of just seven thermoelectric device makers specializing
+in energy harvesting and cooling.  Atti, a 37-year-old organic chemistry PhD, spoke recently to
+Bloomberg.com contributor Karen A. Frenkel about where Phononic
+Devices fits in the $25 billion waste-heat-recovery industry.
+Edited excerpts of their conversations follow.  Karen A. Frenkel: What is the origin of your company’s name?  Anthony Atti: A ‘phonon’ is a particle of heat -- a thermal
+sound wave that vibrates through a material. An effective
+thermoelectric material insulates against heat by deflecting
+phonons (heat) and causing the phonon to lose its thermal
+energy. An ineffective thermoelectric material absorbs phonons
+and heats up itself.  Q: What was unique about what you saw in Professor McCann’s lab
+that made you recognize its promise?  A: For a thermoelectric material to effectively manage heat, it
+must do two things really well at the fundamental physics level:
+It has to be electronically conductive, yet thermally
+insulating. Those two processes have been very difficult to
+decouple. McCann presented experiments to do that with
+semiconductors that have not been explored for this purpose so
+far. The icing on the cake from the investment and economic
+perspective was that we could manufacture the material in a
+high-volume, low-cost manufacturing manner at the early stage in
+the company’s life.  Q: Why hasn’t the thermoelectric industry already tried these
+other semiconductors?  A: They’ve been hiding in plain sight. They’re used for other
+applications like optics [and] lasers, and other areas of the
+semiconductor world use them successfully -- but not for thermal
+management.  Q: What does the material do and how is it different or better
+from what’s out there?  A: We demonstrated that the material decouples electronic
+conductivity from thermal insulation. It manipulates the
+direction of electrons at the nanoscale.  Q: How does decoupling help harness waste heat?  A: Our fundamental advance allows us to deliver devices that can
+provide cooling for refrigeration or waste heat recovery and
+efficiently convert it into power. It can compete head-to-head
+against the incumbent technology, which uses the elements
+bismuth and telluride.  Q: How efficient is your chip?  A: Our materials and devices are expected to more than double
+thermal-electric efficiency -- compared to conventional
+thermoelectrics -- for the interval between room temperature,
+which is 73F, and 248F.  Q: How is your device different from what others in the
+semiconductor waste-heat and cooling area are doing?  A: There is definitely competition in the electronics cooling
+area and also in high-temperature waste-heat recovery for
+automotive or power plants. There is also competition in very
+low-temperature waste-heat recovery -- sensors, detectors, and
+wearable materials for the military. There are “pure plays” at
+the very low temperature range or at the high end. We believe
+that’s because operating within that low-grade temperature
+sector is really hard to do. But we have the three legs:
+performance (the fundamental ability to decouple thermal and
+electronic mechanisms), cost (efficiency with which we can
+manage heat), and manufacturability (using existing
+semiconductor processing in our path to market).  Q: What’s the size of the markets you’re going after?  A: The global electronics cooling market for applications
+between 70F and 250F is $4.5 billion, refrigeration is $6.5
+billion, and harvesting low-grade waste heat is about $3
+billion. The thermoelectric-specific market -- that is, of
+modules made from semiconductor materials engineered for
+thermoelectric behavior -- is $300 million in global sales
+annually.  Q: Explain your business model.  A: We’ve transitioned from proof of concept to proof of chip and
+are now moving into device fabrication. We are packaging the
+material into a high-efficiency-semiconductor thermoelectric
+device and will sell it to end users in cooling, refrigeration,
+and waste-heat recovery for power. That’s the business model
+today, based on the low-cost, high-volume tools available.  Q: What is the market opportunity?  A: Heat is a major problem that impacts almost every segment of
+the economy, but not all heat is created equal. Incumbent
+technologies can handle heat greater than 250F, which is the
+power generation market, pretty well. Converting waste heat to
+power is done typically with heat exchanges or industrial
+boilers. Some turn it into power, some use it elsewhere in the
+plant to heat up equipment, [and] some pump it out of a smoke
+stack. It gets better the hotter you go. But below 250F -- low-
+grade heat waste -- the incumbents don’t work that efficiently.
+Our technology works very well between 70F and 250F. That’s how
+Phononic is able to compete. Technologies that serve those
+markets now don’t do it very well because heat in that
+temperature range is notoriously difficult to deal with.  Q: Why?  A: Because there is not a lot of it. Whether a compressor, heat
+exchanger, or thermoelectric device, your efficacy is dictated
+by the temperature difference you can maintain from a hot to a
+cold side. You need to move from hot to cold to get rid of it,
+whether cooling or capturing heat for power. If that temperature
+gradient is small because you’re operating at low temperatures,
+efficiency is really challenging. Our data show we’re really
+good at that temperature range.  To contact the reporter on this story: Karen A. Frenkel at
+ kfrenkel@nyc.rr.com   To contact the editor responsible for this story: Nick Leiber at
+ nleiber@bloomberg.net  

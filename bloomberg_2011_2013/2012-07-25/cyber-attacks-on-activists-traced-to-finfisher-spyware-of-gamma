@@ -1,0 +1,237 @@
+-- Cyber Attacks on Activists Traced to FinFisher Spyware of Gamma
+-- B y   V e r n o n   S i l v e r
+-- 2012-07-25T12:08:42Z
+-- http://www.bloomberg.com/news/2012-07-25/cyber-attacks-on-activists-traced-to-finfisher-spyware-of-gamma.html
+It’s one of the world’s best-known
+and elusive cyber weapons: FinFisher, a spyware sold by U.K.-
+based Gamma Group, which can secretly take remote control of a
+computer, copying files, intercepting Skype calls and logging
+every keystroke.  For the past year, human rights advocates and virus hunters
+have scrutinized FinFisher, seeking to uncover potential abuses.
+They got a glimpse of its reach when a FinFisher sales pitch to
+Egyptian state security was uncovered after that country’s
+February 2011 revolution. In December, anti-secrecy website
+WikiLeaks published Gamma promotional  videos  showing how police
+could plant FinFisher on a target’s computer.  “We know it exists, but we’ve never seen it -- you can
+imagine a rare diamond,” says Mikko Hypponen, chief research
+officer at Helsinki-based data security company  F-Secure Oyj. (FSC1V)  He
+posted the  Egypt   documents  online last year and said if a copy
+of the software itself were found, he’d write anti-virus
+protection against it.  Now he may get his wish.  Researchers believe they’ve identified copies of  FinFisher ,
+based on an examination of malicious software e-mailed to
+Bahraini activists, they say. Their research, which is being
+published today by the University of Toronto Munk School of
+Global Affairs’ Citizen Lab, is based on five different e-mails
+obtained by Bloomberg News from people targeted by the malware.  Global Reach  Pro-democracy activists  received the malware  in  Washington ,
+ London  and Manama, the capital of  Bahrain , the Persian Gulf
+kingdom that has been gripped by tension since a crackdown on
+protests last year.  The findings illustrate how the largely unregulated trade
+in offensive hacking tools is transforming surveillance, making
+it more intrusive as it reaches across borders and peers into
+peoples’ digital devices. From anywhere on the globe, the
+software can penetrate the most private spaces, turning on
+computer web cameras and reading documents as they are being
+typed.  “Selling software that allows for the taking over of
+computers without rule of law can lead to abuse,” says Courtney
+Radsch, senior program manager for freedom of expression at
+Washington-based Freedom House, which promotes  human rights .  Gamma executive Martin J. Muench declined immediate comment
+pending research after being e-mailed a Web link to the Citizen
+Lab report and questions related to its findings. Muench, who
+ leads  the FinFisher product portfolio, is the managing director
+of the group’s Munich-based Gamma International GmbH. Gamma
+Group also markets FinFisher through Andover, England-based
+ Gamma International  UK Ltd.  Muench said in a July 23 e-mail that the company can’t
+comment on any individual customers and that Gamma complies with
+the export regulations of the U.K., U.S. and  Germany .  Monitoring Criminals  Muench, 30, said in that e-mail that FinFisher is a tool
+for monitoring criminals, and that to reduce the risk of abuse
+of its products the company only sells FinFisher to governments.  The recipients of the Bahrain-related e-mails -- who
+include a naturalized U.S. citizen who owns gas stations in
+ Alabama , a London-based human rights activist and a British-born
+economist in Bahrain -- each say they don’t know of any law
+enforcement investigations or charges against them.  Two of the recipients said they were suspicious of the e-
+mails and didn’t click on the attachments, while the third said
+he tried and failed to download an attachment to his Blackberry.  The analysis of their e-mails showed the malware they
+received acts as a Trojan, a type of software named after the
+legendary wooden horse that Greek warriors used to sneak into
+Troy before sacking the ancient city. It takes screen shots,
+intercepts voice-over-Internet calls and transmits a record of
+every keystroke to a computer in Manama.  Stolen Password  Observation of a researcher’s purposely-infected laptop in
+Washington also showed the Trojan stole a password for an e-mail
+account, which was then accessed without permission.  The malware itself practically came with a product label
+for a brand of FinFisher called  FinSpy , which is marketed for
+spying on computers: On the infected laptop, the computer code
+the malicious program installed bore multiple instances of the
+word “FinSpy,” an examination of the computer’s memory showed.  The technical evidence of a match came from the work of
+Morgan Marquis-Boire, a security researcher at Citizen Lab, who
+analyzed the infected e-mails for this story. He’s publishing
+the detailed report of the findings in a paper today through
+Citizen Lab, at  http://citizenlab.org/2012/07/from-bahrain-with -
+love-finfishers-spy-kit-exposed.  Digital DNA  Marquis-Boire extracted a signature from the activists’
+samples -- a sort of digital DNA. He then gave the signature to
+other researchers to see if they could find a matching sample
+they might have collected in the course of their work.  The needle-in-a-haystack search came up with a match: a
+program that bore the hallmarks of a demonstration copy of
+FinFisher.  The evidence that the new sample they found was FinFisher
+itself was persuasive, Marquis-Boire said, because the presumed
+demo connected back to two websites, one with “ff-demo” in the
+name and the other with “gamma-international” in the name. The
+latter website, in turn, was registered to Martin Muench at
+Gamma International in Munich, online  registration  data show.  Bahrain has no policy of targeting political activists
+through surveillance technology, Luma Bashmi, a spokeswoman for
+the government’s Information Affairs  Authority , said in an e-
+mailed statement.  “Such allegations are taken very seriously and if there is
+any evidence that there is any misconduct in use of such
+technology, each case will be investigated immediately according
+to the laws and regulations of the Kingdom of Bahrain,” she
+said.  Cyber-Arms Bazaar  FinFisher is just one of many increasingly available
+weapons for sale in the global cyber-arms bazaar.  The hacking techniques go beyond traditional surveillance
+of phone calls, e-mails and  text messages , which governments
+conduct by tapping into communications networks that pass
+through their territory.  Reports  in the past year of repressive
+regimes using Western gear for domestic surveillance led the
+U.S. and European Union to impose restrictions on sales to some
+countries, such as  Syria .  Technologies such as FinFisher mark the next step in a
+digital arms race, and are provided by other companies, such as
+Milan-based  HackingTeam , whose programs, once installed,
+transmit an infected computer’s activities. They are the retail
+cousins of state-made cyber weapons such as the Stuxnet computer
+worm, which damaged centrifuges in an Iranian nuclear plant and
+was jointly developed by the U.S. and  Israel , according to the
+ New York  Times.  Surveillance Breakthrough  The discovery and tracking of such spyware shows how even
+the tiniest nations obtain cyber small arms and deploy them at
+home and across borders.  “We’re moving to a new place with surveillance,” says
+John Scott-Railton, a doctoral student at the  University of
+California  Los Angeles’ Luskin School of Public Affairs who has
+helped track Trojans in Libya and Syria, where he says pro-
+regime hackers cobbled together malware attacks from free or
+inexpensive products available online. He also coordinated
+research for this study, passing the first malware samples from
+Bloomberg to Marquis-Boire.  The Bahraini case is a breakthrough because it shows the
+use of a more sophisticated, invasive hacking tool available for
+purchase by nations that might not be able to develop their own
+cyber weapons, Scott-Railton says. “The time for active
+penetration by states at a widely deployable scale has come,”
+he says.  Hacker Turned Executive  Founded in 1990, Gamma Group relies on hacker-turned-
+executive Muench to market such capabilities to clients around
+the world. Just over six feet tall, Muench is a rock star of the
+global interception-technology conference circuit, listed in
+agendas only by his initials, MJM.  Wearing a trim black suit and skinny black tie, he attended
+the ISS World trade show, known in the industry as the
+Wiretapper’s Ball, in  Kuala Lumpur ,  Malaysia , in December. One
+of his talks was titled “Offensive IT Intelligence Information-
+Gathering Portfolio -- An Operational Overview.”  FinFisher has such mystique that an intelligence worker who
+helps manage a Southeast Asian country’s cybersecurity said
+Muench’s presence at the show was the main reason he took extra
+precautions to detect hacker threats lurking in the wireless
+networks at the venue. The operative, who said he has attended a
+demonstration of the product, insisted that his name not be
+published because of his intelligence work.  Remotely Controlled  FinFisher promotional materials provide a general view into
+its capabilities, without naming the countries where it’s sold.  “When FinSpy is installed on a computer system it can be
+remotely controlled and accessed as soon as it is connected to
+the internet/network, no matter where in the world the Target
+System is based,” a Gamma  brochure  published by WikiLeaks says.  In response to questions about FinFisher’s deployment,
+privately held Gamma issued a statement Jan. 27 that quoted
+Muench saying, “Most people understand that we can’t divulge
+details about our clients, the products they buy or how they use
+them -- we don’t want to tip off the criminals!”  The statement addressed the documents found in Cairo, which
+priced the system at 388,604 euros ($470,000), including
+maintenance. Gamma said no sale was made, and the trial version
+shown during its pitch never targeted unwitting computer users.  “Gamma presented the product FinSpy showing its
+operational capabilities with a Gamma-supplied special target
+notebook for demonstration purposes only,” the statement said.  In the case of Bahrain, the malware did reach real targets,
+and led to an analysis of the software.  Suspicious E-mails  In Manama, Ala’a Shehabi, the U.K.-born economist, noticed
+she and other activists were receiving suspicious e-mails that
+purported to have news on topics including torture and
+prisoners. She forwarded them to Bloomberg.  Tests showed that the attached photos and documents would
+secretly install a program taking over their computers if
+clicked on and opened.  The analysis by Marquis-Boire exposed how the malicious
+program went through elaborate processes of hiding itself,
+running through a checklist of anti-virus programs to see if any
+were on the computer, and establishing a connection with the
+server in Manama to which it would send its data.  A dreadlocked New Zealander based in  San Francisco ,
+ Marquis-Boire  has plastered his laptop with a bumper sticker
+that says, “My other computer is your computer.” (He did the
+research separately from his job as a security engineer at
+Google Inc., which wasn’t involved in this project.)  Virtual Machine  The other half of the analysis involved watching the
+malware as it went about spying.  Bill Marczak, a computer science doctoral candidate at the
+University of California Berkeley, also received four samples
+from Shehabi. He installed the samples on a “virtual machine”
+on his laptop and monitored the Trojan’s behavior. Marczak, who
+spent his high school years in Bahrain, is a founding member of
+ Bahrain Watch , a group that advocates for more transparent
+governance in the kingdom.  Marczak established the link to Bahrain by tracing the
+Trojan’s transmissions back to an Internet address in Manama.
+After receiving the fifth sample from Bloomberg News, Marczak
+found it led to the same online address.  Other information also pointed to FinFisher. Some details
+from FinFisher product specification documents obtained by
+Bloomberg News matched details of what Marczak found as he
+watched files stream out of his laptop.  Skype Data  According to the product specifications, when FinFisher
+filches Skype data, it transports the information back to the
+system’s operators in files prefaced with the number 14 and
+ending with a series of characters representing the time the
+file was created.  When Marczak made a Skype call on his infected machine in
+California, he watched the Trojan grab the data -- and send it
+to Bahrain in files that, indeed, began with 14 and ended with a
+timestamp.  The apparent use of FinFisher against Bahraini activists
+underscores the need for broader Western export controls of
+surveillance technology, says Eric King, the head of research at
+London-based Privacy International.  The group’s lawyers informed U.K. regulators in a July 12
+ letter  that it plans to sue the government for failing to
+enforce laws already on the books that give it the power to
+block exports that can be used to violate human rights.  Repression Risk  “Plainly there is a very real risk, if not an
+inevitability, that surveillance equipment, such as the
+FinFisher products, has been, and continues to be, exported to
+countries where it is highly likely to be used for internal
+repression and breaches of human rights,” the letter to the
+U.K. secretary of state for business innovation and skills said.  The Department for Business is considering Privacy
+International’s letter and will respond, a spokesman said. The
+U.K. government has proposed that arms-related export controls
+followed by most Western nations be expanded to add certain
+surveillance technology, and is pursuing this with other
+countries, the department said in a statement.  Tensions have simmered in Bahrain since the government
+cracked down on mass protests last year involving opponents of
+Sunni Muslim rule over the Shiite majority. At least 35 people
+died in the violence between Feb. 14 and April 15, 2011,
+including four police officers and a soldier, according to the
+Bahrain Independent Commission of Inquiry, which investigated
+the unrest and found instances of  torture . Low-level protests
+continue in the island nation of 1.2 million people, home to the
+U.S. Navy’s Fifth Fleet.  Infection Attempts  Three Bahraini dissidents who said they received the
+malware-laden mailings were in Washington, London and Manama
+when the malware attempted to infect their computers in April
+and May. The first e-mails they received, sent in April, were
+titled “Existence of a new dialogue - Al-Wefaq & Government
+authority” and, in Arabic, “Events this week.”  E-mails sent in May had the subject lines “Torture reports
+on Nabeel Rajab,” a reference to a jailed opposition leader;
+“King Hamad Planning,” a reference to the Bahraini king’s trip
+to London for Queen Elizabeth II’s diamond jubilee; and
+“Breaking News from Bahrain -- 5 Suspects Arrested.”  Husain Abdulla, a U.S. citizen who is director of Americans
+for Democracy and Human Rights in Bahrain, said he tried to
+download the “Existence of a new dialogue” attachment on his
+Blackberry while walking from a Washington Metro station to
+meetings at a Congressional office building.  Abdulla, 34, the Mobile, Alabama-based owner of gas
+stations, now is considering lawsuits and a complaint to the
+U.S. State Department about the border-crossing hack.  Seeking Protection  “I’m going to take any legal venue I can to protect
+myself,” Abdulla says.  Shehabi, 31, whose e-mails were the first to be analyzed
+for the study, is a British-born Bahraini activist and an
+economics lecturer with a PhD from  Imperial College London . She
+received the e-mails in Bahrain.  “This was an attempt at violating my privacy in a country
+that does not believe in  privacy rights ,” she says. “The U.K.
+company is responsible for selling infiltration tools to a
+government they know will use them to repress pro-democracy
+activists.”  London-based Bahraini activist Shehab Hashem, 29, says he
+received three of the e-mails after he travelled to  Sweden  and
+ Switzerland  to draw attention to human rights violations in
+Bahrain. Two of those were identical to e-mails Shehabi
+received. The other, which he provided to Bloomberg News, was
+the fifth sample in the study.  “I thought it was just spam,” he says. “I never thought
+that someone would be interested in hacking into my computer.”  In Finland, Hypponen said before the publication of today’s
+report that he and other  malware hunters  would enjoy dissecting
+a FinFisher sample.  “There’s lots of chitchat amongst the security people
+about how it might work, but it’s mostly just speculation.
+Nobody knows for real,” he said.  Identifying FinFisher could turn the tables. “It’s hard
+for them to sell a tool to secretly infect computers if anti-
+virus programs can detect it,” he said.  To contact the reporter on this story:
+Vernon Silver in Rome at 
+ vtsilver@bloomberg.net ;  To contact the editor responsible for this story:
+Melissa Pozsgay at   mpozsgay@bloomberg.net  

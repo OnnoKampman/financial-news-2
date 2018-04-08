@@ -1,0 +1,121 @@
+-- How China Is Sealing Holes in Its Internet Firewall
+-- B y   P h i l i p   S h i s h k i n
+-- 2012-12-30T23:30:04Z
+-- http://www.bloomberg.com/news/2012-12-30/how-china-is-sealing-holes-in-its-internet-firewall.html
+Two things struck me when I first
+flew into Beijing: lack of sunlight and lack of Internet.  The sun, on many days, hangs behind a haze of pollution,
+its light filtered down to a soupy dusk. The Internet is stuck
+behind a government firewall, its main offerings obstructed to
+those living in China.  That neither the sun nor the Web is fully gone, merely
+crippled, makes dealing with their abbreviated selves especially
+annoying. You know their full versions are out there somewhere
+because they tease you most days. The sun’s orange halo might
+appear briefly at dawn, only to be engulfed by the smog. Gmail’s
+homepage might begin to load tentatively, only to stumble and
+freeze.  In many parts of the world (with some notable exceptions),
+we have come to count breathable air and unfettered  Internet
+access  among basic human conveniences, alongside indoor plumbing
+and access to education. That’s why it is so jarring and
+disorienting to suddenly lose them in Beijing to man-made forces
+of breakneck industrialization and censorship. No amount of
+reading or hearing about Beijing’s air pollution and the Great
+Firewall, as the system of Internet censorship is inevitably
+known, is enough to prepare you to deal with them.  For the moment, I’ll leave the sun where I hope it still
+is, wrapped away in a blanket of smog so thick I can barely see
+the high-rises less than a mile away. It smells faintly as if
+someone is burning tires.  Registration Required  The Great Firewall is a more complex and nuanced
+phenomenon, and it appears to be getting more capable in
+tripping up undesirable  Web connections .  Like many foreigners in  China , I signed up for a virtual
+private network, or VPN, geek-speak for a link to an overseas
+server, which allows you to leapfrog the Chinese Internet and
+plug straight into the real thing, as if you were sitting in  New
+York  or  London . Twitter, the New York Times and Gmail loaded
+seamlessly on my iPad, ending a tense couple of days of
+withdrawal symptoms. And then it all crashed.  My VPN provider, a major player in the market, explained in
+an e-mail that the disruption was due to a recent update of the
+Great Firewall, referred to as the GFW, which “now has the
+ability to learn, discover and block VPN protocols
+automatically.”  The next day, the Global Times, a Chinese newspaper, ran an
+article  headlined , “Foreign-run VPNs illegal in China: govt.”
+In it, the man known as the founding father of the Great
+Firewall was quoted as saying that foreign VPN providers needed
+to register with the government. “I haven’t heard that any
+foreign companies have registered,” Fang Binxing, who is now
+president of Beijing University of Posts and Telecommunications,
+ told  the newspaper.  Fang gained notoriety in 2011 when a student threw a shoe
+at him while he was delivering a lecture on cybersecurity. The
+shoe connected with the target. The student fled the scene and
+went into hiding, becoming an instant celebrity among the
+country’s many opponents of Internet curbs. Sometime later,
+hackers broke into the homepage of Binxing’s university and
+defaced it with an image from something called Angry Shoes, a
+spoof on the wildly popular “Angry Birds” game. The birds at
+the slingshot are replaced with shoes, and the pigs in the
+wooden house are  replaced  with Binxing’s face.  The most recent VPN disruption seemed intended to target
+mobile devices, which are fast becoming an important way to
+access the Internet. As my VPN provider promised to find a way
+to outwit the Great Firewall, several articles in state-run
+media reminded readers of the dangers lurking on the Web.  China’s Rationale  On Dec. 18, for instance, a commentary piece on Xinhua,
+China’s official news agency,  called  for new laws to govern the
+Internet: “If there is no strict legal punishments on the
+violators in cyber space, the negative factors will run wild to
+destroy the Internet order and even incite online violence,
+which will bring great damage to people and society.” This is
+the Chinese government’s original rationale for erecting the
+Great Firewall, an elaborate network of blocks, network
+slowdowns and censorship rules that keep many of China’s half-
+billion Internet users in the dark about events in the world and
+in their own country.  The unease about the broader issue of curbs on free speech
+was stoked anew recently when Mo Yan, the Chinese writer who won
+this year’s  Nobel Prize  for literature, seemed to liken
+censorship to airport-security checks: an indispensable
+nuisance.  China’s Internet is a strange place. Twitter and Facebook
+are blocked, their ability to disseminate unwelcome news and
+serve as organizing platforms for all sorts of protests deemed
+too grave a threat. Some of Google Inc.’s services, including
+Gmail, are intentionally slowed down to a snail’s pace, which is
+arguably even worse than being blocked outright because it gives
+customers an impression of poor service.  At the same time, Chinese clones of these American
+companies operate freely and load lightning-fast, their searches
+carefully scrubbed for sensitive terms by in-house censors.
+Western Internet companies that choose to enter the booming
+Chinese market have to play by the government’s rules.  The most striking example is Skype Inc., owned by  Microsoft
+Corp. (MSFT)  As detailed by Greatfire.org, a website tracking all
+things related to the Great Firewall (and, of course, blocked by
+it), when you download Skype software in China, you are actually
+getting a product tweaked in a crucial way. Chinese Skype, a
+joint venture majority-owned by a local company,  allows  the
+government to monitor your chats.  Among the many curious things about the Chinese Internet,
+one apparent contradiction stands out. Xinhua, the mouthpiece of
+the government that insists on blocking Twitter, recently opened 
+a Twitter account, sending out more than 3,000 tweets, and 
+attracting 8,000 followers -- following no one itself. Xinhua’s 
+appearance on Twitter, and the one-way nature of its boosterish 
+account, invited an avalanche of  ridicule  in the Chinese 
+blogosphere.  Blocked Sites  Western news outlets that touch taboo subjects are blocked,
+too.  Bloomberg.com  and nytimes.com are both blocked because of
+their recent investigative reports on the financial dealings of
+top Chinese leaders.  How effective is the Great Firewall, given the many ways of
+leaping over it? China’s Internet sleuths aren’t overly
+concerned with how foreign companies and individuals access the
+Web, or what they read there. They are concerned about Chinese
+public opinion, and about ways to influence it by regulating
+what the Chinese people are and aren’t allowed to see on the
+Internet.  By that second measure, the firewall achieves its
+objectives just fine, despite the availability of VPNs and other
+technical tricks, many of them free.  Of China’s 500 million Web users, only about 1 percent
+“use these tools to get around censorship, either because most
+do not know how or because they lack sufficient interest in --
+or awareness of -- what exists on the other side of the ‘great
+firewall,’” Rebecca MacKinnon writes in “Consent of the
+Networked,” a book on Internet freedom around the world.  Meanwhile, the wizards at my VPN provider finally found a
+way around the firewall’s latest crackdown on smartphones and
+tablets. My iPad is useful again, until the firewall catches on
+and a new round of cat-and-mouse begins.  Sadly, there’s no good news to report on breaching the wall
+of smog blocking the sun. No one has yet invented a virtual
+private network to transport one through the Beijing pollution.  (Philip Shishkin is a fellow at the  Asia Society  and the
+author of “ Restless Valley : Revolution, Murder and Intrigue in
+the Heart of Central Asia,” to be published in May by Yale
+University Press. The opinions expressed are his own.)  To contact the writer of this article:
+Philip Shishkin at  Philip.Shishkin@gmail.com .  To contact the editor responsible for this article:
+Katy Roberts at   kroberts29@bloomberg.net . 

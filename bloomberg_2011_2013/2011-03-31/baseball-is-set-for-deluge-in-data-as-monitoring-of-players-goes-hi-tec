@@ -1,0 +1,280 @@
+-- 
+Baseball Set for Data Deluge as Player Monitoring Goes Hi-Tech
+
+-- B y   I r a   B o u d w a y
+-- 
+2011-03-31T21:00:58Z
+
+-- http://www.bloomberg.com/news/2011-03-31/baseball-is-set-for-deluge-in-data-as-monitoring-of-players-goes-hi-tech.html
+On a Saturday morning in March, some
+400 people crowd a conference room at the Boston Convention
+Center. Mostly men, and mostly paying customers, they are there
+to listen to six other guys talk about baseball statistics.  It’s day two of the Massachusetts Institute of Technology
+Sloan Sports Analytics Conference, an annual gathering dubbed
+“Dorkapalooza” by ESPN’s Bill Simmons. The buzz from the panel
+is about something called Fieldf/x, Bloomberg Businessweek
+reports in its April 4 issue.  “Do you feel like Fieldf/x will essentially make all other
+fielding stats irrelevant?” asked the moderator, the writer Rob Neyer.  “Yes,” said Tom Tippett.  Tippett is the director of baseball information services
+for the  Boston Red Sox , which means he’s in charge of gathering
+and crunching numbers to help put together a winning team.  “I kind of feel like I have to throw away everything I’ve
+done for the last 20 years and start over,” he said.  But in a good way. Fieldf/x will create a digital catalog
+of virtually every movement at every Major League Baseball game
+in every park. Already in place in San Francisco’s AT&T Park, it
+is coming to four more venues this year. If all goes according
+to plan, it will be in every major league park by 2012.  Fieldf/x is a motion-capture system created by Chicago-
+based Sportvision. It uses four cameras perched high above the
+field to track players and the ball and log their movements,
+gathering more than 2.5 million records per game. That means you
+could find out whether  Ichiro Suzuki  truly gets the best jump on
+fly balls hit into the right-field gap, or if  Derek Jeter  really
+deserved that Gold Glove last year.  Changes in Pay, Recruitment  The deluge of numbers will send analysts scrambling to
+answer just such questions. What they find will change the way
+teams choose and pay their players, and the way fans watch and
+talk about the game.  Motion capture, or optical tracking, promises to rid sports
+of the biases of the human eye and quantify the formerly
+unquantifiable art of being in the right place at the right
+time.  In the  National Basketball Association , teams have begun
+using it to sort out the conditions that make for a high-
+percentage shot.  In European soccer, clubs are mapping the endless streams
+of passes and moves to determine which lead to goals.  In baseball, it promises to solve the age-old statistical
+riddle of defense, a feat that could make and break players and
+ball clubs.  Glowing Puck  Curiously, Fieldf/x has roots in one of the most unpopular
+additions to sports of all time, the much-reviled glowing puck,
+which annoyed hockey fans for two years between 1996 and 1998.  In 1998, three Fox Sports executives who had helped to
+create the effect left to form their own company.  Under its original chief executive officer, Bill Squadron
+(now the head of Bloomberg LP’s Bloomberg Sports, which markets
+sports statistical analysis to professional teams and fantasy
+sports players), Sportvision went on to build the technology
+that gave fans the yellow line that marks first downs on
+football broadcasts and the data boxes that shadow cars during
+Nascar races.  In 2001, the company worked with ESPN to create “K-Zone,”
+which showed Sunday night baseball viewers the location of
+pitches as they crossed home plate. Creating K-Zone required a
+batch of data that became useful on its own.  K-Zone Upgrade  After several years of negotiations with the MLB,
+Sportvision created an upgrade of K-Zone called Pitchf/x that
+uses a pair of cameras set along the baselines to capture every
+pitch roughly 40 times on its path between the mound and the
+plate. In 2007, MLB installed Pitchf/x throughout the league at
+a cost of about $2 million.  The point, at first, was to evaluate home-plate umpires’
+calls. The league wanted “a thoughtful, objective way that
+would be the same in every ballpark,” said Bob Bowman, CEO of
+ Major League Baseball  Advanced Media.  Under a co-licensing agreement, Sportvision went on to sell
+Pitchf/x to broadcasters while the major league’s Advanced Media
+unit (known as BAM) used it in its online game-tracking service
+called Gameday.  BAM also provides the raw data for free to all 30 teams,
+who use it to evaluate pitchers and hitters.  “That was a tremendous amount of data,” said Mike
+Chernoff, the 29-year-old assistant general manager of the
+ Cleveland Indians .  Digesting it, he said, was a major undertaking.  “We continue to find useful pieces,” he said.  The data gave front offices a taste for motion capture.  Sportvision began cooking up broader applications. Hank
+Adams, who succeeded Squadron as CEO, recalls a 2009 meeting with
+the  Chicago White Sox .  Questions, Questions  “We had shown them data capture on one play, a steal, and
+they kept asking us questions,” he said. “‘Do you get the
+initial lead? Do you get the secondary lead? Do you get the
+windup time, the pitch time, the pop time, the time it takes to
+throw down to second base?’” The answer in every case was yes.  “You could see it on their faces,” said Adams, “‘Oh my
+God, what are we going to do with all this data?’”  The widest frontier is in fielding. No one knows this
+better than John Dewan, the owner of  Baseball Info Solutions . He
+has spent decades building the current standard in defensive
+metrics.  Complete Picture  Dewan estimates that game analysts are collectively about
+90 percent along the way to the creation of a complete picture
+of hitters, and close to 85 percent with pitchers.  With fielders, he said, they started with a severe
+handicap. For over 100 years, scorekeepers have described a
+player’s work in the field based only on what he does after he
+gets to the ball. If a shortstop gathers in a grounder and
+throws it to first in time to make the out, he is credited with
+an assist. If he bobbles it and can’t make the throw in time, he
+gets an error.  According to Dewan, this basic accounting captures only
+about “5 percent of the information of what a player is all
+about.”  Dewan’s life story is largely the story of trying to close
+this gap. The 56-year-old Chicago native is one of baseball’s
+Moneyball revolutionaries -- the statistical analysts chronicled
+in Michael Lewis’s bestselling 2003 book.  Before getting into baseball, Dewan spent 10 years as an
+insurance actuary. In 1982, he came across a copy of “The Bill
+James Baseball Abstract.”  ‘Mesmerized’  “I was absolutely mesmerized,” Dewan said. “He was doing
+with baseball data what I was doing with insurance.”  James, the Moses of Moneyball, is now a senior adviser to
+the  Red Sox .  In 1984, frustrated at the lack of information in the
+standard box score, James enlisted his Abstract readers in
+Project Scoresheet. The idea was to standardize and collect the
+work of amateur scorekeepers to create a more complete database
+of statistics.  Dewan signed on early. He wrote a program to log the data
+and soon became the project’s director. In 1985, he decided to
+try to make a living out of it, investing $30,000 to found STATS
+Inc. He ran the company from a bedroom of his Chicago home with
+his wife, Sue, and co-founder, Dick Cramer.  Initially, Dewan, James, and the rest of the so-called
+sabermetricians (after the Society for American Baseball
+Research), focused on gathering and analyzing data for a
+familiar set of events: balls, strikes, hits, walks, stolen
+bases, home runs, and so on.  Overvalued Stats  Moneyball is essentially the story of how the values placed
+on these events were upended when they began to look at the data
+carefully. It turned out that, when it comes to producing runs,
+and therefore wins, batting average and stolen bases had long
+been overvalued, while the ability to draw walks had been
+overlooked.  Oakland A’s General Manager Billy Beane listened to the
+analysts before other GMs took them seriously and used their
+insight to build a team of slow-footed, patient hitters who made
+the playoffs four years running from 2000 to 2003.  Now, James acolytes occupy most major league front offices,
+and have built an online industry around baseball statistics.
+The approach’s popularity has also eroded its effectiveness.  “The statistical analysis game has grown on what I would
+call stats of outcomes,” said Vince Gennaro, the author of
+“Diamond Dollars: The Economics of Winning in Baseball,”
+meaning the Moneyball heroes were simply rethinking the
+traditional numbers.  “We were looking at what happens at the batter-pitcher
+match-up, and then analyzing that to death.”  Zones  Now the game is moving, he said, toward looking at
+“attributes and processes,” at not just what happened, but
+how.  At STATS, Dewan helped to pioneer this transition. Looking
+for a better way to assess defense, he decided to divide the
+field into hundreds of zones and then count how often fielders
+were able to make outs on balls hit into those zones.  He then measured each fielder against the average: If a
+center fielder, for instance, made a catch on a ball that 70
+percent of major leaguers would also catch, he was credited with
+.3 toward what Dewan dubbed his Ultimate Zone Rating.  In 2000,  News Corp. (NWS)  bought STATS and the Ultimate Zone
+Rating system with it. Dewan left and founded Baseball Info
+Solutions two years later. There he refined his system,
+increasing the number of zones to more than 3,000 and converting
+the zone rating into a number of runs saved by a fielder’s play.  20-Run Saving  In 2010, little-known Daric Barton of Beane’s Oakland A’s
+led all first basemen by (theoretically at least) saving 20
+runs.  At BIS, compiling these numbers is a laborious task. The
+company employs about 20 “video scouts” at its offices in
+Allentown,  Pennsylvania . They watch video of every game at least
+three times and tag every batted ball with a direction (from 135
+to 225 degrees), distance (0 to about 400 feet, depending on the
+size of the park), pace (hard, medium, or soft), and type
+(grounder, fly ball, line drive, or “fliner”).  The results are information that major-league teams pay to
+see, though Dewan won’t say how much. The BIS data, however, is
+limited. It has nothing to say, for example, about where a
+fielder was standing when the ball was hit. And it is liable to
+human error, with a margin of 15 to 20 feet on some plays. Dewan
+estimates he’s now only 60 percent of the way to fully measuring
+a fielder’s ability.  2.5 Million Data Results  This is where Sportvision enters. Fieldf/x essentially
+automates and massively expands the work of Dewan’s video
+scouts. Each game at AT&T Park last season produced files of
+about 2.5 million results, or 2 terabytes’ worth of data. At
+that rate, eight baseball games would fill the memory bank of
+IBM’s Watson supercomputer.  “It’s almost overwhelming how much data we’re creating,”
+said Ryan Zander, the company’s general manager of baseball
+products.  Much of it is extraneous: 20 records a second of players
+warming up between innings or milling around between pitches.
+Zander said Fieldf/x is accurate to within a foot. At AT&T, it
+would sometimes grab hold of seagulls and cotton candy vendors
+who came into the frame and begin tracking their movements. The
+slice of data that teams are most likely to want amounts to
+about one million results per game.  Paid For  Via major league’s BAM, front offices are likely to get
+just that, and without paying a cent. In 2000, every club agreed
+to kick in $1 million a year for the first four years of running
+BAM, with the expectation that the project would eventually cost
+$120 million.  The idea was to manage a leaguewide website and figure out
+how to make money from baseball online. BAM became a moneymaker
+ahead of schedule in 2003.  MLB.com  now gets 50 million to 60
+million unique visitors per month during the season. Its mobile
+app, At Bat 2010, was the top grosser in Apple’s online store
+last year. BAM’s annual revenue is now nearly $500 million, and
+teams have already been paid dividends totaling three times
+their initial investment. The data is gravy.  For the first installation in  San Francisco  last year,
+Sportvision, whose labs are in nearby  Mountain View , worked
+directly with the Giants, under BAM’s oversight, to get
+permission to test the technology.  In return, the Giants received exclusive access to the
+data. BAM arranged this year’s installations -- already in place
+at Yankee Stadium and in  San Diego , and under way in  Kansas City 
+and Tampa.  ‘Every Park’  “Our plan is ultimately to put it in every park,” said
+CEO Bowman.  First, he wants the commissioner and clubs to see how it
+works. (Bowman plans to install a competing technology, called
+PlayItOver, in one park “to keep everybody honest.”) If teams
+like what they see, BAM will likely help shoulder the
+installation cost -- about “six figures per,” according to
+Sport­vision CEO Hank Adams -- and then try to figure out how to
+make revenue from the technology.  “We think it’s a project that may deliver value to our
+fans through the myriad of devices they use,” said Bowman.  Sportvision, meanwhile, will go to work on broadcast
+products, such as overlaying the field with concentric circles
+illustrating a player’s range.  Mountain of Data  Clubs will get a mountain of data and race to make use of
+it. The coming deluge reminds the Red Sox’s Tippett of Project
+Scoresheet in 1984. Like Dewan, he cut his teeth on that new
+batch of data.  “I happened to be at the right age at the right time and
+got in on that early, and that’s why I have a job with the Red
+Sox today,” the 53-year-old said in the hallway, amid the crowd
+at the  Sloan  conference.  Fieldf/x, he said, has the potential not only to be a big
+step forward in how clubs evaluate players but also in opening
+the door to “anybody who wants to jump in and be among the
+leaders in figuring out what we can do with this stuff.”  There’s no shortage of people waiting to take him up on the
+challenge, as suggested by the 1,500 who showed up at the Sloan
+conference. Moneyball made analytics sort of sexy --  Brad Pitt 
+will play Beane in the movie version to be released this fall --
+and the market for number crunchers is glutted with talent.  The Internet is teeming with bloggers hoping to get noticed
+for their work at sites such as  Baseball Prospectus  and the
+ Hardball Times . The Indians’ Chernoff rattles off a list of four
+names the team has recruited from their ranks and said his
+team’s analytics budget continues to grow.  Bloggers’ Insights  Much of the insight gained so far from the Pitchf/x data
+came from such bloggers, who figured out how to gather the
+information from MLB’s online Gameday service.  As a rule, baseball teams don’t talk about their front-
+office spending, but according to sources familiar with their
+budgets, they now range from about $100,000 to half a million or
+more for analytics.  The teams at the top end of that range treat work done in
+public forums as tryouts. At the bottom, they treat it as free
+labor. And where they get their stats analyzed will influence
+each team’s opinion about whether or not they want the public to
+see the Fieldf/x data.  “You hear stories from front offices about how much they
+are relying on free work from the Internet,” said Robert
+“Voros” McCracken, a onetime baseball analyst who famously
+gave away one of the game’s great statistical epiphanies to a
+small online group in 1999 (the only reliable measures for a
+pitcher are the outcomes that don’t involve fielders: walks,
+strikeouts, and home runs).  Free Labor  Teams, according to Voros, are asking, “‘Why do we need to
+hire this guy? He’s giving us what we want for free.’”  Voros’s work earned him a job devising systems to evaluate
+college players for the Red Sox for three years. The pay was
+less than $30,000 per year.  Sportvision’s Adams admits the passive approach to
+freelancers, is “probably not the best business model or even
+the most consumer-friendly, frankly.”  For now, however, the company is focused on its broadcast
+products and its partnership with the league. The fate of the
+Fieldf/x data is unclear.  “I think we would make it public,” said Bowman. “We live
+in an age where, if you’ve captured it somewhere, somebody’s
+going to find it, so you’re better off making it transparent.”  But that decision will ultimately come from the
+commissioner and teams.  For Clubs Eyes Only  If Tippett has any say in the matter, clubs will keep the
+data to themselves.  “I want this to be adopted by Major League Baseball, made
+available to all the clubs, but kept within the industry,” he
+said.  Tippett says that broad access to Pitchf/x data produced
+useful ideas and that as a fan he values open access, but he
+knows who signs his checks.  “We don’t get paid to advance the state of the art in
+analysis,” he said. “We get paid to put a winning team on the
+field.”  If he could, of course, Tippett would keep the information
+exclusive to the Red Sox, but Fieldf/x only becomes truly useful
+as a leaguewide data set, so teams will have to share.  For the heavily analytical teams, the competition is not
+with other teams, but with bloggers. Those clubs, said Gennaro,
+will like their chances in a race restricted to a field of 30.  “A team at the bottom of the food chain,” he said,
+“would benefit grossly from [Fieldf/x] being in the
+blogosphere.”  Data Windfall  If it gets there, teams will get information potentially
+worth millions for free.  Tom Tango is the nom de plume of one of the most respected
+minds in sabermetrics, although he writes and posts anonymously.
+(“Tommy is pretty much the best out there,” said Voros.)
+Tango, who consults for the  Toronto Blue Jays  and  Seattle
+Mariners , estimates that getting a jump on the new fielding data
+could be worth an extra win or two per season for a major league
+team.  “Teams will spend a lot of money to purchase an extra win
+or two ($5 to $10 million),” he said in an e-mail.  That’s for players. Spending on analytics has not caught
+up. While he is fiercely protective of his identity, Tango is an
+advocate for public access to Fieldf/x.  “MLB can hire the 30 best analysts,” he said, “but the
+next 3,000 best analysts would be able to do better and faster
+work as a community than any single analyst can do on his own.”  Wait and See  Companies such as Baseball Info Solutions and Bloomberg
+Sports are in wait-and-see mode.  “I would love to get my hands on it and use it in our
+stuff,” said Dewan, “but how that’s going to work in the long
+run, I don’t know.”  Bloomberg, which like Bloomberg News is owned by Bloomberg
+LP, already gets Pitchf/x data as part of a partnership with BAM
+and includes it in the analytics package it sells to 18 major
+league teams.  “We would certainly be interested,” Squadron said of
+Fieldf/x. “We might be best positioned to make sense of that
+volume of data.”  Last summer, Sportvision invited six analysts to see what
+they could find in 13 games worth of Fieldf/x data. Even with
+that small slice, they were able to begin unwinding the
+difference between the results of a play and its quality.  Soon teams will be able to distinguish between plays made
+because a fielder was already standing in the right place and
+those made because of exceptional quickness to the ball.  New Metrics  There will be new metrics -- such as degree of difficulty
+ratings -- and more precise coaching.  “There are going to be pregame meetings on where the
+shortstop is going to play exactly for each of the hitters,”
+said Gennaro.  One way or another, the exhaustive data will also seep into
+the game’s vernacular.  “We see center fielders make catches or shortstops make
+diving plays and we go, ‘great range, great jump,’” said
+Bowman. “That’s what it looks like to our naked eye.”  Now fans will begin to see what they’ve been missing. Range
+will be described in numbers and not just adjectives.  “It’s going to make the game more scientific,” said
+Gennaro.  More science, Bowman assures, doesn’t have to mean less
+poetry.  “The facts will not end the discussion, they will only
+enlarge it,” he said.  Editors: Bryant Urstadt, Dex McLuskey  To contact the reporter on this story:
+Ira Boudway at   iboudway@bloomberg.net   To contact the editor responsible for this story:
+Bryant Urstadt in New York at 
+ burstadt@bloomberg.net  

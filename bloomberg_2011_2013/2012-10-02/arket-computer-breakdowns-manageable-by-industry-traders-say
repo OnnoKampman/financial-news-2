@@ -1,0 +1,135 @@
+-- Market Computer Errors Manageable by Industry, Traders Say
+-- B y   N i n a   M e h t a   a n d   W h i t n e y   K i s l i n g
+-- 2012-10-02T20:44:48Z
+-- http://www.bloomberg.com/news/2012-10-02/market-computer-breakdowns-manageable-by-industry-traders-say.html
+Eliminating every trading error is
+impossible and the way to address malfunctions that have plagued
+equity markets this year is to improve testing and oversight,
+ industry executives  said at a meeting in Washington.  Making risk measures redundant, designing systems that
+operate independently of each other and making frequent,
+incremental changes to software will limit the inevitable
+mistakes by humans and computers, Getco LLC said in written
+testimony. Assertions that markets were more orderly in the past
+are baseless and inflexible regulation won’t automatically
+improve the performance of trading systems, Citadel LLC said.  Spurred into action after  Knight Capital Group Inc. (KCG) 
+bombarded exchanges with erroneous orders on Aug. 1, the
+Securities and Exchange Commission called today’s meeting to
+explore ways to avoid technology malfunctions and limit the
+disruption they cause. SEC Chairman Mary Schapiro said the
+Knight event was “unacceptable” in August and promised to
+issue regulations to help prevent similar mishaps.  “We believe that a firm’s systems, protocols and
+procedures should be designed with the knowledge that there will
+be human mistakes and technology breakdowns that lead to trading
+errors and system failures,” Jonathan Ross, chief technology
+officer for Chicago-based Getco, wrote. “Good testing protocols
+increase the likelihood that errors are identified and
+corrected.”  Knight Mishap  Knight, one of the biggest market makers in U.S. stocks,
+lost $440 million and avoided bankruptcy only after a cash
+infusion from investors following its software breakdown. The
+error followed mishandled initial public offerings by Facebook
+Inc. and exchange-operator Bats Global Markets Inc.  “Technology has pitfalls,” Schapiro said today. “And
+when it doesn’t work quite right, the consequences can be
+severe. Trading can be disrupted, investors can suffer financial
+loss, firms can be imperiled and confidence in our markets
+broadly can erode.”  She compared the potential consequences of trading errors
+to traffic lights that flash the wrong color or railroad track
+switches that send a train to the right instead of left. When
+trading goes awry it doesn’t take long for an “enormous amount
+of damage” to occur, she said.  Market Makers  Getco, which makes markets on the floor of the  New York 
+Stock Exchange and on other venues across asset classes,
+outlined a set of programming values it said would minimize
+trading disruptions.  It said systems should be independent of each other to keep
+errors from affecting other programs, firms should prefer
+smaller changes over larger ones so that when errors occur they
+can be easily fixed, and risk controls should be layered and
+redundant, according to its written testimony.  “There is not a specific testing discipline that is
+appropriate for all firms,” the firm wrote. “Instead, the
+specific procedures will vary depending on the size, scope,
+trading strategies and business lines of that firm.”  Software testing protocols vary across brokers and trading
+firms, Lou Pastina, executive vice president for NYSE operations
+at exchange operator NYSE Euronext, said at the meeting. The
+cycle of coding, testing and implementing software may encompass
+anything from specifications written on a napkin in a bar to a
+“more disciplined approach where an idea has to pass through a
+set of filters,” he said.  Testing Frequency  An approach to testing should be implemented where
+exchanges make so-called test symbols available to firms so they
+see how the tactics work, according to Chris Isaacson, chief
+operating officer of Bats. While testing individual components
+of software and how entire programs operate after changes are
+made is critical, it remains difficult to “simulate the
+market” and the complexity of trading, he said.  NYSE Euronext’s (NYX)  Pastina said regulators may want to review
+the frequency with which brokers and other firms use exchanges’
+systems to test their algorithms and trading.  “It’s amazing to me how many times software gets
+introduced and firms don’t test with you,” he said. “Whether
+we have test symbols in production or we run industry tests,
+it’s always the same firms that come in and test and those are
+the firms that generally don’t have issues. There’s a long list
+of firms that never show up.”  Judgment Call  While Knight’s mishap started on Aug. 1 with a software
+error, it lingered for another half hour because of a “risk-
+management and control and management processes problem,” Jamil Nazarali, head of Citadel Execution Services, said today. The
+unit of Citadel, the hedge fund founded by Ken Griffin, competes
+in electronic market making with Knight, where Nazarali worked
+before joining the Chicago-based firm.  Deciding when enough testing has been done for a strategy
+or program to be deployed is a judgment call, he said.  “You never really know if the testing is enough,”
+Nazarali said. “It’s really just a business judgment where you
+look at the cost-benefit of a potential error.” Larger firms
+like his, which are more likely to be affected if a problem
+hurts the broader market and investor confidence, tend to be
+more careful than smaller brokers, he said.  ’Double Failures’  Beyond testing a new version of software, firms should
+examine what may happen if it fails, said Sudhanshu Arya, a
+managing director at broker Investment Technology Group Inc.
+They should test whether a previous version can be reinstated if
+a mishap occurs and build into software ways to address “double
+failures” such as risk controls or shutdown mechanisms that
+don’t work, he said.  While the panel focused on testing software and processes
+for trading firms, Getco’s Ross said internal operations
+departments need more standards and rules for when and how
+individuals can implement shut-downs or halts.  “Operations are really where the rubber hits the road,”
+Ross told the SEC. “Their ability to shut off their system and
+not face their feet being held to the fire is incredible. That’s
+a command and control thing. It’s absolutely important.”  The SEC fueled the march to electronic trading when it
+passed rules starting in the 1990s designed to drive down costs
+for investors. In 2005 it approved rules to increase competition
+with the then-dominant New York Stock Exchange. Now more than 50
+venues get trades that are mostly handled by computers.  Trading Venues  Critics say the policy may have worked too well, fostering
+so much fragmentation that the SEC and other regulators can’t
+get a handle on what is happening in far-flung trading venues
+until it’s too late. Knight’s loss is a “wake-up call”
+highlighting the connectedness of markets, Schapiro said.  “Our multi-venue, interlinked market structure also means
+that an infrastructure failure by one party or at one venue may
+cascade into other venues and affect many other participants,”
+Schapiro said. “And of course the inherent speed of trading,
+which itself is partly a result of the competitive nature of our
+markets, means that even small, short-lived infrastructure
+issues can cause drastic harm.”  Citadel said in its written testimony that computerized
+trading has lowered costs, improved transparency and increased
+competition. Critics of today’s structure are wrong when they
+say the old days were better, Nazarali wrote.  ‘Notoriously Opaque’  “Before widespread computerized trading, markets were
+notoriously opaque and errors and control breakdowns were the
+norm,” the firm wrote, saying profits were larger for market
+makers and trade breaks and delays more frequent. “Although
+some choose to reminisce fondly about the past, the reality was
+much different.”  Minimizing the effect of technology breakdowns requires
+regulators to define and enforce “minimum frameworks” for
+system controls and to give exchanges the authority to halt
+activity that is erroneous, Citadel said.  “Nonetheless, we caution against adopting recommendations
+based on an overly simplistic ‘one size fits all’ perspective,”
+the firm said. “Trading systems are necessarily complex and
+malfunctions are inherent in complex automated systems.
+Therefore, markets will be best protected by multiple,
+effectively designed layers of protections that reduce the
+frequency and impact of malfunctions.”  After trading errors occur, it would be useful if a central
+clearinghouse of information existed to tell other firms about
+the details and circumstances, according to testimony signed by
+Richard Gorelick of RGM Advisors Inc., Cameron Smith of Quantlab
+Financial LLC and Peter F. Nabicht of Allston Trading LLC.  “This would help to avoid future errors, in part, by
+industry participants learning from each other,” they wrote.
+“The reporting system would be voluntary and anonymous, yet
+contain enough information about the nature of events that other
+participants can learn something from the disclosure.”  To contact the reporters on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net ;
+Whitney Kisling in  Washington  at 
+ wkisling@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

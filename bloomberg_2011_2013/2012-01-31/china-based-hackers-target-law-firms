@@ -1,0 +1,148 @@
+-- China-Based Hackers Target Law Firms to Get Secret Deal Data
+-- B y   M i c h a e l   A .   R i l e y   a n d   S o p h i a   P e a r s o n
+-- 2012-01-31T21:37:10Z
+-- http://www.bloomberg.com/news/2012-01-31/china-based-hackers-target-law-firms.html
+China-based hackers looking to
+derail the $40 billion acquisition of the world’s largest potash
+producer by an Australian mining giant zeroed in on offices on
+Toronto’s Bay Street, home of the Canadian law firms handling
+the deal.  Over a few months beginning in September 2010, the hackers
+rifled one secure computer network after the next, eventually
+hitting seven different law firms as well as  Canada ’s Finance
+Ministry and the  Treasury Board , according to Daniel Tobok,
+president of Toronto-based  Digital Wyzdom . His cyber security
+company was hired by the law firms to assist in the probe.  The investigation linked the intrusions to a Chinese effort
+to scuttle the takeover of Potash Corp. of Saskatchewan Inc. by
+BHP Billiton Ltd. as part of the global competition for natural
+resources, Tobok said. Such stolen data can be worth tens of
+millions of dollars and give the party who possesses it an
+unfair advantage in deal negotiations, he said.  Though the deal eventually fell apart for unrelated
+reasons, the incident illustrates the vulnerability of law
+firms. They are increasingly threatened with a loss of client
+business if they can’t show improved security as such attacks
+continue to escalate.  Stephen Surdu, vice president of professional services at
+Mandiant Corp., a cybersecurity firm that tracks industrial
+espionage, compared the risk of hacking in the mergers and
+acquisition arena to gambling.  “You’re playing poker, and there’s a mirror over the other
+guy’s shoulder,” Surdu said.  Easier Quarry  “As financial institutions in  New York City  and the world
+become stronger, a hacker can hit a law firm and it’s a much,
+much easier quarry,” said Mary Galligan, head of the cyber
+division in the New York City office of the U.S. Federal Bureau
+of Investigation.  Galligan’s unit convened a meeting with the top 200 law
+firms in New York City last November to deal with the rising
+number of law firm intrusions. Over snacks in a large meeting
+room, the FBI issued a warning to the lawyers: Hackers see
+attorneys as a back door to the valuable data of their corporate
+clients.  “We told them they need a diagram of their network; they
+need to know how computer logs are kept,” Galligan said of the
+meeting. “Some were really well prepared; others didn’t know
+what we were talking about.”  The ability to keep client information confidential is a
+key principle of how law firms function. The attacks have
+created what Tony Cordeiro, chief information officer at  White &
+Case LLP , termed a “healthy paranoia.”  80 Firms Hacked  Mandiant, which is based in Alexandria,  Virginia , said it
+estimates that 80 major U.S. law firms were hacked last year.  More than a dozen law firms contacted about the New York
+City meeting, including Wilson Sonsini Goodrich & Rosati PC and
+Cadwalader Wickersham & Taft LLP, didn’t return telephone calls
+and e-mails seeking comment. Jennifer Becker, a spokeswoman for
+Skadden Arps Slate Meagher & Flom LLP and Kevin Blasko, a
+spokesman for Baker & McKenzie LLP, declined to comment.  Mark Hendrick, director of  information technology  for  Baker
+Botts LLP , declined to comment beyond confirming the firm’s
+attendance at the November forum.  “Given the sensitive nature of the topics discussed,
+including possible threats to the safety of our IT network, I
+can only state that at  Baker Botts  we work diligently every day
+at maintaining the integrity of our systems,” Hendrick said in
+an e-mailed statement.  ‘Up at Night’  Cordeiro said “protecting ourselves against threats keeps
+me up at night.”  Hackers could gain access to a firm’s networks through
+phishing or its use of cloud storage programs, which might allow
+information to be compromised during a seemingly routine
+transfer or sync, Cordeiro said.  “It’s a people door,” Cordeiro said. “It’s like having
+the door and allowing someone to walk through without having a
+key.”  To enhance New York-based  White & Case ’s data security, he
+said he requires the use of encrypted connections and restricts
+the use by attorneys of vulnerable file-hosting programs like
+Drop Box, a cloud-based system that allows users to save files
+including photos, documents and videos. White & Case is one of a
+handful of firms to receive an accreditation for information
+protection, which some law firms are now using as a selling
+point to clients.  Dedicated Terminal  Edward Stroz, a partner in the data security firm Stroz
+Friedberg LLC, said many more law firms have knocked on his door
+within the last 12 months than previously. They are driven there
+in many cases by clients, who are demanding greater protection
+of their confidential information, he said.  In some sensitive cases, Stroz has required lawyers to
+access highly sensitive client data directly in a secure
+location, banning e-mail or the digital transfer of documents.  “They have to go on site at the client company, use a
+dedicated terminal and review the data there so that the client
+knows it never left the building,” Stroz said.  The level of skill and seriousness of the attacks differs
+widely. Attackers include hackers looking for information they
+can sell quickly. Law firms representing celebrities, for
+example, are top targets, said Don Jackson, a researcher with
+Atlanta-based Dell SecureWorks, a cybersecurity firm.  The Canada case involving Potash Corp. of Saskatchewan Inc.
+by  BHP Billiton Ltd. (BHP)  shows just how serious the threat can be.
+The intruders were professionals potentially linked to the
+interests of a nation-state, with all its resources, said Anup Ghosh, chief scientist at the Fairfax, Virginia-based cyber
+security firm Invincea Inc.  New Spy Game  “This is the new way the spy game is played,” Ghosh said.  Chinese government officials have denied any involvement.
+Calls to the Chinese embassy in Ottawa weren’t immediately
+returned.  Bill Johnson , a spokesman for Potash Corp., and Ruban
+Yogarajah, a spokesman for BHP, declined to comment.  At the time of the attacks,  China  was on the hunt for new
+sources of agrochemicals. Potash is a common name for compounds
+containing potassium used in the manufacture of fertilizer.  Sinochem Group , China’s formerly state-owned chemical
+giant, hired Deutsche Bank AG and Citigroup Inc. in September
+2010 to evaluate moves to disrupt BHP’s bid for Potash Corp., a
+hostile tactic approved directly by the Chinese government,
+according to a report at the time by the Financial Times.  Tobok said a law firm involved in the deal detected signs
+of the intrusion the same month, including network disruptions.
+Analyzing the attack, investigators found that the spyware
+designed to capture confidential documents -- and sent via
+spoofed e-mails -- was compiled on a Chinese-language keyboard
+and China-based servers were involved in the attack, he said.  Aboriginal Ruse  Technical similarities connected those attacks with
+counterfeit e-mails sent to  Finance Ministry  officials
+supposedly from an aboriginal group opposed to the deal,
+according to Tobok. The e-mails directed the officials to a
+website which stealthily downloaded spyware through a
+vulnerability in web browsers onto state-owned computers,
+according to a Canadian government report cited by the Ottawa
+Citizen in October.  “It sounds like something out of  Mission Impossible , but
+this is the sophistication of the stuff out there,” Tobok said.  Successful Attacks  It’s not known how successful the attacks were or how any
+data stolen was used by the intruders, investigators have said.
+The government report said the attack on the federal ministries
+was successful in stealing some data.  According to a person familiar with the case who asked not
+to be identified because of the criminal investigation, the
+hackers’ victims included Toronto-based law firms  Blake, Cassels
+& Graydon LLP , which represented BHP, a company with primary
+offices in  Melbourne ,  Australia ,  Singapore  and  London .  Also hit, the person said, was Stikeman Elliott LLP, which
+represented Saskatoon, Canada-based Potash Corp.  The law firms would have had detailed knowledge of the
+deal’s negotiations, including potential weak points, the person
+said. Diana Lawrence, a spokeswoman for Stikeman Elliott, said
+there was no evidence client information was compromised or that
+the firm’s networks were breached. Robert Granatstein, managing
+partner of Blake Cassels, said that the firm wasn’t aware that
+any client data was compromised.  Takeover Stopped  The Canadian government later killed the BHP takeover using
+federal powers to declare it wasn’t in the nation’s interest.  Similarities between the Canadian attack and other recent
+intrusions at U.S. law firms suggest that cyberattacks on
+attorneys are now part of the hacking playbook for gathering
+sensitive information on corporate clients, according to Ghosh.  In one recent case, a corporation was negotiating to open a
+major plant in China when the law firm helping with the deal was
+hacked, Surdu said.  “They were looking for what the company was willing to pay
+for that land, what were they willing to pay to bring roads to
+the facility,” he said. “This was a major deal with lots of
+zeros on the end.”  Other recent law firm hacks involved efforts to steal
+secret details about a merger and documents relating to an
+opponent’s strategy in a major litigation, Ghosh and Surdu said.  Galligan, the FBI agent, said that the culture of law firms
+and the significant sway of partners often make them a soft
+target.  ‘It’s Trendy’  “Everybody wants network administrator rights,” Galligan
+said. “It’s trendy.” She said partners insist on mobility --
+including the flexibility to review case documents at weekend
+homes or on the road -- which means highly sensitive documents
+are routinely transferred by e-mail.  At the November meeting, the FBI urged firms to review
+their mobility policies, including the security of e-mail
+linkups and mobile phones, Galligan said.  “If clients start thinking they can’t give private
+information to their lawyers because it might get out, it’s a
+huge problem for the profession,” said Richard Goldberg, a
+former software programmer and lawyer in  Washington  involved in
+the data security issue. “The whole system will start to
+fail.”  To contact the reporters on this story:
+Michael A. Riley in Washington
+at   michaelriley@bloomberg.net ;
+Sophia Pearson in Wilmington,  Delaware ,
+at   spearson3@bloomberg.net .  To contact the editor responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net . 

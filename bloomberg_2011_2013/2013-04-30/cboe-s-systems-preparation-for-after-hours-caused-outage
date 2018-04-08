@@ -1,0 +1,93 @@
+-- CBOE’s Systems Preparation for After Hours Caused Outage
+-- B y   N i n a   M e h t a   a n d   N i k o l a j   G a m m e l t o f t
+-- 2013-04-30T00:01:03Z
+-- http://www.bloomberg.com/news/2013-04-30/cboe-s-systems-preparation-for-after-hours-caused-outage.html
+CBOE Holdings Inc. (CBOE)  said preliminary
+work in preparation for reconfiguring its computer systems
+caused the April 25 malfunction that shut the  Chicago Board
+Options Exchange  for three-and-a-half hours.  The company was preparing to change its systems to get
+ready for extended trading hours on the CBOE Futures Exchange
+and eventually CBOE options, the exchange operator said in a
+ letter  to customers posted on its website yesterday. That work
+“exposed and triggered a design flaw,” it said.  “Early Thursday morning our team identified and addressed
+a potential software issue and subsequently believed we were on
+track for a normal open,” the company said in the letter from
+Chief Executive Officer Bill Brodsky. “Unfortunately, the
+nature of a software bug is sometimes only identifiable once the
+system is operationally ready, such was the case last Thursday
+at CBOE. As we approached the open, it became apparent that the
+software issue was not fully resolved, and the decision was made
+to delay the opening.”  The CBOE’s shutdown underscored how common technology
+errors have become among the exchanges that dominate the world’s
+largest financial market. While most  equity-derivatives 
+contracts are traded on multiple exchanges, CBOE is the
+exclusive venue for options based on the Standard & Poor’s 500
+Index and the so-called  VIX (VIX)  gauge of equity volatility.  Options Trading  Buy and sell orders for options on stocks and exchange-
+traded funds flowed to the 10 other U.S. options markets. CBOE
+accounted for 8.4 percent of U.S. options trading on April 25,
+compared with 23 percent the prior day, according to data
+compiled by Chicago-based Options Clearing Corp.  The outage frustrated investors still shocked from a swoon
+in the market on April 23 that briefly erased $136 billion from
+S&P 500 stocks after a hacker sent a fake post from an
+Associated Press Twitter account saying there had been
+explosions at the White House that injured President  Barack Obama . Traders and analysts at firms including Aite Group LLC
+and Conifer Securities LLC said the dip may have been
+exacerbated by computer algorithms that read news feeds.  The Securities and Exchange Commission proposed a mandate
+in March directing exchanges to strengthen their technology and
+instruct member firms to participate in tests to show they can
+sustain operations after a widespread disruption such as a
+natural disaster or terrorist act. The planned  rule , called
+Regulation Systems Compliance and Integrity, seeks to limit
+technology breakdowns at venues handling stocks, options and
+bond trades and ensure they can withstand malfunctions that
+could jeopardize markets.  Voluntary Guidelines  Regulation SCI will replace the SEC’s Automation Review
+Policy guidelines, developed in 1989 and 1991 after the 1987
+market crash known as Black Monday, when the  Dow Jones
+Industrial Average  plummeted 23 percent. Codifying voluntary
+guidelines to ensure the resilience of exchanges and the broader
+market and expanding them to larger broker-owned dark pools will
+protect participants in the complex, interlinked network of
+competing venues, the SEC said.  Brodsky and Ed Provost, CBOE’s chief business development
+officer, were at a Las Vegas resort for the annual Options
+Industry Conference on April 25. The conference marked the 40th
+anniversary of the CBOE, which was founded in 1973 when
+exchange-listed options were first traded in the U.S.  The SEC was monitoring the situation  “as is our
+practice,” spokesman  John Nester  said that day.  Shares of CBOE finished the April 25 session up 16 cents,
+or 0.4 percent. The  stock  gained 1.4 percent to $37.04 yesterday
+and it is up 26 percent this year.  ‘Software Bug’  CBOE said its internal review of the “software bug” is
+now complete and the exchange conducted extensive testing and
+re-testing of its systems over the weekend, according to the
+letter. The outage wasn’t caused by a systems upgrade or new
+systems load, it said.  The company plans a detailed analysis on its response and
+procedures during the disruption, the letter said. It will study
+how to reduce the time required to resume trading if another
+error occurs, CBOE said.  Two additional abnormalities resulted from the malfunction.
+Auction mechanisms for options products on CBOE weren’t
+available to market participants on April 25 and some trade data
+from that day was erroneously resubmitted to the Options
+Clearing Corp. at the close of trading on April 26.  The CBOE’s breakdown is the latest in a series of computer
+malfunctions that have rattled exchanges and trading firms in
+the three years since a firm’s aggressive use of an algorithm
+trading futures triggered the so-called flash crash on May 6,
+2010, that briefly wiped out $862 billion in market value in
+less than 20 minutes.  Bats, Knight  In January, Bats Global Markets Inc. acknowledged that
+computer issues allowed about 12,000 trades that violated rules
+intended to ensure all investors get the best prices for
+equities, 10 months after it canceled its own initial public
+offering because it couldn’t get the stock to trade on its
+exchange.  Knight Capital Group Inc. (KCG)  almost went out of business
+in August as a result of improperly installed software. Charges
+related to Nasdaq Stock Market’s bungled  Facebook IPO  prompted
+Nasdaq OMX Group Inc. to set aside $10 million for an SEC probe
+as well as $62 million as compensation to brokers that lost
+money in the stock’s debut.  A  power failure  shut the CBOE for 35 minutes in August 1999
+and a computer malfunction halted trading for about two-and-a-
+half hours in February 2000. The exchange’s systems
+malfunctioned in November 2007 and disrupted trading for about
+an hour.  To contact the reporters on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net ;
+Nikolaj Gammeltoft in  New York  at 
+ ngammeltoft@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

@@ -1,0 +1,48 @@
+-- 
+UPS Website Traffic Redirected by Hackers Whose Targets Included Vodafone
+
+-- B y   T i m   C u l p a n   a n d   J o n a t h a n   B r o w n i n g
+-- 
+2011-09-05T11:50:49Z
+
+-- http://www.bloomberg.com/news/2011-09-05/ups-says-domain-registration-firm-unable-to-provide-access-1-.html
+United Parcel Service Inc. (UPS) ,  Betfair
+Group Plc (BET)  and  Vodafone Group Plc (VOD)  were among companies whose
+websites were disrupted by an attack that redirected  Internet
+users  to a hacking holding page.  Online gaming company Betfair said in an e-mail that there
+may be problems with traffic “for some hours ahead.”
+Vodafone’s group website, which doesn’t hold customer data, was
+also subject to the attack, said Simon Gordon, a spokesman for
+the world’s biggest mobile-phone company.  The “illegal changes were reversed quickly,” said  Stuart
+Fuller , a spokesman for Group NBT, the U.K. company which hosts
+the domain registrations. “While no one can completely defend
+against such sustained and concentrated malicious attacks we
+will continue to review our systems.”  Hackers changed so-called Domain Name System records
+without breaching the websites themselves, according to  Sophos
+Ltd.,  a computer security provider. Consequently, users were
+taken to a third-party website. Traffic to client websites was
+redirected to a page branded TurkGuvenligi, NBT said.  UPS, the world’s largest provider of package deliveries,
+said no customer data was compromised. “A fix is in place,
+and we expect access to UPS.com to resume to impacted customers
+within a couple of hours,”  Susan Rosenberg , a spokeswoman for
+Atlanta-based UPS, said in an e-mailed statement yesterday.  Access to the websites of computer-maker  Acer Inc. (2353)  and
+publications including The Register was disrupted by a hack that
+redirected users to the home page of the attacker, ZDNet
+reported. The websites for National Geographic also were
+affected, Sophos said.  ‘Graffiti’  “In many ways we have to be grateful that the message
+displayed appears to be graffiti,” rather than an attempt to
+steal information, Sophos said.  “What seems to have happened is that someone changed the
+lookup, so when you entered Betfair.com into your browser you
+were instead taken to a website that wasn’t under the control of
+Betfair,” Jonathan Oates, a spokesman for Betfair said today in
+a statement.  The corrected entries for the DNS records for the affected
+websites take time to circulate worldwide, Oates said.  Henry Wang, a spokesman for Taipei-based Acer, said he
+wasn’t aware of the situation. Washington-based National
+Geographic Society didn’t immediately respond to requests for
+comment that were made outside regular business hours.  To contact the reporters on this story:
+Tim Culpan in Taipei at 
+ tculpan1@bloomberg.net ;
+Jonathan Browning in London at 
+ jbrowning9@bloomberg.net   To contact the editor responsible for this story:
+Kevin Miller at 
+ kmiller@bloomberg.net  

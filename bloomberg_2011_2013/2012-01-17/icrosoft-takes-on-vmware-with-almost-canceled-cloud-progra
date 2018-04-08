@@ -1,0 +1,68 @@
+-- Microsoft Takes on VMware With Almost-Canceled Cloud Program
+-- B y   D i n a   B a s s
+-- 2012-01-17T16:30:00Z
+-- http://www.bloomberg.com/news/2012-01-17/microsoft-takes-on-vmware-with-almost-canceled-cloud-program.html
+Microsoft Corp. (MSFT) ’s computer-network-
+management software, a product that Chief Executive Officer
+ Steve Ballmer  once came close to scrapping, emerges today as the
+cornerstone of a bid to challenge VMware Inc.  A new version of System Center 2012 will be released as
+part of its final testing phase, said Brad Anderson, a vice
+president in Microsoft’s management and security division. The
+software is used with Windows and virtualization software,
+letting companies turn their servers into so-called private
+clouds. The offering is cheaper than VMware’s competing product
+and has equivalent features, Anderson said.  Companies use cloud computing to store and run programs via
+the Internet. While the approach spares them from having to
+store data locally, many businesses want to run them in-house
+for better control; hence, the appeal of private clouds. Though
+VMware has an edge in this area, Microsoft should pose a
+stronger challenge this year, said Al Gillen, an analyst at
+Framingham, Massachusetts-based research firm IDC.  “The stage is being set for a very brutal competition
+between Microsoft and VMware,” he said. “You are going to see
+a lot of focus around price. Until now,  VMware’s (VMW)  functionality
+has been so much better that they haven’t had to compete on
+price. That’s going to change.”  One of the goals of cloud computing is to give customers
+access to a pool of computing power and storage that can easily
+be assigned to a particular program, without the need for
+information-technology staff.  Public and Private  Companies like Microsoft and  Amazon.com Inc. (AMZN)  that run
+public clouds use their own data centers to store and operate
+programs for customers. In a private cloud, the client wants the
+same flexibility, cost savings and ease of use in their own data
+centers. While that requires virtualization software to combine
+multiple programs on one server, it also relies on network-
+management software like System Center, Anderson said.  Cloud has been a key factor in the rising importance of
+Microsoft’s management software. When Anderson joined the
+company in 2003 from  Novell Inc. (NOVL) , he said the product, then
+called Systems Management Server, was largely used to help
+companies roll out programs and security patches to workers.  Development was running more than two years late and
+unbeknownst to Anderson at the time, Ballmer had told the
+leadership team that if the schedule slipped again, he would
+cancel the product. After a few weeks at Microsoft, Anderson sat
+in his first meeting with Chairman  Bill Gates , who asked him why
+the company needed it at all.  Billion-Dollar Sales  At the time, Microsoft got about $250 million in annual
+sales from management software, Anderson said. Two years ago,
+the business broke the $1 billion mark, he said. Anderson
+declined to provide more recent revenue numbers. VMware, based
+in  Palo Alto ,  California , doesn’t break out revenue for its
+equivalent business line.  Even with the growth, Redmond, Washington-based Microsoft
+hasn’t been able to compete on a par with VMware, Anderson said.
+Four years ago, at meetings with customers at a Microsoft
+conference in  Barcelona ,  Spain , that message was clear, he said.  “I came away feeling we have a lot of work to do,” he
+said. “That even though their price was 5X ours, we didn’t have
+the capabilities to even have that conversation.”  In recent years, with improvements to the management tools,
+as well as Windows Server and Microsoft’s Hyper-V virtualization
+software, that’s starting to change. After the debut of the last
+test version today, the final System Center 2012 will be
+released in the first half of the year.  Unilever, Lufthansa  Microsoft, the world’s largest software maker, counts
+ Unilever NV (UNA)  among its private-cloud  customers , Anderson said.  VMware still has an advantage because of its leading role
+in virtualization software, which gives more flexibility to
+servers. Microsoft’s Hyper-V product has 25 percent of the
+market, according to IDC, compared with VMware’s 52 percent.  Companies that already have VMware installed will stick
+with it if they opt for private clouds, Gillen said. Still,
+Microsoft will provide stronger competition for new projects, he
+said.  “This is the release that gets them really into the
+private-cloud conversation,” said Mary Johnston Turner, also an
+analyst at IDC.  To contact the reporters on this story:
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

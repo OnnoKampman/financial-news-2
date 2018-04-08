@@ -1,0 +1,67 @@
+-- SEC’s White to Push Exchange Executives for Better Data Backups
+-- B y   D a v e   M i c h a e l s
+-- 2013-09-11T17:44:46Z
+-- http://www.bloomberg.com/news/2013-09-11/sec-s-white-to-push-exchange-executives-for-better-data-backups.html
+Exchange executives and securities
+regulators will discuss improvements in systems for distributing
+price data as they meet in  Washington  tomorrow in the latest
+attempt to strengthen the fragmented U.S. equity market.  Securities and Exchange Commission Chairman Mary Jo White
+plans to hold private talks in with the chief executive officers
+of the 13 U.S. stock exchanges to discuss the Aug. 22 failure in
+ Nasdaq OMX Group Inc. (NDAQ) ’s backup system for disseminating prices,
+which prompted a three-hour trading halt for thousands of
+companies.  The malfunction was the latest in a series of mishaps that
+have shaken confidence in computerized trading since May 6,
+2010, when an algorithm briefly caused markets to erase about
+$862 billion in share value. The SEC expects Nasdaq and NYSE
+Euronext to explain that incident and coordinate with other
+exchange operators to prevent future occurrences.  “They are encouraging the exchanges to work together to
+make sure the systems are as redundant as possible,” said David A. Herron, chief executive officer of Chicago Stock Exchange
+Inc., who will attend the meeting. “I think the industry will
+step up and do the right thing.”  White, who was a  Nasdaq  Stock Market Inc. board member from
+2002 to 2006, has said she will seek new protocols for breaking
+trades if a network fails and push to advance rules that would
+require exchanges to show trading can continue through natural
+disasters and programming glitches.  Snowballing Malfunction  Nasdaq’s computers were flooded Aug. 22 with data from NYSE
+Arca, a rival exchange, revealing a bug in Nasdaq’s software
+that disabled systems that should have prevented the malfunction
+from snowballing, according to a statement. The challenges were
+“clearly within the control of Nasdaq OMX,” the company said.  Nasdaq experienced another glitch with the system on Sept.
+4. This time, the backup worked and the problem only lasted six
+minutes. The exchange said the data feed suffered a “hardware
+memory failure” that forced a switch to a backup.  The private meeting will focus new scrutiny on the price
+networks, known as securities information processors, that
+distribute stock prices to the public. The three SIPs for U.S.
+equity markets are run by Nasdaq and  NYSE Euronext. (NYX)   SIPs gather price data from each exchange, consolidate it,
+and then sell the information to brokers and other securities
+firms. All exchange participants share the revenue earned from
+selling the data, which is prescribed by an SEC rule.  Nasdaq’s recent failures underscore the risk of relying on
+a single system to disseminate market data. An SEC advisory
+committee recommended in 2001 that the commission encourage
+competition by opening up the market-data business to outside
+consolidators. The commission rejected that idea in a 2005
+update of national-market system rules known as Regulation NMS.  ‘Regulatory Mandate’  “This notion that people should pay for the quotes by
+regulatory mandate was back in a time when you needed  mainframe
+computers  and hundreds of millions of dollars to aggregate
+quotes and provide information to the public about security
+prices, but we haven’t needed that for 25 years,” said Harold S. Bradley, who served on the 2001 committee and is a former
+chief investment officer for the Ewing Marion Kauffman
+Foundation. “So the SIP ends up being a choke point in a high-frequency trading world and an enormous source of revenue for
+the exchanges.”  A committee that oversees Nasdaq’s SIP proposed on Sept. 4
+“short-term” actions to prevent future failures. The changes
+include terminating a connection if the network detects an
+unusual surge in data traffic and increasing the frequency of
+stress testing.  Future Failures  The SEC meeting also will allow White and fellow regulators
+to explore how a rule proposed in March, known as Regulation
+SCI, may help prevent future failures of key exchange
+technology. The exchanges have resisted key sections of the
+proposal, saying it would cover too many systems and require
+them to report too much information.  The SEC also plans to discuss how a trading halt due to a
+SIP failure can be better communicated. Some exchanges had
+systems programmed to stop trading based on a message from the
+market-data networks. That message couldn’t be relayed by
+Nasdaq’s SIP after it went down on Aug. 22.  To contact the reporter on this story:
+Dave Michaels in Washington at 
+ dmichaels5@bloomberg.net   To contact the editor responsible for this story:
+ Maura Reynolds  at 
+ mreynolds34@bloomberg.net  

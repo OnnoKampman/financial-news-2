@@ -1,0 +1,81 @@
+-- 
+An Asset-Pricing Model for the Contagion Age: Polson and Scott
+
+-- B y   N i c h o l a s   G .   P o l s o n   a n d   J a m e s   G .   S c o t t
+-- 
+2011-12-08T00:01:28Z
+
+-- http://www.bloomberg.com/news/2011-12-08/an-asset-pricing-model-for-contagion-age-commentary-by-polson-and-scott.html
+The financial crisis and the meltdown
+in  Europe  have exposed the deficiencies of traditional asset-
+pricing models, particularly their inability to account for the
+effect of contagion from one market to another. The good news is
+that the length and the persistence of the turmoil have given
+researchers a trove of data to develop new predictive tools.  In our work, we developed an  asset-pricing model  to study
+these market disruptions, which incorporates random shocks to
+volatility that are correlated across markets. It provides a
+more accurate way to evaluate contagion, defined as the extent
+to which shocks from one market affect another over and above
+the level implied by the underlying asset-pricing model.  As an example of the volatility and correlation observed
+during the financial crisis, consider the movements in  Germany ’s
+ DAX Index (DAX)  and the  Standard & Poor’s 500 Index (SPX)  from July through
+early October 2011. The DAX fell 30 percent, to 5,216 on Oct. 4,
+from a high of 7,402 at the beginning of July. Over the same
+period, the S&P fell 20 percent, to 1,075, from 1,340; meanwhile
+the Chicago Board Options Exchange Volatility Index, known as
+the VIX, increased to 45.5 percent, from 15 percent.  Over the subsequent month and a half, volatility remained
+persistently higher than traditional asset-pricing models would
+have predicted, even though returns stabilized. The large drops
+in the DAX and  S&P 500  reflect increases in the underlying
+asset-return volatilities. This is also directly observed in the
+increase in the  VIX. (VIX)   VIX Spike  Moreover, one can see the fat-tailed nature of the
+distribution of volatility in the daily movements. For example,
+on Nov. 10, after markets had stabilized somewhat, the VIX index
+spiked to above 36 percent, from 28 percent, an intraday move of
+more than 8 percent.  This episode captures the three facts about global markets
+that any asset-pricing model must now address:  -- A large shock in asset returns in one market predicts
+large shocks to other markets. This is cross-sectional
+clustering of shocks, which some researchers call “meteor
+shower” volatility.  -- A large shock in asset prices today predicts further
+large, mean-reverting, shocks tomorrow. This is a time-series or
+self-exciting clustering effect in volatility.  -- A large shock to aggregate market volatility predicts
+specific, directional clustering of country-level returns.
+Allowing for the effect of directional volatility is important
+for measuring contagion in markets.  Our asset-pricing model incorporates three volatility
+effects: cross-sectional clustering across countries (or
+markets), longitudinal clustering across time and directional
+clustering. These aren’t part of traditional models.  Cross-sectional clustering accounts for the observation
+that large market movements in one region seem to increase the
+chances of observing a large movement in another, beyond what
+would be predicted by traditional asset-pricing models.  Longitudinal clustering allows volatility shocks to persist
+over time, a well-known feature of such phenomena.  Directional clustering captures the fact that shocks in one
+market are often followed by shocks in a particular direction in
+another. That is, the event in the first market can be used to
+help predict the return in the other market. Our analysis finds
+that directional clustering has the greatest impact in
+predicting contagion between markets.  Fat-Tails  Our analysis  allows the distribution of volatility during
+disruptive periods to have fat-tails. This is a characteristic
+that has long been recognized in the distribution of asset
+returns. Fat-tailed distributions, in contrast to a normal (or
+Gaussian) distribution, have greater probability for values
+further away from the average; fat-tailed distributions will
+have more extreme volatility movements than one would predict
+with the assumption of standard normality.  The inclusion of fat-tails has implications for the way
+contagion between markets is measured. Because contagion is the
+excess correlation between asset returns, it can only be
+properly evaluated if one begins with an asset pricing that
+incorporates fat-tailed volatility.  We now have ample data to test traditional models of
+returns and volatility thanks to the financial crisis and the
+debt turmoil in Europe. These events also have renewed interest
+in asset-pricing models as a method for measuring contagion
+effects across markets.  New models are needed to replace the old ones, whose
+simplistic assumptions about volatility cannot capture the
+current complex environment.  (Nicholas G. Polson is professor of econometrics and
+statistics at the University of Chicago Booth School of Business
+and a contributor to  Business Class .  James G. Scott  is assistant
+professor of statistics at the McCombs School of Business at the
+ University of Texas  at Austin. The opinions expressed are their
+own.)  To contact the writers of this article:
+Nicholas G. Polson at  Nicholas.polson@chicagobooth.edu ;
+James G. Scott at  james.scott@mccombs.utexas.edu .  To contact the editor responsible for this article:
+Max Berley at  mberley@bloomberg.net . 

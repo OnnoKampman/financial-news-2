@@ -1,0 +1,76 @@
+-- SAP’s Chen Challenges Oracle, IBM With Database Advances
+-- B y   C o r n e l i u s   R a h n
+-- 2012-08-10T14:16:22Z
+-- http://www.bloomberg.com/news/2012-08-10/sap-s-chen-challenges-oracle-ibm-with-database-advances.html
+SAP AG (SAP) , chasing  Oracle (ORCL)  Corp. and
+ International Business Machines Corp. (IBM)  in the $26.7 billion
+database market, is betting on new product features to gain
+ground, said the man who helped build the company’s arsenal.  The largest maker of business-management software has a
+realistic chance of overtaking IBM in database revenue in the
+next three years as it wins customers with new applications,
+integration with mobile and real-time technology, and lower
+prices, said John Chen, head of Sybase, the database and mobile-
+software maker that SAP bought for $5.8 billion in 2010.  SAP’s push into  database software  opens up a battlefield
+with archrival Oracle and is giving the Walldorf, Germany-based
+company a fresh source of revenue growth. To become a longer-
+term threat to its bigger rivals, SAP also needs to plan for
+advances further out, such as self-correction mechanisms or
+built-in security layers, Chen said.  “I used to run an underdog for a long time, and I never
+underestimate competitors,” Chen said in a phone interview on
+Aug. 7. “We seem to have something that could mesh well
+together. But I would be stupid if I thought that three years
+from now the same story holds, without any additions, without
+some new features or architecture that we could put in.”  Chen, a Hong Kong native who has run Sybase since 1998, has
+served on  George W. Bush ’s export council and is also a board
+member at  Wells Fargo & Co . and Walt Disney Co. At SAP, one of
+Chen’s challenges is to outsmart Oracle, which currently
+provides most of the databases that feed SAP’s  software  for
+running tasks like customer management, payroll and accounting.  Not Easy  “They have lofty ambitions, but since they have a good set
+of products why shouldn’t they beat their drum?” said Heinz Steffen, an analyst at Fairesearch in Kronberg near Frankfurt,
+who advises buying SAP shares. “The fact that they depend on
+Oracle databases for most of their installations has been
+nagging them for a long time.”  SAP last year severed a partnership with Dayton, Ohio-based
+ Teradata Corp. (TDC)  on data warehousing, as it aims to provide more
+underlying databases itself. The German company also has to
+displace  Microsoft (MSFT)  Corp. in that market. That’s not easy because
+clients have to be convinced that replacing a functioning
+database is worth the effort, Chen said.  Market Share  Oracle held 44 percent of the database market last year,
+followed by IBM at 22 percent, Microsoft at 18 percent, SAP at
+4.1 percent and Teradata with 3.3 percent, according to Gartner
+Inc. The market is set to grow an average 6.4 percent a year to
+$36.5 billion by 2016 as companies require more storage for and
+better access to data, from customer contact information to
+videos, the research firm predicts.  SAP shares had gained 29 percent this year before today,
+exceeding a 22 percent gain for Oracle and a 7.9 percent
+increase at IBM. SAP declined 1.5 percent to 51.79 euros at 4:11
+p.m. in  Frankfurt . Oracle slipped 0.2 percent in  New York , while
+IBM was down 0.4 percent.  SAP is growing faster than the market by linking Sybase’s
+database tools with other software in its portfolio, Chen said.
+It’s rolling out its Hana software, which allows faster
+transaction and analysis because it lets data bypass slow hard
+drives. Sybase’s mobile technology gives employees access to
+data even when they’re traveling.  Mars Rover  “We’ll have plenty of opportunities to replace
+databases,” Chen said. “It’s not going to replace the one that
+they’re running, one for one. It’s to enhance that one and then
+maybe surround and finally eliminate it.”  One innovation would be integrating security software into
+databases that would help keep out most viruses and trojans, he
+said. Data security is one of the main risks companies face, as
+focused hackers can potentially breach any external security
+barriers physically or via the Internet.  Chen, who is also a trustee at the  California Institute of
+Technology , said he took inspiration for future database
+technology this month from seeing Nasa’s Curiosity rover touch
+down safely in a crater of Mars. A Caltech division designed,
+developed and assembled the rover.  Chen said he was impressed by the machine’s self-correcting
+functions, which continuously assessed environmental features
+like the crater depth and the particularities of the landing
+site. It needed such mechanisms because commands from Earth
+would arrive minutes too late for them to have any effect.  By contrast, today’s databases suffer problems that result
+from commands and queries coming in simultaneously, creating
+irregularities in the data which the software cannot resolve by
+itself, Chen said.  “If you apply that concept to commercial data management,
+you should have a concept that could heal itself,” he said.
+“I’d love to work on those.”  To contact the reporter on this story:
+Cornelius Rahn in Frankfurt at 
+ crahn2@bloomberg.net   To contact the editor responsible for this story:
+Kenneth Wong at 
+ kwong11@bloomberg.net  

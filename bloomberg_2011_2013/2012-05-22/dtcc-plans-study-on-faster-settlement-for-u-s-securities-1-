@@ -1,0 +1,120 @@
+-- DTCC Plans Study on Faster Settlement for U.S. Securities
+-- B y   N i n a   M e h t a
+-- 2012-05-22T18:11:19Z
+-- http://www.bloomberg.com/news/2012-05-22/dtcc-plans-study-on-faster-settlement-for-u-s-securities-1-.html
+The Depository Trust & Clearing Corp.
+is commissioning a study on whether the U.S. securities industry
+should cut the time it takes to process transactions, a shift
+that may reduce risk and compel brokers and asset managers to
+spend more on further updating their systems.  The New York-based company that handles and guarantees
+trades in U.S. stocks, corporate bonds and municipal securities
+hired the Boston Consulting Group Inc. to assess the costs and
+benefits of settling trades in fewer than three days, the
+current standard, Elena Staloff, a vice president at  DTCC , said
+in a phone interview. A shorter cycle would mean firms could
+post less capital to the clearing fund run by DTCC subsidiary
+ National Securities Clearing Corp.  to cover a defaulting
+broker’s obligations and pay less to meet the organization’s
+liquidity needs to handle a problem, she said.  A 2000 industry  report  about completing transactions in a
+day said the one-time cost of moving to a so-called T+1
+settlement would be $8 billion for the securities industry and
+could be implemented within four years. The savings would be
+$2.7 billion annually, the study found. More trading-related
+processes have been automated since then and it’s unclear
+whether the costs now would be higher or lower, Staloff said.  ‘Independent Read’  “I’m hoping we get an independent read on where the
+industry is now in terms of its readiness to shorten the
+settlement cycle,” Staloff said. DTCC is working with the
+Securities Industry and Financial Markets Association to
+evaluate the case for a shorter cycle. “Shortening the
+settlement cycle should help our member firms with their capital
+and liquidity needs but we don’t know what the costs would be.”  The 2000 industry plan was put on hold as market conditions
+deteriorated after the 2001 terrorist attacks. Instead, the
+focus turned to automating post-trading systems and processes.  “We want to revisit the building blocks or obstacles
+identified in the 2000 study that may need to be tackled in
+order to evaluate how cost effective and efficient it may be to
+shorten the settlement cycle,”  Tom Price , head of operations,
+technology and business continuity planning at Sifma, said in a
+phone interview. He said no decision has been made about whether
+to preserve the current  T+3 environment  or move to a two-day or
+one-day cycle, or “T+2 as a first step toward T+1.”  Exploring the Issues  While compressing the timeframe may reduce the risk that
+DTCC and member firms face in the event of a broker’s default,
+the change could increase the number of failed trades or
+transactions that aren’t completed on time, boosting risk, Price
+said. Sifma wants to explore these issues and help determine
+what the impact would be of an abbreviated cycle, he said.  This issue has surfaced in part because of European  plans 
+to harmonize the settlement cycles across most countries in the
+region to T+2 and efforts by regulators to bolster the “basic
+plumbing of the industry,” Price said.  “It would force changes in borrowing and lending, the
+financing of securities and loans and it would force the process
+to squeeze out more human interaction and have that happen by
+default by computers,” James Leman, a managing director at New
+York-based management and technology consulting firm  Westwater
+Corp. , said in a phone interview. “T+2 is probably one step the
+industry could find a way to cope with. For T+1, someone would
+really have to define what the benefit is and what problem is
+being eliminated.”  Back-Office Costs  Portfolio trading groups, or those who buy and sell baskets
+of securities for customers, have long complained they don’t
+have enough time to process transactions, said Leman, who  helped 
+develop the FIX messaging protocol in the 1990s that enables
+securities firms and other participants to communicate
+electronically. Asset managers also need time to manage their
+so-called allocations, or instructions about the accounts to
+which trades should be delivered, he said.  “The costs to shorten the cycle will fall on back offices
+at brokers and asset managers,” or units that deal with
+confirming and processing transactions after they occur,  Paul
+Rowady , a senior analyst at research firm Tabb Group LLC in New
+York, said in a phone interview. “The worst case is if you’re
+an active asset management shop and you don’t have sufficiently
+automated and detailed processes. Manual intervention is what
+ultimately slows this down.”  Clearing firms that are starting to accept more types of
+securities as collateral to support the processing of over-the-
+counter derivatives will benefit from a shorter settlement
+cycle, Rowady said. Brokers can’t use securities that haven’t
+cleared and settled as collateral, limiting the ability of those
+products “to move around fluidly” to support new requirements
+from regulations prompted by the financial crisis, he said.  ‘Like a Flywheel’  “It’s like a flywheel that’s speeding up,” Rowady said.
+“If the settlement process doesn’t speed up, it will act as a
+weak link in the process.”  The evaluation of a shorter settlement timeframe comes as
+the securities industry prepares to build an audit trail for all
+orders and transactions. The Securities and Exchange Commission
+said the so-called consolidated audit trail, which would improve
+surveillance and help regulators analyze market plunges, may
+cost $4 billion to build and $2.1 billion a year to maintain.  Settlement  refers to the transfer of cash from the buyer to
+the seller and securities from the seller to the buyer. Clearing
+encompasses the netting of trades and novation, or the
+replacement of contractual obligations by the clearinghouse
+which then becomes the buyer to the seller and the seller to the
+buyer, eliminating the risk each party faces in the event of a
+default by the other.  Process Changes  The study DTCC is commissioning will identify the processes
+that would have to change to speed up settlement to the trade
+date itself, DTCC said in a  statement  today. DTCC must also
+examine how a shorter cycle would affect foreign buyers or
+sellers of U.S. securities, Staloff said.  NSCC’s average daily clearing fund requirements would
+decline 15 percent to $3.42 billion if the settlement cycle
+shrinks to two days after trades occur and 25 percent to $2.99
+billion for T+1, a December  report  from DTCC estimated, based on
+data from Oct. 19, 2010, to Aug. 31, 2011. In periods of higher
+volatility when clearing fund requirements increase, a T+1
+timeframe would reduce that amount 37 percent to $4.62 billion,
+the report showed.  $1.7 Quadrillion  DTCC subsidiaries settled nearly $1.7 quadrillion in
+securities transactions last year, the company said. NSCC
+cleared trades with an average daily value of $450 billion last
+year, with participants’ exposure at $900 billion a day since
+there are two parties to each transaction. NSCC has proposed to
+guarantee sales and purchases soon after they’re made instead of
+at midnight at the end of the first day following the
+transaction, Staloff said.  That plan, which needs regulatory approval, will reduce the
+risks parties face in the event of a broker default, she said.
+It’s likely to be implemented this year, she said.  The Boston Consulting Group study, which will include
+interviews with brokers, banks, asset managers, custodians,
+retail securities firms and other participants, will be
+completed in September, Staloff said. Sifma’s operations and
+technology steering committee will help decide whether the
+industry should decrease the timeframe for settlement, or leave
+it at the current deadline of three days after the trade occurs.  “The process will be transparent and open,” Price said.
+“We want to have an eyes-wide-open approach, have an open mind
+and not come to this with a preconceived notion about what the
+outcome should be.”  To contact the reporter on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

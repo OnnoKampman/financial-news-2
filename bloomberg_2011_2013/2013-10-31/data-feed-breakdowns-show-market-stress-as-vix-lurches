@@ -1,0 +1,119 @@
+-- Data Feed Breakdowns Show Market Stress as VIX Lurches
+-- B y   N i k o l a j   G a m m e l t o f t   a n d   L u   W a n g
+-- 2013-10-31T08:38:09Z
+-- http://www.bloomberg.com/news/2013-10-31/data-feed-breakdowns-show-market-stress-as-vix-lurches.html
+Confidence was shaken in the U.S.
+options market after lines that pipe prices between exchanges
+malfunctioned, reinforcing concern that arose two months ago
+when Nasdaq OMX Group Inc. froze trading.  Deutsche Boerse AG (DB1) ’s International Securities Exchange,
+which runs the third-largest U.S. options venue, had trouble
+sending information yesterday to a marketwide price conduit
+called the Options Price Reporting Authority. It’s at least the
+sixth mishap this year with the main price feed for  equity
+derivatives , evidence of the market’s fragility as Securities
+and Exchange Commission Chairman Mary Jo White pressures
+exchanges to collaborate on making their systems more reliable.  While trading carried on yesterday, the breakdown gave
+fresh life to speculation that the structure of American
+securities markets is fundamentally flawed. The disruption
+followed Nasdaq’s Aug. 22 data feed error that caused a three-hour halt for thousands of stocks, and comes after the SEC
+accused two of the biggest options institutions,  CBOE Holdings
+Inc. (CBOE)  and Options Clearing Corp., of supervisory failures.  “The series of glitches we’ve experienced this year have
+definitely served to remind us that market risk isn’t the only
+thing traders have to worry about,” Max Breier, a senior equity
+derivatives trader at BMO Capital Markets Corp. in New York,
+said in an interview yesterday. “Operational risk, which is
+very hard to quantify, may be increasing as the world becomes
+more reliant on electronic exchanges.”  Opra Problem  Nasdaq’s securities information processor, or SIP, broke
+down in August, prompting the second-largest U.S. stock exchange
+owner to halt trading out of concern that the error would cause
+uneven dissemination of prices. It underscored how quickly the
+integrity of the U.S. market can be subverted as orders to buy
+and sell shares are matched on more than 50 exchanges and
+alternative electronic venues.  “The problem that originated at Opra today that prevented
+dissemination of ISE’s market data again reinforces the need for
+the industry to assess single points of failure and to work
+together to strengthen our critical infrastructure as requested
+by Chair White last month,” ISE Chief Executive Officer Gary Katz said yesterday in a statement e-mailed to Bloomberg News.
+“We are committed to working with Opra and the other exchanges
+to make actionable recommendations to accomplish that goal.”  Market Fragmentation  Like the U.S. equity market, options trading is spread
+across multiple exchanges, all of them connected by data feeds
+that ensure buyers and sellers get the best available price. The
+fragmentation followed a decade and a half of reform on Wall
+Street aimed at spurring competition among securities exchanges.
+Critics say the system has bred so much complexity that avoiding
+breakdowns is impossible.  Errors with the main options price feed have cropped up
+several times in 2013. The U.S. equity derivatives market was
+halted briefly on Sept. 16 because of an issue with data from
+Opra, while CBOE stopped trading three days earlier on its C2
+venue when it couldn’t send information to the price processor.
+ Nasdaq  reported problems with Opra in January and April. CBOE,
+the largest U.S. options exchange operator, experienced issues
+with disseminating data in July.  Breakdowns in equity and options markets could threaten
+industry credit ratings around the world, according to Standard
+& Poor’s. SEC Chairman White ordered exchange owners on Sept. 12
+to bolster systems to prevent malfunctions.  ‘It’s Frustrating’  “It’s frustrating that these market issues are happening
+so often lately,” Jon Cherry, senior vice president of
+derivatives trading at Chicago-based TJM Institutional Services
+LLC, said in an interview. “It’s across many exchanges, and
+it’s in options and equities.”  The SEC has questioned the quality of options market
+oversight, telling Chicago-based Options Clearing Corp. in
+September that it has “serious concern about systemic
+weaknesses in OCC’s risk management and operations,” according
+to a letter obtained by Bloomberg News. The clearinghouse
+guarantees all trades on U.S. options exchanges. The SEC
+chastised Chicago-based CBOE in June for an oversight breakdown
+that resulted in a $6 million fine.  ISE  said  its technical issue yesterday involved the
+software configuration in its connection to Opra, according to a
+statement. A workaround was implemented and “ISE and Opra
+technology teams are collaborating to restore the proper
+configuration,” ISE said.  Quote Information  NYSE Euronext (NYX) ’s Securities Industry Automation Corp.
+oversees Opra, which administers the dissemination of trade and
+quote information to brokers, investors and market-data vendors
+such as Thomson Reuters Corp. and Bloomberg LP, the parent of
+Bloomberg News. NYSE Euronext spokesman Eric Ryan declined to
+comment on ISE.  The two U.S. options markets that ISE runs handled a
+combined 15 percent of the nation’s equity derivatives trading
+last month, according to data compiled by OCC.  Separately, the Chicago Board Options Exchange Volatility
+Index, known as the VIX, surged and fell yesterday in a series
+of bursts that CBOE later attributed to a software flaw.  The spikes in the benchmark measure of U.S. options prices
+were probably unrelated to the ISE malfunction because CBOE has
+exclusive rights to options on the Standard & Poor’s 500 Index.
+Contracts on that equity gauge determine the price of the  VIX. (VIX)   The VIX jumped to 21.26 from 13.94 at 10:02 a.m. New York
+time yesterday. The next price was 13.92. At 11:22 a.m., the VIX
+posted another temporary spike: up to 15.27 from 14.16, and then
+immediately back down to 14.17, according to  data  compiled by
+Bloomberg. It happened again at 12:19 p.m. with a jump to 19.53
+and retreat to 14.31, the data show.  Software Issue  Later, CBOE  said  on its website that the unusual VIX moves
+were caused by a “software issue” that was resolved as of 1:21
+p.m. New York time yesterday. The VIX ended the day at 13.65
+yesterday. Its counterpart in Europe, the VStoxx Index, fell 3.3
+percent to 15.62 at 9:36 a.m. in  Frankfurt  today.  “If you have consistent, repeated incidents of dubious
+data, then it may cause people to lose confidence,” Randy Frederick, managing director of active trading and derivatives
+at Charles Schwab Corp., said in a phone interview from Austin,
+ Texas . His firm has about $2.2 trillion of client assets. “Any
+types of technology glitches cause concern for investors. That’s
+no question.”  The moves in the VIX didn’t affect pricing of futures and
+options contracts on the index, said Bouhari Arouna, director of
+equity trading strategy at Citigroup Global Markets Inc. While
+the VIX isn’t itself traded, CBOE has created contracts linked
+to the measure.  ‘Not Ideal’  Trading malfunctions have plagued the U.S. stock and
+options markets since the May 2010 plunge known as the flash
+crash. This year, Goldman Sachs Group Inc. bombarded options
+markets in August with unintended orders, some of which were
+later canceled. On April 25, the CBOE opened for trading 3 1/2
+hours late because of a software malfunction.  “It does happen on a fairly regular basis that you get a
+strange print in the VIX, but the timing of these issues is not
+ideal for the options market,” said Bill Luby, who trades
+volatility products as chief investment officer of Tiburon,
+California-based Luby Asset Management LLC. “We just had the
+Goldman issue, Nasdaq had a major disruption and CBOE is rolling
+out extended VIX futures trading hours, so they certainly want
+to make sure their calculations and software are ready.”  To contact the reporters on this story:
+Nikolaj Gammeltoft in New York at 
+ ngammeltoft@bloomberg.net ;
+Lu Wang in New York at 
+ lwang8@bloomberg.net   To contact the editors responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net ;
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

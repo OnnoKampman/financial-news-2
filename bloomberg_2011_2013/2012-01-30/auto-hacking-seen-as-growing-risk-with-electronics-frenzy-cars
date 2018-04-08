@@ -1,0 +1,92 @@
+-- Auto Hacking Seen as Growing Risk With Electronics Frenzy: Cars
+-- B y   A n g e l a   G r e i l i n g   K e a n e
+-- 2012-01-30T05:00:01Z
+-- http://www.bloomberg.com/news/2012-01-30/auto-hacking-seen-as-growing-risk-with-electronics-frenzy-cars.html
+Drivers can talk with each other via
+Bluetooth phone connections, ask their cars for directions and
+dial up satellite radio. The same cars use electronic components
+to signal the gas pedal to accelerate and control stability.  What increasingly worries scientists is that entertainment
+computers could be manipulated to tell the safety computers what
+to do.  “There clearly is a vulnerability,” said Adrian Lund,
+president of the Insurance Institute for Highway Safety, based
+in Arlington, Virginia. “All these electronics we’re bringing
+into cars seem to exacerbate that.”  A National Academy of Sciences panel, including Lund,
+elevated the concerns in a  report  Jan. 18 reviewing U.S.
+regulators’ work in finding the cause of unintended acceleration
+in Toyota Motor Corp. vehicles.  While safety and entertainment systems are intended to be
+separate, “it is not evident that this separation has been
+adequately designed for cybersecurity concerns,” the academy
+wrote. It agreed with U.S. regulators who said they found no
+evidence the Toyota incidents were caused by faulty electronics.  Automotive engineers at a conference in  Washington  last
+week said they aren’t immediately concerned that a hacker will
+take over a car and drive it off a bridge. Instead, they said,
+they want to help automakers spot vulnerabilities while they’re
+hypothetical and ease fears of consumers who are already
+familiar with cyberattacks in other areas.  Listening In  Car thieves could exploit security weaknesses to remotely
+open and start a car, or a spy could listen to conversations
+inside a car, Stefan Savage, a University of California-San
+Diego computer science professor, said in a telephone interview.
+He co-authored a  paper  last year after discovering ways to hack
+into cars.  Any electronic system in a car from brakes to radios is a
+potential target for hackers, said Andre Weimerskirch, chief
+executive officer of Escrypt, a closely held security company in
+ Ann Arbor ,  Michigan , with automotive clients. While the risk is
+hypothetical so far, automakers and regulators need to address
+it now, he said in telephone interview.  “Once you have access through the infotainment system, the
+question is could a hacker get access to the safety-critical
+components,” Weimerskirch said.  Weimerskirch spoke last week in Washington at the annual
+conference of SAE International, a group of automotive engineers
+whose members are helping draft an industry standard for car
+electronics.  Fast-Moving Technology  Savage and co-author Tadayoshi Kohno, from the  University
+of Washington , found vulnerabilities in telematics systems,
+which make the connections between cars and mobile
+communications. They also successfully inserted an infected CD
+into a car’s compact-disc player and directed it to control
+safety systems. They aren’t aware of any real-world examples of
+car hacking.  “The issue for the industry and for the government is that
+you’re one really bad situation away from it becoming a thing
+that people think about,” Savage said. “Much better to try to
+address it early.”  The U.S. National Highway Traffic Safety Administration,
+which regulates automotive safety, needs better expertise in
+vehicle electronics, the science panel’s report concluded after
+studying the agency’s response to the Toyota incidents.  “This technology is changing so fast that NHTSA needs to
+make sure they can keep up,” Lund said.  Standards, Research  NHTSA is researching auto cybersecurity, Lynda Tran, an
+agency spokeswoman, said in an e-mail.  “The agency recognizes there are potential
+vulnerabilities, especially those related to future connected
+vehicles, that need to be fully understood and addressed,” she
+said. “NHTSA has been conducting exploratory research and is
+now planning further efforts that would evaluate the
+vulnerabilities and possible counter-measures on an industrywide
+basis,” including more research and evaluation.  Both SAE and the United States Council for Automotive
+Research, whose members include  General Motors Co. (GM) ,  Ford Motor
+Co. (F)  and Chrysler Group LLC, have groups working on engineering
+standards aimed at cybersecurity.  Unlike automotive standards that specify performance
+minimums, a security standard would have to specify what systems
+shouldn’t do, Savage said, such as not allowing a CD to send
+signals to the brakes. Improving electronic security in cars
+takes a combination of hardware, software and more personal
+expertise, he said.  Potential Sales  “The knowledge how to do it is known, but it’s not a
+market where you have off-the-shelf products,” Weimerskirch
+said.  The cost to automakers and their suppliers will depend on
+the model of car and level of desired protection, he said. It’s
+unlikely car companies will offer special security systems as an
+option because automakers wouldn’t want to imply that customers
+would need to buy something to protect their cars, Savage said.  “It sends the wrong message,” he said.  Coverity  Inc., based in  San Francisco , and  Hewlett-Packard
+Co. (HPQ) ’s Fortify unit are among the companies that may gain sales
+to manufacturers, Weimerskirch said. Computer security companies
+such as McAfee Inc., a unit of  Intel Corp. (INTC) , might also try to
+sell automotive-security products, he said. A spokesman for
+McAfee didn’t immediately respond to a phone call seeking
+comment.  Industry Has Time  Escrypt, which gets about 50 percent of its revenue from
+automotive work, hopes to profit as well, Weimerskirch said,
+declining to disclose which automakers employ the company.  The one comfort for automakers rushing to address
+cybersecurity concerns may be that it takes a great deal of
+effort to hack a car, Savage said. He worked with a team on his
+research for more than a year.  “The average person, they’re much more likely to get their
+car stolen in the traditional way and the average person is not
+concerned about somebody bugging their car,” he said. “That’s
+a big advantage that the industry has and it gives them time.”  To contact the reporter on this story:
+Angela Greiling Keane in Washington at 
+ agreilingkea@bloomberg.net   To contact the editor responsible for this story:
+Bernard Kohn at 
+ bkohn2@bloomberg.net  

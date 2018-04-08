@@ -1,0 +1,53 @@
+-- Nasdaq Plans to Analyze Systems After Trading Outage
+-- B y   M i c h a e l   P .   R e g a n
+-- 2013-08-29T16:42:38Z
+-- http://www.bloomberg.com/news/2013-08-29/nasdaq-plans-better-communication-systems-analysis.html
+Nasdaq  OMX Group Inc. is developing
+plans to better communicate with companies listed on its
+exchange and identify systems that need improvement after a
+technical malfunction halted trading last week, according to a
+letter sent to clients.  Nasdaq will be working with regulators, members of the
+exchange and partners to conduct a “thorough forensic analysis
+on what happened” and identify areas for improvement, according
+to the letter. It was sent by Bruce Aust, executive vice
+president of Nasdaq’s global corporate client group, and Robert McCooey, senior vice president of the global corporate client
+group, and obtained by Bloomberg News.  “It is clear that these systems could be more robust in
+their support of markets given the complex ecosystem in which we
+operate,” the letter said. “We are reviewing additional
+enhancements and potential design changes to further strengthen
+the SIP resiliency,” it said, referring to the securities
+industry processor, which runs the data feed of stock prices
+that are sent to other exchanges and trading firms.  Market Integrity  The three-hour shutdown of more than 3,300 Nasdaq-listed
+stocks and closure of its options exchanges was the latest in a
+series of failures to disrupt markets, prompting the Securities
+and Exchange Commission to push for rules requiring executives
+to boost the reliability of their technology. The disruption
+underscored how quickly the integrity of the U.S. market, which
+has a value of about $20 trillion, can be threatened as orders
+to buy and sell shares are matched on more than 50 exchanges and
+alternative electronic venues.  The cause of the outage was a disruption in the
+connectivity between an exchange participant and the SIP “which
+consumed and exhausted computing resources and eliminated the
+ability of the SIP to disseminate consolidated quotes and
+trades,” Nasdaq said in the letter.  A computer from NYSE Arca,  NYSE Euronext (NYX) ’s all-electronic
+exchange, handling Nasdaq-listed stocks was the machine that had
+trouble connecting with the SIP, a person familiar with the
+situation, who asked not to be identified because they were not
+authorized to discuss the issue, said last week.  When market disruptions occur in the future, Nasdaq will
+open conference lines with chief executive officers, chief
+financial officers and other executives to update them on its
+systems, according to a report attached to the letter. Every
+company that lists with Nasdaq will be assigned a director on
+its market intelligence desk who will provide “a critical
+touch-point for daily market reports, timely trading analysis
+and market information,” the report said.  Twitter Alerts  Nasdaq said it will also use Twitter and other social media
+to communicate exchange-related information during unusual
+events as well as post updates on its websites every 15 minutes
+and send emails “promptly and at regular intervals during and
+after resolution,” the report said.  Robert Madden, a spokesman for Nasdaq, declined to comment
+on the report.  Richard Adamonis , a spokesman for NYSE Euronext,
+also declined to comment.  To contact the reporter on this story:
+Michael P. Regan in  New York  at 
+ mregan12@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

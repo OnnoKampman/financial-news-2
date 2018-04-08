@@ -1,0 +1,94 @@
+-- Why U.S. Treasuries Won’t Always Be a Haven: David and Veronesi
+-- B y   A l e x a n d e r   D a v i d   a n d   P i e t r o   V e r o n e s i
+-- 2012-02-24T00:01:20Z
+-- http://www.bloomberg.com/news/2012-02-24/why-u-s-treasuries-won-t-always-be-a-haven-david-and-veronesi.html
+At the onset of the financial crisis
+in 2008, the volatility of stock returns increased dramatically
+as the equity markets plunged. At the same time, U.S. Treasury
+bond prices shot up. The correlation of bonds and stock prices
+has been mainly negative ever since.  This makes sense: In times of trouble, we dump stocks and
+buy safe Treasury bonds, and their prices should move inversely.
+This also would mean that in better times, we buy stocks and
+sell bonds, implying that the correlation between Treasuries and
+stocks should always be negative.  It isn’t. The correlation between the aggregate stock
+market and long-term Treasury bonds has been mainly positive and
+rising from the 1960s to the end of last millennium. With the
+new millennium, the correlation between stocks and Treasuries
+turned negative, and strongly so, especially around the last two
+recessions.  What happened? Why did the behavior of  stocks  and bonds
+change so much in the last decade? More important, what does
+this tell us about economic fundamentals and investors’
+behavior? In a  recent article , we argued that investors’
+uncertainty about economic growth and inflation regimes is at
+the root of the puzzling behavior of stock and Treasury prices.  We take into account that, at any point in time, investors
+don’t know which economic-inflation regime they are operating
+in, but they can use historical data and statistics to figure
+out at least which one is the most likely, as any skilled
+econometrician would.  Historical Data  Treating investors like econometricians who use historical
+data to form beliefs about economic regimes is illuminating. It
+follows from the laws of statistics that if investors are
+uncertain about the current economic regime, any new data
+observation leads to large revisions in expectations about long-
+term prospects.  Stock and long-term bond prices depend on these
+expectations, and thus large revisions imply large price
+movements. The constant flow of news into the market generates
+ volatility  and price co-movement (positive or negative) as
+investors’ uncertainty changes over time. Uncertainty decreases
+as investors observe more data, but it may also increase as the
+observation of outliers signals changes in economic regimes. We
+exploit this insight and use stock and bond data to learn about
+investors’ beliefs and especially their uncertainty about future
+economic growth and inflation.  Before describing the implications of our model for the
+last decade, we should look at the late 1970s. Our estimates
+suggest that at that time investors faced large uncertainty
+about whether the U.S. would enter a persistent stagflation
+regime. Any consumer-price data that were above expectations
+were taken as an indication that the U.S. was transiting into
+such a regime, which brings about low growth and high inflation.
+The former makes stock prices decline, the latter makes long-
+term yields increase. Thus, data-driven fluctuations in
+investors’ beliefs about a stagflation regime pushed the prices
+of stocks and Treasuries to move together, and increased
+ volatility  for both.  In the recent Great Recession, the opposite occurred. The
+market now fears deflation, which is accompanied by low growth,
+as we know from the Great Depression. In this case, CPI data
+above expectations are great news for the economy, as investors
+interpret them as a signal that the bad deflation regime could
+be averted.  Deflationary Regime  Stock markets cheer higher-than-expected CPI, and Treasury
+ yields  increase in expectation of accelerating inflation. Thus,
+data-driven beliefs about entering a deflationary state push the
+prices of stocks and Treasuries in opposite directions. Large
+uncertainty about deflation also increases the  volatility  of
+stocks and bonds, as we observed in the data. In other words,
+the signaling role of inflation dramatically alters the joint
+behavior of stocks and bonds, with important implications for
+risk and returns of stock and Treasury investments.  Our model’s estimates also suggest that investors may have
+had a relatively strong belief that the economy may enter into a
+deflationary regime in 2001. Federal Reserve Chairman  Alan Greenspan  expressed such concerns then as part of the central
+bank’s decision to cut  interest rates  to then-historic lows,
+which some commentators have designated as one of the causes of
+the housing bubble in the subsequent five years.  Our model has numerous implications for the behavior of
+stocks and bonds. For instance, researchers have been puzzling
+over why the new millennium brought the breakdown of the “ Fed
+model (.RISKPRE) ” -- the positive relationship between stock earnings
+yields and Treasury yields. Our model shows that the signaling
+role of inflation would predict just that: An increase in the
+probability of entering a deflationary regime will lower
+Treasury yields (because expected inflation is lower) but
+increase stocks’ yields (because the expected economic growth is
+slower).  Similarly, the change in correlation between stocks and
+long-term Treasuries returns from positive to negative also
+implies that U.S. bonds moved from being a risky investment --
+requiring a  risk premium  -- to a hedge, requiring a discount.  That is, investors purchasing long-term Treasuries in
+recent times would tend to receive a low average return on their
+investment, because bond prices have been bid up for their
+hedging properties. Treasuries are now considered a haven.
+However, this will only be true until the return of an
+inflationary regime. Caveat emptor.  (Alexander David is professor of finance at Haskayne School
+of Business at the University of Calgary. Pietro Veronesi is
+professor of finance at the University of Chicago Booth School
+of Business, and a contributor to  Business Class . The opinions
+expressed are their own.)  Read more opinion online from  Bloomberg View .  To contact the writers of this article:
+Alexander David at  adavid@ucalgary.ca ;
+Pietro Veronesi at  Pietro.Veronesi@chicagobooth.edu .  To contact the editor responsible for this article:
+Max Berley at   mberley@bloomberg.net . 

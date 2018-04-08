@@ -1,0 +1,45 @@
+-- 
+The Best-Paid Investment Banks: How We Crunched Data on Underwriting Fees
+
+-- B y   L a u r i e   M e i s l e r
+-- 
+2011-03-07T05:30:33Z
+
+-- http://www.bloomberg.com/news/2011-03-07/the-best-paid-investment-banks-how-we-crunched-data-on-underwriting-fees.html
+To identify the Bloomberg 20, we
+examined fees that investment banks collected for underwriting
+securities and advising on mergers and acquisitions worldwide.
+Not all of those commissions have been disclosed, so we
+extrapolated total fees from those made public in regulatory
+filings.  The data that appear will include the fee for each issue,
+if available. To calculate the dollar fee, multiply the
+disclosed percentage by the value of the issue.  For deals where fees were not disclosed, the average
+disclosed fee was applied. That is the sum of the disclosed fees
+for a firm divided by the total value of the issues.  For firms that disclosed less than 30 percent of their fees
+in either equities or debt, we applied a weighted average of
+issues underwritten by all firms for which fees were disclosed.  Preferred stocks are included with bond issues. Because
+fees for preferreds tend to be higher -- the average fee in 2010
+was 1.532 percent versus 0.350 percent for all other bonds -- we
+calculated these fees separately.  Municipals Excluded  Municipal and asset-backed bonds were excluded from the
+bond ranking, as were bonds with call periods and maturity
+lengths of less than 18 months.  In equities, we calculated the fees for initial public
+offerings and secondary offerings separately because they tend
+to have different structures. In both equities and bonds, we
+excluded self-led deals, which are the sale or issuance of a
+financial institution’s bonds or equity by its own investment
+bank.  M&A fees are rarely disclosed and typically vary according
+to the size of a deal and whether a bank is advising the target,
+acquirer or seller. We based our ranking on the fees disclosed
+in about 500 M&A transactions going back to 2008. We took an
+average of the fees for advisers to targets, acquirers and
+sellers for deals in five different size categories and applied
+those percentages to transactions for which fees weren’t
+disclosed.  Methodology Change  This year, we changed our methodology for calculating M&A
+fees, applying these averages to individual deals rather than
+each firm’s aggregate deals in each size category. As a result,
+M&A fees are about 15 percent lower than they would have been
+using the older method.  To contact the reporter responsible for this story:
+Laurie Meisler in  New York  at 
+ lmeisler@bloomberg.net .  To contact the editor responsible for this story:
+Michael Serrill in New York at 
+ mserrill@bloomberg.net . 

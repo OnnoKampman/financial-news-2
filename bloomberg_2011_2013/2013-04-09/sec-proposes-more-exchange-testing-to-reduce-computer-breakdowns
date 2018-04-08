@@ -1,0 +1,190 @@
+-- SEC Proposes New Exchange Tests to Curb Computer Breakdowns
+-- B y   N i n a   M e h t a
+-- 2013-04-10T00:23:46Z
+-- http://www.bloomberg.com/news/2013-04-09/sec-proposes-more-exchange-testing-to-reduce-computer-breakdowns.html
+U.S. exchanges and some brokers will
+be required for the first time to conduct coordinated trading
+tests to show they can recover from natural disasters or
+terrorist acts, according to a  rule  proposed by regulators.  The mandate, called Regulation Systems Compliance and
+Integrity, directs exchanges to strengthen their technology and
+instruct member firms to participate in tests to show they can
+sustain operations after a large disruption. The  rule  published
+last month covers testing, disaster preparedness and software
+development. It will govern 44 firms including 17 exchanges.  The Securities and Exchange Commission is seeking to limit
+technology breakdowns at venues handling stock, options and bond
+trades and ensure they can withstand malfunctions that could
+jeopardize markets. Regulators wrote the 373-page rule, known as
+ Reg SCI , after the May 6, 2010, flash crash when the  Dow Jones
+Industrial Average  plunged 9.2 percent before recovering, and
+last year’s breakdowns that spoiled the initial public offerings
+by Bats Global Markets Inc. and Facebook Inc.  “It’s a warning shot,” Matt Samelson, founder of research
+firm Woodbine Associates Inc. in  Stamford ,  Connecticut , said in
+a phone interview. “The rule says generally firms need to have
+more organization around how they’re administering and running
+their systems and testing. They’re saying, ‘We’re watching you,
+take notice, put your shop in better order.’”  Resources, Discipline  The SEC must have the resources and staff to apply the rule
+uniformly, Samelson said. Initial compliance costs for
+organizations subject to the regulation and those that must
+conduct testing may be as high as $242 million, with another
+$191 million in annual costs, the SEC estimated.  The regulation would apply to exchanges, clearinghouses, 15
+alternative trading platforms including 10 dark pools, systems
+that disseminate public quote and trade data, the Financial
+Industry Regulatory Authority, the Municipal Securities
+Rulemaking Board and others. Knight Capital Group Inc.’s loss of
+more than $450 million on Aug. 1 when it accidentally spewed
+orders in 150 stocks into the market drove the SEC to ask the
+public if the rule should also apply to large brokers, market
+makers and those handling retail orders.  Reg SCI will replace the SEC’s Automation Review Policy
+guidelines, developed in 1989 and 1991 after the 1987 market
+crash known as Black Monday, when the Dow average plummeted 23
+percent. Codifying voluntary guidelines to ensure the resilience
+of exchanges and the broader market and expanding them to larger
+broker-owned dark pools will protect participants in the
+complex, interlinked network of competing venues, the SEC said.  ’Technology 101’  Former SEC Chairman  Mary Schapiro  said in October that
+trading breakdowns resulted from the failure of “basic
+technology 101” rather than problems involving market structure
+and the multiplicity of public and private venues that emerged
+over the last decade.  “When you have a very interconnected set of executing
+venues, it does offer the problem of a domino effect,” William
+Adiletta, a partner at the technology practice at financial-
+services consulting firm Capco in  New York , said by phone. “The
+industry knows we have to improve the confidence of people in
+our markets because of the failures we’ve had.”  The proposed rule requires firms to have written policies
+and procedures to ensure that systems supporting trading,
+clearing, order-routing and surveillance have sufficient
+capacity and remain available to their users. The technology
+must operate as intended, be secure from threats and promote
+fair and orderly markets. A review must be done at least once a
+year by objective personnel, the SEC said.  Stress Tests  Exchanges will be required to tell an average of 150 member
+firms for the first time to participate in tests to make sure
+that trading continues through a disruption or can resume after
+a catastrophe such as a hurricane or terrorist act.  “This is part of making people understand it’s required,
+like stress tests on banks,”  Larry Leibowitz , chief operating
+officer of NYSE Euronext, said in a telephone interview. “We
+have to prepare for the worst because when the worst happens and
+you’re not prepared, it’s too late.”  The decision to close markets during superstorm Sandy
+stemmed from concern that not enough firms had tested the New
+York Stock Exchange’s backup plan and that many brokers needed
+to run their own alternative plans to continue operating at the
+same time, Leibowitz said. Contingency plans work better when
+everyone isn’t implementing them at once, he said.  Backup Plans  Not all brokers and trading firms show the same commitment
+to ensuring their execution and related systems are sound, Louis Pastina, executive vice president for NYSE operations, told the
+SEC in an October roundtable discussion about technology. The
+cycle of coding, testing and implementing software can vary
+greatly by firm, he said.  “It’s amazing to me how many times software gets
+introduced and firms don’t test with you,” he said at the time.
+“Whether we have test symbols in production or we run industry
+tests, it’s always the same firms that come in and test -- and
+those are the firms that generally don’t have issues. There’s a
+long list of firms that never show up.”  The rule will require firms subject to its authority to
+alert the SEC of important system changes and events such as
+disruptions, compliance issues and platform intrusions.
+Exchanges and other parties must spell out corrective actions
+and alert members about significant problems.  Hacker Intrusions  A delay would be allowed for some attacks, such as when
+hackers penetrated computer systems owned by  Nasdaq OMX Group
+Inc. (NDAQ)  in February 2011, if disclosure would increase the
+exchange’s vulnerability, the SEC said. That event didn’t affect
+ Nasdaq ’s trading computers, the regulator said.  There will probably be about 65 incidents a year that
+organizations subject to Reg SCI must report to regulators and
+14 excluding intrusions they must tell customers about, the SEC
+said. The 28 firms in the Automation Review Policy inspection
+program in 2011 told the regulator about 175 incidents that
+year, or 6 each, it said. The new rule would expand the types of
+incidents that must be reported and ensure greater consistency
+by dictating what information must be shared.  “It gives us more certainty around gray areas in terms of
+which systems are included and what conditions we must report,
+not only to the SEC but also to customers,” Leibowitz said.
+“As long as the reporting doesn’t become too granular and
+remains primarily focused on trading technology, this is one of
+those cases where more clarity is better.”  Compliance Costs  One-time compliance costs for the 44 organizations subject
+to Reg SCI will be between $61.6 million and $176 million, with
+annual costs between $48.7 million and $125 million, according
+to the SEC’s estimates. Member firms and market participants may
+have to spend a total of $66 million a year to participate in
+business-disruption tests, the SEC said.  Reg SCI takes a step toward treating exchanges and private
+alternative trading systems or ATSs more similarly, Justin Schack, partner and managing director for market structure
+analysis at Rosenblatt Securities Inc., said by phone.  The proposed rule come as trading away from U.S.  stock
+exchanges   reached  a high of 36.2 percent in the first quarter,
+compared with 32.8 percent last year, according to data compiled
+by Bloomberg. More than 14 percent of overall trading took place
+in dark pools in January and February, data compiled by
+Rosenblatt showed.  NYSE Euronext (NYX)  and Nasdaq OMX executives have
+said in recent years that dark pools should be subject to
+regulation more akin to rules for exchanges.  Playing Field  “If you’re asking the ATSs to behave in some respects the
+same way exchanges do, then the effect is a very small but still
+significant leveling of the playing field,” Schack said.
+Requiring dark pools to let subscribers know of similar types of
+outages and technical problems makes sense, he said.  Broker-dealers with dark pools will find Reg SCI’s
+requirements costly and broad, Robert Flatley, chief executive
+officer of CoreOne Technologies, a data-services company in New
+York, and former managing director at Deutsche Bank AG, said in
+a phone interview.  “The comprehensive nature of this and the surveillance and
+testing that will be required to put hand on heart and say,
+‘We’re compliant with the policies and procedures’ will be
+expensive and tough,” Flatley said. While higher costs may
+limit the value of dark pools to their owners, those under the
+sway of Reg SCI may be able to use their compliance as a
+“competitive advantage” to gain more trading, he said.  Dark Pools  Dark pools will be subject to Reg SCI if they trade 5
+percent of daily volume in a single stock and 0.25 percent of
+total exchange-listed equities, or 1 percent of the average
+daily dollar volume across equities. The thresholds apply if
+reached in four of the previous six months.  The SEC said 10 dark pools would be subject to the
+regulation, based on data for the week of May 7, 2012. Those
+venues, including some that are larger than the smallest stock
+exchanges, accounted for about 87 percent of the dollar volume
+traded by alternative platforms that week, it said.  Platforms for equities not listed on exchanges will be
+subject to Reg SCI if they reach 5 percent of the average daily
+dollar volume. Two trading platforms meet the threshold, the SEC
+said. Venues for municipal and corporate debt securities will
+fall under the rule’s authority if they account for either 5
+percent of average daily dollar volume traded or 5 percent of
+the number of transactions daily. The same three alternative
+trading systems would meet the volume threshold for municipal
+and debt securities, the SEC said.  ‘Profit Engines’  Dark pools have become “profit engines” for their owners
+in recent years, Flatley said. “Brokers must make a call. Do I
+invest in having more compliance and monitoring of the systems
+or do I just not hit those thresholds?”  Those with more than 1 percent of total U.S. equities
+volume in February are owned by Credit Suisse Group AG, Goldman
+Sachs Group Inc., Barclays Plc, and UBS AG, according to a March
+25 report from Rosenblatt. Knight Capital Group Inc.’s Knight
+Link, often called a dark pool, isn’t a registered ATS. It had
+1.4 percent of total volume, the data show.  Fifteen U.S. pools tracked by Rosenblatt had more than 0.25
+percent of volume traded in February. The company doesn’t
+compile data on the value traded by those venues.  Dan Mathisson , head of U.S. equity trading for Credit
+Suisse, declined to comment. About 123 million shares or 1.9
+percent of U.S. equities volume changed hands in the Zurich-
+based bank’s Crossfinder pool in February, Rosenblatt said.  Better Information  Bids Trading LP, which operates a dark pool, plans to
+submit a comment letter to the SEC, according to New York-based
+Chief Executive Officer Tim Mahoney. He said he’s not yet sure
+whether Bids will be subject to Reg SCI and declined to comment
+before the letter.  “It’s possible that some dark pools as they become subject
+to Reg SCI are going to have to clean up or amend their Form
+ATSs to make sure that what’s described actually reflects the
+way the dark pools works,” Schack said about a document they
+must submit to the SEC when they make material changes. “It
+will give the SEC better information about them than they have
+today, which would be good.”  Brokers including those running dark pools are already
+subject to a so-called market-access rule introduced in 2011 to
+reduce the risk of trading disruptions and improper activity.
+While the requirements overlap with some mandates in Reg SCI
+related to the integrity of technology systems, the SEC may push
+compliance with the access rule toward what’s demanded under Reg
+SCI, Flatley said.  850 Questions  Underscoring the breadth of the proposed rule, the SEC
+asked the public for comment on more than 850 questions. It
+asked whether NYSE should be allowed to offer firms a backup
+plan to trade on the exchange that is significantly different
+from its normal mode of operations. Questions ranged from
+whether numerical thresholds are appropriate for specific types
+of trading systems to whether the SEC should supply more precise
+requirements on trading software development.  The SEC also wants to know if the rule should cover
+security-based swap data repositories and execution facilities
+under the SEC’s jurisdiction as the agency writes rules to move
+more over-the-counter derivatives trades into clearinghouses.  “This is part of getting the whole ecosystem verified,”
+Flatley said of Reg SCI. “There will be a lot of work but it’s
+the right thing to do. If people want to get off the headlines
+and stop explaining why things went bad, they’ll have to have
+standards in the industry. It’s significant, but it’s time.”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

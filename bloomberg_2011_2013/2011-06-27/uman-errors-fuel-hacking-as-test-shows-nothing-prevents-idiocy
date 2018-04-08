@@ -1,0 +1,164 @@
+-- 
+Human Errors Fuel Hacking as Test Shows Nothing Stops Idiocy
+
+-- B y   C l i f f   E d w a r d s ,   O l g a   K h a r i f   a n d   M i c h a e l   R i l e y
+-- 
+2011-06-27T18:48:43Z
+
+-- http://www.bloomberg.com/news/2011-06-27/human-errors-fuel-hacking-as-test-shows-nothing-prevents-idiocy.html
+The U.S. Department of Homeland
+Security ran a test this year to see how hard it was for hackers
+to corrupt workers and gain access to computer systems. Not
+very, it turned out.  Staff secretly dropped computer discs and USB thumb drives
+in the parking lots of government buildings and private
+contractors. Of those who picked them up, 60 percent plugged the
+devices into office computers, curious to see what they
+contained. If the drive or CD case had an official logo, 90
+percent were installed.  “There’s no device known to mankind that will prevent
+people from being idiots,” said Mark Rasch, director of network
+security and privacy consulting for Falls Church, Virginia-based
+ Computer Sciences Corp. (CSC)   The test showed something computer security experts have
+long known: Humans are the weak link in the fight to secure
+networks against sophisticated hackers. The intruders’ ability
+to exploit people’s vulnerabilities has tilted the odds in their
+favor and led to a spurt in cyber crimes.  In real-life intrusions, executives of EMC Corp.’s RSA
+Security,  Intel Corp. (INTC)  and Google Inc. were targeted with e-mails
+with traps set in the links. And employees unknowingly post
+vital information on Facebook or Twitter.  It’s part of a $1 trillion problem, based on the estimated
+cost of all forms of online theft, according to McAfee Inc., the
+Santa Clara, California-based computer security company.  Rule No. 1  Hundreds of incidents likely go unreported, said Rasch, who
+previously headed the  Justice Department ’s computer crime unit.
+Corporate firewalls costing millions to erect often succeed in
+blocking viruses and other forms of malware that infect
+computers and steal data such as credit card information and
+passwords. Human error can quickly negate those defenses.  “Rule No. 1 is, don’t open suspicious links,” Rasch said.
+“Rule No. 2 is, see Rule No. 1. Rule No. 3 is, see Rules 1 and
+2.”  A full report on the  Homeland Security  study will be
+published this year, Sean McGurk, director of the department’s
+National Cybersecurity and Communications Integration Center,
+said at a June 16 conference in  Washington .  Tactics such as spear-phishing -- sending a limited number
+of rigged e-mails to a select group of recipients -- rely on
+human weaknesses like trust, laziness or even hubris.  That’s what happened in March, when attackers used a clever
+ruse to exploit their discovery that RSA -- the company that
+provides network-access tokens using random secondary passwords
+-- was in a hiring campaign.  Organized Attack  Two small groups of employees received e-mails with
+attached Excel spreadsheets titled “2011 Recruitment Plan,”
+the company said in April. The e-mails were caught by the junk-
+mail screen. Even so, one employee went into the folder,
+retrieved the file and opened it.  The spreadsheet contained an embedded  Adobe Systems Inc. (ADBE) 
+Flash file that exploited a bug, then unknown to San Jose,
+California-based Adobe, that allowed hackers to commandeer the
+employee’s PC. RSA said information related to its two-factor
+SecurID authentication process was taken.  Banks may be forced to pay $50 million to $100 million to
+distribute new RSA SecurID devices, according to Avivah Litan, a
+Gartner Inc. research analyst.  “The team that hacked us is very organized and had a lot
+of practice,” Uri Rivner, head of new technologies at RSA
+Security, said at a June 17 conference in  Spain . “I can compare
+them to the Navy Seals Team Six, which hit Osama Bin Laden.”  The Federal Bureau of Investigation began warning in early
+2009 about a rise in spear-phishing attacks. To succeed, they
+require the target to open a link presumably sent by someone
+they know or trust.  Whale Phishing  Total phishing attacks increased by 6.7 percent from June
+2010 to May 2011, according to  Symantec Corp. (SYMC) ’s State of Spam &
+Phishing monthly report. The number of non-English phishing
+sites increased 18 percent month over month.  Spear-phishing is evolving into what Rasch calls whale
+phishing: Targeting senior-level executives whose computers may
+have access to far more sensitive information than rank-and-file
+workers.  Technology executives are attractive targets because their
+positions give them access to a trove of information, and they
+tend to believe they’re better protected from computer hackers
+than their employees, Rasch said.  Hackers research decision makers by browsing social
+networks, reading up on news about the company, and creating e-
+mails and links that appear to be genuine and come from people
+that the targets know.  ‘Flipping Burgers’  “Phishing is on a different trajectory than it’s been in
+the past,” said Malcolm Harkins, Intel’s chief information-
+security officer.  Intel was targeted a few years ago, when Chief Executive
+Officer Paul S. Otellini opened a hacker’s e-mail that looked
+like it came from a federal circuit court in relation to legal
+proceedings.  Hackers have many motives, including making mischief,
+selling information for profit or stealing trade or military
+secrets. While many of the attacks seem sophisticated, the
+majority require little programming knowledge because people in
+the companies do the work for them, Rasch says.  “It beats flipping burgers for a lot of these guys,” he
+said.  Their forays can be aided by workers who place their trust
+in digital communications despite warnings they should be more
+cautious.  Faux Vixen  In early 2010, security specialist Thomas Ryan created a
+fictional online-security analyst using pictures taken from a
+pornography-related website. Through e-mail and other online
+correspondence, he said he gained access to e-mail addresses and
+bank accounts, learned the location of secret military units
+based on soldiers’ Facebook photos, and connections between
+people and organizations.  The fictional woman received private documents to review,
+speaking requests and job offers from  Google Inc. (GOOG)  and defense
+contractor  Lockheed Martin Corp. (LMT) , Ryan said.  Assets are also put at risk by people who use easy-to-crack
+passwords, and repeat them among Facebook, e-mail and bank
+accounts.  When Daniel Amitay checked to see which passwords people
+were using in his iPhone app, Big Brother Camera Security, he
+found that many weren’t secure. Out of 204,508 recorded
+passwords, the most common was “1234,” followed by “0000”
+and “2580,” the middle line of the numeric keypad.  CEO Resigns  “By knowing a bit of psychology, people can avoid
+security,” Amitay said. “People choose things from memory, and
+they are making the job easier for someone who wants to steal
+their pass code.”  In a February attack on Sacramento, California-based
+security firm HBGary and its sister, HBGary Federal, the hacker
+group Anonymous said it cracked the passwords of CEO Aaron Barr
+and Chief Operating Officer Ted Vera, and discovered they used
+the same passwords in e-mail accounts, LinkedIn, Twitter and
+elsewhere. Anonymous said it deleted “gigabytes of backups and
+research data” from company servers.  The group didn’t stop there. Using the compromised personal
+e-mail account of HBGary owner Greg Hoglund, they asked for and
+were given the user name and password of a second HBGary Federal
+site, which had to be taken offline.  The HBGary attack tied back in an unusual way to January
+2010 security breaches at Google, Adobe Systems Inc.,  Juniper
+Networks Inc. (JNPR)  and defense contractor  Northrop Grumman Corp. (NOC)   Tracking Executives  Anonymous released HBGary’s e-mails, which show that
+DuPont,  Walt Disney Co. (DIS) ,  Sony Corp. (6758)  and  Johnson & Johnson (JNJ)  were
+also attacked by hackers somewhere in  China , but decided not to
+disclose the intrusion. Barr resigned three weeks later, citing
+the distraction caused by the hack.  DuPont declined to comment after the HBGary incident, as
+did Sony and Johnson & Johnson. Disney didn’t respond to
+requests for comment.  Lulz Security, known as LulzSec and made up of former
+members of Anonymous, announced June 25 it is disbanding after
+50 days during which it claimed attacks on computers of the  U.S.
+Senate , Public Broadcasting Service television network and
+Central Intelligence Agency. Spanish police arrested three
+suspected members of Anonymous on June 10.  To better thwart attacks targeting decision makers, Santa
+Clara, California-based Intel is deploying software to analyze
+employees’ log-on patterns, Harkins said. If a user logs on in
+ New York  an hour after logging on from a California web address,
+the system may limit or cut off access.  New Products  “That’s the work we are doing right now,” Harkins said,
+citing an increase in security spending. “It will take a couple
+of years.”  A number of companies are now offering analytics and
+security products designed to combat social-engineered attacks.  In February, Milpitas, California-based FireEye announced a
+system designed to stop spear-phishing. Its software can open an
+e-mail attachment or a link outside of the corporate network,
+run it to see if it’s malicious, and report back on the scope of
+the planned attack, Ashar Aziz, FireEye’s Chief Executive
+Officer, said in an interview.  “This is the deadliest sector of attack that exists
+today,” he said. The company already provides the product to
+several governmental agencies, he said.  Another vendor, CertiVox, started selling a product last
+week that lets users safeguard their Web e-mails and online
+posts on Facebook or blogs. Through encryption, the messages are
+readable only to recipients picked by the sender. The company,
+with offices in  San Francisco  and  London , is testing the
+software with large law firms in London, CEO Brian Spector said
+in an interview.  Trying to Keep Up  “The security industry is still stuck in infrastructure
+1.0,” Spector said. “As the Web 2.0 world started taking off,
+it wasn’t keeping up.”  Training may be the biggest key to stopping the attacks.
+Hudson Valley Credit Union in Poughkeepsie, New York,
+experienced a spear-phishing attack five years ago. Now, each of
+the company’s more than 800 employees takes an annual online
+security training course, said John Brozycki, the credit union’s
+information security officer.  Each year, the course expands to include new schemes and
+provides a refresher on long-time problems like phishing.  “We hope that our defenses are able to handle it,”
+Brozycki said.  To contact the reporters on this story:
+Cliff Edwards in San Francisco at 
+ cedwards28@bloomberg.net ;
+Olga Kharif in Portland at 
+ okharif@bloomberg.net ;
+Michael Riley in Washington at 
+ michaelriley@bloomberg.net   To contact the editors responsible for this story:
+Anthony Palazzo at 
+ apalazzo@bloomberg.net ;
+Tom Giles at 
+ tgiles5@bloomberg.net ;
+Michael Hytha at 
+ mhytha@bloomberg.net  

@@ -1,0 +1,85 @@
+-- Data-Mining in Doctor's Office Helps Solve Medical Mysteries
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-05-25T17:39:38Z
+-- http://www.bloomberg.com/news/2012-05-15/data-mining-in-doctor-s-office-helps-solve-medical-mysteries.html
+     (This story was corrected to remove remarks from a
+Microsoft executive that the company said were made in error.)  When hospitals look to Microsoft Corp., it's no longer
+just for the latest in office software. Some are getting help
+from the technology giant in diagnosing their patients.  Medical providers are experimenting with new ways to sift
+through their data and find patterns. The results can be
+surprising: Microsoft recently examined health records from a
+research partner, MedStar Washington Hospital Center in
+Washington, D.C., and found that the location of patients'
+rooms is one factor in whether they get sick. Such insights
+can help identify hot spots for bacteria and illness and stop
+their spread.  As hospitals digitize patient records and amass huge
+amounts of data, many are relying on companies such as
+Microsoft, SAS Institute Inc., International Business Machines
+Corp. and Oracle Corp., whose data-mining technologies can
+help them detect patterns and improve medical care.  The analytics industry generated more than $30 billion in
+revenue last year, according to research firm IDC. That is
+forecast to increase to $33.6 billion this year as the
+health-care industry becomes a bigger customer.  The use of data-mining technology has already led to some
+measurable improvements in patient care.  New York-Presbyterian Hospital has reduced the rate of
+potentially fatal blood clotting in patients by using
+analytics software, Dr. Nicholas Morrissey, a surgeon involved
+in the effort, said in an interview.  As patients were being admitted, the hospital started
+using Microsoft software in 2010 to scan records for risk
+factors, such as cancer, smoking and the amount of time
+patients were bed-bound. By letting the software rather than
+the hospital staff make the assessment, doctors saved time and
+made better evaluations, Morrissey said.  The clotting now happens at a rate of 0.23 incidents per
+1,000 patient days, versus 0.33 incidents per 1,000 patient
+days before implementation of the software, Morrissey said. He
+stressed that further study of the software's impact is
+needed.  "I wouldn't be out there saying we've solved the
+problem, but we're definitely making progress -- that was a
+significant drop," he said.  Seton Healthcare Family, a hospital system in central
+Texas, started using data-mining software from IBM last year
+to sift through transcribed doctors' notes and other
+"unstructured data," such as numbers printed on medical
+images, for ways to lower readmission rates for congestive
+heart failure patients.  It found some surprising themes. Two of the strongest
+predictors of whether a patient would be rehospitalized were
+lack of an emotional support network and the presence of a
+bulging jugular vein -- two things hospital staff can easily
+look for when admitting patients.  "We've gotten some really tremendous results," said Ryan
+Leslie, Seton's vice president of analytics and health
+economics. The hospitals narrowed a list of 113 predictors
+that medical staff thought would be important down to 18, and
+even identified some that weren't on the original list, such
+as the bulging vein.  Besides improving patient care, hospitals' use of
+analytics software can make them eligible for millions of
+dollars in government funding if they can demonstrate
+"meaningful use" of their computer systems. The payments are
+part of the Obama administration's $14.6 billion program to
+prod health-care providers to adopt electronic medical
+records.  Federal law prohibits medical providers from disclosing
+certain health information without patient consent, but there
+is an exemption for activities that fall under "quality
+improvement," said Susan McAndrew, deputy director for health
+information privacy at the U.S. Department of Health and Human
+Services' Office for Civil Rights.  That means health-care providers generally don't have to
+tell patients that their records are being analyzed for the
+purpose of improving care, which has raised some privacy
+concerns.  "People do not like to have researchers of any stripe
+using their electronic health records," said Deborah
+Peel, founder of Austin, Texas-based Patient Privacy Rights.
+"As a matter of respect and autonomy and
+patient-centeredness, patients want to be asked. When they are
+asked, by and large they support this. It's the not being
+asked stuff that's really bad."  She pointed to a 2007 survey that found just 1 percent of
+respondents felt researchers didn't need to seek permission
+before using their medical data.  Some privacy experts disagree, warning of the dangers of
+over-notification.  Deven McGraw, director of the health privacy project with
+the Center for Democracy & Technology in Washington, said
+notifying patients too often could be unnecessarily confusing.  "You ask for it when it's used in ways that people might
+not expect," she said.  New York-Presbyterian Hospital and Seton Healthcare
+Family didn't notify their patients. MedStar Washington
+Hospital Center did not respond to a request for comment.  Morrissey of New York-Presbyterian, which published some
+of its results, emphasized that no personal information is
+ever publicly disclosed. He said the benefits outweigh the
+concerns.  "I think we're going to impact things that are most
+life-threatening," he said, emphasizing that while the results
+need further research, "it seems real, and it's significant."
+ 

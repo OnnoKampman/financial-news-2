@@ -1,0 +1,101 @@
+-- The Reign of Robots May Be Closer Than You Think: Mark Buchanan
+-- B y   M a r k   B u c h a n a n
+-- 2012-03-07T00:03:44Z
+-- http://www.bloomberg.com/news/2012-03-07/the-reign-of-robots-may-be-closer-than-you-think-mark-buchanan.html
+The futurist Ray Kurzweil has
+famously predicted that humanity is approaching a
+“singularity,” a fateful moment when our technology becomes
+smarter than us and able to learn faster than we can, when it
+becomes the principal creator of new technologies and machines
+race far ahead of us. Humans may effectively fall out of the
+loop -- a species demoted, if not eliminated.  For now, this world remains science fiction, at least at
+the level of humanity. But finance is flirting with a similar
+transition, as ever-faster computing and communications
+technology takes high-frequency trading into a regime of speed
+where human beings can no longer keep up. In fact, we may have
+already arrived.  The Flash Crash of May 6, 2010, was a landmark event
+hinting that something may be amiss in the high frequency
+markets. Now it is clear that odd market behavior at high
+frequencies is systematic.  In a recent  study , physicist Neil Johnson and colleagues
+found more than 18,000 instances over the past five years where
+markets, in about a second and a half or less, either ticked up
+or down at least 10 times in a row, making prices rise or fall
+in that span by more than 0.8 percent. Many of these mini-
+crashes and mini-booms took place in well under a tenth of a
+second, effectively instantaneous from a human perspective. And
+they have been happening roughly 10 times per day. It’s as if
+the markets are throwing off sparks reflecting mysterious
+frictions or stresses.  Striking Difference  These sparks show up in market statistics, too. The same
+study looked at the incidents on different timescales, both
+above one second and below, and found a striking difference.
+Over periods of one second or longer, the distribution of events
+by size has the familiar “fat tailed” distribution -- the norm
+for markets, broadly speaking, which reflects their pronounced
+susceptibility to large price changes.  In contrast, the distribution for events that last less
+than one second looks very different. Here, the distribution is
+“fatter than fat” and shows an even greater than normal
+tendency for Black Swan-type upheavals.  What’s so special about one second? Why is this sharp and
+distinctive boundary located at that period of time, rather than
+at, say, one minute or a 10th of a second? Well, it is more than
+a little suspicious, the researchers point out, that one second
+happens to be right around the speed limit for fast human
+decision making. Experiments with chess grandmasters, for
+example, show they can assess a complex chess situation and
+identify a threat of checkmate in about two thirds of a second.
+Other people operate at comparable speeds in their own areas of
+expertise.  When it comes to making conscious decisions, one second is
+about the limit. Coincidence? Or are the markets at this
+timescale showing the signs of an emerging all-machine phase of
+trading over which human decisions have little influence or
+control?  Further evidence for the latter interpretation comes from
+simple models of markets as ecologies of interacting strategies,
+models of the kind I wrote about in my last  column . These models
+reproduce many of the realistic qualities -- or “stylized
+facts” -- of real markets, and can help us anticipate how
+markets might do surprising things. In particular, they can give
+hints about how seemingly innocuous, gradual changes might push
+markets across a threshold and into a regime of dramatically
+different behavior.  Crowded Markets  Mathematical studies of these models show that one of the
+most fundamental factors influencing their basic dynamics is how
+“crowded” the market is -- crowded in an intellectual and
+strategic, rather than physical sense. If the participants in a
+market use a wide and diverse range of trading strategies, then
+the market is uncrowded. In this case, the typical behavior is
+akin to that in a world with few predators and relatively
+plentiful prey. A healthy diversity of participants earns
+profits in different ways -- thinking and acting on different
+timescales, taking different views on the future and so on.  Real markets, the models suggest, look a lot like this
+uncrowded phase, with highly irregular market fluctuations and
+fat tails.  In contrast, if a market becomes overcrowded -- that is, if
+many traders chase few opportunities and use very similar
+strategies to do so -- then the continuity of the market tends
+to break down. In this regime, the market becomes prone to what
+might be called “glitches” or “fractures,” sudden moves up
+or down much like those now observed in the sub-one-second
+trading regime.  There are good reasons, Johnson and colleagues argue, to
+think that high frequency markets have indeed entered such a
+crowded phase. After all, high frequency algorithms by their
+nature compete on speed and have to act extremely quickly. As a
+consequence, they must be relatively simple, and can’t waste
+time analyzing too much information about the past. Given these
+constraints on the range of possible strategies, and given the
+number of traders operating within them, overcrowding is quite
+likely -- as are the fractured, troubled market dynamics arising
+from it.  This is an instructive example of how a simple adaptive
+model of markets can give rise to important and non-obvious
+insights. As trading moves to inhumanely short timescales, we
+shouldn’t be surprised, but should actually expect to see
+increasingly frequent Black Swan events in microscopic
+timescales. They may well be the natural consequence of machine
+trading that is becoming uncoupled from the strong influence of
+conscious human decision making.  We’re moving, as Johnson and colleagues put it, “from a
+mixed phase of humans and machines, in which humans have time to
+assess information and act, to an ultrafast all-machine phase in
+which machines dictate price changes.” We’re crossing a
+boundary into a trading twilight zone, and doing so without much
+thought or awareness of the potential dangers.  ( Mark Buchanan , a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  Read more opinion online from  Bloomberg View .  To contact the writer of this article:
+Mark Buchanan at  buchanan.mark@gmail.com .  To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net . 

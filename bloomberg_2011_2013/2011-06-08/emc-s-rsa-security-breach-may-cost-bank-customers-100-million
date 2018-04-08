@@ -1,0 +1,87 @@
+-- 
+EMC’s RSA Security Breach May Cost Bank Customers $100 Million
+
+-- B y   R a c h a e l   K i n g
+-- 
+2011-06-08T17:35:30Z
+
+-- http://www.bloomberg.com/news/2011-06-08/emc-s-rsa-security-breach-may-cost-bank-customers-100-million.html
+The security breach at EMC Corp.’s
+RSA unit may cost the banking industry as much as $100 million
+to replace identification tokens that left their computers
+vulnerable to spying.  Banks may be forced to pay $50 million to $100 million to
+distribute new RSA SecurID devices that employees use to
+securely log onto corporate networks, according to a Gartner
+Inc. research analyst. RSA clients include  Wells Fargo & Co. (WFC)  and
+ Northwest Bancshares Inc. (NWBI)  as well as defense contractor  Lockheed
+Martin Corp. (LMT) , which said a May 21 cyberattack on its computers
+is linked to the March breach of RSA’s SecurID database.  Gartner estimates that about 80 percent of banks in the
+U.S. use that type of security token and Bedford, Massachusetts-
+based RSA has about 50 percent of the market. The breach is
+larger in scope than recent attacks, including the March 30
+infiltration of Alliance Data System Corp.’s Epsilon e-mail
+marketing unit, which resulted in the theft of customer data
+from banks including Citigroup Inc. and JPMorgan Chase & Co.  “Compared to Epsilon this is more serious because it was
+an attack against an authentication system used by defense
+agencies and banks,” Avivah Litan, a security analyst at
+Stamford, Connecticut-based Gartner, said in an interview.  RSA said June 7 it would replace customers’ SecurIDs. There
+are about 40 million tokens in use, Litan said. Bethesda,
+Maryland-based Lockheed, the world’s largest military
+contractor, said June 4 it had already mailed new tokens to
+45,000 employees.  Raytheon Co. (RTN) , the biggest maker of missiles,
+and  Northrop Grumman Corp. (NOC) , maker of B-2 stealth bombers and
+Global Hawk drones, are also SecurID users, according to RSA.  Customer Response  “Many customers, as they reflect on the fact that there is
+no new risk, will remain comfortable using the remediation we
+have recommended since March,” said Helen Stefan, a spokeswoman
+for RSA. “The potential does exist to replace hardware tokens
+in the millions, but we do not foresee replacing anywhere near
+the range of 30-40 million.”  Gartner estimates that banks pay $27 to $58 a year per user
+for the tokens, including the server software needed on the back
+end. Even if RSA does replace the tokens, customers will incur
+costs for final distribution to employees.  Right now banks are “deliberating, because it is costly,
+but I would say that most of them will take RSA up on the
+offer,” Litan said.  Litan estimates that there are 3,500 FDIC-insured
+institutions, with about 500 to 1,000 people each using security
+tokens. If all the banks agree to RSA’s offer, the cost of
+distribution would be $50 million to $100 million, she said.  RSA Competitor  Most companies contacted for this story including General
+Electric Co., United Continental Holdings Inc. and Citigroup
+wouldn’t discuss their computer-security measures. Laura Hunter,
+a spokeswoman for Bank of America Corp., and Gabriel Boehmer, a
+spokesman for Wells Fargo, said each company is replacing some
+tokens, without elaborating on security plans.  “Security is core to our mission and safeguarding our
+customers’ information is at the foundation of all we do,” said
+Bridget Braxton, a spokesman for San Francisco-based Wells
+Fargo. “We constantly monitor the environment, assess potential
+threats, and take action as warranted.”  RSA’s biggest competitor with this type of token is
+ Oakbrook Terrace , Illinois-based  Vasco Data Security
+International Inc. (VDSI)  Vasco rallied 36 percent on the Nasdaq Stock
+Market in the 12 trading days following EMC’s March 17
+disclosure of the RSA data breach. EMC rose 1.8 percent in New
+York Stock Exchange composite trading in that time.  Representatives of Vasco weren’t available to comment.  EMC Margins  EMC, the world’s biggest maker of storage computers, bought
+RSA in 2006 for about $2 billion to expand into security
+software. The unit made up about 4 percent of Hopkinton,
+Massachusetts-based EMC’s $17 billion in revenue last year.  Gross margins for RSA narrowed to 54.1 percent in the
+quarter ending March 31, from 67.6 percent a year earlier, EMC
+said in a May regulatory filing. EMC attributed the decrease to
+costs associated with investigating the cyber attack, work done
+on its systems and remediation actions conducted with customers.  The attack began with e-mails sent to small groups of RSA
+users, presumably employees, that were titled “2011 Recruitment
+Plan” and wound up in their junk files, RSA told analysts
+including Litan in an April 1 conference call. Attached to those
+e-mails was a spreadsheet that contained malicious software that
+gathered security credentials until it found the targeted
+system. Secret data was stolen and sent to an outside hosting
+provider, according to an April 1 blog post by Litan.  Serial Numbers  The stolen information was two secret pieces of data,
+including seed and serial numbers, said Johannes B. Ullrich,
+chief research officer at SANS Technology Institute in Bethesda,
+ Maryland . With the tokens, every 30 seconds new numbers show up
+and they are used as a password. The computer server has to know
+which number to expect from you and the serial number, he said.  Through the stolen RSA information, Ullrich said, hackers
+knew which serial numbers had been sent to Lockheed. They didn’t
+know which employee had which token, and it’s unclear how
+hackers had gathered that information, Ullrich said.  Ullrich said the attack “was definitely state-sponsored”
+espionage because the scheme was so sophisticated.  To contact the reporter on this story:
+Rachael King in  San Francisco  at 
+ rking25@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

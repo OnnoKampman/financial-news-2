@@ -1,0 +1,78 @@
+-- 
+Google’s Android Faces More App Attacks in New Frontier
+
+-- B y   J o n a t h a n   B r o w n i n g
+-- 
+2011-04-21T14:06:06Z
+
+-- http://www.bloomberg.com/news/2011-04-21/google-s-android-system-faces-more-app-attacks-in-new-security-frontier-.html
+Google Inc. (GOOG) ’s Android mobile-phone
+platform faces soaring software attacks and has little control
+over the applications, according to security firm Kaspersky Lab.  Applications loaded with malicious software are
+infiltrating the Google operating system at a faster rate than
+with personal computers at the same stage in development, said
+ Nikolay Grebennikov , chief technology officer for Kaspersky. The
+company identified 70 different types of malware in March from
+just two categories in September.  “The growth rate in malware within Android is huge, in the
+future there will definitely be more,” Grebennikov said in an
+interview in  London . Kaspersky will offer security on Android in
+the third quarter of this year.  Hacking into mobile-phone software has become increasingly
+sophisticated, forcing  Mountain View , California-based Google to
+remove malicious applications that were available from its
+Android Market store last month. The applications, which were
+remotely disabled, gathered information about mobile devices and
+could be used to access personal data.  Google declined 0.2 percent to $524.68 at 10:04 a.m. New
+York time in Nasdaq Stock Market trading.  Company spokesman Ollie Rickman referred back to the
+Google’s comment in a blog post last month.  “We are adding a number of measures to help prevent
+additional malicious applications using similar exploits from
+being distributed through Android Market,”  Rich Cannings , an
+Google engineer who works on Android security, said in the blog
+post.  Popular and Targeted  Android will run on 38.5 percent of smartphones sold this
+year, according to market research firm Gartner. The Google
+software is moving into cheaper hardware and starting to compete
+with high-volume, low-margin phones made by companies such as
+ Nokia Oyj. (NOK1V)   “Any time a technology becomes adopted and popular, that
+technology will be targeted by the bad guys,” said  Jay Abbott ,
+Director of Threat and Vulnerability at PricewaterhouseCoopers
+LLP.  The proliferation of mobile app stores at platforms from
+companies including Google,  Apple Inc. (AAPL) ,  Microsoft Corp. (MSFT) ,
+ Research in Motion Ltd. (RIM)  and Nokia has made the functions and
+devices harder to secure, said  Richard Overill , a senior
+lecturer in computer science at King’s College, London  “It is a new frontier,” said Overill, who has been
+researching the industry since 1992. “It’s been an area that
+the criminal fraternity hasn’t gone into before because they are
+doing quite nicely thank you in the computer space.”  Software Code  Google, owner of the world’s most-popular online search
+engine, offers Android to handset manufacturers for free and
+allows developers access to some of its code for writing
+software. Apple, whose iOS software trails Android in smartphone
+market share, requires every application to be approved before
+being sold in its online store.  Android’s open model is “a benefit but equally a
+drawback,” said PwC’s Abbott. “Anyone can develop anything at
+any time,” he said, adding that the “model makes it a lot
+easier for people to exploit it.”  Other experts such as Overill say Android’s model may not
+make it more vulnerable to attack than a closed platform as its
+community of users can watch out for and report on any evidence
+of malware to ensure it gets fixed.  Infected Devices  Aad van Moorsel , the director of Centre for Cybercrime and
+Computer Security at Newcastle University, said that closed
+systems also face threats. “The fact that Microsoft is a closed
+system in the personal computing space hasn’t stopped it from
+being attacked,” he said.  Google removed more than 50 applications containing
+malicious code known as DroidDream last month, according to San
+Francisco-based mobile security firm Lookout. The code enabled
+the software to gain a “substantial amount of control in the
+infected device,” and could help to install additional
+applications, Lookout said.  Google doesn’t have antivirus protection on the file level
+within its operating system, Grebennikov said.  “The malware was not like before,” Grebennikov said.
+Previously mobile attacks were limited to sending  text messages 
+to premium numbers hitting the user with high charges, he said.  Kaspersky Lab,  Russia ’s largest maker of antivirus
+software, this year sold 20 percent of its shares to private
+equity group General Atlantic LLC. The Moscow-based company,
+founded by majority shareholder Eugene Kaspersky, is aiming to
+become the world’s largest provider of end-user Internet
+security software.  Google and Apple risk approving applications with hidden
+malware. “I worry about what gets rubber stamped,” said  David
+Emm , a Kaspersky analyst. “The walled garden is great unless
+the wolf gets over the wall and runs amok.”  To contact the reporter on this story:
+ Jonathan Browning  in London 
+ jbrowning9@bloomberg.net .  To contact the editor responsible for this story:
+Kenneth Wong at   kwong11@bloomberg.net  

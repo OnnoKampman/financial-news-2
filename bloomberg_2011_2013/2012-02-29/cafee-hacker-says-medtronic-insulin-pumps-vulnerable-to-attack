@@ -1,0 +1,67 @@
+-- McAfee Hacker Says Medtronic Insulin Pumps Vulnerable to Attack
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-02-29T15:00:00Z
+-- http://www.bloomberg.com/news/2012-02-29/mcafee-hacker-says-medtronic-insulin-pumps-vulnerable-to-attack.html
+Some  Medtronic Inc. (MDT)  insulin pumps
+are vulnerable to a hacking attack that could let someone break
+into the devices from hundreds of feet away, disable security
+alarms and dump insulin directly into diabetics’ bloodstreams,
+according to a computer-security researcher at McAfee Inc.  Barnaby Jack, who works as a professional hacker for
+ McAfee , said he can remotely control several types of Medtronic
+pumps. After first discussing the vulnerability last year at a
+small hacker conference in  Florida , he has discovered more ways
+to exploit the weakness, including overriding security features
+such as vibration warnings.  Jack, who plans to spotlight the flaw this week at the  RSA
+security conference  in San Francisco, is trying to increase
+awareness of the risks of medical devices. Insulin pumps are
+pager-sized gadgets that diabetics wear to dispense the
+lifesaving hormone into the body. Such technology is 
+increasingly relying on wireless communications, making it
+vulnerable to the same hacking that afflicts personal computers.  “These are computers that are just as exploitable as your
+PC or Mac, but they’re not looked at as often,” Jack, 34, said
+in an interview. “When you actually look at these devices, the
+security vulnerabilities are quite shocking.”  Medtronic has responded to the risks by hiring security
+teams from three organizations to inspect its products. It’s
+also coordinating with the Department of  Homeland Security  to
+make changes, which may take years.  “Medtronic takes patient safety and device security very
+seriously,” the Minneapolis-based company said in a statement.  Radcliffe’s Research  Medical-device security first became a flash point last
+year, when Jay Radcliffe, a diabetic patient in  Idaho , showed
+that hackers could manipulate the best-selling brand of pump he
+used. Radcliffe got the attention of lawmakers, who pressed the
+ Government Accountability Office  to investigate whether the
+industry’s cybersecurity rules are tough enough. The report from
+that probe is due in July.  Jack’s work takes what Radcliffe did a step further. He has
+discovered a way to scan a public space from as much as 300 feet
+away, find vulnerable pumps made by Medtronic and force them to
+dispense fatal insulin doses. He said he doesn’t need to be
+close to the victim or do any kind of extra surveillance to
+acquire the serial number, as Radcliffe did.  Jack gained renown in 2010 when he hacked into cash
+machines and made them spit out money on stage at a  Black Hat
+computer security conference . He works from San Francisco for
+McAfee, a security-software company that became  a unit  of  Intel
+Corp. (INTC)  last year.  Little Research  There have been few public studies of medical devices’
+susceptibility to computer attacks. Research from a consortium
+of academics in 2008 found that a popular pacemaker-
+defibrillator product could be remotely reprogrammed to deliver
+deadly shocks. The  U.S. Food and Drug Administration , which
+regulates medical devices, has warned that any devices with
+wireless capabilities can be subject to breaches.  “Current adverse event data do not indicate that breaches
+of device security measures is a widespread problem,” the
+agency said in a statement. “However, we continue to closely
+monitor for safety or security problems.”  The work of Radcliffe and Jack is bringing public attention
+to flaws that have been discussed privately for years, said
+Nathanael Paul, a Type 1 diabetic and computer-security
+researcher specializing in medical devices.  Paul, who works with  Oak Ridge National Laboratory , said
+his group had replicated many of the same findings in 2010 --
+before Radcliffe went public with his research -- and presented
+them to the FDA and industry officials. It can take years for
+changes in medical devices to hit the market because of long
+product cycles and regulatory roadblocks, he said.  The risk of such research is that it could inspire others
+to pursue real-world attacks. Still, the technical skill
+required means that mass attacks are unlikely, Jack said. The
+real problem is a lack of foresight by device makers, he said.  “They didn’t foresee anyone breaking open these devices,
+spilling the code and figuring out what’s going on in there,”
+Jack said.  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

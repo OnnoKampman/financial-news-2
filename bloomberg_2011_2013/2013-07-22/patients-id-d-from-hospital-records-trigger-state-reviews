@@ -1,0 +1,80 @@
+-- Patients ID’d From Hospital Records Trigger State Reviews
+-- B y   J o r d a n   R o b e r t s o n
+-- 2013-07-22T04:01:00Z
+-- http://www.bloomberg.com/news/2013-07-22/patients-id-d-from-hospital-records-trigger-state-reviews.html
+Some U.S. states are reviewing their
+policies around the collection and sale of health information to 
+ensure that some patients can't be identified in publicly 
+available databases of hospital records.  Washington suspended distribution of the information and 
+developed a confidentiality agreement that all buyers must now 
+sign, according to Donn Moyer, a spokesman for the state’s 
+Department of Health. Bloomberg News, working with Harvard 
+University professor Latanya Sweeney, reported on June 4 that 
+some patients of Washington hospitals could be identified by 
+name and have their conditions and procedures exposed when a 
+ database sold by the state for $50  is combined with news articles 
+and other public information.  Washington, Tennessee,  Nevada  and  Arizona  have begun privacy
+audits as a result of the report, according to inquiries made
+with health agencies by Bloomberg.  California ,  Illinois , New
+Jersey,  Massachusetts ,  Connecticut ,  Nebraska  and  Alaska  already
+have reviews of their health data collection policies under way,
+they said.   For decades, state public-health agencies have collected
+patient information from hospitals and resold it to researchers
+and commercial data-mining firms. The records are stripped of
+identifiers such as name, address and date of birth. However,
+they may contain less-obvious identifiers such as postal code,
+age and admission and discharge dates, which can be used to
+reveal patient identities, or “re-identify” them.  Patient Data  States can legally release such details because the
+agencies are exempt from the Health Insurance Portability and
+Accountability Act, the 1996 law that sets  federal standards for
+medical privacy . Organizations that are covered by HIPAA
+including health care providers, insurers and their business
+partners are forbidden from disclosing such information.  The state probes are focused on whether privacy standards
+for health information should be tightened as data-mining
+technologies get more sophisticated and U.S. President  Barack Obama ’s health-care overhaul drives rapid growth in the amount
+of patient data being generated and shared.  The implementation of electronic health records and state
+health information exchanges are helping fuel a boom in the
+market for health-information technology, which will surpass
+$102 billion in worldwide sales in 2014, according to Gartner
+Inc.  “In all the years I’ve worked in this field I never heard
+of re-identification using limited data and publicly available
+information,” said Joseph Greenway, the director of  Center for
+Health Information Analysis  at the University of Nevada Las
+Vegas, which handles the state’s sale of hospital records.  Closer Scrutiny  Nevada is interviewing buyers more closely about their
+intended use of the data and is now less likely to approve
+requests involving sensitive information, he said.  At least 26 states sell hospital records that contain some
+identifying markers, according to records reviewed by Bloomberg
+News and Sweeney, director of Harvard’s  Data Privacy Lab  and
+creator of  theDataMap.org , a project to identify companies
+collecting health information. Bloomberg News contacted state
+health agencies and hospital associations in each of the 50
+states about the sale of hospital records.  Of the states, 18 said they hadn’t made policy changes and
+weren’t reviewing their practices. Three said they don’t collect
+or sell hospital data. The rest didn’t reply.  Rachel Seeger, a spokeswoman for the Office for Civil
+Rights at the U.S. Department of Health and Human Services,
+which investigates HIPAA violations, declined to comment.  Health Industry  There’s often friction between providers of health
+information and buyers in a medical-data industry that McKinsey
+& Co. projects will  surpass $10 billion by 2020 . The data’s
+usefulness increases as more patient details are included.  Companies that benefit  from buying states’ hospital records
+include IMS Health Inc., the provider of prescription data that
+was taken private by TPG Capital and Canada Pension Plan
+Investment Board for $5.06 billion in 2010. Other buyers are
+OptumInsight, a division of  UnitedHealth Group Inc. (UNH) , the biggest
+U.S. health insurer, and  WebMD Health Corp. (WBMD) , which supplements
+its consumer website with advisory services for companies and
+insurers.  Sweeney’s goal of identifying patients is to show that
+threats to privacy exist in datasets that are widely distributed
+and fall outside HIPAA’s regulations. She  exposed flaws  in the
+system in 1997 by finding the medical records of former
+Massachusetts Governor William Weld in a redacted dataset, which
+served as a catalyst for tighter rules.  “It’s been a great response,” Sweeney said. “The fact
+that more than one state has actually responded and sought us
+out to talk about the vulnerabilities in their data is very
+exciting. The goal here is not to stop data sharing. It’s to
+make it smarter.”  To contact the reporter on this story:
+Jordan Robertson in San Francisco at 
+ jrobertson40@bloomberg.net   To contact the editors responsible for this story:
+Pui-Wing Tam at 
+ ptam13@bloomberg.net ;
+Tom Giles at 
+ tgiles5@bloomberg.net  

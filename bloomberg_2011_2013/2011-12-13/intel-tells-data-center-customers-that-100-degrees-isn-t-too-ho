@@ -1,0 +1,64 @@
+-- 
+Intel Tells Data-Center Customers That 100 Degrees Isn’t Too Hot
+
+-- B y   I a n   K i n g
+-- 
+2011-12-13T05:01:00Z
+
+-- http://www.bloomberg.com/news/2011-12-13/intel-tells-data-center-customers-that-100-degrees-isn-t-too-hot.html
+Intel Corp. (INTC) , the world’s largest
+maker of computer chips, is telling its data-center customers
+they can turn up the heat.  Most server and storage computers sit in rooms cooled to a
+brisk 64 to 69 degrees Fahrenheit (18 to 21 C), an effort to
+avoid hot spots that might cause equipment to malfunction. All
+that air conditioning contributes to electricity costs of $26
+billion a year. The facilities use 1.5 percent of the  planet ’s
+power, and that’s set to double by 2014, Intel says.  By using new software and hardware to get a more detailed
+picture of what’s hot and what’s not, data centers can spread
+work around to different computers to keep them cool, says Jay Kyathsandra, an Intel marketing manager. That approach, together
+with a range of other technologies sold by Intel, could let
+technicians eventually turn the heat up past 100 degrees. The
+challenge is convincing customers, which count on servers to
+keep their businesses running, that the approach is safe.  “For a long time people just kept the  data center  running
+at what’s comfortable for humans, because that’s our frame of
+reference, but servers can handle a lot more than that,” said
+Katie Broderick, an  analyst  at Framingham, Massachusetts-based
+research firm IDC.  For Intel, the new technologies may generate a fresh source
+of revenue and help keep computer manufacturers loyal. The  Santa
+Clara , California-based company, whose chips run more than 90
+percent of the world’s servers, cut its fourth-quarter sales
+forecast by about $1 billion yesterday. Intel blamed a shortage
+of disk drives.  Getting Comfortable  Allowing the average temperature in data centers to rise by
+9 degrees would cut $2.16 billion in annual power budgets,
+saving the amount of power  Spain  or  South Africa  uses in a
+month, according to Intel’s research.  Companies such as Facebook Inc. have already started
+operating some of their computer centers at higher temperatures,
+helping them save money. Intel wants them to go further. To
+prove the benefits of technologies it’s trying to sell, the
+company is running one of its own data centers in  New Mexico  at
+92 F. The move has produced an estimated 67 percent in power
+savings, Intel says.  The approach would mean data centers don’t need air
+conditioning -- outside air alone would do the trick -- in more
+than 95 percent of the world, according to Intel.  Warranty Concerns  Still, server owners are reluctant to dispense with
+cooling, fearing it might void the warranty on their machines,
+Intel’s Kyathsandra says. To allay those concerns, Intel is
+working with computer makers, including  Dell Inc. (DELL)  and  NEC Corp. (6701) ,
+to change their policies. Those companies now sell machines
+certified to operate at higher temperatures, he says.  More cooperation will be needed, says Mark Peters, an
+analyst at  Enterprise Strategy Group , an information-technology
+advisory firm based in Milford,  Massachusetts . Moving to higher
+operating temperatures requires a commitment from other
+component suppliers, not just Intel, he says.  “Perhaps the likes of Intel have designed their chips to
+run at hotter temperatures without an increased risk of failure,
+but historical components haven’t done so yet,” Peters said.  Intel’s software and hardware will let customers monitor
+the amount of power individual racks of computers are using and
+how much work they’re doing, and then balance those loads out to
+keep that machinery working at its most efficient level. While
+current software allows monitoring of work levels and power use,
+it doesn’t help managers make changes on the fly, he says.  “What’s happening is you don’t have a good sense of what’s
+going on at any one point, so you might as well just cool things
+across the data center,” Kyathsandra said. “It’s a huge
+inefficiency.”  To contact the reporter on this story:
+Ian King in  San Francisco  at 
+ ianking@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

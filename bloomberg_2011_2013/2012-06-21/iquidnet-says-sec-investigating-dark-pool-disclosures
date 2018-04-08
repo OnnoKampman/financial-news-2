@@ -1,0 +1,155 @@
+-- Liquidnet Says SEC Investigating Dark-Pool Disclosures
+-- B y   N i n a   M e h t a
+-- 2012-06-22T21:28:13Z
+-- http://www.bloomberg.com/news/2012-06-21/liquidnet-says-sec-investigating-dark-pool-disclosures.html
+The U.S. Securities and Exchange
+Commission is investigating Liquidnet Holdings Inc. for
+shortcomings in how the dark-pool owner guarded private
+information about firms using its platform.  SEC staff requested information about Liquidnet’s equity
+capital markets business, the operator of two stock venues said
+yesterday in an e-mail to clients obtained by Bloomberg News.
+Liquidnet said it corrected the issues identified by the SEC and
+no longer provides “descriptive characteristics” about member
+firms to corporations using its services.  Federal regulators have stepped up scrutiny of stock
+trading practices that gained dominance in the past decade amid
+a shift to automation, Daniel Hawke, head of the market-abuse
+unit in the agency’s enforcement division, said in February.
+Dark pools, broker-operated private venues that don’t display
+quotes publicly, rose to prominence as a way for institutions to
+buy and sell without moving share prices. More than 40 such
+pools now exist to trade U.S. equities.  “If we screw up, we have to tell people we screwed up,”
+Liquidnet Chief Executive Officer Seth Merrin said in a phone
+interview today. “It’s very important for us to maintain
+credibility. These were oversights. They were errors of
+omission, not commission. Still, they’re issues we had to
+correct and we corrected them.”  Trader Information  One of the key features of dark pools is that they don’t
+identify the firms that buy and sell on their systems and give
+out no information about their block orders. The platforms are
+designed to eliminate the market impact of trading requests by
+keeping them out of public view until the moment a transaction
+is completed.  In Liquidnet’s case, the SEC found the company may not have
+gone far enough in safeguarding private information about the
+orders on its platform. While Liquidnet isn’t accused of
+revealing the identities of institutions buying and selling,
+according to Merrin’s letter, it may not have lived up to its
+responsibilities to its users by providing potential customers
+with “descriptive characteristics” of the institutions’ orders.  Any information about supply and demand or the types of
+firms operating in a marketplace could be valuable to company
+that is considering buying or selling shares. For example, if a
+seller knows a large mutual fund is purchasing stock, he might
+be more confident that his own actions wouldn’t drive the price
+down.  ‘Bad Process’  “It doesn’t sound like a systematic abuse of trust,” Sang Lee, managing partner at research firm Aite Group LLC in  Boston ,
+said in a phone interview yesterday. “It sounds like internally
+they had a bad process in place. But it’s not clear if it was
+intentional or accidental and my guess is Seth is going to have
+to spend a lot of time talking to their membership, especially
+in light of what happened to Pipeline.”  Pipeline Financial Group Inc. settled government
+allegations in October that it failed to provide the liquidity
+and confidentiality it advertised to customers of its dark pool.
+The New York-based company agreed to pay $1 million to resolve
+U.S. claims it misled clients by deploying a trading entity,
+Milstream Strategy Group LLC, to buy and sell shares on its
+venue while telling customers their orders were being matched
+with other clients. The firm’s founder and CEO resigned and its
+chairman retired the next month.  Liquidnet’s law firm is conducting a review of the equity
+capital markets unit, which seeks business from corporate
+issuers, Merrin said.  SEC Inspection  While the SEC’s inspection “revealed some shortcomings
+with this business, we do not believe that any member was ever
+disadvantaged in any trade,” Merrin wrote in the e-mail to
+asset managers yesterday. “Nevertheless, we take these issues
+very seriously and have taken steps to address them.”  Melissa Kanter, a Liquidnet spokeswoman, confirmed that
+Merrin sent the message to clients yesterday. The SEC also
+received a copy of the letter, she said. Liquidnet, which began
+trading U.S. stocks in 2001 and now operates in 39 countries,
+has about 700 asset-management clients, including  hedge funds 
+and pensions, according to Kanter. About 400 are in the U.S.  Liquidnet  discovered the problems involving the use of
+customer information during an SEC audit and is cooperating with
+the investigation, Merrin said in the interview. He started
+speaking to some of Liquidnet’s member firms about the
+disclosure of information last week and will continue talking to
+them to explain what the company did and what remedies have been
+put in place.  ‘Very Supportive’  “This is the first type of this call I’ve had to make in
+12 years,” Merrin said. “Most of the calls were very
+supportive and very positive. There were some obviously who were
+disappointed.”  Liquidnet traded 23 million U.S. shares a day on average
+through its two dark pools in April, according to data compiled
+by Rosenblatt Securities Inc. The data count completed
+transactions the way exchanges tally their volume, instead of
+recording buy and sell sides separately, which is how dark pools
+calculate their figures.  The company’s main venue had an average trade size of more
+than 43,000 shares, Rosenblatt’s data show. Investment
+Technology Group Inc.’s Posit Alert system, which lets asset
+managers trade with similar firms, had an average size of 33,000
+shares in the first quarter, according to the data. Unlike block
+venues, dark pools run by most large brokers including Credit
+Suisse Group AG and Goldman Sachs Group Inc. trade less than 300
+shares on average, comparable to what occurs on exchanges, the
+Rosenblatt data show.  Market Secrecy  At Liquidnet, the SEC is focused on a unit started three
+years ago in which the company allows mutual funds and other
+money managers to trade blocks directly with companies that are
+buying back or issuing their own shares. As part of the
+business, Liquidnet provides data on aggregated institutional
+buying and selling demand for shares within the dark pool to
+executives such as chief financial officers and treasurers.  One of the issues identified by the SEC involves a feature
+that lets buyers and sellers have their data excluded from the
+service, known as InfraRed. Nineteen firms asked Liquidnet not
+to include their information in the offering to issuers. At four
+of those firms, requests from subsidiaries weren’t heeded.
+Liquidnet said only one firm had “significant” U.S. volume.  Opting Out  “We have since opted out these affiliates and have added
+steps to our opt-out process to ensure that firm’s affiliates
+are opted out at the same time as the firm,” Liquidnet said in
+the e-mail. Asset managers must allow their information to be
+included in the InfraRed product to trade with issuers using
+Liquidnet to buy or sell shares, Merrin said today.  The other focus of the SEC inspection was a tool created by
+Liquidnet in February 2011 for its staff to use when
+communicating with companies issuing or buying their own stock.
+The tool displayed “aggregate and member-level liquidity and
+execution information,” according to Merrin’s e-mail.  “The ECM team used this tool to present issuers with
+opportunities to interact with member liquidity,” including
+providing data on the depth of the market and guidance on when
+to submit orders, Liquidnet said. “In some instances, the ECM
+team provided descriptive characteristics to members involved in
+that issuer’s stock,” it said.  Member Characteristics  Merrin told asset managers in his letter that Liquidnet has
+ceased giving “any type of member characteristics to issuers.”
+This was done in late 2011, he said in the interview. The
+company also altered the internal tool so employees can no
+longer see that data. The system now shows them only the ratio
+of buy and sell demand available on  InfraRed , Merrin said in the
+e-mail. That change was made a few weeks ago, he said today.  Liquidnet filed to go public in 2008. It shelved the plan
+during the financial crisis following the collapse of Bear
+Stearns Cos. and Lehman Brothers Holdings Inc.  “Liquidnet has to make sure their member firms are
+comfortable staying in the network,” Lee said. “It’s not a
+positive thing for Liquidnet or dark pools. There’s already a
+lot of public scrutiny over what’s going on in those markets.”  News of the SEC’s investigation came a day after the U.S.
+House Committee on Financial Services heard testimony from
+executives at exchanges and brokers about market structure
+changes over the past decade and a half. NYSE Euronext CEO
+ Duncan Niederauer  urged legislators to change rules to help it
+compete more with dark pools and other venues that execute
+trades away from  stock exchanges  without offering benefits such
+as larger transaction sizes.  Trading Speed  The SEC and Commodity Futures Trading Commission have
+examined the practices and advantages of high-frequency trading
+firms as the speed of trading has increased in recent years.
+These firms have recently drawn scrutiny from U.S. regulators
+seeking evidence that they may be distorting market prices by
+conducting transactions with themselves, said two people with
+knowledge of the matter.  So-called wash trades, in which a party buys a contract
+from itself, could be executed inadvertently by firms with
+multiple algorithms, or trading strategies, that are active in
+the same stock or derivative, said the people, who requested
+anonymity because the review isn’t public. Such trades, which
+can alter the price of shares if they are executed above or
+below market rates, would be illegal if deemed intentional
+efforts to manipulate stocks.  Merrin said he’d be surprised if Liquidnet is the only firm
+with problems uncovered during an SEC audit of its trading
+business. To maintain trust and credibility among clients using
+the block trading platform, Liquidnet wanted to tell them about
+the issues turned up in the SEC review itself, instead of
+waiting for the investigation to be completed, Merrin said.  “What  Wall Street  needs to do to establish some trust is
+to be upfront, be transparent, be honest about what people are
+doing,” Merrin said in the interview. “I hope we’d set an
+example for other firms to do the same thing.”  To contact the reporter on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net  

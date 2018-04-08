@@ -1,0 +1,90 @@
+-- Who Killed Online Privacy? We Did.
+-- B y   S t e p h e n   L .   C a r t e r
+-- 2013-09-12T22:00:01Z
+-- http://www.bloomberg.com/news/2013-09-12/who-killed-online-privacy-we-did-.html
+It has been a rough couple of
+months for the folks at the Tor Project.  Tor  -- it stands for “The Onion Router” -- camouflages
+its users’ Web communications with encryption and by bouncing
+signals around server nodes in different parts of the world so
+that it’s all but impossible for either governments or
+advertisers to track them to their origins. Its fans hail Tor as
+a vital tool for those who live under repressive governments.  But Tor has suffered a series of public embarrassments --
+embarrassments that teach important lessons about the
+increasingly desperate search for online privacy.  Last month,  we learned  that the anonymity protocols that
+are Tor’s reason for existence had been hacked, apparently by
+the  Federal Bureau  of Investigation, which was investigating an
+alleged purveyor of child pornography. Then, last week, we  were
+reminded  that some 60 percent of the budget of the Tor Project
+comes from the federal government, including a whopping 40
+percent from the  Department of Defense . (Tor responded in an e-mail published in the Washington Post that these are research
+grants, and the U.S. does not control its research or software.)  Now, most unkindly of all, Technology Review is piling on.
+This week, the popular technology site  reported  a study by the
+same researchers at the University of Luxembourg who earlier in
+the year found a major security flaw at Tor. (They informed Tor
+of the problem, and it has been repaired.) In their  new study ,
+the researchers have unpeeled a few layers of Tor’s celebrated
+onion of anonymity, releasing a tabulation of the most popular
+among Tor’s “hidden services” -- that is, sites that can be
+accessed only via Tor itself.  Worse News  The news wasn’t good.  For a site whose glory has long been the image of the
+courageous freedom fighter in, say,  Syria  bravely sending
+messages to the world, the results were depressing: “Of the top
+twenty most popular Tor addresses, eleven are command and
+control centres for botnets, including all of the top five. Of
+the rest, five carry adult content, one is for Bitcoin mining
+and one is the Silk Road marketplace. Two could not be
+classified.” It gets even worse: “The FreedomHosting address
+is only the 27th most popular address,” according to Technology
+Review.  In other words, the anonymity of Tor appeals principally to
+botnets, commonly used by spammers; those who peddle or seek
+pornography; and those who use a marketplace that  has been
+called  “Amazon.com for illegal drugs.”  As for Freedom Hosting: It was, for a while, one of the
+glories of the Tor universe. Although not sponsored by Tor,
+Freedom Hosting promised free accounts to anyone. But in August,
+the founder of Freedom Hosting  was arrested , charged by the U.S.
+government with being the world’s biggest purveyor of child
+pornography. He was also said to have turned a blind eye to
+other people’s use of Freedom Hosting for that purpose.  So what are the lessons of Tor’s long summer? Principally
+this: We are unlikely ever to be able to ensure our privacy
+through technical means alone. Ever since the days of the
+Polybius square, the race between encryption and decryption has
+been won by the decrypters.  Just this week,  we learned that  the National Security
+Agency may have developed either decryption capabilities or
+secret backdoors that enabled it to break most Internet
+encryption. (The problem may be even worse if, as some  experts
+speculate , NSA is developing dedicated chips that will aid in
+cracking even the elliptical keys that  not long ago  were said to
+carry the promise of a more secure online future.)  Nor can we protect privacy online through laws and court
+orders. The NSA, we are now told  by a federal judge , for three
+years “frequently and systematically” breached the limits
+placed on database searches by the Foreign Intelligence
+Surveillance Court. Think this isn’t about you? The database in
+question  includes  “the phone records of nearly all Americans.”  Worst News  Privacy is  best understood  not so much as a collection of
+discrete constitutional rights but as a shared sense that it is
+possible for us to go about the business of daily life protected
+by a government that neither knows nor cares how we spend the
+bulk of our time. The minutes of our lives are entirely our own.  But in a world ruled by the Web, privacy in this
+traditional sense seems so … 1990s. “There’s nothing you or I
+can do to put the genie back in the bottle,” writes security
+analyst Neil J. Rubenking. (The title of  his post : “Privacy is
+Dead. The NSA Killed it. Now What?”) “The best we can hope
+for,” he writes, “is to keep the government in check by
+electing sane, sensible candidates.”  That won’t be enough. The government’s appetite for
+information isn’t going to wane under either party. A voracious
+security bureaucracy isn’t going to go on a sudden diet. The bad
+guys will always be drawn to the shadows. Those who chase them
+will always find this an adequate reason to ban darkness.  So yes, as Tor users have lately learned, privacy in the
+traditional sense is most certainly dead. But the killer isn’t
+the NSA. It’s the Internet itself -- or, more to the point, our
+entire reliance on it, our naive belief that we can spend hours
+each day sending signals into the ether and nobody will pluck
+them out.  If we don’t want anyone to know what we’re buying, we’ll
+have to visit brick-and-mortar stores and pay cash. If we don’t
+want those who are sworn to protect us reading our e-mail and
+listening to our calls, we’ll have to meet our friends in
+person. It’s our growing unwillingness to take those time-consuming steps that’s killing our privacy.  (Stephen L. Carter is a Bloomberg View columnist and a
+professor of law at  Yale University . He is the author of “The
+Violence of Peace: America’s Wars in the Age of Obama” and the
+novel “The Impeachment of  Abraham Lincoln .” Follow him on
+Twitter at  @StepCarter .)  To contact the writer of this article:
+Stephen L. Carter at  stephen.carter@yale.edu .  To contact the editor responsible for this article:
+ Michael Newman  at   mnewman43@bloomberg.net . 

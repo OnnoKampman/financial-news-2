@@ -1,0 +1,76 @@
+-- NYSE Reviewing Upgrade as Possible Cause of Options Outage
+-- B y   S a m   M a m u d i   a n d   N i k o l a j   G a m m e l t o f t
+-- 2013-09-16T22:44:32Z
+-- http://www.bloomberg.com/news/2013-09-16/u-s-options-markets-shut-amid-issue-with-industry-data-feed-1-.html
+NYSE Euronext (NYX)  is looking into
+whether a software upgrade at a subsidiary disrupted a price
+feed that briefly halted U.S. options exchanges today.  Securities Industry Automation Corp., the NYSE unit that
+oversees the quote dissemination service linking U.S. options
+markets, is focusing on a programming update that may have led
+to today’s halt, said  Rich Adamonis , an NYSE Euronext spokesman.  The interruption came three weeks after  Nasdaq  OMX Group
+Inc.’s system for distributing U.S. stock prices failed,
+prompting a three-hour halt for thousands of companies. In the
+aftermath, securities regulators told exchanges last week to
+collaborate on preventing more shutdowns.  “The miscues that have occurred today are eerily similar
+to those with Nasdaq,” said Yousef Abbasi, market strategist at
+JonesTrading Institutional Services LLC, a Westlake, California-based broker. “You have issues with a price reporting or quote
+disseminating system.”  All 12 U.S. options exchanges temporarily shut today, with
+firms including  CBOE Holdings Inc. (CBOE)  and Nasdaq OMX blaming an
+issue with the Options Price Reporting Authority data feed that
+SIAC administers.  Stocks Slip  While  trading  continued without disruption on American
+equity markets, stock prices slipped around the time of the
+mishap. About 614 million shares had traded on all exchanges
+between 1:30 p.m. and 2:30 p.m. New York time, compared with 499
+million in the preceding hour, according to data compiled by
+Bloomberg. The Standard & Poor’s 500 Index fell from 1,702 to
+below 1,698 between 1:30 and 1:43 p.m.  In a meeting with the heads of U.S. securities markets last
+week, Mary Jo White, the chairman of the Securities and Exchange
+Commission, urged the executives to shore up price feeds that
+serve investors and traders.  Participants included representatives from the U.S. stock
+and options exchanges, the  Financial Industry Regulatory
+Authority , Depository Trust & Clearing Corp. and Options
+Clearing Corp. They were told to “provide comprehensive action
+plans that address the standards necessary to establish highly
+resilient and robust systems for the securities information
+processors,” the SEC said in a statement. That includes
+“testing standards and disclosure protocols,” it said.  Flooded Computers  The gathering occurred three weeks after Nasdaq’s computers
+were flooded with data from NYSE Arca, a competing exchange,
+revealing a bug in Nasdaq’s securities information processor
+that disabled systems that should have prevented the malfunction
+from snowballing.  Today’s error “was only a short outage,” Daniel Brady,
+president of San Francisco-based trading firm Entropy Capital
+LLC, said in a phone interview. “Not that significant,” he
+said. “I imagine this is just further fodder for the SEC and
+their review.”  “As is our practice, we have been monitoring developments
+and discussing them with market participants as appropriate,”
+said  John Nester , an SEC spokesman.  The closure is another setback for American exchanges,
+which have faced criticism that the complexity of their
+electronic infrastructure makes them vulnerable to breakdowns.
+In addition to the Nasdaq halt on Aug. 22, options markets were
+roiled in August when Goldman Sachs Group Inc. bombarded
+exchanges with erroneous orders due to a computer malfunction.  CBOE’s Shutdown  In April, the Chicago Board Options Exchange was down for 3
+1/2 hours because of a software error caused by preliminary work
+in preparation for a computer system reconfiguration. The outage
+prevented investors from trading options based on the VIX gauge
+of volatility and the Standard & Poor’s 500 Index, the most
+active in the U.S. which CBOE has exclusivity on.  According to OPRA’s  website , each trade that is executed on
+an options exchange is reported to OPRA as a message, with quote
+message traffic representing the vast majority generated.  “Quotes are generated automatically for individual options
+series based on changes in the underlying stock price or index
+value,” it said. “In other words, every time a price changes
+for a particular equity security, the quotes for all of the
+options on that security or an index in which that security is
+represented are automatically updated on each exchange that
+trades those options.”  Regulators have tightened rules at exchanges to avoid
+market disruptions such as the May 2010 errors that briefly sent
+the Dow Jones Industrial Average down almost 1,000 points
+because of a faulty algorithm in what’s become known as the
+flash crash.  To contact the reporters on this story:
+Sam Mamudi in  New York  at 
+ smamudi@bloomberg.net ;
+Nikolaj Gammeltoft in New York at 
+ ngammeltoft@bloomberg.net   To contact the editors responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net ;
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

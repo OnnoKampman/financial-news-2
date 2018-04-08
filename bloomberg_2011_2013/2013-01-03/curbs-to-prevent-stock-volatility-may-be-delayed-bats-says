@@ -1,0 +1,95 @@
+-- Curbs to Prevent Stock Volatility May Be Delayed, Bats Says
+-- B y   N i n a   M e h t a
+-- 2013-01-03T21:56:34Z
+-- http://www.bloomberg.com/news/2013-01-03/curbs-to-prevent-stock-volatility-may-be-delayed-bats-says.html
+New curbs to limit rapid price moves
+in individual stocks and changes to rules designed to prevent
+market-wide routs may be delayed two months to April, according
+to exchange operator Bats Global Markets Inc.  The shift from circuit breakers that pause trading if a
+stock rises or falls 10 percent in five minutes to curbs that
+limit moves without automatically triggering a halt will take
+effect April 8 instead of Feb. 4, subject to regulatory
+approval, the Lenexa, Kansas-based company said in a  notice  on
+its website. Changes to an  existing program  that stops all
+equity-based trading across stocks, options and futures will
+also be delayed, Bats said in the statement.  Both measures are meant to protect investors from extreme
+price moves. The gauge that will trigger the market-wide circuit
+breakers is switching from the  Dow Jones Industrial Average  to
+the Standard & Poor’s 500 Index, while the price drop for
+trading to stop is being narrowed and the length of pauses
+shortened in most cases. The so-called limit-up/limit-down plan,
+which prevents individual stocks from moving outside a rolling
+price band, will replace the automatic halts implemented after
+the flash crash on May 6, 2010, when the 30-stock Dow average
+briefly fell 9.2 percent.  “Sifma has been supportive of the limit-up/limit-down
+plan, and the plan should promote investor confidence,” T.R. Lazo, managing director and associate general counsel of the
+Securities Industry and Financial Markets Association, which
+represents banks, brokers and asset managers, said in an e-mail.
+“Because the plan is such an important market development, our
+member firms want to make sure they have sufficient time to test
+the necessary systems and coding changes so that the
+implementation is successful.”  ‘Interpretive Issues’  The trade group said “substantial operational and
+interpretive issues” must be addressed before the individual-
+stock curbs can be implemented, according to a Nov. 30  letter  to
+the U.S. Securities and Exchange Commission. Not enough
+information is available to brokers to make the software code
+changes that are necessary, it said.  “Proceeding with the current implementation schedule would
+create a great deal of risk, as well as a situation in which
+firms are required to implement significant systems and coding
+changes without sufficient time to conduct testing,” it said.  SEC OK Needed  The SEC must approve the request to delay implementation of
+the limit-up/limit-down plan by the 13  stock exchanges  and
+Financial Industry Regulatory Authority, which oversees more
+than 4,300 brokers, for it to go into effect. A separate delay
+request would have to be submitted by securities exchanges and
+Finra for the market-wide circuit breakers, introduced after the
+October 1987 market crash.  John Nester , a spokesman for the SEC, declined to comment.
+Also declining comment were Keara Everdell, a spokeswoman for
+ NYSE Euronext (NYX) , Robert Madden of  Nasdaq OMX Group Inc. (NDAQ)  and Jim Gorman at Direct Edge Holdings LLC. Dow Jones reported the
+planned delay yesterday.  The  Financial Information Forum , a group of brokers,
+exchanges and vendors, asked the SEC in a Dec. 13  letter  to
+delay the start of both price curbs to late March to give market
+participants more time to write the necessary computer code and
+test their systems. This was done to reduce systemic risk and
+safeguard the market by trying out the individual-stock program
+with test or fake security symbols before it’s implemented,
+according to Manisha Kimmel, executive director of the group.  ‘More Testing’  “We were concerned about the timing of this whole
+process,” Kimmel said in a phone interview. “We said we should
+use test symbols in production to be consistent with the SEC’s
+roundtable on market technology, and do more testing to reduce
+systemic risk. This affects market data, order-routing systems,
+trading systems at exchanges and broker-dealers.”  The limit-up/limit-down plan prevents certain stocks with a
+previous closing price higher than $3 from moving more than 5
+percent from their average price over the previous five minutes.
+If prices rise or fall the maximum amount they will enter a 15-
+second so-called limit state to allow the market to correct
+itself. If prices recover, trading continues. If not, the market
+will stop trading the security for five minutes, as is currently
+the case for extreme price moves.  Gradual Launch  The new  rules  for individual stocks will be introduced
+gradually, first for components of the  S&P 500 , Russell 1000
+Index and a group of about 430 exchange-traded products, and
+later for all those listed on exchanges, according to the SEC.
+Securities with prices up to $3 and those not in the initial
+group will have larger trading bands under the planned curbs.
+Changes to these volatility restrictions were proposed to avoid
+halting a stock when prices move rapidly because of errant
+activity, according to the exchanges and SEC.  FIF held three conference calls, each with more than 100
+attendees, to discuss changes to the plan for individual stocks
+in November and December, Kimmel said. The group is a subsidiary
+of New York-based Jordan & Jordan, which specializes in
+securities industry information and compliance issues.  The exchanges are also working to update their own rules
+for the limit-up/limit-down plan, Kimmel said. These changes
+will specify how orders are treated when the market is in a so-
+called limit state and how equity and options exchanges will
+handle buy and sell requests at that time to ensure consistency
+and reduce confusion among investors and brokers, she said.
+These rules should be available to individuals writing software
+code before testing of the new regulation starts, she said.  The current single-stock circuit breakers would continue
+until the new start date for the limit-up/limit-down plan,
+according to Bats. On Feb. 4, the existing curbs would be
+changed to start at 9:30 a.m.  New York  time instead of 9:45 a.m.
+and would end at 3:50 p.m. instead of 3:35 p.m. so they cover
+more of the trading day, Bats said.  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

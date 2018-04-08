@@ -1,0 +1,36 @@
+-- FIX Publishes European Standards for Reporting Trading
+-- B y   N a n d i n i   S u k u m a r
+-- 2012-11-26T08:00:00Z
+-- http://www.bloomberg.com/news/2012-11-26/fix-publishes-european-standards-for-reporting-trading.html
+FIX Protocol Ltd.,  the London-based
+organization that owns the global messaging format for financial
+trading, published a set of European guidelines on how trade
+reports and market data should be consolidated to improve price
+transparency for equities.  The standards will call for each trade on each platform to
+have a unique identifier and increase consistency in reporting,
+FIX said in an emailed statement. One of its proposals is to
+identify a security by its unique International Securities
+Identification Number, or ISIN, and its currency. FIX also
+stipulated a similar standard for indicating the trading venue.  Alternative trading systems such as Bats Chi-X  Europe ,
+which accounts for more than 25 percent of pan-European  stock
+trading , came into being after new rules in 2007 opened the door
+to competition with traditional exchanges. The new entrants
+grabbed market share, driving down trading and clearing fees,
+and brought improved trading technology.  Even as these new venues took market share from exchanges,
+fees for market data haven’t fallen. Also, incumbent exchanges
+continue to provide the reference price for stocks listed on
+their markets. This has fueled calls for a so-called
+consolidated tape that takes into account market data from all
+the trading systems to provide the price for a given stock.  Developing a consolidated tape is part of an overhaul of
+European trading regulations adopted in 2007 to spur competition
+between venues, the Markets in Financial Instruments Directive,
+or Mifid. Regulators are seeking to create a data feed that
+shows the price and volume of individual stock trades and where
+among dozens of venues they occurred.  We “propose a standard approach to be adopted across the
+industry by market participants involved in post-trade
+reporting,” FIX said today. This is “in order to shape the
+clarifications of Mifid post-trade transparency obligations.”  To contact the reporter on this story:
+Nandini Sukumar in London at 
+ nsukumar@bloomberg.net  or @NandiniSukumar on Twitter  To contact the editor responsible for this story:
+Andrew Rummer at 
+ arummer@bloomberg.net  

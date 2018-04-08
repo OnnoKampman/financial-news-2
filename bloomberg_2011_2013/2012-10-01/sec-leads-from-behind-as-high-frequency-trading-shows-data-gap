@@ -1,0 +1,138 @@
+-- SEC Leads From Behind as High-Frequency Trading Shows Data Gap
+-- B y   N i n a   M e h t a
+-- 2012-10-01T23:00:00Z
+-- http://www.bloomberg.com/news/2012-10-01/sec-leads-from-behind-as-high-frequency-trading-shows-data-gap.html
+The U.S. Securities and Exchange
+Commission, stung by criticism that it lacks the knowledge to
+analyze the computerized trading that has come to dominate
+American stock markets, is planning to catch up.  Initiatives to increase the breadth of data received from
+exchanges and to record orders from origination to execution are
+at the center of the effort. Gregg Berman, who holds a doctorate
+in physics from  Princeton University , will head the commission’s
+planned office of analytics and research.  “What we will focus on is trying to shed more light on
+some of the big outstanding questions about market structure,”
+Berman said in an interview in  Washington . “What is the impact
+of high-frequency trading? What’s the effect of high rates of
+order cancellations? What’s the connection between exchange-
+traded funds and individual stocks? How might different rules
+impact the market?”  Berman’s team will assess how market behavior has been
+altered after 15 years of regulatory reform and advances in
+technology that have left trading fragmented across 13 competing
+exchanges, 10 options markets and dozens of venues operated
+privately by brokerages. SEC Chairman  Mary Schapiro , spurred
+into action by the stock rout of May 6, 2010, has made improving
+data collection a priority.  Too Long  High-frequency strategies, which process massive amounts of
+quote and transaction data and rely on the rapid-fire submission
+of orders to exchanges, account for 51 percent of U.S. equity
+volume, up from 35 percent in 2007, according to research firm
+ Tabb Group LLC . They include electronic market making,
+statistical arbitrage and tactics based on price movements in
+indexes compared with their constituent stocks.  Critics say the commission isn’t moving fast enough to rein
+in the quickest traders and that money-raising functions such as
+initial public offerings are being harmed by perceptions the
+market is geared toward speculators. Initiatives similar to the
+so-called consolidated audit trail, meant to enhance order
+tracking, have been around since the early 1980s, said David
+Weild, the New York-based head of  capital markets  with Grant
+Thornton LLP.  “It’s amazing it’s taken 30 years,” Weild, a former vice
+chairman of Nasdaq Stock Market, said in a phone interview.
+“Meanwhile, there’s been an arms race on Wall Street and the
+SEC is outclassed in its ability to reconstruct events and look
+for vulnerabilities.”  Facebook, Knight  Concern for the stability of U.S. markets has increased
+following the so-called flash crash of May 2010, the botched
+initial public offering of  Facebook Inc. (FB)  in May and  Knight
+Capital Group Inc. (KCG) ’s $440 million trading loss in August. The
+SEC has scheduled a meeting today in Washington for industry
+professionals and academics to discuss ways to limit technology
+breakdowns.  The proliferation of venues, faster trading speeds and the
+use of increasingly complex orders warrant a coordinated review
+of regulations that made the market more complicated and helped
+high-frequency trading flourish, Joseph Mecane, head of U.S.
+equities at  NYSE Euronext (NYX) , said at a conference in Washington
+last month. The analysis should focus on Regulation NMS, the set
+of rules implemented in 2007 to foster competition among
+exchanges and drive costs down for investors, he said.  According to Berman, the key to understanding what’s going
+on and whether rule changes are warranted is first figuring out
+the right questions to ask and what the data can reveal.
+Regulators can’t answer everything, he said.  Quantitative Analysis  “The art of quantitative analysis is knowing what you’re
+supposed to plot on the X axis versus the Y axis so it actually
+reveals something interesting and actionable,” he said. “It’s
+about knowing when the result tells you something real and when
+it’s just an artifact of the data. Sometimes quantitative
+analysis requires serious math and writing computer programs
+that go through a complex algorithm, but not always.”  The SEC has two initiatives to make his job easier.
+Schapiro proposed a mechanism for tracking all order and trading
+information known as the consolidated audit trail within weeks
+of the 2010 crash, which briefly erased $862 billion from U.S.
+share values. The system will trace customer data and the way
+orders are passed between brokers and private dark pools before
+they’re completed or canceled, information that has never before
+been compiled.  It also acquired a research tool from high-frequency firm
+and technology vendor Tradeworx Inc. What the SEC calls its
+market information data analytics system, or Midas, will collect
+trading data that exchanges provide to the high-speed firms and
+brokers that want information milliseconds before the public.
+The feeds also include data not available elsewhere.  Audit Trail  The audit trail won’t be in place for several years and the
+industry hasn’t figured out how much it will cost and who will
+pay for it. Midas will be fully rolled out by the end of 2012,
+Berman said. It won’t include information about the one-third of
+trading that occurs away from exchanges.  “We’re starting with the equities market because there’s a
+system we can implement quickly,” Berman said. His group may
+also be able to conduct data-driven research into how other
+markets function, such as equity options, corporate bonds and
+exchange-traded products. Still, he said, the research starts
+with formulating the right questions. “We unfortunately don’t
+have a HAL 9000 or Star Trek-type computer where you simply
+throw data at it and it spits out the answer,” he said.  Market Crashes  Data will be gathered to analyze market crashes and other
+events, discern trends related to how liquidity is provided and
+how often order cancellations occur, and monitor markets,
+according to Berman. If automated checks spot an anomaly,
+analysts can probe the data to decide if further investigation
+is warranted, he said. The SEC can also use data to inform
+rulemaking and policies, he said.  In response to asset managers who say that existing orders
+disappear when they try to buy or sell shares, the SEC can look
+at instances with individual stocks to see if that happens and
+how long it takes to “eat through the available liquidity,”
+said Berman, who is a special adviser to the director of the
+SEC’s division of trading and markets. The office of analytics
+and research will be housed within that division.  Some automated strategies may cancel more than 90 percent
+of the orders they send to exchanges, the SEC said in a 2010
+report. Critics such as investment manager T. Rowe Price Group
+Inc. and broker Themis Trading LLC say the traffic rates and
+potentially abusive behavior mitigate benefits of high-frequency
+trading, such as tighter spreads between the best bids and
+offers.  ‘How Markets Work’  “We can actually provide some metrics around some of the
+anecdotes from institutions that say the volume is fleeting,
+that it’s there and then it’s not,” Berman said. “Are there
+patterns between cancels and the size of a stock? How do cancels
+affect large versus small-cap stocks, or ETFs? This analysis can
+help us generate more information about how markets work.”  Berman, who studied experimental and nuclear physics,
+developed trading strategies in commodities and stocks at a
+hedge fund and became a founding member of RiskMetrics Group
+Inc. in 1998 when JPMorgan Chase & Co. spun off the company. He
+writes programming code and did some of the flash-crash modeling
+when the SEC examined how trade requests were withdrawn from
+exchange order books that day.  The analytics and research office plans to hire traders
+from banks and hedge funds as well as financial engineers and
+individuals with quantitative and analytical skills. It’s
+looking for programmers in the C++ computer language and “UNIX
+gurus who really know how to get under the hood and in former
+lives may have written trading programs and now are going to
+write analytical programs,” Berman said.  Monitoring Programs  Berman’s group will devise monitoring programs and look for
+patterns and outliers that might indicate nefarious behavior or
+market manipulation. It will also study message traffic to spot
+delays between the proprietary data feeds and the public
+streams, Berman said. The SEC fined the  New York  Stock Exchange
+$5 million last month for sending information to its private
+feeds faster than it provided the data to the public.  Those drawn to Wall Street because they want to analyze
+risk will also be welcome, he said.  “Some people thrive on the pressure,” Berman said. “If
+they can’t lose their shirt in a day, they don’t feel like
+they’ve lived. But there’s a certain percentage who say ’I have
+to tolerate that and bear it because I’m interested in analyzing
+the risk.’ Those are the people that we’re looking for -- people
+who want to understand the markets without having to commit to
+the life of someone who trades on  Wall Street .”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

@@ -1,0 +1,107 @@
+-- 
+Sony Network Breach Shows Amazon Cloud’s Appeal for Hackers
+
+-- B y   J o s e p h   G a l a n t e ,   O l g a   K h a r i f   a n d   P a v e l   A l p e y e v
+-- 
+2011-05-16T20:45:24Z
+
+-- http://www.bloomberg.com/news/2011-05-15/sony-attack-shows-amazon-s-cloud-service-lures-hackers-at-pennies-an-hour.html
+For three pennies an hour, hackers
+can rent  Amazon.com Inc. (AMZN) ’s servers to wage cyber attacks such as
+the one that crippled  Sony Corp. (6758) ’s PlayStation Network and led
+to the second-largest online data breach in U.S. history.  A hacker used Amazon’s Elastic Computer Cloud, or EC2,
+service to attack Sony’s online entertainment systems last
+month, a person with knowledge of the matter said May 13. The
+intruder, who used a bogus name to set up an account that’s now
+disabled, didn’t hack into Amazon’s servers, the person said.  The incident helps illustrate the dilemma facing Chief
+Executive Officer  Jeff Bezos : Amazon’s cloud-computing service
+is as cheap and convenient for hackers as it is for customers
+ranging from  Netflix Inc. (NFLX)  to  Eli Lilly & Co. (LLY)  Last month’s attack
+on Sony compromised more than 100 million customer accounts, the
+largest data breach in the U.S. since intruders stole credit and
+debit card numbers from Heartland Payment Systems in 2009.  “Anyone can go get an Amazon account and use it
+anonymously,” said Pete Malcolm, chief executive officer of
+Abiquo Inc., a  Redwood City , California-based company that helps
+customers manage data internally and through cloud computing.
+“If they have computers in their back bedroom they are much
+easier to trace than if they are on Amazon’s Web Services.”  Network Resumption  Sony on May 14 partially restarted its PlayStation Network
+and Qriocity services, which had been shut since April 20
+because of the intrusion. The company has hired three security
+firms to investigate and is working with the law enforcement
+officials. Sony has faced a backlash from regulators and
+customers over the time it took to warn customers that their
+data may have been stolen.  Drew Herdener, a spokesman for Seattle-based Amazon, the
+world’s largest online retailer, declined to comment. Amazon
+didn’t respond to a request to speak with Bezos. Patrick Seybold, a U.S. spokesman for Tokyo-based Sony, declined to
+comment beyond public statements made on the matter.  The  Federal Bureau of Investigation  will likely subpoena
+Amazon or seek a search warrant to access the history of
+transactions, trace who had access to the specific Internet
+address at the time and get details on payment data, said E.J.
+Hilbert, president of the security company Online Intelligence
+and a former FBI cyber-crime investigator.  FBI Probe  FBI Special Agent Darrell Foxworth, a spokesman for the
+agency’s  San Diego  office, said he couldn’t comment on whether
+the bureau served Amazon with a search warrant or subpoena and
+that investigators are following up “each and every lead.”
+Amazon’s Herdener declined to say whether his employer had been
+subpoenaed or served with a search warrant.  Amazon Web Services leases computing space to companies so
+they don’t have to buy their own servers to store data and
+handle a surge in visitors.  Prices for EC2 range from 3 cents to $2.48 an hour for
+users on the east coast of the U.S., according to its website.
+Signing up to the service requires a name, e-mail address,
+password, phone number, billing address and credit card
+information. Users get an automated call from Amazon and are
+asked to dial in a four-digit verification code to complete the
+registration process.  That’s not enough to scare off hackers seeking to conduct
+attacks anonymously, and Amazon doesn’t have the means to detect
+illegal uses of its servers, Abiquo’s Malcolm said.  Good Versus Bad  “Realistically, Amazon can’t do anything to prevent it,”
+Malcolm said. “There is no way of telling who’s a good guy and
+who’s a bad guy.”  Web Services generated about $500 million in revenue for
+Amazon in the past year, according to estimates at  Barclays
+Capital . That’s about 1.5 percent of 2010 sales at Amazon, which
+doesn’t disclose sales from the unit.  Amazon fell $10.05, or 5 percent, to $192.51 at 4 p.m. New
+York time on the Nasdaq Stock Market. Sony was little changed
+today in Tokyo trading.  As companies from Amazon to  Microsoft Corp. (MSFT)  build server
+farms worldwide, the services can help hackers hide their
+tracks, said Hilbert.  Cloud services are also attractive for hackers because the
+use of multiple servers can facilitate tasks such as cracking
+passwords, said Ray Valdes, an analyst at Gartner Inc. Amazon
+could improve measures to weed out bogus accounts, he said.  Hijacked Servers  The use of hijacked or rented servers to launch attacks is
+typical for sophisticated hackers, according to Hilbert. Chinese
+hackers used the servers of a major U.S. Internet service
+provider in 2008 to break into a government agency and several
+defense contractors, according to a secret Nov. 3, 2008, cable
+exposed by Wikileaks.  The hackers “used at least three separate systems at the
+unnamed ISP in multiple network intrusions and have exfiltrated
+data via these systems,” according to the cable.  In some cases, hackers hide their tracks beneath several
+layers of proxy servers that can span the globe. A recent attack
+against computers in  South Korea  was controlled from servers in
+more than 20 different countries, according to Georg Wicherski,
+a security analyst at  Santa Clara , California-based  McAfee Inc. (MFE) 
+The identity of the offenders is unknown, he said.  Rethinking Cloud  Malicious attacks  in the U.S. are on the rise. They made up
+31 percent of data breaches in 2010, up from 24 percent a year
+earlier, with each event costing U.S. businesses an average of
+$7.2 million, according to a March report by the Ponemon
+Institute. The study found that about 85 percent of all U.S.
+companies have experienced one or more attacks.  Last month’s incursion was “very carefully planned, very
+professional, highly sophisticated criminal cyber attack,” Sony
+has said.  The episode will cause individuals and companies to rethink
+what data to put on the cloud and force companies to potentially
+double what they spend on application security, said Murray
+Jennex, an associate professor at  San Diego State University  who
+specializes in computer systems security. In the long run, it
+will be cheaper than being hacked, he said.  “This puts cloud computing into proper perspective,”
+Jennex said. “Everybody’s been thinking it’s chic and ignoring
+the security aspect. I think this reminds companies that things
+that make them great need to stay under their control.”  To contact the reporters on this story:
+Joseph Galante in  San Francisco  at 
+ jgalante3@bloomberg.net ;
+Olga Kharif in Portland at 
+ okharif@bloomberg.net ;
+Pavel Alpeyev in Tokyo at 
+ palpeyev@bloomberg.net   To contact the editors responsible for this story:
+Anthony Palazzo at 
+ apalazzo@bloomberg.net ;
+Young-Sam Cho at 
+ ycho2@bloomberg.net ;
+Tom Giles at 
+ tgiles5@bloomberg.net  

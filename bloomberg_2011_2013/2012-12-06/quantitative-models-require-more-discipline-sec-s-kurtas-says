@@ -1,0 +1,130 @@
+-- Quantitative Models Require More Discipline, SEC’s Kurtas Says
+-- B y   N i n a   M e h t a
+-- 2012-12-06T16:50:03Z
+-- http://www.bloomberg.com/news/2012-12-06/quantitative-models-require-more-discipline-sec-s-kurtas-says.html
+Investment and trading firms must
+impose more discipline developing quantitative models to avoid
+mishaps that can harm investors, according to a Securities and
+Exchange Commission official.  Reliance on mathematical models to make trading decisions
+requires firms to ensure that automated systems operate as
+planned and are properly tested, Erozan Kurtas, an assistant
+director in the quantitative analytics unit within the SEC’s
+Office of Compliance Inspections and Examinations, said at a
+conference about high-frequency trading yesterday.  The SEC is emphasizing the responsibilities of firms using
+automated strategies to invest or trade in the wake of events
+such as  Knight Capital Group Inc. (KCG) ’s technology mistake that cost
+the firm more than $450 million in August, and a coding flaw
+that led to $217 million in client losses at a unit of Axa SA a
+few years earlier. The Axa case was the first targeting an error
+in a quantitative investment model, according to the commission.  “If we don’t sort this out, we’re going to have lots of
+Axas or Knights,” Kurtas said.  The OCIE unit, formed earlier this year, uses quantitative
+analytics to understand how companies manage risks posed by
+technology and mathematical models, Kurtas said.  OCIE 
+administers the SEC’s national examination program of companies
+such as investment advisers, brokers and exchanges.  Simulation, Back-Testing  Some firms don’t do enough to test and manage their
+software, Kurtas said. Individuals at some investment companies
+don’t know the difference between the simulation of potential
+events and back-testing to see how a model would have worked
+under past market conditions, he said. There’s also insufficient
+testing for incorrect data.  “There are so many companies out there who are not
+properly testing for stale data,” which can affect how models
+function, he said. “Sometimes people tested for certain periods
+and ignored certain other periods,” Kurtas said. “You can’t do
+that,” particularly if the firm’s marketing materials say the
+strategy works in all market conditions, he added. “You have to
+make sure the model works the way you are representing,
+otherwise it’s fraud.”  Testing should also be conducted by individuals who didn’t
+write the computer code, said Kurtas, who has a masters of
+business administration degree from Carnegie Mellon University
+and a doctorate in electrical and computer engineering from
+Northeastern University. He  previously  was a senior analyst at
+Standard & Poor’s who evaluated collateralized debt obligations
+and funds of hedge funds and earlier was a research director at
+Seagate Technology Plc, where he led a group designing
+algorithms to identify anomalies in data sequences.  Hidden Malfunction  Knight dodged bankruptcy in August after losing more than
+$450 million in a trading error that resulted from the
+installation of new software. The glitch caused the Jersey City,
+New Jersey-based market maker to unintentionally spew orders
+into the market. Knight was bailed out by six financial firms a
+week later and is now considering takeover bids by two rivals.  Axa Rosenberg Group LLC, a unit of the French insurance
+company, lost $217 million because of a malfunction that was
+kept from the unit’s CEO and investors, the SEC  said  in February
+2011. The error, introduced in 2007, was discovered in June
+2009. The firm was censured and agreed to a $25 million penalty
+in addition to a payment of $217 million to cover client losses.  The units “failed to disclose the error and its impact on
+client performance, attributed the model’s underperformance to
+market volatility rather than the error, and misrepresented the
+model’s ability to control risks,” the SEC said. Barr M. Rosenberg, the division’s co-founder, separately agreed to pay
+$2.5 million to settle claims of securities fraud.  ’Proper Documentation’  Companies need “proper documentation of all models” and
+some compliance personnel should be able to read the source code
+to understand how the systems work, Kurtas said. Changes to
+models should be tracked, there should be a process to escalate
+emerging problems to executives, and the risks of quantitative
+systems should be disclosed to investors, he said.  Firms that don’t document how their models work will get
+longer visits by SEC officials, Kurtas said. If the source code
+for the model is the only documentation, “we have to look at
+the source code,” he said.  The SEC’s OCIE program had net costs of $236 million in the
+year ending Sept. 30, the highest outlay of funds after the
+enforcement division’s $401 million, according to a  report  by
+the Government Accountability Office last month.  The Managed Funds Association, which represents hedge funds
+and managed futures firms, urged the SEC to consider requiring
+every broker to form a technology advisory group “to review or
+perform its pre-technology release reviews or to develop
+technology risk assessments,” according to an August  letter 
+that followed Knight’s blunder.  Appropriate Testing  The commission could require every firm to have a technical
+manager certifying to senior executives that the broker
+conducted appropriate testing and market simulations of software
+releases and complied with its policies for installing programs,
+Stuart Kaswell, general counsel at the Washington-based MFA,
+wrote. The group urged the SEC to consider updating the market-
+access rule implemented last year mandating that brokers to
+conduct credit and risk checks on orders before they’re
+submitted to exchanges or other venues.  It said the obligations should be imposed on individual
+rather than aggregated orders to flush out technical glitches.  The traditional separation within brokers of the revenue-
+generating equities-trading business and technology-support
+division is “outdated and dangerous” in a faster, automated
+market and these groups should become more integrated, David Weisberger, a former equities executive at Citigroup Inc., told
+the SEC in an October  letter .  Big Losses  Since technology errors can cause big losses within a firm
+and harm investors in the broader market, risk controls should
+be incorporated into business decisions, said Weisberger, who
+previously was managing director and head of global electronic
+market access at Citigroup and is now executive principal at
+market-maker Two Sigma Securities, an affiliate of Two Sigma
+Investments LLC, which manages about $10 billion.  Automated monitoring systems of algorithms or computerized
+trading strategies should be overseen by human beings and
+operate independently of a firm’s trading software, Weisberger
+wrote. Risk managers and technology experts should get real-time
+alerts that flag potentially aberrant activity so they can take
+immediate action, he said.  Risk Threshold  “Whether a risk threshold is breached by software
+malfunction or mistakes made by a human trader, the system
+should alert these individuals so that predetermined escalation
+procedures may be followed,” Two Sigma told the SEC in the
+letter. “The lack of such a clear command-and-control process
+could allow errors to compound and, ultimately, threaten the
+integrity of the market as a whole.”  Technology’s role in trading should drive brokers to
+improve the way they write computer code and deploy software,
+including how strategies are simulated before they’re used and
+what happens when activity looks abnormal, Weisberger said. What
+once was seen as the traditional back office, which includes
+technology, operations and accounting, should occupy a more
+central role in business decision-making, he said.  Computer Science  Compliance employees at investment advisers and brokers may
+need to acquire new skills in financial engineering and computer
+science, Kurtas said. If some compliance staff can’t read source
+code, “we don’t believe they can put together a robust
+compliance system,” he said. Programmers often design systems
+without sufficient knowledge of regulations, he added.  The SEC is building up its market-analysis and oversight
+staff by adding trading specialists and individuals with
+doctorates in mathematics, financial engineering, statistics and
+computer science, he said. The commission is also implementing a
+system that collects order and transaction data from the real-
+time feeds exchanges sell to high-frequency traders and brokers
+to gain access to tools it’s never had, he said.  “We don’t have the budgets that the private sector has,”
+Kurtas said. “We’re not going to be able to hire armies.”
+Still, smarter inspections and oversight of regulated companies
+is possible. “We are just looking for a few good Jedis,” he
+added, referring to a group of guardians that fought for justice
+in the 1977 “Star Wars” movie.  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

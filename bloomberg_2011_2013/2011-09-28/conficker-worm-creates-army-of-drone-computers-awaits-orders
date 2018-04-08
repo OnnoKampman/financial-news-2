@@ -1,0 +1,81 @@
+-- 
+Silent Internet-Killer Awaits Its Master’s Orders: Book Review
+
+-- B y   R i c h   J a r o s l o v s k y
+-- 
+2011-09-28T04:01:00Z
+
+-- http://www.bloomberg.com/news/2011-09-28/conficker-worm-creates-army-of-drone-computers-awaits-orders.html
+As a narrative,  Mark Bowden ’s
+“Worm” leaves something to be desired. As a warning, it’s
+distinctly unnerving.  “ Worm ” is the story of Conficker, a nasty piece of
+software injected into the Internet’s bloodstream in 2008. Since
+then it has infected millions of computers worldwide, assembling
+the largest-ever “botnet” -- a drone army of machines that,
+unknown to their owners, might be ordered at any time to unleash
+digital havoc that could bring down global communications
+systems, power grids, perhaps the very Internet itself.  Where did Conficker come from, and who was or is behind it?
+No one knows, including Bowden, the author of “ Black Hawk
+Down .” Perhaps it’s the Ukrainians, or the Chinese, or a “dark
+Symantec” -- a commercial criminal enterprise established as
+the mirror image of the well-known Internet security firm.
+Whoever they were, though, they clearly knew what they were
+doing.  The worm combined the best-of-breed malevolence from
+previous malware exploits -- chronicled here in sometimes mind-
+numbing detail -- with unique advancements of its own. Once it
+infected a computer, it would repair the Microsoft Windows
+security breach it had exploited, preventing competitors from
+coming in behind it. It would also stealthily thwart any effort
+by the computer’s owner to install a cure. And then, like a
+terrorist sleeper cell, it would simply await instructions from
+its unknown master.  Justice League of Nerds  Combating this mortal threat was an ad hoc group of
+security experts calling itself the Cabal -- in Bowden’s
+telling, a sort of  Justice League of America  of computer nerds
+desperately racing against time, official indifference and its
+own internal divisions to head off computergeddon.  They included representatives from Microsoft, think-tanks
+and the loosely organized bodies that pass for the Internet’s
+governing authorities, as well as assorted other industry
+consultants.  Conspicuously absent was any representative of the U.S.
+government, despite repeated efforts to engage it. The silence
+from official quarters proved baffling, until the truth dawned
+on the Cabal. “The real reason for the feds’ silence was ...
+they had nothing to offer!” Bowden writes. “They were in way
+over their heads.”  With a deadline of April 1, 2009, when the botnet was
+programmed to become operational, the Cabal struggled to unpeel
+Conficker’s protective layers, figure out how it worked and head
+it off.  Checking In  Every day, the worm would create and check in with long
+lists of randomly generated Internet domains, behind any one of
+which its master might lurk. Only as the date approached on
+which the zombie army would rouse to life did the populace at
+large become aware of its peril. The New York Times ran
+articles. “60 Minutes” did a segment. The world held its
+breath.  And then ... nothing. The mighty beast shuddered, sent a
+little spam and then lapsed back into whatever digital muck
+spawned it.  Or did it? Bowden makes a case that the unknown botmaster’s
+goal wasn’t to unleash a single crippling attack but to create
+an infrastructure that can be exploited at will in the future.  ‘Marshaled for Attack’  “The Conficker botnet, this enormous concentration of
+computer power, had been assembled and was still in the hands of
+its mysterious creators,” he writes. In hacker jargon, the
+millions of infected machines remained “pwned, or owned, and
+they could be turned to any task the botmaster defined. They
+could be leased for plunder or marshaled for attack.”  The author does his best to maintain the story’s dramatic
+tension. But a combination of factors -- the lengthy history of
+malware near the beginning of the book, the lack of knowledge on
+who perpetrated Conficker and why -- all conspire to make
+“Worm” an oddly unsatisfying yarn.  So, too, does a series of annoying factual errors. Personal
+computers were widely available in 1984, contrary to the book’s
+assertion. Microsoft’s first product, for the pioneering Altair
+microcomputer, was a BASIC language interpreter, not an
+operating system. And so on.  As a cautionary tale, though, “Worm” is worth attention.
+Government officials up to and including President Obama have
+taken notice of Conficker and begun to address some of the
+issues it raised. But you’ll probably put “Worm” down with the
+thought that cyberspace is just as dangerous as the physical
+world we inhabit.  “Worm: The First Digital World War” is published by
+Atlantic Monthly Press (245 pages, $25). To buy this book in
+ North America , click  here .  ( Rich Jaroslovsky  is the technology columnist for Bloomberg
+News. The opinions expressed are his own.)  To contact the writer of this review:
+Rich Jaroslovsky in  San Francisco  at 
+ rjaroslovsky@bloomberg.net .  To contact the editor responsible for this story:
+Manuela Hoelterhoff at 
+ mhoelterhoff@bloomberg.net . 

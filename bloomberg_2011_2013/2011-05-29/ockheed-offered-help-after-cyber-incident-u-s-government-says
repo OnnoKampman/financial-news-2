@@ -1,0 +1,54 @@
+-- 
+U.S. Offers Lockheed Help After ‘Tenacious’ Cyber Attack
+
+-- B y   G o p a l   R a t n a m
+-- 
+2011-05-29T18:07:42Z
+
+-- http://www.bloomberg.com/news/2011-05-29/lockheed-offered-help-after-cyber-incident-u-s-government-says.html
+U.S. agencies offered assistance to
+ Lockheed Martin Corp. (LMT) , the world’s largest defense contractor,
+which suffered what it called a “tenacious” cyber attack on
+its computer networks on May 21.  The Department of  Homeland Security  “is aware of a cyber
+incident impacting” Lockheed and, together with the Department
+of Defense, has offered help in “determining the extent of the
+incident, performing analysis of available data in order to
+provide recommendations to mitigate further risk,” Chris
+Ortman, a spokesman for the agency, said in an e-mail yesterday.  The impact on the military “is minimal and we don’t expect
+any adverse effect,” Lieutenant Colonel April Cunningham, a
+spokeswoman, said in an e-mail.  Lockheed, based in Bethesda, Maryland, said it detected a
+“significant and tenacious attack” on its  computer networks  on
+May 21. It was found “almost immediately” and no employee,
+program or customer data was lost, the company said in a
+statement.  President Barack Obama was briefed on the attacks, White
+House spokesman  Jay Carney  said.  “Based on what I’ve seen, they feel it’s fairly minimal in
+terms of the damage,” Carney said.  Mobile Security System  Lockheed uses a mobile security system produced by EMC
+Corp.’s RSA unit. RSA bolstered security for clients, including
+Lockheed, after a network breach in March resulted in the theft
+of RSA data, a person familiar with the process said yesterday.  The remediation involves replacing the SecurID tokens
+issued by RSA that often expire in three years, said the person,
+who wasn’t authorized to discuss the matter publicly. The
+company’s defense-contractor clients, which make missiles,
+aircraft and other weapons, also include  Northrop Grumman Corp. (NOC) 
+and  Raytheon Co. (RTN)  Dave Farmer, a spokesman for EMC, declined to
+comment.  EMC, based in Hopkinton,  Massachusetts , reported that the
+cyber attack in March resulted in information being taken from
+its systems, including data related to RSA’s SecurID
+authentication products.  Users who need access their employer’s secure network from
+remote locations may use a SecurID type device, a memory stick-
+like unit that generates random numbers that must be used in
+combination with a personal identification number to gain entry.  “If intruders get the key, the seed that enables one-time
+passwords to be generated,” then they may have the capability
+to break into networks that depend on such systems to
+authenticate users, Alan Paller, director of research at the
+SANS Institute, a computer security training institution in
+Bethesda,  Maryland , said in an interview. Paller said he
+couldn’t say if Lockheed’s networks were breached.  Randy Belote , a spokesman for Los Angeles-based Northrop
+Grumman and Jon Kasle, a spokesman for Raytheon of Waltham,
+Massachusetts, declined to comment.  To contact the reporter on this story:
+Gopal Ratnam in Washington at 
+ gratnam1@bloomberg.net   To contact the editors responsible for this story:
+Mark Silva at 
+ Msilva34@bloomberg.net ;
+Paul Tighe at 
+ ptighe@bloomberg.net  

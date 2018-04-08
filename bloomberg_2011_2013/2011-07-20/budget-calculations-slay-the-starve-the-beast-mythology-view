@@ -1,0 +1,78 @@
+-- 
+Budget Calculations Slay the ’Starve the Beast’ Mythology: View
+
+-- B y   t h e   E d i t o r s
+-- 
+2011-07-20T00:47:08Z
+
+-- http://www.bloomberg.com/news/2011-07-20/budget-calculations-slay-the-starve-the-beast-mythology-view.html
+For more than 30 years, since the
+election of  Ronald Reagan  in 1980, some Republicans have pursued
+a theory called “Starve the Beast.”  STB holds that you don’t cut government spending in order
+to lower taxes; you lower taxes in order to cut government
+spending. The deprivation of revenue will force the government
+to get smaller. How this is supposed to happen has always been a
+bit of a mystery. Sages across the political spectrum have noted
+that both parties have consistently shown a willingness to spend
+money the Treasury doesn’t have.  At first, this strategy was considered a scandalous secret.
+Democrats -- most notably the late Senator Daniel Patrick Moynihan of  New York  -- asserted that this was what the
+Republicans were up to. Republicans denied it, insisting
+publicly that they were merely following the prescriptions of
+supply-side economics: Painful spending cuts are unnecessary
+because tax cuts will pay for themselves in new revenue. STB
+considers, by contrast, that tax cuts will pay for themselves by
+forcing spending cuts. Gradually, this theory became something
+Republicans would openly brag about.  Now, it appears that shrinking the government has become
+the focus of  House Republicans . They claim to be concerned about
+reducing the national debt, but they’re actually using that
+issue as a way to force cuts in  government spending . The deficit
+and the accumulated debt are almost considered good things, in a
+way, because they will force the government to get smaller.  Cut, Cap, Balance  The STB ethos inspired the “Cut, Cap and Balance” proposal
+that was passed by the Republican-controlled House yesterday. It
+conditions a $2.4 trillion debt-ceiling increase on cutting
+spending next year by more than $100 billion, capping future
+spending as a percentage of the economy and passing a balanced-
+budget amendment to the Constitution.  The measure is symbolic, unlikely to pass the Senate, and
+subject to a White House veto, in any case. But it helps show
+why negotiations have been so difficult. If your shared goal is
+a smaller deficit, there’s an obvious split-the-difference
+compromise: a dash of tax increases and a sprinkling of spending
+cuts. If one side’s purpose is only or overwhelmingly to reduce
+the size of government, then, from its point of view, any tax
+increase is a step backward, making compromise much more
+difficult.  The argument about  supply-side economics , we suppose, will
+never end, because the devotion of believers is more-or-less
+evidence-proof. Before the dogma of Starve the Beast also
+hardens into an article of faith, let’s consider its sheer
+mathematical improbability.  Compound Interest  The problem in a nutshell is that when you cut taxes, and
+do nothing else, the first thing that happens is that government
+spending goes up -- it now includes interest on the added debt.
+Any STB effect must first overcome this additional expense
+before it starts paying off. (This, of course, assumes that
+smaller government and less government spending are the same
+thing -- and that both are desirable. But STB theory itself
+makes the same assumptions.)  Attached is a simple spreadsheet illustrating the point,
+and explaining the underlying formulas and assumptions.
+Government spending in Year Zero is set at 100 and other inputs
+are set roughly proportionate to reality. (For example, gross
+domestic product is 400 because current government spending is
+one-fourth of GDP.) But you can change the starting levels of
+almost any input (the yellow cells) and get a similar result:
+STB doesn’t decrease government spending, it increases it.  Try at Home  The attached chart offers three examples. The STB effect is
+the fraction of every dollar of a  tax cut  that leads (somehow)
+to a spending cut. Example 1 assumes a $10 tax cut in Year Zero
+that takes effect in Year 1. Revenue drops from an assumed $85
+to $75. The STB effect drives government noninterest spending
+down by half that amount, $5 (from an assumed $85 to $80), and
+the additional interest because of added debt is only 75 cents.
+Government spending as a share of GDP drops a little more than 1
+percent.  So far so good. But as compound interest does its devilish
+work, the situation changes. By Year 10 the government is
+spending $107, up from $100, which is 27 percent of GDP, up from
+25 percent. Example 2 tries a very low STB factor of 0.5
+percent, and Example 3 tries 95 percent, meaning that every
+dollar of revenue cut automatically forces almost a full dollar
+of spending cut. This is the absolute limit of plausibility.
+Even so, government spending drops sharply for two years. But by
+Year 10 it’s back to $100.  Read more  Bloomberg View editorials .  To contact the Bloomberg View editorial board:
+ view@bloomberg.net . 

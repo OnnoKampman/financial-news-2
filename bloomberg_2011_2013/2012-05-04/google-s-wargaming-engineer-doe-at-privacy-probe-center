@@ -1,0 +1,96 @@
+-- Google’s Wardriving ’Engineer Doe’ at Center of Probe
+-- B y   T o d d   S h i e l d s   a n d   J o r d a n   R o b e r t s o n
+-- 2012-05-04T04:00:01Z
+-- http://www.bloomberg.com/news/2012-05-04/google-s-wargaming-engineer-doe-at-privacy-probe-center.html
+Before he became the  Google (GOOG)  Inc.
+worker identified as “Engineer Doe” in a U.S. probe of data
+gathering, Marius Milner wrote software that invigorated a hobby
+called “wardriving.”  The practice, in which enthusiasts drive around
+neighborhoods to locate wireless connections, was named after
+the Matthew Broderick film  “WarGames,”  about a video-game
+enthusiast who accidentally hacks into military computers.  “He is a GOD in the wireless community,” John
+Kleinschmidt, a network engineer from  Michigan , said in a
+message on Milner’s page on the LinkedIn social network.  Milner’s expertise as shown through the wardriving program,
+called NetStumbler, eventually led him to Google and its Street
+View project, which is being investigated by U.S. states.  Street View’s cars went beyond mapping wireless connections
+to take in people’s communications sent over their networks,
+including messages between a man and woman seeking an extra-
+marital relationship, according to U.S. Federal Communications
+Commission documents.  Google, owner of the largest search engine, was fined
+$25,000 by the FCC on April 13 for impeding the agency’s
+investigation.  The employee who designed Street View’s software, referred
+to only as “Engineer Doe” in FCC records, invoked his right
+against self-incrimination and declined to be interviewed by the
+FCC, the agency said May 2 as it released a version of its
+inquiry’s conclusions. The agency said it wouldn’t seek
+penalties under U.S. wiretap laws because there wasn’t clear
+precedent, and Engineer Doe’s silence left questions unanswered.  NetStumbler Project  Milner was previously identified as ‘Engineer Doe’ by the
+ New York  Times. In a brief interview with Bloomberg at his  Palo
+Alto ,  California , home May 2, he refused to confirm or deny the
+connection. “You know what I’m going to say -- you have my
+lawyer’s name,” he said. “I have no comment.”  Niki Fenwick, a Google spokeswoman, declined to comment for
+the story. Martha Boersch, Milner’s San Francisco-based lawyer,
+also declined comment.  Milner, 41, worked at Lucent Technologies Inc. and
+communications-gear maker Avaya Holdings Corp. before being
+hired at Google in 2003, according to his LinkedIn page. He now
+works for its YouTube unit.  Milner has served as the self-employed chief technology
+officer for NetStumbler since 2001, according to the LinkedIn
+page. His software was used by enthusiasts who wandered streets
+with a laptop and competed to spot the greatest number of nodes
+serving up a wireless signal, or Wi-Fi, Kleinschmidt, who tested
+some of Milner’s code, said in an interview.  ‘Benign Tool’  Wardriving as a hobby has faded as Wi-Fi has grown from a
+curiosity to a widely available utility. Smartphones and laptop
+computers now are commonly manufactured with the capability to
+detect wireless networks.  At the peak of the hobby’s popularity,  NetStumbler 
+enthusiasts on message boards would admonish and banish users
+who asked about using the software for capturing personal
+information, Kleinschmidt said. “It was a mapping software,
+that’s all it was,” he said.  NetStumbler “was a benign tool” that didn’t collect
+personal data, Benjamin Kern, a Chicago-based partner who
+practices technology law at McGuireWoods, said in an interview.  “Wardriving I would primarily characterize as a sport, as
+a fun hobby-type thing,” Kern said.  Personal Data  Engineer Doe worked on Street View during the 20 percent of
+time that Google allots to all employees for personal projects,
+the FCC said.  The Street View tool he crafted was based on software
+different from NetStumbler, and was intended to collect
+information about what people were doing as they used their Wi-
+Fi, according to the FCC. Engineer Doe examined the data
+gathered to see if it could be used in other Google products,
+the agency said.  He at least twice told colleagues the Street View cars were
+collecting payload data, or personal information carried by the
+wireless signal, according to the FCC. Engineer Doe sent an e-
+mail of his draft software code to Street View’s project
+leaders, and they forwarded the e-mail to all members of the
+team, Google said in response to questions from the FCC,
+according to the agency.  The company earlier claimed the data collection was “the
+work of one engineer,” the agency said.  Data Collection Investigations  Mountain View , California-based Google’s data collection
+remains under investigation by 42 states, Susan Kinsman, a
+spokeswoman for  Connecticut ’s attorney general, said in an
+interview.  European Union privacy regulators also said this week that
+are looking into Street View’s activities, particularly whether
+the company was aware it was gathering and storing information
+it didn’t need.  Google never had “a company plan to collect payload
+data,” Al Verney, a spokesman for Google in Brussels, said
+yesterday. “We made a mistake, we admitted it and we have
+cooperated with regulators around the globe to put this matter
+behind us.”  Milner is well regarded in the “white-hat” hacking
+community, which focuses on fixing technology, said Don Bailey,
+chief executive officer of Capitol Hill Consultants, a San
+Francisco-based company focused on wireless security.  Defining ‘Use’  He had a reputation of being “very above-board” among Wi-
+Fi trackers, Ted Morgan, chief executive officer of Boston-based
+location-services company Skyhook, a Google rival, said in an
+interview. Skyhook in a lawsuit has accused Google  of
+sabotaging plans by  Motorola Mobility Holdings Inc. (MMI)  and  Samsung
+Electronics Co. (005930)  to use Skyhook software. Google says it’s done
+nothing wrong.  Among wardriving enthusiasts last decade, “No one did
+payload collection,” Morgan said. ‘It was pretty much known
+that was a bad thing to do.’’  A 2002  posting  on the NetStumbler.org forum that carries
+Milner’s name advises readers that, “In most places, it is
+illegal to use a network without permission from the owner.  ‘‘The definition of ‘use’ is not entirely clear, but it
+definitely includes using someone else’s Internet connection or
+gathering information about what is on the network.’’  To contact the reporters on this story:
+Todd Shields in Washington at 
+ tshields3@bloomberg.net ;
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Bernard Kohn at 
+ bkohn2@bloomberg.net  

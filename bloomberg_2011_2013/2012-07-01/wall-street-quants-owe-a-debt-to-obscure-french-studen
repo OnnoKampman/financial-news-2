@@ -1,0 +1,107 @@
+-- Wall Street Quants Owe a Debt to Obscure French Student
+-- B y   C o l i n   R e a d
+-- 2012-07-01T22:30:09Z
+-- http://www.bloomberg.com/news/2012-07-01/wall-street-quants-owe-a-debt-to-obscure-french-student.html
+The 21st century began with a major
+correction on Wall Street and a long period of volatility in
+global financial markets. The VIX, sometimes called the fear
+index, soared, and congressional hearings explored why major
+investment banks couldn’t better hedge market risk. Traders
+sought reprieve, and risk management became elevated from
+prudent practice to a tool for financial survival.  Risk is most efficiently managed through the purchase of
+options and other derivatives. Many investors know that the
+economists Fischer Black and  Myron Scholes  are considered the
+pioneers of derivatives pricing through their options-pricing
+theory. Their Black-Scholes formula and its variations remain
+the primary tools in the optimal pricing and determination of
+derivatives hedges.  Most don’t know that options-pricing theory actually began
+at the very start the 20th century, in Paris. The innovation, by
+an obscure graduate student named  Louis Bachelier , introduced
+sophisticated mathematics to finance theory and eventually gave
+rise to quantitative analysis. It took us almost 70 years to
+appreciate Bachelier’s contribution -- but he should go down as
+the father of modern finance.  In his early 20s, following a stint in the French army,
+Bachelier found himself working at the Paris Stock Exchange.
+There he tried to understand how options on French government
+perpetual bonds, or rentes, could be priced.  Brilliant Idea  He enrolled at the  Sorbonne  to study mathematical physics
+under one of  France ’s top mathematicians, Henri Poincare. His
+supervisor was a bit perplexed when Bachelier chose to study
+French bond options for his doctoral thesis, but soon agreed
+that his idea was brilliant.  In just a few pages, Bachelier demonstrated that the
+volatility of the price of an underlying security affects both
+the put and call price of its option. He began by postulating
+that the price of perpetual bonds followed what we now call a
+“random walk.” He then showed that the range of plausible
+prices of such an option diffuses, or spreads out, as the time
+to settlement increases, just as smoke might disperse from a
+chimney in a manner proportional to distance. By then, the
+mathematics of such “diffusion processes” were well
+understood, but they were about to be applied in most novel
+ways.  Bachelier had hit upon two of the most important concepts
+of modern finance -- the random walk of securities prices and
+the pricing of market volatility over time. Five years later in
+1905,  Albert Einstein  used the same diffusion equation to show
+that the random walk of small particles colliding with even
+smaller particles helps explain the atomic structure. Einstein
+was almost universally credited with a mathematical methodology
+that Bachelier had developed in his thesis and applied to
+derivatives markets.  Bachelier’s subsequent academic career was disjointed and
+prone to drama. It would take 60 years for the profession to
+begin to appreciate his work.  But by the early 1960s, there was a general agreement in
+the literature that the logarithm of securities prices should
+follow a random walk. Theorists were also postulating that the
+risk-adjusted return from the options on such securities should
+be consistent with the return found elsewhere in the market.
+By 1964, the financial theorist and economist  Paul Samuelson  had
+stumbled upon Bachelier’s yet-unknown version of the random walk
+in his own research on a pricing formula for warrants, a close
+sibling of options that are issued not by market participants
+but by a company.  Discovering Bachelier  In doing so, he also discovered Bachelier’s thesis, and had
+it translated from French into English. With Bachelier’s
+insights into the random walk, Samuelson had almost assembled
+the entire options-pricing picture before leaving the work to
+his graduate assistant,  Robert Merton , to complete.  Meanwhile, Black and Scholes were working on their own
+theory of options pricing, also in ignorance of Bachelier,
+Samuelson and Merton. They, too, managed to reinvent Bachelier’s
+options-pricing formula in a way that was elegant and easily
+applied, and based on a random walk not of a securities price
+but of its logarithm instead, a subtlety that Bachelier had
+missed seven decades earlier. They also incorporated the latest
+insights on efficient markets to complete the model in a way
+that Bachelier and Samuelson missed.  Black and Scholes published their results in the early
+1970s, just as the Chicago Board of Trade spawned the Chicago
+Board of Options Exchange. For the first time, there was
+simultaneously a new market tool -- broadly traded options --and
+a new equation to price it. Black and Scholes were immortalized.
+Following Black’s death, Scholes and Merton went on to win the
+Nobel Prize for their work.  Now, the Black-Scholes equation, which was almost identical
+to the formula that Bachelier developed decades earlier, is
+programmed into most financial calculators, and is used to
+measure implied market risk from the pricing of the  VIX. (VIX)  It
+could be called the “fear formula.” Sophisticated fund
+managers use it to ensure the options they use to hedge risk are
+properly priced.  With greater volatility in markets comes an increased
+probability that an option will exceed upside and downside
+strike prices, and hence there is a greater chance that an
+option will be exercised. In turn, the price of options reflect
+the probability of being exercised, converting a measure of
+volatility to a price. Alternately, the observed price of an
+option in relationship to its exercise price gives traders an
+implicit measure of the market’s anticipation of risk. If future
+risk can’t be observed directly, the VIX index can measure how
+market participants assess risk in their pricing of the VIX.
+Greater volatility begets greater premiums, as Bachelier first
+observed in the day-to-day trading of rentes on the Paris Stock
+Exchange.  Even with these sophisticated models at hand, we still are
+faced with the reality that even the best formulas to
+incorporate past and present conditions can’t predict the
+future. Our new cadre of quants on  Wall Street  can’t divine the
+future from the past, no matter how sophisticated their models
+may be.  We may be a little further along now than Bachelier was in
+1900, but the pricing of risk in periods of major market
+upheaval remains as much an art as a science.  (Colin Read is the chairman of the department of finance
+and economics at the  State University of New York , Plattsburgh.
+He has published a dozen books on finance theory. The opinions
+expressed are his own.)  Read more Echoes columns online.  To contact the writer of this post:
+Colin Read at  readcl@gmail.com   To contact the editor responsible for this post:
+Timothy Lavin at   tlavin1@bloomberg.net  

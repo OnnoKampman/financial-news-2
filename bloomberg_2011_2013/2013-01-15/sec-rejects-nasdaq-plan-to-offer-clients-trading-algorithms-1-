@@ -1,0 +1,114 @@
+-- SEC Rejects Nasdaq Plan to Offer Clients Trading Algorithms
+-- B y   N i n a   M e h t a
+-- 2013-01-15T01:34:55Z
+-- http://www.bloomberg.com/news/2013-01-15/sec-rejects-nasdaq-plan-to-offer-clients-trading-algorithms-1-.html
+The U.S. Securities and Exchange
+Commission rejected  Nasdaq  Stock Market’s request to offer
+clients trading algorithms that would enable them to execute buy
+and sell orders according to predetermined guidelines.  Nasdaq failed to specify in its proposal how it would
+ensure that orders generated under its plan would comply with
+rules requiring risk checks on buy and sell requests before they
+are sent to markets, the SEC said in a Jan. 11  notice . It also
+didn’t respond to criticism by the Securities Industry and
+Financial Markets Association that the offering would compete
+unfairly with algorithms supplied by brokers, the SEC said.  “It’s a surprise,” Bruce Weber, dean of the Alfred Lerner
+College of Business and Economics at the University of  Delaware ,
+said by phone. “There’s nothing particularly new or innovative
+about the offering except that it’s coming from an exchange
+rather than a broker-dealer. I think the SEC is very gun-shy
+about approving rules that could potentially lead to anything
+that could have a destabilizing influence on the market.”  Algorithms for trading are a brokerage tool used to execute
+client orders. Nasdaq’s proposal to offer them follows 20 years
+in which the line between exchanges and their members has faded.
+The blurring began when brokers, frustrated by the speed at
+which equity markets ran in the 1990s, set up their own venues.
+More recently exchanges have added technology offerings tailored
+to brokers such as systems to route buy and sell requests to
+other venues and a growing selection of order types to negotiate
+automated markets.  Benchmark Orders  Most algorithms are designed to buy or sell stock within
+parameters that ensure their users get the price they want while
+allowing them to fine-tune executions based on variables such as
+volume, volatility and how urgently they want to trade. Nasdaq
+asked the SEC for permission in May to provide benchmark orders
+that seek transactions aimed at achieving a stock’s volume-
+weighted average price, time-weighted average price or
+percentage of volume traded over a specific period, similar to
+services offered by brokers.  A decade ago, algorithms were “quite innovative, but now
+there are a number that are quite routine,”  Nasdaq OMX Group
+Inc. (NDAQ)  Chief Executive Officer Robert Greifeld said on a July 25
+conference call. “We filed to be able to do some of these
+routine algos.”  Risk Checks  In delaying action on the proposal in August, the SEC said
+Nasdaq hadn’t made clear how pre-trade risk and capital checks
+would be conducted on parts of its algorithms known as child
+orders, which are pieces of the larger buy or sell request that
+is submitted for execution. The SEC approved a regulation known
+as the market-access rule in 2010 mandating risk checks on any
+order sent for execution.  In addition, Nasdaq didn’t respond to concerns raised by
+Sifma, the broker-dealer trade group, that allowing Nasdaq to
+offer algorithms would place “undue burden” on competitors
+given rules that limit exchanges’ legal liabilities, the SEC
+wrote in the rejection notice. Nasdaq’s assertion that its rule
+proposal is consistent with the securities laws isn’t
+sufficient, the SEC said.  Sifma criticized Nasdaq’s proposal in October, telling the
+SEC that the offering would create “regulatory disparities”
+with algorithms provided by brokers, according to a  letter  by
+Theodore R. Lazo, associate general counsel at Sifma. The orders
+generated through Nasdaq’s plan wouldn’t be subject to risk
+filters required by the market-access rule that went into effect
+in 2011, he said.  Sifma Criticism  “Sifma questions whether it is appropriate for Nasdaq, as
+a national securities exchange, to offer the proposed benchmark
+order functionality,” Lazo, who previously was general counsel
+at NYSE Regulation, a unit of New York-based exchange operator
+NYSE Euronext, wrote in the letter. “The commission should
+disapprove the proposal unless Nasdaq explains how its proposed
+benchmark order functionality would make markets more
+transparent and efficient, and how the proposal would not be at
+the expense of Nasdaq’s other functions.”  Sifma also challenged Nasdaq’s plan by saying it sought to
+offer a commercial service that would benefit from the
+exchange’s limitation on financial liability. Exchanges are SEC-
+registered self-regulatory organizations immune from civil
+lawsuits for activities conducted as part of their regulatory
+duties. Brokers don’t have that privilege, Sifma said.  Algorithm Competition  “I view this as part of the natural evolution of exchange
+functionality,” James Angel, a finance professor at Georgetown
+University in  Washington  and a member of the board of exchange
+operator Direct Edge Holdings LLC, said by phone. “I can see
+why Sifma’s members aren’t so happy. Many of their firms offer
+competing algorithms. But why shouldn’t an exchange be able to
+offer what competitors are offering?”  The concern that Nasdaq’s algorithmic products could gain
+an advantage unavailable to brokers because of the exchange’s
+immunity is a “legitimate” complaint, Angel said.  Exchanges and brokers already compete in trading businesses
+such as routing and execution, an industry development that the
+SEC recognized in the late 1990s, Nasdaq said in a Dec. 17
+letter by Deputy General Counsel Jeffrey S. Davis.  Nasdaq told the SEC in the letter that its benchmark orders
+were similar to existing order types it offers users and that
+differences shouldn’t impede approval. The exchange provided a
+list of risk checks it would conduct on benchmark orders
+submitted to its own venue or other platforms to ensure
+compliance with the market-access rule and avoid disorderly
+trading, according to the letter.  Order Types  Orders submitted by the benchmark strategies it planned to
+offer would be treated the same way as those sent by other
+brokers, Nasdaq told the SEC. It also said the external provider
+of the application that managed the algorithms wouldn’t receive
+preferential treatment by Nasdaq.  Dan Mathisson , head of U.S. equity trading at Credit Suisse
+Group AG, told a Senate banking subcommittee last month that
+exchanges shouldn’t offer complicated order types, in part
+because it’s a service brokers normally provide and the
+financial costs of errant trading will be borne by the
+securities firms employing them, not exchanges.  Blurry Line  “The line between algorithms that broker-dealers do and
+the line between order types that exchanges offer is blurry and
+there are a lot of similarities between the two but I think that
+the broker-dealer is the right place to have that complexity,”
+Mathisson said. “The broker-dealer is a fiduciary to the
+client, the broker-dealer has an error account and the broker-
+dealer has liability. And complex orders are more likely to fail
+than simple matches.”  Eric Noll , executive vice president for transaction
+services at Nasdaq OMX, told senators at the hearings that order
+types are approved by the SEC and allow “what used to be done
+manually to be done electronically with technology.”  “They need to be applied fairly, they need to be made
+available to everyone and they have to be used so they’re not
+favoring one type of party over another in an unfair way,” he
+said.  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

@@ -1,0 +1,92 @@
+-- Beware of Economists Peddling Elegant Models
+-- B y   M a r k   B u c h a n a n
+-- 2013-04-07T22:30:00Z
+-- http://www.bloomberg.com/news/2013-04-07/beware-of-economists-peddling-elegant-models.html
+Mathematics can be beguilingly
+elegant. It can also be dangerous when people mistake its
+elegance for truth.  Albert Einstein ’s theory of general relativity might be the
+best example of elegant math, capturing a wide range of subtle
+and surprising phenomena with remarkable simplicity. Step toward
+the practical, though, and physics moves quickly away from
+elegance to makeshift usefulness. There’s no pretty expression
+for the operation of a nuclear reactor, or for how air flows
+past the swept wings of an aircraft. Understanding demands ugly
+approximations, or brute-force simulation on a large computer.  In one very practical and consequential area, though, the
+allure of elegance has exercised a perverse and lasting
+influence. For several decades, economists have sought to
+express the way millions of people and companies interact in a
+handful of pretty equations.  The resulting mathematical structures, known as dynamic
+stochastic general equilibrium models, seek to reflect our messy
+reality without making too much actual contact with it. They
+assume that economic trends emerge from the decisions of only a
+few “representative” agents -- one for households, one for
+firms, and so on. The agents are supposed to plan and act in a
+rational way, considering the probabilities of all possible
+futures and responding in an optimal way to unexpected shocks.  Surreal Models  Surreal as such models might seem, they have played a
+significant role in informing policy at the world’s largest
+central banks. Unfortunately, they don’t work very well, and
+they proved spectacularly incapable of accommodating the way
+markets and the economy acted before, during and after the
+recent crisis.  Now, some economists are beginning to pursue a rather
+obvious, but uglier, alternative. Recognizing that an economy
+consists of the actions of millions of individuals and firms
+thinking, planning and perceiving things differently, they are
+trying to model all this messy behavior in considerable detail.
+Known as agent-based computational economics, the approach is
+showing promise.  Take, for example, a 2012 (and still somewhat preliminary)
+ study  by a group of economists, social scientists,
+mathematicians and physicists examining the causes of the
+housing boom and subsequent collapse from 2000 to 2006. Starting
+with data for the Washington D.C. area, the study’s authors
+built up a computational model mimicking the behavior of more
+than two million potential homeowners over more than a decade.
+The model included detail on each individual at the level of
+race, income, wealth, age and marital status, and on how these
+characteristics correlate with home buying behavior.  Led by further empirical data, the model makes some simple,
+yet plausible, assumptions about the way people behave. For
+example, homebuyers try to spend about a third of their annual
+income on housing, and treat any expected house-price
+appreciation as income. Within those constraints, they borrow as
+much money as lenders’ credit standards allow, and bid on the
+highest-value houses they can. Sellers put their houses on the
+market at about 10 percent above fair market value, and reduce
+the price gradually until they find a buyer.  The model captures things that dynamic stochastic general
+equilibrium models do not, such as how rising prices and the
+possibility of refinancing entice some people to speculate,
+buying more-expensive houses than they otherwise would. The
+model accurately fits data on the housing market over the period
+from 1997 to 2010 (not surprisingly, as it was designed to do
+so). More interesting, it can be used to probe the deeper causes
+of what happened.  Consider, for example, the assertion of some prominent
+economists, such as  Stanford University ’s  John Taylor , that the
+low-interest-rate policies of the  Federal Reserve  were to blame
+for the housing bubble. Some dynamic stochastic general
+equilibrium models can be used to support this view. The agent-
+based model, however, suggests that  interest rates  weren’t the
+primary driver: If you keep rates at higher levels, the boom and
+bust do become smaller, but only marginally.  Leverage Boom  A much more important driver might have been leverage --
+that is, the amount of money a homebuyer could borrow for a
+given down payment. In the heady days of the housing boom,
+people were able to borrow as much as 100 percent of the value
+of a house -- a form of easy credit that had a big effect on
+housing demand. In the model, freezing leverage at historically
+normal levels completely eliminates both the housing boom and
+the subsequent bust.  Does this mean leverage was the culprit behind the subprime
+debacle and the related global financial crisis? Not
+necessarily. The model is only a start and might turn out to be
+wrong in important ways. That said, it makes the most convincing
+case to date (see my  blog  for more detail), and it seems likely
+that any stronger case will have to be based on an even deeper
+plunge into the messy details of how people behaved. It will
+entail more data, more agents, more computation and less
+elegance.  If economists jettisoned elegance and got to work
+developing more realistic models, we might gain a better
+understanding of how crises happen, and learn how to anticipate
+similarly unstable episodes in the future. The theories won’t be
+pretty, and probably won’t show off any clever mathematics. But
+we ought to prefer ugly realism to beautiful fantasy.  (Mark Buchanan, a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  To contact the writer of this article:
+ Mark Buchanan  at  buchanan.mark@gmail.com   To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net  

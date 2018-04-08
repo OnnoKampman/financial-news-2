@@ -1,0 +1,133 @@
+-- Price Band Limits to Curb U.S. Stock Volatility Starting Today
+-- B y   N i n a   M e h t a   a n d   L i n d s e y   R u p p
+-- 2013-04-08T14:25:57Z
+-- http://www.bloomberg.com/news/2013-04-08/price-band-limits-to-curb-u-s-stock-volatility-starting-today.html
+A three-year effort to fine-tune
+curbs on  volatility  for individual stocks enters a new phase
+today in the U.S.  Trying to reduce market disruptions, regulators are
+instituting a plan that creates price bands in which shares are
+allowed to trade on American equity exchanges, replacing the old
+system of immediate pauses when shares swing rapidly. New
+restraints to halt all U.S. stock, options and index futures
+when the  Standard & Poor’s 500 Index (SPX)  plunges will also take
+effect. Both will operate as one-year pilot programs.  Regulators and exchanges are altering the speed bumps
+adopted after the May 2010 flash crash to boost confidence in a
+market that has become faster and more complex over the last
+decade. While replacing automatic halts with the new system
+known as limit-up/limit-down is “the right answer,” getting
+ready for it hasn’t been easy for broker-dealers, according to
+Chris Concannon, a partner at electronic market-maker Virtu
+Financial LLC in New York.  “It adds more complexity,” Concannon said. “It sounds
+simple, but for firms managing thousands of customer orders, you
+have to program how you’ll manage them, how you’ll deal with
+quotes and trades across 50 destinations, routing decisions and
+execution quality.”  Under limit-up/limit-down, trades won’t be permitted to
+occur more than a specified percentage above or below a stock’s
+rolling five-minute average price. If the lowest price at which
+investors are willing to sell shares reaches the stock’s lower
+band, or the highest purchase price reaches the higher band, the
+stock enters a so-called limit state for 15 seconds. Should no
+trades occur between the bands, trading will cease for five
+minutes, according to the U.S. Securities and Exchange
+Commission.  Gradual Adoption  More than two dozen companies listed on exchanges owned by
+NYSE Euronext,  Nasdaq OMX Group Inc. (NDAQ)  and Bats Global Markets
+Inc. will adopt the new trading bands today. More will join each
+week through mid-May until all S&P 500 and Russell 1000 Index
+corporations and more than 400 exchange-traded products are
+included in the revised program.  The curbs will operate from 9:45 a.m. to 3:30 p.m. New York
+time. Other securities will be added in August, when the program
+will also run the full day from 9:30 a.m. until 4 p.m.  “There’s going to be some hiccups,”  Adam Sussman ,
+director of research at consulting firm Tabb Group LLC in New
+York, said in a phone interview. “Where it’s going to get
+tricky for brokers is how they handle responses to when a stock
+is in a limit state.”  Flash Crash  U.S. stock exchanges and the Financial Industry Regulatory
+Authority, which oversees almost 4,300 brokers, introduced curbs
+for individual stocks after the flash crash to halt shares when
+they rise or fall at least 10 percent in five minutes. The new
+system is likely to cause fewer halts, the SEC said last year.  The so-called single-stock circuit breakers were triggered
+550 times between June 2010 and December 2012, according to a
+March 27 report by Ana Avramovic, a New York-based analyst in
+Credit Suisse Group AG’s trading-strategy unit. Of these, 51
+percent were stops in very illiquid or cheap stocks, 40 percent
+were driven by news about the company and 6 percent were caused
+by what are called fat-finger events or accidental trades. Only
+4 percent were triggered by a single bad transaction, and with
+the new initiative “we would expect that percentage to
+decline,” Avramovic wrote.  Defining Bands  The percentage a stock can move is determined by its
+closing price the previous day.  S&P 500  stocks that are more
+than $3, for example, can move 5 percent above and below their
+rolling average price. The range is bigger for cheaper stocks.  The plan also gives the market that lists a security the
+discretion to declare a trading pause when a stock has
+“deviated from its normal trading characteristics” and the
+exchange decides that a halt would curtail excessive volatility,
+the SEC said. That will ensure a company’s shares don’t “remain
+impaired” indefinitely, it said.  Testing for the volatility-reducing programs occurred on
+several Saturdays and included broker-dealers, all market
+centers and the so-called securities information processors that
+disseminate data, Louis Pastina, executive vice president for
+market operations at the  New York  Stock Exchange, said by phone.
+The tests were scripted to trigger events such as limit states
+and halts so firms could ensure they can handle the data
+properly, he said.  ‘Small Bites’  Phasing in the new curbs “gives the industry time to
+digest this in small bites until later in the summer when all
+stocks will be included,” Pastina said.  NYSE and NYSE MKT, the exchange operator’s platform for
+smaller companies, are ending their liquidity replenishment
+points, or automated curbs that pause trading only on those
+markets, as the new curbs are installed for specific stocks.
+LRPs, introduced as a safeguard when NYSE converted to a more
+fully electronic exchange about half a dozen years ago, are
+being ended after the SEC told the company to eliminate them to
+avoid confusion once the new brakes are in place.  NYSE canceled no trades during the flash crash on May 6,
+2010, while other exchanges voided more than 20,000 transactions
+totaling 5.5 million shares, according to a report by the SEC
+and Commodity Futures Trading Commission in October 2010. More
+than 1,000 companies triggered LRPs lasting more than a second
+between 2:30 p.m. and 3 p.m. on May 6, compared with 20 to 30 on
+most days, the report said. Some exchange and brokerage
+executives said NYSE’s actions may have caused liquidity to move
+to other venues and created confusion in the market.  Quote Speed  The speed of quote and trade data dissemination has
+increased since the the flash crash, when it generally averaged
+about 10 milliseconds, or thousandths of a second, according to
+the SEC. During several minutes of high volatility on May 6, the
+price information was delayed by as much as 35 seconds, causing
+concern about data integrity among market participants, who may
+have reduced the liquidity they supply through bids and offers,
+the SEC and CFTC report said.  NYSE Euronext (NYX) ’s average latency or time to process public
+data for all securities listed on exchanges other than Nasdaq
+Stock Market was less than 1 millisecond in the fourth quarter,
+compared with less than 3 milliseconds two years earlier,
+according to a  notice . Nasdaq OMX Group Inc.’s average latency
+for public quotes and trades in Nasdaq-listed stocks was less
+than 2 milliseconds in the fourth quarter, the notice said.
+Quotes were processed in less than 4.5 milliseconds and trades
+in less than 6 milliseconds two years earlier.  Circuit Breakers  The SEC has also revised the marketwide circuit breakers
+that halt all trading, created in the aftermath of the October
+1987 crash, because they weren’t triggered during the May 2010
+rout. The alterations will make the curbs “more meaningful and
+effective in today’s high-speed electronic securities markets,”
+the agency said when it  approved  the changes last year.  All U.S. securities trading will halt for 15 minutes when
+the S&P 500 falls 7 percent or 13 percent before 3:25 p.m. The
+lowest trigger  was previously  a 10 percent drop in the Dow
+average. The proposal also shortens the length of most halts and
+modifies the times when the circuit breaker can be triggered. A
+plunge of 20 percent will cause all trading to stop for the day.
+An industry-wide halt was triggered once, on Oct. 27, 1997.  Derivatives Markets  The revised curbs are in  effect  for equity-index futures on
+the Chicago Mercantile Exchange and Chicago Board of Trade to
+ensure that prices in the related derivatives markets remain
+linked to stocks,  Michael Shore , a spokesman for  CME Group Inc. (CME) ,
+said in an e-mail. They will also apply to Russell equity
+futures traded on Intercontinental Exchange Inc., the company
+said in a notice on March 28.  CME and the Securities Industry and Financial Markets
+Association  urged  the SEC to allow marketwide curbs to be
+triggered if a sufficient number of individual stocks are  halted 
+since that may affect the calculation of indexes. The SEC said
+market participants could submit comments about this issue while
+the programs are being tested.  How curbs for individual securities will work in
+conjunction with those that halt all futures and securities
+trading is “poorly understood,” CME told regulators last year.  To contact the reporters on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net ;
+Lindsey Rupp in New York at 
+ lrupp2@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

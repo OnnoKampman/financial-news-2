@@ -1,0 +1,82 @@
+-- Canara Bank and Indian Bank CD's Deals: Indian Money Market
+-- B y   P o o j a   S a r a f
+-- 2013-09-16T12:33:21Z
+-- http://www.bloomberg.com/news/2013-09-16/canara-bank-and-indian-bank-cd-s-deals-indian-money-market.html
+Following is a table showing certificate of deposits
+issued by Indian banks. The data has been provided by Derivium Tradition
+Securities Pvt. Ltd., LKP Securities Limited, NVS Brokerage Ltd, SPA Securities
+Ltd. and Trust Financial Consultancy Services.  T = Tentative  C = Confirmed  Deal Date      Security    Mty Date  Qtm(Crs.) Rate  Buyer        CTRB   Status
+16-Sep-13      CANARA      2 MONTHS  2000      10.68              NVSB    T
+16-Sep-13      INDIAN      2 MONTHS  500       10.65              NVSB    T
+16-Sep-13      CBI         2 MONTHS  500       10.66              NVSB    T
+16-Sep-13      OBC         2 MONTHS  300       10.63              NVSB    T
+16-Sep-13      OBC         2 MONTHS            10.63              LKPS    T
+16-Sep-13      ANDHRA      15-Nov-13           10.65              LKPS    T
+16-Sep-13      SYNDICATE   2 MONTHS            10.68              LKPS    T
+16-Sep-13      CBI         2 MONTHS            10.66              LKPS    T
+16-Sep-13      CANARA      2 MONTHS            10.68              LKPS    T
+16-Sep-13      ANDHRA      2 MONTHS            10.65              NVSB    T
+16-Sep-13      CANARA      2 MONTHS  2000      10.68 BKS and MFS  TFCS    T
+16-Sep-13      CBI         2 MONTHS            10.66              SPAS    T
+16-Sep-13      OBC         2 MONTHS            10.63              SPAS    T
+16-Sep-13      CANARA      2 MONTHS            10.68              SPAS    T
+16-Sep-13      SYNDICATE   2 MONTHS  200       10.63              NVSB    T
+16-Sep-13      SYNDICATE   2 MONTHS  300       10.68              NVSB    T
+16-Sep-13      CANARA      2 MONTHS  2000      10.68              DCAP    T
+16-Sep-13      SYNDICATE   2 MONTHS  300       10.68              DCAP    T
+16-Sep-13      INDIAN      2 MONTHS  500       10.65              DCAP    T
+16-Sep-13      CBI         2 MONTHS  500       10.66              DCAP    T
+16-Sep-13      ANDHRA      2 MONTHS  500       10.65              DCAP    T
+16-Sep-13      OBC         2 MONTHS  300       10.63              DCAP    T
+16-Sep-13      ANDHRA      1 YEAR    50        10.30              DCAP    T
+16-Sep-13      INDIAN      2 MONTHS            10.65              SPAS    T
+16-Sep-13      SYNDICATE   2 MONTHS            10.63              SPAS    T
+16-Sep-13      SYNDICATE   2 MONTHS  300       10.68 BKS and MFS  TFCS    T
+16-Sep-13      SYNDICATE   2 MONTHS            10.63              LKPS    T
+16-Sep-13      INDIAN      2 MONTHS            10.65              LKPS    T
+16-Sep-13      ANDHRA      1 YEAR              10.30              NVSB    T
+16-Sep-13      ANDHRA      15-Nov-13 500       10.65              ANDB    C
+16-Sep-13      SYNDICATE   2 MONTHS  200       10.66              DCAP    T
+16-Sep-13      SYNDICATE   2 MONTHS  100       10.62              DCAP    T
+16-Sep-13      SYNDICATE   2 MONTHS            10.66              NVSB    T
+16-Sep-13      SYNDICATE   2 MONTHS            10.64              NVSB    T
+16-Sep-13      BOM         2 MONTHS            10.64              NVSB    T
+16-Sep-13      INDIAN      2 MONTHS  500       10.65 BKS and MFS  TFCS    T
+16-Sep-13      CBI         2 MONTHS  200       10.66 BKS and MFS  TFCS    T
+16-Sep-13      AXIS        3 MONTHS  185       10.77              NVSB    T
+16-Sep-13      ANDHRA      1 YEAR              10.30              LKPS    T
+16-Sep-13      AXIS        3 MONTHS  185       10.77              LKPS    T
+16-Sep-13      AXIS        3 MONTHS            10.77              SPAS    T
+16-Sep-13      AXIS        1 YEAR    9         10.36              NVSB    T
+16-Sep-13      ANDHRA      17-Sep-14 50        10.30              ANDB    C
+16-Sep-13      AXIS        1 YEAR              10.36              SPAS    T
+16-Sep-13      INDUSIND    2 MONTHS            10.90              SPAS    T
+16-Sep-13      ALLAHABAD   2 MONTHS  500       10.63              ALLB    C
+16-Sep-13      ALLAHABAD   2 MONTHS  500       10.64              ALLB    C
+16-Sep-13      ALLAHABAD   2 MONTHS            10.63              NVSB    T
+16-Sep-13      ALLAHABAD   2 MONTHS            10.64              NVSB    T
+16-Sep-13      ALLAHABAD   2 MONTHS  300       10.63              DCAP    T
+16-Sep-13      ALLAHABAD   2 MONTHS  300       10.64              DCAP    T
+16-Sep-13      ALLAHABAD   2 MONTHS            10.64              SPAS    T
+16-Sep-13      ALLAHABAD   2 MONTHS            10.63              LKPS    T
+16-Sep-13      INDUSIND    2 MONTHS            10.90              LKPS    T
+16-Sep-13      AXIS        1 YEAR              10.36              LKPS    T
+16-Sep-13      SYNDICATE   19-Nov-13           10.62              SYNB    C
+16-Sep-13      SYNDICATE   18-Nov-13 300       10.68              SYNB    C
+16-Sep-13      SYNDICATE   18-Nov-13 300       10.66              SYNB    C
+16-Sep-13      SYNDICATE   19-Nov-13 100       10.64              SYNB    C
+16-Sep-13      SYNDICATE   19-Nov-13 200       10.63              SYNB    C
+16-Sep-13      HDFC        2 MONTHS  800       10.69              NVSB    T
+16-Sep-13      HDFC        2 MONTHS            10.69              LKPS    T
+16-Sep-13      UNION       2 MONTHS  750       10.64              NVSB    T
+16-Sep-13      UNION       2 MONTHS            10.64              LKPS    T
+16-Sep-13      UNION       2 MONTHS            10.64              SPAS    T
+16-Sep-13      SBM         1 YEAR    185       10.30              LKPS    T
+16-Sep-13      UNION       2 MONTHS  1000      10.64              DCAP    T
+16-Sep-13      AXIS        1 YEAR    15        10.36              DCAP    T
+16-Sep-13      SBM         1 YEAR    230       10.30              DCAP    T
+16-Sep-13      HDFC        2 MONTHS  1200      10.69              DCAP    T
+16-Sep-13      HDFC        18-Nov-13 1300      10.69 MFs          HDFC    C
+16-Sep-13      SBM         1 YEAR    235       10.30              NVSB    T
+16-Sep-13      ALLAHABAD   2 MONTHS  300       10.64              LKPS    T  Contributed via: Bloomberg Publisher WEB Service  Provider ID: 6b93bef34bc041c18183dccd484c96a6
+ 

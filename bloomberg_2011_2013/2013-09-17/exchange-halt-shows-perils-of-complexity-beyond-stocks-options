@@ -1,0 +1,94 @@
+-- Exchange Halt Shows Perils of Complexity Beyond Stocks: Options
+-- B y   S a m   M a m u d i   a n d   N i k o l a j   G a m m e l t o f t
+-- 2013-09-17T04:01:00Z
+-- http://www.bloomberg.com/news/2013-09-17/exchange-halt-shows-perils-of-complexity-beyond-stocks-options.html
+The price-feed malfunction that
+briefly froze U.S. options exchanges yesterday shows the dangers
+of a fragmented market structure go beyond equities trading.  All 12 U.S. options venues temporarily shut, with firms
+from  CBOE Holdings Inc. (CBOE)  to  Nasdaq  OMX Group Inc. citing errors
+within the Options Price Reporting Authority.  NYSE Euronext (NYX)  is
+looking into whether a software upgrade at its Securities
+Industry Automation Corp. subsidiary, which administers the
+feed, was to blame, said  Rich Adamonis , a company spokesman.  “These markets are very complex with 12 exchanges and
+rising volume of quotes and trading activity,”  Andy Nybo , head
+of derivatives research at New York-based Tabb Group LLC, said
+in a phone interview. “Any disruption in a data feed or in a
+data system will have a cascading effect. The industry is facing
+significant challenges with increasing data loads.”  The interruption came three weeks after Nasdaq OMX’s system
+for distributing U.S. stock prices failed, prompting a three-hour halt for thousands of companies. In the aftermath,
+securities regulators told exchanges last week to collaborate on
+preventing more shutdowns.  The options market saw disruptions yesterday morning,
+according to  Christopher Rich , head options strategist at
+JonesTrading Institutional Services LLC in  Chicago .  Manual Orders  “We had issues with a couple of options classes and had to
+manually place orders on exchange floors,” he said.  Then, exchanges began to shut. Bats Global Markets Inc.
+closed its options venue at 1:30 p.m. New York time and kept it
+shut for 40 minutes. The OPRA feed was down from 1:40 p.m. to
+1:50 p.m. New York time, Adamonis said.  The effect on volume was limited. About 14 million options
+contracts changed hands in the U.S. yesterday, in line with the
+average volume over the past 22 trading days, according to data
+compiled by Trade Alert LLC.  While  trading  continued without disruption on American
+equity markets, stock prices slipped around the time of the
+mishap. About 614 million shares traded on all exchanges between
+1:30 p.m. and 2:30 p.m.  New York  time, compared with 499 million
+in the preceding hour, according to data compiled by Bloomberg.
+The Standard & Poor’s 500 Index fell from 1,702 to below 1,698
+between 1:30 p.m. and 1:43 p.m.  In a meeting with the heads of U.S. securities markets last
+week, Mary Jo White, the chairman of the U.S. Securities and
+Exchange Commission, urged the executives to shore up price
+feeds that serve investors and traders.  SEC’s Order  Participants included representatives from U.S. stock and
+options exchanges, the  Financial Industry Regulatory Authority ,
+Depository Trust & Clearing Corp. and Options Clearing Corp.
+They were told to “provide comprehensive action plans that
+address the standards necessary to establish highly resilient
+and robust systems for the securities information processors,”
+the SEC said in a statement. That includes “testing standards
+and disclosure protocols,” it said.  On Aug. 22, Nasdaq’s computers were flooded with data from
+NYSE Arca, a competing exchange, revealing a bug in Nasdaq’s
+securities information processor for stocks that disabled
+systems that should have prevented the malfunction from
+snowballing.  Yesterday’s error “was only a short outage,” Daniel Brady, president of San Francisco-based trading firm Entropy
+Capital LLC, said in a phone interview. “Not that
+significant,” he said. “I imagine this is just further fodder
+for the SEC and their review.”  Market Complexity  “As is our practice, we have been monitoring developments
+and discussing them with market participants as appropriate,”
+said  John Nester , an SEC spokesman.  American exchanges have faced criticism that the complexity
+of their electronic infrastructure makes them vulnerable to
+breakdowns. In addition to the Nasdaq halt on Aug. 22, options
+markets were roiled in August when Goldman Sachs Group Inc.
+bombarded exchanges with erroneous orders due to a computer
+malfunction.  In April, the  Chicago Board Options Exchange  was down for 3
+1/2 hours because of a software error caused by preliminary work
+in preparation for a computer system reconfiguration. The outage
+prevented investors from trading options based on the VIX gauge
+of volatility and the  S&P 500 , which CBOE has exclusive rights
+to.  According to OPRA’s  website , each trade that is executed on
+an options exchange is reported to OPRA as a message, with quote
+message traffic representing the vast majority generated.  Tighter Rules  “Quotes are generated automatically for individual options
+series based on changes in the underlying stock price or index
+value,” it said. “In other words, every time a price changes
+for a particular equity security, the quotes for all of the
+options on that security or an index in which that security is
+represented are automatically updated on each exchange that
+trades those options.”  Regulators have tightened rules at exchanges to avoid
+market disruptions such as the May 2010 plunge known as the
+flash crash, in which the  Dow Jones Industrial Average  dropped
+almost 1,000 points because of a faulty algorithm.  Yesterday’s problems in the options market highlight the
+need for exchanges to have better backups, said Randall Warren,
+who oversees about $100 million including options as chief
+investment officer of Warren Financial Service in Exton,
+ Pennsylvania . The SEC told exchanges last week to develop plans
+to bolster price feeds and assess the “robustness and
+resilience of other critical infrastructure systems,” according
+to a Sept. 12 statement from the regulator.  “When you need the systems to trade, they need to be in
+place,” he said in a phone interview. “The exchanges need to
+get serious about their backup plans and test them out in real
+time. The backup system should kick in in situations like this
+and you shouldn’t miss a beat.”  To contact the reporters on this story:
+Sam Mamudi in New York at 
+ smamudi@bloomberg.net ;
+Nikolaj Gammeltoft in New York at 
+ ngammeltoft@bloomberg.net   To contact the editors responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net ;
+Nick Baker at 
+ nbaker7@bloomberg.net  

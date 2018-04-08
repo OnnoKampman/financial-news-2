@@ -1,0 +1,78 @@
+-- 
+Hackers in China Breach UN, Olympic Committee Networks, Security Firms Say
+
+-- B y   M i c h a e l   R i l e y
+-- 
+2011-08-04T04:01:01Z
+
+-- http://www.bloomberg.com/news/2011-08-03/hackers-in-china-attack-un-olympic-networks-security-firms-say-in-report.html
+Hackers based in  China  spent five
+years ransacking the  computer networks  of the  United Nations ,
+multinational corporations, the Olympic committees of several
+countries and the U.S. and Canadian governments, two security
+companies said.  In one of the largest cyberattacks discovered, more than 72
+organizations were hacked by spies beginning in 2006, according
+to computer server logs and other evidence obtained by  Santa
+Clara , California-based  McAfee Inc. (MFE)   The attack has been traced to servers in at least two of
+China’s major cities, Beijing and Shanghai, according to
+Atlanta-based Dell SecureWorks, which separately traced the same
+series of attacks.  “Even we were surprised by the enormous diversity of the
+victim organizations and were taken aback by the audacity of the
+perpetrators,” Dimitri Alperovitch, McAfee’s vice president of
+threat research, said in the report.  The details of the incidents, which McAfee dubbed Operation
+Shady RAT, are part of a mounting body of evidence linking China
+to sophisticated hacking operations targeted against a broad
+array of both government and commercial targets. RAT is industry
+shorthand for remote access tool, software used to hack
+networks.  Wang Baodong , a spokesman for the Chinese embassy in
+Washington, said China is “firmly against international hacking
+activities and is ready to work with other countries to secure
+the cyberspace.”  ‘Finger Pointing’  “I’d say that whenever there’s a story coming out on
+cyberspace intrusions, there’ll be willful finger pointing at
+China to vilify its image,” he said yesterday in an e-mail.
+“This is simply abnormal and ridiculous and we cannot but
+question the ulterior motives there.”  Investigators probing the hacking of the  International
+Monetary Fund  in May also linked the incident to China. Other
+previously known victims of China-based hackers include Google
+Inc., Morgan Stanley, DuPont Co. and Adobe Systems Inc.  McAfee doesn’t name the country in which the operation was
+based in a report released yesterday entitled “Revealed:
+Operation Shady RAT,” concluding the hackers have government
+support and that it preferred to keep the country anonymous. Joe
+Stewart, head of malware research at SecureWorks, said the
+country discussed in the report was China.  McAfee does name some of the victims, which include the
+ World Anti-Doping Agency  and the Secretariat of the  Association
+of Southeast Asian Nations .  Trove of Data  Other victims included a U.S. real estate company, a major
+media organization based in  New York  and a satellite
+communications company, said McAfee, which accessed a command
+and control server used by the hackers that revealed a rich
+trove of data on their victims.  The  International Olympic Committee , as well as the Olympic
+committees of several countries, were hacked in the lead-up to
+the 2008 Beijing summer Olympics, which “potentially pointed a
+finger at a state actor behind the intrusions,” according to
+the report.  SecureWorks researchers analyzed the hacking software used
+in the same series of attacks, many of which initially appeared
+to be controlled from servers in the U.S. and elsewhere.  Stewart of SecureWorks spent months following an
+electronic trail that eventually led him to 11 command and
+control servers mostly based in either Beijing or  Shanghai .  Locations Hidden  Without the cooperation of Chinese telecom companies, it
+was impossible to determine who was operating the servers or
+whether they were linked to Chinese government organizations,
+Stewart said. The telecom companies could identify individuals
+or organizations linked to the servers’ Internet Protocol
+addresses, he said.  “They went to a good deal of effort to hide the actual
+location of the infrastructure, so these aren’t servers they
+wanted anyone to know about,” Stewart said.  McAfee said in its report that the operation reveals the
+wide array of organizations being hacked and the large amount of
+data being taken from computer networks meant to be secure.  Of the total, McAfee found that eight of the organizations
+were hit in 2006, including a steel and a construction company
+in  South Korea . The number of victims rose to 29 the following
+year. The rate of increase slowed beginning in 2008 as security
+companies got better at defending against the tools used by the
+hackers, the report found.  Hackers took information from some of the victims over a
+period of as long as two years. In some cases, the intrusions
+lasted just about a month, according to the report.  The hackers were most interested in defense contractors,
+attacking a total of 13. Other types of organizations included
+state and county governments in the U.S., think tanks, an
+insurance company and a solar power manufacturer.  To contact the reporter on this story:
+Michael Riley in  Washington  at 
+ michaelriley@bloomberg.net   To contact the editor responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net  

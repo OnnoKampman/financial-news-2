@@ -1,0 +1,45 @@
+-- 
+EMC Unit Said to Fix Defense Security Systems After Data Breach
+
+-- B y   G o p a l   R a t n a m   a n d   T o m   G i l e s
+-- 
+2011-05-28T22:17:19Z
+
+-- http://www.bloomberg.com/news/2011-05-28/emc-unit-said-to-bolster-defense-security-systems-after-breach-steals-data.html
+EMC Corp.’s RSA unit is bolstering
+security for clients, including  Lockheed Martin Corp. (LMT) , after a
+network breach in March resulted in the theft of RSA data, a
+person familiar with the process said.  The remediation involves replacing the SecurID tokens
+issued by RSA that often expire in three years, said the person,
+who wasn’t authorized to discuss the matter publicly. The
+company’s defense-contractor clients, which make missiles,
+aircraft and other weapons, also include  Northrop Grumman Corp. (NOC) 
+and  Raytheon Co. (RTN)  Dave Farmer, a spokesman for EMC declined to
+comment.  In March, EMC, based in Hopkinton,  Massachusetts , reported
+that a cyber attack resulted in information being taken from its
+systems, including data related to RSA’s SecurID authentication
+products. Reuters reported May 27, citing unidentified people,
+that hackers gained access to Lockheed’s networks by duplicating
+the SecurID data.  Jeffery Adams, a spokesman for Bethesda, Maryland-based
+Lockheed, the world’s largest defense contractor and maker of
+the F-35 jet fighter, declined to comment on the reported
+network breach or the remedial efforts. The company regularly
+acts to “increase the security of our systems and to protect
+our employee, customer and program data,” Adams said.  Remote Access System  Users trying to access their employer’s network from remote
+locations may use a SecurID type device, a memory stick-like
+unit that generates random numbers that must be used in
+combination with a personal identification number to gain entry.  “If intruders get the key, the seed that enables one-time
+passwords to be generated,” then they may have the capability
+to break into networks that depend on such systems to
+authenticate users, Alan Paller, director of research at the
+SANS Institute, a computer security training institution in
+Bethesda,  Maryland , said in an interview. Paller said he could
+not say if Lockheed’s networks were breached.  Randy Belote , a spokesman for Los Angeles-based Northrop
+Grumman and Jon Kasle, a spokesman for Raytheon of Waltham,
+Massachusetts, declined to comment.  To contact the reporters on this story:
+Gopal Ratnam in Washington at 
+ gratnam1@bloomberg.net ;
+Tom Giles in  San Francisco  at 
+ tgiles5@bloomberg.net   To contact the editor responsible for this story:
+Mark Silva at 
+ Msilva34@bloomberg.net  

@@ -1,0 +1,67 @@
+-- Twitter Feeds on Netflix Prompt Stock Service
+-- B y   B r i a n   W o m a c k
+-- 2012-01-23T05:01:00Z
+-- http://www.bloomberg.com/news/2012-01-23/social-media-predicting-stock-moves-spawn-sentiment-firms-tech.html
+The torrent of posts on  Twitter Inc. 
+last year about  Netflix Inc. (NFLX)  might have tipped off investors to
+stock swings that erased about $8 billion from the movie-rental
+company’s market value in three months.  Topsy Labs Inc., a site that searches data on the
+microblogging service, analyzed tweets during a period around
+Netflix’s decision last September to split its DVD and streaming
+businesses. By examining posts such as “just canceled my
+Netflix subscription,” Topsy was able to pick up signals of a
+coming drop. Now, it’s taking those  results  to help build a new
+service to aid investors in predicting other stock moves.  “Information dissemination is now largely not through
+publication, but through conversation,” said Rishab Ghosh, co-
+founder and vice president of research at Topsy, based in San
+Francisco. “We’ve actually been able to show that you can take
+that data, put it through processing, and relate it to the
+market return for a specific stock.”  Topsy is one of several companies, including WiseWindow and
+Derwent  Capital Markets , that use so-called sentiment analysis,
+a cutting-edge field where companies examine the chatter on
+Twitter, Facebook Inc. and blogs to help them predict stock
+movements, market trends and the success of new products.  Social media’s growing influence throughout the world, such
+as the protests in the  Middle East  during the “Arab Spring,”
+has made sentiment analysis an important tool in other areas,
+such as the measurement of political risk. It also may have
+broad applications in gauging voter attitudes during, for
+instance, an election year.  Determining Sentiment  Sentiment about Netflix was found by tracking negative and
+positive comments on Twitter in a given day. For example, “an
+apology from your CEO won’t win my business back” would be
+considered negative, while “Netflix split a good long-range
+move for the company” was positive.  The company also used baselines to adjust for distortions
+in data, such as the time of day. For example, the Topsy
+analysis discounted negative comments on Monday mornings, when
+people tend to be less upbeat.  “It is data and news generated from the ground level,”
+said Erin Collard, an adviser to Topsy Labs and a portfolio
+manager at Armored Wolf, a fund with about $750 million under
+management. “It’s real time, and it’s way more predictive, and
+way ahead of the curve before it even reaches mainstream
+media.”  The company’s analysis of Netflix showed that of all the
+factors that could influence a  stock’s direction , sentiment on
+Twitter on a given day captured more than half of the stock’s
+move the next trading session.  Access to Investors  Topsy Labs, which has about $30 million in funding, plans
+to offer access to Twitter sentiment analysis later this year to
+investors looking for guidance on stock-price moves, Ghosh said.
+In an agreement with Twitter, the company has full access to the
+messages of the service’s more than 100 million users, he said.
+That means it sifts through tens of millions of tweets a day,
+not just small samples, and can look at historical data it has
+had for years.  “In order to best understand and put into context what’s
+happening today, it’s helpful to understand what’s happened as
+far back as possible,” said Lou Kerner, an analyst at Liquidnet
+Holdings Inc. in  New York . “That’s an advantage.”  Twitter’s Limits  Still, the Twitter data can’t be a complete reflection of
+what’s going on in the world because there are other outlets,
+such as social-networking giant Facebook, where people can
+express opinions, said Jake Wengroff, a social-media analyst at
+ Frost & Sullivan  in  San Antonio ,  Texas .  “Only looking at Twitter is going to have its
+limitations,” he said. “If people have something to say,
+Twitter might not be their first choice.”  Topsy previously looked at how sentiment about Apple Inc.’s
+iPhone 4S indicated that sales might be better than what
+analysts initially expected. On Oct. 4, the day that iPhone was
+released, initial comments about the new device were more
+positive than negative, according to Topsy.  To contact the reporter on this story:
+Brian Womack in  San Francisco  at 
+ bwomack1@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

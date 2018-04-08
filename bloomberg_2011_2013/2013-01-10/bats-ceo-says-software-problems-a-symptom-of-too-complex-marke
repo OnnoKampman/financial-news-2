@@ -1,0 +1,115 @@
+-- Bats CEO Says Trade Problems a Symptom of Too-Complex Market
+-- B y   N i n a   M e h t a
+-- 2013-01-10T23:07:15Z
+-- http://www.bloomberg.com/news/2013-01-10/bats-ceo-says-software-problems-a-symptom-of-too-complex-market.html
+The software problem that caused
+Bats Global Markets Inc. to allow trades that violated rules is
+a symptom of overly complex market regulations that should be
+simplified, Chief Executive Officer Joseph Ratterman said.  Bats discovered the problem, which involved almost 450,000
+transactions, on Jan. 4 through routine data inspections
+conducted by its operations department looking for anomalies in
+trades and how the exchange handles orders, Ratterman said in a
+telephone interview today. Brokers hadn’t detected it, he said.  The issue allowed technical infringement of rules aimed at
+preserving fairness in the U.S., where trading is fragmented
+across 13 exchanges and dozens of other venues. While losses to
+any single user would have been close to undetectable and the
+vast majority of Bats trades were executed correctly, the
+disclosure comes after a year in which breakdowns on exchanges
+sowed investor concern the nation’s electronic equity
+infrastructure is too complex to manage.  “I think you could do away with a significant amount of
+complexity by simplifying some of the regulatory guidelines,”
+Ratterman said. “Nearly all the order types and functionality
+that exists in the market are there to allow trading
+participants to reflect their interest to trade and to be
+compliant with the regulatory structure we all live in. If the
+regulatory environment were to simplify, then the functionality
+customers demand to reflect their trading interest would
+simplify as well.”  250 Customers  About 250 customers, mainly market-making firms, and 0.004
+percent of 12 billion trades on Bats’s two equity exchanges were
+affected by the problem that dates to October 2008, Ratterman
+said. About 0.0009 percent of options trades were affected, he
+said.  While the revelations follow a year of high-profile
+exchange mishaps including Bats’s withdrawal of its own initial
+public offering in March, Ratterman doesn’t expect it to derail
+plans to pursue an IPO a second time.  “We’re going to keep our IPO plans warm,” he said.
+“We’re just watching the market. We’ll continue to monitor the
+investor appetite for the securities sector. Coming back is
+really a matter of timing.”  The Lenexa, Kansas-based company, started in 2005 by a
+high-frequency trader, operates U.S. equity markets that account
+for 12 percent of American share volume, compared with about 10
+percent at the end of 2010, data compiled by Bloomberg show.  Best Prices  Machines that match orders for two Bats equity exchanges
+and an options venue allowed some trades to occur at prices
+inferior to the best nationally available bid or offer and
+enabled others to violate rules for short sales, or bearish
+bets, the company said in a notice published on its website.
+Customers lost $420,360 because of rule violations, Randy
+Williams, a Bats spokesman, said by e-mail.  The Bats problem resulted from what’s called a race
+condition, Ratterman said, referring to a situation in which
+computer systems are communicating with each other in real time
+while new information is being processed by high-speed
+computers. The mistakes involved so-called price-sliding orders
+available on Bats that automatically adjust prices in response
+to changes in a stock’s national best bid or offer, or NBBO. The
+orders are often used by brokers and professionals to tailor the
+executions they seek as the NBBO shifts.  ‘Very Rarely’  “It’s something that happened statistically very rarely,”
+Ratterman said. “In a dynamic system with real-time messages
+between customers and exchanges it’s not completely obvious when
+you have a race condition like this. That’s why it went on for
+so long and wasn’t detected by us or our customers.”  Bats has no plans to eliminate price-sliding orders,
+Ratterman said. Versions of these orders have existed for years
+on other exchanges including Nasdaq Stock Market. Regulation
+NMS, a rule the Securities and Exchange Commission adopted in
+2005 and implemented two years later, prohibits exchanges from
+allowing locked markets, or instances when two venues display
+the same bid and offer price. The rule exists to increase the
+likelihood that someone quoting at the best price will receive
+an execution.  Trading Competition  Regulation NMS aimed to spur competition for stocks listed
+on the  New York  Stock Exchange and enable investors to trade
+faster and with less intermediation. One of its four main
+regulations was the so-called trade-through rule, which
+prohibits firms from trading at prices inferior to the best bid
+or offer on an equities exchange. NYSE, no longer dominant, said
+last month it would sell itself to  IntercontinentalExchange
+Inc. (ICE) , an Atlanta-based energy and commodities market operator.  “The price-sliding is predominantly a reaction to the
+prohibition on locked markets,” Ratterman said. “It creates
+complexity in everybody’s systems. We’ve been advocating for
+some time we need an industry review of some elements of Reg
+NMS, primarily locked markets.”  If the SEC permitted bids and offers on different exchanges
+to exist at the same price, if wouldn’t be necessary to have
+order types designed so customers can adjust their trade
+requests as prices change, Ratterman said. A “significant
+amount of complexity” would be eliminated, he said.  The SEC routinely reviews trading matters with exchanges as
+part of its oversight responsibilities,  John Nester , an SEC
+spokesman, said in an e-mail today.  ‘Locked Market’  “Here is a case in point where the very fact of a locked
+market condition caused some complex code that didn’t operate
+the way it should every single time,” Ratterman said. “When
+you have Reg NMS involved and prohibitions on locked markets and
+orders that are sitting on the book that have to be slid back to
+show a compliant price and new orders -- you’re going to have
+edge-case scenarios.”  Ratterman declined to comment on a potential regulatory
+response to its errors. Exchanges, which must report likely rule
+violations to the government, are required to examine their
+computer systems to ensure they comply with their own and
+federal rules, he said. The company said yesterday it plans to
+correct the issue with short sales by about Jan. 18 and the
+trade-throughs by about Jan. 25.  ‘Not Hiding’  “Anytime there’s a compliance issue, there’s a regulatory
+environment and there are outcomes,” Ratterman said. “We
+showed we were out of compliance. We’re not hiding behind that.
+We identified an issue and the impact and remediation, and will
+move forward.”  The Bats announcement comes amid a securities industry
+debate about benefits afforded to exchanges in their role as
+self-regulatory organizations. According to its rules, Bats’s
+total liability to its customers is limited to $500,000 per
+calendar month when the exchange makes a mistake in the normal
+course of business.  Participants may only seek compensation “for losses
+resulting directly from the malfunction of the exchange’s
+physical equipment, devices and/or programming or the negligent
+acts or omissions of its employees,” according to a statement
+from the company’s website.  Bats plans to work with the SEC to determine whether it can
+compensate members harmed by its errors, Ratterman said.  “We have to work through the rules with the SEC and see
+what our flexibility is,” Ratterman said. “It’s just too early
+to say what we can and can’t do. Our intention would be to make
+good with our customers to the extent that we can and the SEC
+gives us the latitude.”  To contact the editor responsible for this story:
+Michael P. Regan at 
+ mregan12@bloomberg.net  

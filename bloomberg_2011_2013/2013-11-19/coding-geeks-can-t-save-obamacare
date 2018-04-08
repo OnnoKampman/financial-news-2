@@ -1,0 +1,76 @@
+-- Coding Geeks Can’t Save Obamacare
+-- B y   N o r m a n   M a t l o f f
+-- 2013-11-19T14:00:00Z
+-- http://www.bloomberg.com/news/2013-11-19/coding-geeks-can-t-save-obamacare.html
+A recent  news  item reported that
+three programmers, all in their 20s, had whipped up an
+alternative to the U.S. health-insurance exchange system and
+claimed it was much more effective than the government’s system.  The legend of the 20-something coding genius is so powerful
+that a major news organization  seemed  to accept that it should
+be this simple to fix the exchanges. Of course it isn’t, and
+boasts such as this are masking the complexity of the challenge.  The Department of Health and Human Services has been mum on
+the details of the technological problems. But the picture that
+has emerged so far is that the failure of the Obamacare
+exchanges was largely the result of a lack of understanding of
+systems-performance issues, rather than insufficient programming
+skill per se. Software that works  fine  on a small scale can be a
+spectacular failure when writ large.  And expertise in performance comes from experience,
+especially experience with large-scale hardware and large-scale
+usage -- exactly what most 20-year-old geeks lack. Many talented
+kids might write great apps for your iPhone, but very few have
+serious access to large-scale, distributed hardware, and even
+fewer have written apps that require such large systems.  In fact, youthful enthusiasm, normally a boon to the
+quality of projects, may be a negative in this case. The 20-something may be so enamored of the New, New Thing in
+programming languages and techniques that he might be fitting
+the problem to the tool, rather than vice versa, and end up
+developing something that is quite inefficient for the job at
+hand.  Cheap Coders  Many of those who worked on the health-insurance exchanges
+-- HIX, for short -- are probably in their 20s, too. This has
+been a standard in the industry, as the young are cheaper, in
+both wages and benefits, and are more willing to work long
+hours. ( CGI Group Inc. , the chief contractor on HIX, hires a
+large number of non-U.S. workers with H-1B visas, and most H-1Bs
+in the computer field are under 30.)  Young workers typically haven’t had the experience of
+seeing a project blow up in their face. Sadly, many who worked
+on HIX now have had such an experience, though they may not
+highlight this on their resumes.  A less experienced programmer may write great code, but
+have done so only in small-scale settings. Asked to work on a
+much larger scale, he may not realize the consequences of the
+manner in which he designs his code.  For example, an expert  cited  by Reuters found that a single
+mouse click in HIX triggers 92 separate file openings and
+network transactions. When an iPhone app opens a file, there is
+no noticeable delay, and those who worked on HIX may not have
+thought that 92 such events would be excessive, when multiplied
+by tens of thousands of users. But files being opened tens of
+thousands of times per second could present a big problem if not
+handled with a deep knowledge of computer systems.  Computer-science curricula (both in the U.S. and abroad)
+are to blame, too. A typical graduate is reasonably
+knowledgeable about computer programming, but  knows  shockingly
+little about computer systems. Most graduates couldn’t explain
+something as fundamental as how an operating system boots up,
+for instance. So they may leave school equipped to write iPhone
+apps (they can probably do that by the end of their second year
+of study) but with no inkling of such matters as the time
+overhead involved in accessing a file or transmitting a network
+message.  Indeed, very few curricula even require a course in
+networks, the backbone of modern information technology.
+Computer-science professors often admonish students not to
+equate the field with just programming, and every program
+requires a course in the large-scale behavior of algorithms. Yet
+little attention is paid to the computers themselves.  Programmer Skills  Still, performance issues aside, some howler-level bugs are
+undoubtedly lurking here and there in the HIX software, and, in
+this, the employers of programmers are culpable as well. Many
+studies have shown a vast range in ability among programmers.  Since computer-science curricula are jobs-oriented, they
+tend to attract a lot of students who lack a real excitement
+about the material, and who are  rote-memory learner  types, a
+potential disaster for a field that relies on creativity and
+abstraction. Yet many companies treat programmers as
+exchangeable commodities. And companies that depend on being the
+low bidder for government contracts may be especially prone to
+hiring cheap commodity programmers.  Any software problem can be fixed eventually. But it will
+be a rocky road for the health-care exchanges for some time to
+come -- no matter what you hear from a few 20-something computer
+whizzes.  ( Norman Matloff  is a professor of computer science at the
+University of California at Davis.)  To contact the writer of this article:
+Norman Matloff at  matloff@cs.ucdavis.edu .  To contact the editor responsible for this article:
+Katy Roberts at   kroberts29@bloomberg.net . 

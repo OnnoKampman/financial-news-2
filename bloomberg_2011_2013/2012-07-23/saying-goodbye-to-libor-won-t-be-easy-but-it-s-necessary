@@ -1,0 +1,101 @@
+-- Saying Goodbye to Libor Won’t Be Easy, but It’s Necessary
+-- B y   t h e   E d i t o r s
+-- 2012-07-23T22:30:00Z
+-- http://www.bloomberg.com/news/2012-07-23/saying-goodbye-to-libor-won-t-be-easy-but-it-s-necessary.html
+Amid the investigations into
+manipulation of Libor, policy makers are coming around to the
+idea that the world needs a new benchmark to price hundreds of
+trillions of dollars in loans, securities and derivatives. The
+challenge will be getting banks, investors and borrowers to
+agree on what that benchmark should be.  Even when it was created some three decades ago, the London
+interbank offered rate was far from ideal. Its aim was good: to
+provide an objective measure of banks’ borrowing costs, so that
+the parties in financial contracts would see that they were
+getting a fair deal. Lenders, for example, could peg payments to
+an  interest rate  that more or less tracked how much they paid to
+borrow money, while borrowers could consult the measure to be
+sure they weren’t being overcharged.  We’re now abundantly aware of Libor’s flaws. Instead of
+gleaning information from actual transactions, Libor relies on
+banks to report their borrowing costs honestly, something they
+spectacularly failed to do. The market it supposedly measures --
+interest rates on short-term loans among banks, unsecured by
+collateral -- tends to disappear in times of crisis, making the
+rates no more than estimates. The group that polices the system,
+the  British Bankers Association , is in large part run by the
+same banks it purports to oversee. (Disclosure: Bloomberg LP is
+a competitor of Thomson Reuters Corp., which conducts Libor
+surveys on behalf of the BBA.)  Observable Benchmark  Given the drawbacks, it’s hard to see how Libor can be
+fixed. What the market needs is a benchmark based on a large
+volume of actual, observable loans, one that is highly resistant
+to manipulation.  It’s encouraging that the world’s central bankers, who will
+meet in September in  Basel ,  Switzerland , to discuss reforming
+the system, are beginning to zero in on some possible
+replacements -- at least for U.S. dollar Libor, which is the
+most widely used of the Libor benchmarks. In Congress last week,
+Federal Reserve Chairman  Ben S. Bernanke  mentioned two leading
+candidates: overnight index swaps and the general collateral
+repo index.  Yes, they’re both mouthfuls. Let’s take them one at a time.  Overnight index swaps are contracts based on the so-called
+federal funds effective rate, which is the interest U.S. banks
+charge one another on overnight loans. The underlying loans are
+observable: The Fed records them and publishes a  weighted
+average interest rate  every day. Problem is, banks tend to pull
+out of the market during times of stress, leaving it too small
+and too easily skewed to provide a true picture of borrowing
+costs. Currently, for example, the market is dominated by
+government-backed behemoths such as  Fannie Mae  and  Freddie Mac ,
+which are lending at abnormally low rates.  The general collateral repo index looks like a better
+option. It tracks the very large market for  repurchase
+agreements , known as repos, typically overnight loans made
+against good collateral such as U.S. Treasuries. The Depository
+Trust & Clearing Corp. publishes  a daily weighted average  of the
+actual interest rates paid on these loans. Aside from being
+secured by collateral, a large portion of the loans are
+processed through a central counterparty that protects the
+system against default by any one participant. These features
+make the repo market, and especially the part that uses
+Treasuries as collateral, relatively resilient in times of
+crisis.  Keep in mind that most banks these days tend to package
+their loans into securities. They then pledge the bundled loans
+as collateral when they borrow in the repo market. Given the way
+modern finance works, an index that reflects the cost of secured
+lending might make more sense as a benchmark.  Critical Mass  Establishing a new benchmark won’t be easy. For a repo index
+to gain widespread acceptance, a market must grow up around it.
+And investors and dealers won’t want to hold securities tied to
+the index until there is a robust  derivatives market  providing
+them opportunities to hedge their holdings. Last week, NYSE
+Euronext initiated futures contracts on the repo index, and
+banks are signing up to trade  interest-rate swaps . Even so, the
+derivatives will have a hard time gaining critical mass until a
+lot of securities have been issued. It’s the classic chicken-
+and-egg problem.  Here, the U.S. government’s debt load can be an advantage.
+The  U.S. Treasury  could (as it has suggested it might) issue
+floating-rate notes -- that is, new  government bonds  whose
+interest rates would fluctuate with the repo index. As banks’
+and investors’ holdings of the notes grew, so would their demand
+for derivatives. The notes’ prices and yields would also provide
+reference points for the issuance of mortgages, corporate loans
+and all kinds of other securities tied to the index.  Until a replacement emerges, regulators will have to do
+what they can to keep Libor honest. Prosecuting criminal cases
+against traders and bank executives would send a powerful
+signal. Requiring banks on the Libor panel to improve their
+internal controls and submit to external audits, as the
+authorities have done with Barclays Plc, would help, too. The
+ New York  Fed  made some other useful suggestions  in 2008. For
+example, Libor panel banks currently report borrowing rates for
+15 different time periods, at many of which they rarely or never
+borrow money. Reducing the number of maturities would better
+align the benchmark with reality and make the reporting less of
+a guessing game.  Ultimately, the best way to deal with Libor’s flaws is to
+move to a better benchmark. Repo looks like a big part of the
+answer. With some help from the U.S. Treasury, the market might
+agree.  Read more opinion online from  Bloomberg View . Subscribe to
+receive a  daily e-mail  highlighting new View editorials, columns
+and op-ed articles.  Today’s highlights: the editors on  Europe’s wake-up call ;
+ Jeffrey Goldberg  on what’s next for the  Arab Spring ; William
+Pesek on the  price of economic growth  in  South Korea ;  Ramesh
+Ponnuru  on Obama’s  welfare mistake ; A. Gary Shilling on higher
+education’s  broken financing model ; Betsey Stevenson and  Justin
+Wolfers  on  sham economics ; Bill Mallon on  obscure sports  in past
+Olympics; Ilian Scarlatov on why  Greece should act like
+Bulgaria .  To contact the Bloomberg View editorial board:
+ view@bloomberg.net . 

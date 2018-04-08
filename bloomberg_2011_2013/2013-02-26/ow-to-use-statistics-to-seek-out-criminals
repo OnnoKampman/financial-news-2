@@ -1,0 +1,77 @@
+-- How to Use Statistics to Seek Out Criminals
+-- B y   R o s a   M .   A b r a n t e s - M e t z
+-- 2013-02-26T23:30:00Z
+-- http://www.bloomberg.com/news/2013-02-26/how-to-use-statistics-to-seek-out-criminals.html
+The discovery of banks’ efforts to
+manipulate the London interbank offered rate owes a lot to
+statistical techniques that provided the first indications of
+wrongdoing. If regulators want to uncover more misdeeds in the
+markets, they’ll have to use such tools much more actively than
+they currently do.  Academics and journalists have become adept at employing
+statistical screens to shed light on a wide range of
+questionable or illegal activities in the financial markets.
+Notable examples include  collusion  among Nasdaq stock dealers,
+the backdating of stock options and possible insider trading
+among corporate executives.  Libor is a case in point. In early 2008, the Wall Street
+Journal published a  study  showing that the borrowing-cost
+estimates banks submitted for the calculation of the benchmark
+interest rate were bunched much too close together and bore
+little relation to the banks’ riskiness as reflected in the
+market for default insurance. Together with co-authors Albert
+Metz, Michael Kraten and Gim Seow, I  extended  the analysis to
+show that nonrandom patterns in the banks’ reported borrowing
+costs started years earlier than the period examined by the
+Journal and also likely involved coordinated behavior among
+banks. The studies pointed to the widespread misbehavior that,
+four years later, is proving to be one of the biggest and most
+costly financial scandals in history.  Classic Screens  The Libor studies were classic screens, in that they tested
+for divergence from normal statistical behavior or from markets
+thought to be functioning properly. To understand how screens
+work, consider one popular statistical tool: Benford’s law. The
+law states that the digits in certain types of data from
+naturally occurring events follow a consistent pattern. The
+number 1 is by far the most frequent first digit, followed by 2,
+3 and so on all the way to 9. The second significant digit is
+more evenly distributed, and so is the third digit. Such
+patterns have been observed in financial data such as stock
+prices, corporate revenue and interest rates. Libor submissions
+followed Benford’s law closely for about 20 years, but began to
+diverge sharply in the mid-2000s.  Statistical analysis, by itself, will not usually prove
+manipulation or other cheating. Rather, it can signal unusual
+patterns that may require closer investigation. Beyond flagging
+strange patterns, screens can potentially indicate which actors
+were involved and when the cheating began.  U.S. regulatory agencies such as the Securities and
+Exchange Commission, the Commodity Futures Trading Commission,
+the Department of Transportation and the Internal Revenue
+Service routinely use screens to help find a variety of illegal
+behavior, such as insider trading, tax evasion and accounting
+shenanigans.  The use of screens has been limited, though, in other
+areas, particularly in antitrust matters. More frequently than
+not, regulators rely on passive detection policies, in which
+they wait for complainants or whistle-blowers to come forward.
+This approach has a track record of success, and it is
+undoubtedly less resource-intensive than actively engaging in
+detection. Unfortunately, it probably misses a lot of fraud.
+Attempts at Libor-rigging, for example, might never have been
+uncovered without screens.  If regulators were more proactive in their use of screens,
+they could be more effective in both the detection and
+deterrence of fraudulent market behavior. The most successful
+frauds have the biggest effects on prices or quantities, and
+hence are the most visible to screens. These are precisely the
+cases in which whistle-blower programs tend to fail -- after
+all, a conspirator is less likely to come forward if the
+conspiracy is working effectively from his perspective. The
+knowledge that authorities were constantly screening for
+questionable activity would also have a powerful chilling effect
+on potential perpetrators.  Regulatory agencies can start by enhancing data collection
+and analysis, and training their staff to monitor those markets
+they see as most susceptible to illegal behavior.  There have always been those who are naturally skeptical
+that simple empirical analyses can be brought to bear in complex
+markets. Hopefully, the Libor scandal will settle the question
+of whether screens should be more vigorously applied and move
+the discussion to how that needs to happen.  (Rosa M. Abrantes-Metz is an adjunct associate professor at
+New York University’s Stern School of Business and a principal
+in the antitrust, securities and financial regulation practices
+of Global Economics Group, a consulting firm based in New York.
+The opinions expressed are her own.)  To contact the Bloomberg View editorial board:
+ view@bloomberg.net . 

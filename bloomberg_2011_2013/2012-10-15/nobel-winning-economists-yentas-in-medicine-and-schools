@@ -1,0 +1,137 @@
+-- Nobel Economists as Matchmakers in Medicine and Schools
+-- B y   E d w a r d   G l a e s e r
+-- 2012-10-15T21:25:31Z
+-- http://www.bloomberg.com/news/2012-10-15/nobel-winning-economists-yentas-in-medicine-and-schools.html
+How should  New York City  assign
+students to schools? How should young doctors be matched with
+residencies? How should lifesaving kidneys be allocated to
+desperate patients?  For the answers, we have the work of the  2012 winners  of
+the Nobel Memorial Prize in Economic Sciences, Alvin Roth, a
+Harvard colleague who is soon leaving for Stanford, and Lloyd Shapley, a professor emeritus at the  University of California ,
+ Los Angeles .  The world is full of allocation problems, and in most
+cases, economists favor standard markets. How should we allocate
+petroleum or Chevrolets or old-master paintings?  Economics 101 suggests that these goods should go to the
+people who are willing to pay the most for them and therefore
+value them most highly. Sometimes, as with gas stations, the
+seller just posts a price and sells to anyone willing to pay.
+Other times, as at a General Motors dealership, there is a bit
+of haggling. The 1996 and 2007 Nobel prizes acknowledged the
+pioneering work of William Vickrey and Roger Myerson in
+designing auctions, but in all these settings the basic
+objective remains the same: get the good to the person who is
+willing to pay the most.  In the problems analyzed by Roth and Shapley, the right
+answer isn’t to let the highest bidder prevail. In some
+settings, there are two-sided preferences; residents care about
+which hospital employs them, and hospitals care about which
+residents they get.  Selling Spots  Harvard  could sell its undergraduate spots to the highest
+bidder, but this would reduce the quality of a Harvard
+education. We don’t sell kidneys, because we are understandably
+squeamish about auctioning off the right to live.  Shapley began this literature in 1962 with a  paper  co-
+written with  David Gale , who might have been included in this
+prize if he hadn’t died in 2008. They focused on a particularly
+ubiquitous matching problem, the marriage market, where the
+standard economic answer, a cash auction, isn’t terribly
+sensible.  A few medieval monarchs might have given their daughters to
+the highest bidder, but it’s a good bet that if  Catherine of
+Aragon ’s preferences had counted for anything, she would have
+married someone other than  Henry VIII . Stable marriages require
+a matching mechanism that respects the preferences of both
+spouses.  Gale and Shapley pondered both the marriage question, which
+involved matching one man and one woman (this was 1962, after
+all), and the college assignment problem, where multiple
+applicants were sorted to a single choice. They produced a
+matching algorithm that is surprisingly plausible, given the
+authors’ interest in high abstraction.  The Gale-Shapley mechanism has men first propose to their
+favorite woman. Women who receive more than one proposal string
+along their favorite candidate and reject the others. The
+rejected men make new proposals to any woman who has not
+rejected them already, and the process continues. Whenever a
+woman receives an offer she likes better than that from the man
+she is stringing along, she drops her current beau and chooses
+the new one.  Since the authors  assume  that the number of men and women
+is equal and that everyone prefers marriage to solitude,
+eventually everyone finds a mate. The allocation created by this
+process is stable: No women or men would like to switch their
+current spouse for someone else who would also prefer them to
+their current spouse. The more desirable man would have proposed
+to the woman first if he thought she was a more desirable mate.  Stable Outcomes  The allocation mechanism also works on Sadie Hawkins Day,
+if the girls are doing the picking, and it also works for
+college admissions. Each applicant applies to his or her
+favorite college, and the college can decide to put the
+applicant on a waiting list. The rejected applicants then apply
+to other colleges, until the process sorts itself out. Not only
+will the eventual outcome be stable, it will also be as good for
+the applicants as any other stable allocation mechanism.  In 1982, however, Roth  pointed out  a problem with actually
+carrying out the Gale-Shapley mechanism: People have an
+incentive to lie. A woman may reject a man she actually likes
+more, because that man, if rejected, will end up breaking up the
+current understanding between some other woman and a man she
+likes even better. For matching mechanism to work well, they
+need to elicit honest behavior, not strategic play.  This truth-telling problem remains when we move from a
+decentralized process of courtship to a centralized clearing-
+house mechanism, as the medical internship market did in the
+early 1950s. As Roth  describes  in a 1984 article, the
+decentralized market for interns was painfully chaotic in the
+1930s and 1940s. Interns would string hospitals along until the
+last possible date, hoping that a better offer would show up,
+and hospitals tried to eliminate this uncertainly by requiring
+students to sign binding agreements early in their medical
+school careers.  To regularize the market, a central clearing bureau was
+established, which would elicit a list of preferences from both
+the students and the hospitals, and then use a matching
+algorithm to assign interns. The first proposed matching
+algorithm had hospitals ranking students into five groups and
+students ranking hospitals, and then matched the top choice of
+one with the top choice of the other, and so on.  But in this design, students have an incentive to lie, and
+overstate their desire to work in hospitals that are less likely
+to fill up immediately. The system was dropped in favor of one
+with “tentative matches” that can be undone if a better match
+appears as the process unfolds, and that is closer to the Gale-
+Shapley mechanism. While Roth proved that this system is
+unlikely to elicit perfect truth-telling, it is far better than
+the first proposal.  Good Match  Roth’s expertise made him a natural fit for  New York  City
+to consult in 2003 when it was designing its school matching
+system. Before 2003, New York’s schools allocated spots through
+a complicated process involving repeated student applications,
+rejections and much agony.  The system wasn’t only cumbersome. It also led to strategic
+behavior, as when people applied first to less popular schools
+to make sure they got in, leaving students with none of their
+top choices. Roth  pushed  toward a clearing-house system, based
+loosely on the models foreseen by Gale and Shapley and carried
+out by hospitals. The result wasn’t exactly his ideal. It had
+two rounds instead of one to address New York’s specialized exam
+schools, but the new system seems to be a major step forward.  In recent years, Roth has been deeply involved in solving
+the kidney-exchange problem. Distinguished economists have long
+ advocated  a free market, where kidneys go to the highest bidder
+and organ donors are paid handsomely. As Roth  notes , however,
+“repugnance” can be a powerful “constraint on markets.” We don’t
+much like the idea of selling life itself, yet without financial
+markets, allocating kidneys can be as tricky as allocating slots
+in New York public schools.  The classic problem  occurs  when an ailing individual has a
+prospective donor, but that donor’s kidney is immunologically
+incompatible with the patient’s body. In a 2004 article, which I
+edited in the Quarterly Journal of Economics, Roth and two co-
+authors explore sensible kidney exchange systems. Roth proposes
+a system, which has its roots in earlier  work  by Shapley and in
+an idea from Gale.  The basic system is that each sick person, who has a
+donated kidney that doesn’t work for them, points to their
+preferred kidney in the exchange. This system must produce a
+cycle, in which person A prefers kidney B and person with kidney
+B prefers kidney C and person with kidney C prefers kidney A.
+The algorithm works by satisfying the bargains implied by the
+cycle, which must make everyone who trades better off, and
+starting again. Roth’s algorithm is more complicated, but it
+still hews to the basic goal of allocating kidneys fairly and in
+a way that maximizes the number of lives saved.  Roth and Shapley have done much more than just design
+exchanges. Shapley is the giant of cooperative game theory; Roth
+is a pioneering experimental economist. Their work is very far
+from the contentious debates of macroeconomics, and it
+illustrates economics in action at its best. Not only scholars,
+but children in New York City and people with kidney diseases
+should be cheering for this year’s choices for the Nobel.  ( Edward Glaeser , an economics professor at  Harvard
+University , is a Bloomberg View columnist. He is the author of
+“Triumph of the City.” The opinions expressed are his own.)  Read more opinion online from  Bloomberg View . Subscribe to
+receive a  daily e-mail  highlighting new View editorials, columns
+and op-ed articles.  To contact the writer of this article:
+Edward Glaeser at  eglaeser@harvard.edu .  To contact the editor responsible for this article:
+Katy Roberts at   kroberts29@bloomberg.net . 

@@ -1,0 +1,63 @@
+-- 
+VMware Enlists Dell to Help Wage ‘Operating Systems War’ in Cloud Business
+
+-- B y   D i n a   B a s s
+-- 
+2011-08-17T13:00:00Z
+
+-- http://www.bloomberg.com/news/2011-08-17/vmware-enlists-dell-to-help-wage-cloud-operating-systems-war-.html
+VMware Inc. (VMW)  is working with  Dell
+Inc. (DELL)  and the Ubuntu Linux operating system to spur adoption of
+its cloud-computing software, ratcheting up competition with
+ Microsoft Corp. (MSFT)  for corporate customers.  Dell’s services arm will help install VMware’s  Cloud
+Foundry  program, while Ubuntu will begin including parts of the
+software, said Jerry Chen, a vice president at VMware.  EnStratus
+Networks LLC , which lets companies manage cloud-computing
+software, also will support Cloud Foundry.  VMware is forging alliances to capitalize on the shift to
+cloud computing, which lets businesses keep information in data
+centers. Cloud Foundry can store programs in different data
+centers, as well as a customer’s own facility, so there’s a
+backup in case of an outage. While that portion of market is
+still small, it may become as pivotal as operating systems are
+to computers, attracting Microsoft, VMware,  Google Inc. (GOOG)  and
+Salesforce.com Inc., said Ben Pring, an analyst at  Gartner Inc. (IT)   “It’s still a very early-stage marketplace and very
+unproven,” he said. “They see it as the next strategic chokehold
+that a cloud vendor can get, the next go-round of the operating
+systems war.”  Gartner, based in  Stamford ,  Connecticut , expects the market
+for this kind of product -- called application infrastructure
+services, or platform as a service -- to grow from $1.4 billion
+this year to $2.4 billion by 2015. That doesn’t include the
+management software and developer tools the companies can sell
+with it. It also doesn’t account for the cloud storage and
+computing power that companies such as Amazon.com Inc. offer
+separately, Pring said.  Virtualization Leader  VMware, based in  Palo Alto ,  California , is the biggest
+seller of virtualization software, which lets companies use
+fewer server computers in data centers by running different
+operating systems on a single machine. VMware’s stock has risen
+20 percent in the past year, boosted by companies putting more
+of their information in data centers. The company is majority-
+owned by EMC Corp., the largest maker of storage computers.  Cloud Foundry is still available only in a test version and
+includes an open-source project that lets outside developers
+contribute to the product.  VMware also aims to appeal to corporate customers with
+software that writes cloud applications using several different
+programming languages. That contrasts with the approach of
+Microsoft, which relies on .Net, and Google, which uses Java,
+Chen said.  Bigger Market  Most large customers currently use one technology or the
+other, so it’s hard to say how much demand there is for an all-
+in-one feature, Pring said. Still, the flexibility will help
+VMware target a wider swath of businesses, rather than just one
+camp, he said.  Microsoft may be the toughest adversary in wooing large
+corporate customers, Chen said. Because of Microsoft’s long
+history with business customers and its work on the .Net
+language, “they’re the one we worry about most in competing for
+enterprise customers,” he said.  Salesforce.com, which also has a partnership with VMware,
+is increasingly vying for those buyers as well, Pring said.  Having multiple copies of programs stored in different
+cloud data centers may be a draw for customers, particularly
+after Amazon’s Web Services suffered a brief outage this month
+and one lasting several days in April.  “If Amazon goes down, you are kind of out of luck,” Chen
+said. “If you put your app on Cloud Foundry and it’s running on
+VMware and Amazon, you can just move to another instance. You
+don’t have the problem of being locked into one vendor.”  To contact the reporter on this story:
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

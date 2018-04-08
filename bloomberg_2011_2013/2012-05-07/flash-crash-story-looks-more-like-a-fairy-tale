@@ -1,0 +1,84 @@
+-- Flash-Crash Story Looks More Like a Fairy Tale
+-- B y   M a r k   B u c h a n a n
+-- 2012-05-07T23:00:00Z
+-- http://www.bloomberg.com/news/2012-05-07/flash-crash-story-looks-more-like-a-fairy-tale.html
+Two years after the frightening spring
+day when the  Dow Jones Industrial Average  lost and regained
+about 600 points in a matter of minutes, we still don’t really
+know why. This is a problem, because it means something similar
+-- or worse -- could happen again.  The Flash Crash of May 6, 2010, was more than a mere
+technical glitch. A hedge fund in  Dallas  lost several million
+dollars when the price of options it was buying suddenly spiked
+from 90 cents to $30 per contract. A man named  Mike McCarthy 
+lost $17,000 because his order to sell shares in  Procter &
+Gamble Co . happened to be executed at roughly 2:46 p.m., just
+after the price hit rock bottom.  The crash brought a different kind of trouble for the
+Kansas-based investment company Waddell & Reed Financial Inc. In
+a September 2010  report , the Commodity Futures Trading
+Commission and the Securities and Exchange Commission fingered a
+single “fundamental seller” -- easily identified as Waddell &
+Reed -- as the culprit behind the crash. At 2:32 p.m., the
+report asserted, the company triggered a cascade of selling by
+trying to unload 75,000 so-called E-mini futures contracts, the
+value of which reflects investors’ perceptions about the future
+of the Standard & Poor’s 500 Index. “Lone $4.1 Billion Sale Led
+to `Flash Crash’ in May,” the  New York  Times duly reported.  The CFTC-SEC report focused on the concept of liquidity, or
+how easily a security can be traded without moving its price.
+Waddell & Reed’s sell order, the logic goes, was so large and
+hit the market so hard that it overwhelmed the available buyers.
+This sucked liquidity out of the market and allowed prices to go
+into freefall.  Concern for Price  Problem is, that’s not exactly what happened. As  documented 
+by the market-data firm Nanex, Waddell & Reed didn’t actually go
+into the market and sell, as the report suggested, without any
+concern for the price.  Eric Scott Hunsader, a software engineer and the founder of
+Nanex, parsed 6,483 trades that Waddell & Reed made as it tried
+to sell the 75,000 E-mini contracts. He found that the trades
+were passive, meaning that Waddell & Reed stood ready to sell at
+preset prices if buyers appeared. The company’s execution broker
+fed the orders into the market throughout the day -- a tactic
+specifically designed to minimize the price impact of a large
+sale.  In other words, Waddell & Reed was providing liquidity to
+the market, not removing it.  The actual crisis struck in the three minutes between 2:41
+p.m. and 2:44 p.m., when the market fell another 5 percent to 6
+percent. Hunsader’s analysis suggests this plunge was caused by
+high-frequency traders. They typically act as liquidity
+providers, standing ready to buy and sell at certain  price
+levels . But the day’s volatility prompted them to dump their
+holdings to avoid losses. In a matter of minutes, they actively
+sold an accumulated stock of about 2,000 E-mini contracts. It
+was this selling, not Waddell & Reed’s passive orders, that
+caused liquidity to disappear.  There is nothing blameworthy about what the high-frequency
+traders did. Market makers aren’t charities, and their
+algorithms were only saving their skins amidst extreme market
+turbulence. Their actions do, however, rather undermine the
+common argument that high-frequency traders bring wonderful
+benefits to the market through the liquidity they provide. That
+liquidity, as many have pointed out, has a rather ghostly
+quality and tends to vanish when needed most.  Also troubling is the way the CFTC and SEC report, in
+placing responsibility for the crash on Waddell & Reed,
+contradicted its own definition of liquidity: “buy-side and
+sell-side market depth, which is comprised of resting orders
+that market participants place to express their willingness to
+buy or sell at prices equal to, or outside of (either below or
+above), current market levels.”  Providing Liquidity  This is the standard industry use of the term. It implies
+that someone placing limit orders in the book -- precisely what
+Waddell & Reed was doing -- provides liquidity to the market.
+Yet the CFTC-SEC report, as Hunsader has  documented ,
+nevertheless refers repeatedly to Waddell & Reed’s trading as
+“taking” or “competing for” liquidity.  The SEC referred questions to the CFTC, where a spokesman
+said the commission stands by the report but declined to comment
+further.  Given the evidence, the report is starting to look like a
+case of interpreting the data creatively to match a foregone
+conclusion: The crash was caused by some exceptional and unusual
+shock to the market, not by the inherent instability within the
+ecology of high-frequency trading. Don’t worry, therefore --
+everything is OK.  Too bad for Waddell & Reed.  ( Mark Buchanan , a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  Read more opinion online from  Bloomberg View .  Today’s highlights: the View editors on  “superbugs,”    France ’s
+ new president  and Obama’s failures on  gay marriage ;  Jeffrey
+Goldberg  on  getting tough with Syria ;  Noah Feldman  on  justice at
+Guantanamo Bay ;  Michael Kinsley  on  rising inequality ; Sally
+Satel on improving  organ donation .  To contact the writer of this article:
+Mark Buchanan at  buchanan.mark@gmail.com .  To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net . 

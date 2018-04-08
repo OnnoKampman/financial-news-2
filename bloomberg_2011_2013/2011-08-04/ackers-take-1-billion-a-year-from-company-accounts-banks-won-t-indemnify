@@ -1,0 +1,312 @@
+-- 
+Hackers Take $1 Billion a Year as Banks Blame Their Clients
+
+-- B y   G r e g   F a r r e l l   a n d   M i c h a e l   A .   R i l e y
+-- 
+2011-08-04T21:18:33Z
+
+-- http://www.bloomberg.com/news/2011-08-04/hackers-take-1-billion-a-year-from-company-accounts-banks-won-t-indemnify.html
+Valiena Allison got a call from her
+bank on a busy morning two years ago about a wire transfer from
+her company’s account. She told the managers she hadn’t approved
+the transfer. The problem was, her computer had.  As Allison, chief executive officer of Sterling Heights,
+Michigan-based Experi-Metal Inc., was to learn, her company
+computer was approving other transfers as she spoke. During
+hours of frantic phone calls with her bank, Allison, 45, was
+unable to stop this cybercrime in progress as transfer followed
+transfer. By day’s end, $5.2 million was gone.  She turned to her bank, a branch of  Comerica Inc. (CMA) , to help
+recover the money for her metal-products firm. It got all but
+$561,000 of the funds. Then came the surprise: the bank said the
+loss was Experi-Metal’s problem because it had allowed Allison’s
+computer to be infected by the hackers.  “At the end of the day, the fraud department at Comerica
+said: ‘What’s wrong with you? How could you let this happen?’”
+Allison said.  In increments of a few thousand dollars to a few million
+per theft, cybercrooks are stealing as much as $1 billion a year
+from small and mid-sized bank accounts in the U.S. and Europe
+like Experi-Metal, according to Don Jackson, a security expert
+at Dell SecureWorks. And account holders are the big losers.  ‘Losing More Now’  “I think they’re losing more now than to the James Gang
+and Bonnie and Clyde and the rest of the famous gangs
+combined,” said U.S. Senator Sheldon Whitehouse, a Rhode Island
+Democrat who chaired a Select Committee on Intelligence task
+force on U.S. cybersecurity in 2010.  Organized criminal gangs, operating mostly out of Eastern
+Europe, target small companies, school districts and local
+governments that maintain fat commercial bank accounts protected
+by rudimentary security measures at community or regional banks.
+The accounts typically aren’t covered by insurance as individual
+accounts are.  “If everyone knew their money was at risk in small and
+medium-sized banks, they would move their accounts to JPMorgan
+Chase,” said James Woodhill, a venture capitalist who is
+leading an effort to get smaller banks to upgrade anti-fraud
+security for their online banking programs.  JPMorgan Chase & Co. (JPM) , the second-largest  U.S. bank , is the
+only major U.S. bank that insures commercial deposits against
+the type of hacking that plagues smaller banks, Woodhill said.  “Chase has invested substantially in fraud prevention and
+detection capabilities for our clients,” Patrick Linehan, a
+JPMorgan spokesman, said in an e-mail. “If there is fraud on an
+account, we work with our clients on a case-by-case basis.”  Smaller Banks  Smaller banks as well as many of the victims tend not to
+make the thefts public, according to interviews with the
+customers and experts such as Woodhill. As the threat becomes
+better known, small-business customers and other target entities
+may shift their business to large, national banks, which can
+better absorb the losses to maintain customer relations and
+which have better security policies to protect clients from such
+crimes.  “It’s frightening for small businesses because they have
+no clue about this,” said Avivah Litan, an analyst at Stamford,
+Connecticut-based Gartner Inc., which does computer analysis.
+“They just don’t have any clue, and everyone expects their bank
+to protect them. Businesses are not equipped to deal with this
+problem, and banks are barely equipped.”  Customers used to being made whole when they are victims of
+credit-card fraud or ATM thefts have had to sue small and
+medium-size banks to recover losses after being blamed by their
+branches for permitting the crime, as Allison was.  Law Enforcement  The traditional help of law enforcement hasn’t been there
+either for such customers. In the heyday of bank robberies in
+the 1930s, the FBI became famous for Tommy-gun shootouts with
+the bad guys, who were put on the Most Wanted list. In most
+cases, the identities of the John Dillingers and Pretty Boy
+Floyds of the 21st Century aren’t known because of online
+anonymity, and the bureau doesn’t disclose statistics on how
+much these cybercrooks are stealing.  Victims in the last two years have ranged from Green Ford
+Sales, a car dealership in Abilene,  Kansas , to Golden State
+Bridge Inc., a construction company in  California  wine country.
+No need to use a mask or gun. These criminals can steal millions
+from the comfort of their homes dressed in their pajamas.  The crime profits can be staggering and the risks minimal.
+Jackson, the security expert, said three sophisticated gangs
+each haul in at least $100 million a year. That dwarfs the $43
+million taken in all conventional bank heists in the U.S. last
+year, from stick-ups to burglaries, according to the FBI.  A $100 Million Hit  “A $100 million hit on a bank or a series of banks,”
+Whitehouse said. “That’s a pretty big bank robbery. And it
+doesn’t even make the press. It just trickles through in FBI tip
+sheets.”  To law enforcement officials, cybercrime is a new priority.
+Both the  Federal Bureau of Investigation  and the U.S. Secret
+Service, which has jurisdiction over financial crimes, have
+boosted manpower to combat computer-enabled robberies and have
+formed partnerships with foreign law-enforcement agencies.  Those efforts have been swamped by the explosion in e-
+commerce, said Chris Swecker, a former FBI assistant director
+who advises companies on cybersecurity. As millions of customers
+have shifted online, criminals have followed, their hacking
+tools and nimble criminal organizations racing ahead of old-
+school law enforcement models.  “Through cybercrime, transnational criminal organizations
+pose a significant threat to financial and trust systems,”
+including banking, stock markets and credit-card services,
+according to a National Security Council report issued in July.  National Security Threat  Cybercrime has risen to the level of a national security
+threat, according to the report, citing a “critical shortage of
+investigators with the knowledge and expertise to analyze the
+ever increasing amounts of potential digital evidence.”  The banking industry’s reluctance to confront this problem
+head-on has allowed criminals to reinvest some of their booty to
+create better, more effective malicious software, known as
+malware, according to Woodhill.  Malware is what hurt Earl Goossen, business manager for
+Green Ford Sales, when he logged on to the company’s payroll
+account at First Bank Kansas at 7:45 a.m. central standard time
+on Nov. 3, 2010. Just two days earlier he’d used his computer to
+arrange for the bank to send out the $63,000 payroll to employee
+accounts. Everything went smoothly at first. Goossen responded
+to a follow-up e-mail request from First Bank Kansas to okay the
+payroll, just as he did on the 1st and 15th of every month.  Malicious Software  Unbeknownst to Goossen, malicious software had infected the
+computer with a so-called worm, which had the ability to grab
+passwords, user names and credit-card data.  Some malware allows hackers thousands of miles away to take
+remote control of machines it infects, as if they were sitting
+at the keyboard. This malware is affordable and easy to obtain.
+A basic version sells for less than $5,000, Jackson said. Many
+models, licensed like commercial software from Microsoft Corp.
+and Adobe Systems Inc., even come with tech support, he said.  The worm on Goossen’s machine allowed thieves to log onto
+the website of the auto dealer’s bank using Goossen’s
+credentials and set up a second payroll batch for the usual
+amount for nine non-existent employees. The additional payroll
+was sent out overnight by First Bank.  The software allowed the hackers to grab Goossen’s e-mail
+password and banking details. All they had to do was change the
+notification e-mail address to a name under their control.  Gun-Toting Robbers  When an amount like Green Ford’s $63,000 is taken from a
+bank by gun-toting robbers, the FBI would typically dispatch
+special agents to cordon off the crime scene and interview
+witnesses. No agents arrived in Abilene on Nov. 4, and no one at
+the company was ever interviewed by the bureau about the theft.  Green Ford’s owner, Lease Duckwall, filled out a report
+with local police, who don’t have a cybercrime unit. The Kansas
+Bureau of Investigation examined his computer and found nothing
+of use. Frustrated, Duckwall turned detective, interviewing bank
+employees, victims of similar crimes and whoever knew anything
+about cybertheft. In the end, the trail went cold.  Representatives of the FBI and the Secret Service insist
+they are not overwhelmed.  “I don’t think it’s right to conclude that because there
+are not a lot of arrests that law enforcement is not doing its
+job,” said Gordon Snow, the FBI’s assistant director of the
+cyber division.  Fighting Cybercrime  The FBI and Secret Service have increased the number of
+agents dedicated to fighting cybercrime. Last September, as part
+of “Operation Trident Beach,” U.S. prosecutors in  Manhattan 
+arrested a gang of money mules in connection with a wide-ranging
+cyberfraud ring that had stolen $70 million from banks and tried
+to grab another $150 million in the U.S. and Western  Europe . No
+ringleader was arrested, even though five were questioned by
+police in Ukraine, according to the FBI.  The inability to put handcuffs on suspects in Eastern
+Europe is a source of frustration for law enforcement, according
+to representatives of the FBI and Secret Service.  “We can’t let that stop us from continuing to move
+forward,” said Pablo Martinez, who heads the cybercrime unit at
+the Secret Service. “You have to go after every target.”  Mules, used by hackers as cutouts, are an obvious target,
+even the unwitting ones. When thieves stole the money from
+Duckwall’s dealership, some of the money first went to Shawn
+Young’s account in upstate  New York . Young thought it was a
+legitimate transaction -- at first.  Assistant Manager  Young, 35, was officially an assistant manager for R.E.
+Company Back Office. He got his job in October through a
+Careerbuilder website ad that said an Australian office services
+company was looking to expand into New York state. He was
+selected to scout locations in the Binghamton area. It did seem
+odd his new employer never asked for his Social Security number,
+he said in an interview.  Part of his job was to transfer payments made by some of
+the company’s U.S.-based clients to various programmers. He
+corresponded with his boss, Samantha Simons, exclusively through
+the company’s intranet site.  At 8:45 a.m. on Nov. 3, Young got his first payment-related
+assignment. He logged into the R.E. Company Back Office intranet
+site and learned from his supervisors that $4,975 had been
+deposited into his account at M&T Bank in Endicott, New York.
+The sender was Green Ford Sales.  Act Quickly  His boss said he could keep $145 of the money if he acted
+quickly. Within 10 minutes, he withdrew the funds and drove to
+the closest  Western Union Co. (WU)  office, a few miles away. Young
+pulled into the Western Union parking lot and his cell phone
+rang. It was a manager from the M&T Bank branch where he’d made
+the withdrawal. She said the bank had discovered the wire
+transfer wasn’t authorized. It was only then that Young realized
+something might be wrong, he said.  On his way back the bank, his phone rang again. It was
+Simons, calling from a Syracuse telephone area code to see if
+there was a problem with the transfer. Young, who had never
+spoken with his boss, told her he’d been asked to return the
+funds. In a matter-of-fact manner, Simons said OK and hung up,
+he said.  After learning from his bank that the wire transfer from
+Green Ford had been unauthorized, Young tried to log into the
+R.E. Company Bank Office website, but his access had been
+terminated.  “I was lucky I did not send the money,” Young said. “I
+dodged a bullet there.”  Christine Palmer wasn’t as fortunate. In February, the
+single mother from  New Britain , Connecticut who moonlights as
+the manager of a band, Enemy Remains, applied for a position
+advertised on Careerbuilder.com.  Flexible Gig  A woman named “Jennifer” from CS Office Services called
+to say she had the job, a flexible gig that paid by the
+assignment and required her to help process transactions.  On March 3, after a few weeks of online training, Palmer
+woke up to find that $98,000 had been deposited into her account
+at  Bank of America Corp. (BAC)  An e-mail instructed her to withdraw
+$9,000 in cash and wire it to three individuals in the Ukraine
+via Western Union.  Then, Palmer was to transfer the rest of the funds to a
+Ukrainian bank account. As a fee, Palmer could keep $1,800 of
+the total. Before she’d completed the wire transfer, a man with
+an Eastern European accent called, urging her to speed things
+up.  “He sounded very concerned, which made me think I was
+going to lose my job,” Palmer said.  Stolen Funds  It wasn’t until a few days later, when  Charlotte , North
+Carolina-based Bank of America halted the wire transfer and told
+her the funds had been stolen, that Palmer realized CS Office
+Services didn’t really exist, and that her employers were part
+of a criminal scheme.  Bank of America closed Palmer’s account and told her she
+was responsible for paying back the $9,000 she’d wired overseas.  Palmer said she no longer looks for jobs advertised on web
+sites.  Unwitting money mules aren’t the only ones to have gotten
+wake-up calls in the new world of bank cybercrime. Customers
+sometimes find their friendly bank has become an adversary,
+quoting the fine print of account contracts about who is
+responsible for what.  On May 7, 2009, cyberthieves hacked into the bank account
+of Patco Construction Inc., based in Sanford,  Maine , and
+initiated a series of wire transfers totaling $56,594. Some
+transfers bounced back, causing Ocean Bank to send owner Mark
+Patterson a routine return notice via the U.S. Postal Service.  Transfer Money  Over the next several days, the crooks continued to
+transfer money out of Patco’s account, removing almost $500,000
+before Patterson received the mailed letter from Ocean Bank. The
+bank eventually recovered a portion of the transfers, leaving
+Patco with a loss of $345,444, according to Patterson.  Patterson said Ocean Bank rebuffed his attempts to reach a
+settlement, so in January 2010 he sued. He argued the bank
+should have done a better job monitoring the company’s bank
+account. Ocean Bank argued that its protections were
+“commercially reasonable,” in keeping with general guidance
+issued by the U.S. banking industry in 2005.  In May, a federal magistrate judge in  Portland , Maine,
+found for Ocean Bank, now known as People’s United Bank, a unit
+of Bridgeport, Connecticut-based  People’s United Financial Inc. (PBCT)   U.S. District Judge D. Brock Hornby in Portland affirmed
+the magistrate’s decision today.  Infuriated  The magistrate’s ruling infuriated Woodhill, who co-founded
+Authentify, a cybersecurity firm, in 1999. He is trying to
+change the law governing liability in hacking cases.  “I can’t fathom how one could consider a security
+procedure that makes it easy for people to steal money from
+school districts, churches and small businesses to be
+commercially reasonable,” Woodhill said.  Woodhill faulted banks for downplaying or hiding the scope
+of bank heists, a posture he attributes to fear of undermining
+confidence in an online banking system that saves financial
+institutions tens of millions of dollars a year in transactions
+that don’t have to be processed by a human teller.  Last year, Woodhill came to the rescue of Karen McCarthy,
+whose marketing firm was victimized by hackers in February 2010.
+McCarthy, who made one wire transfer on the same day every
+month, for $1,000, noticed a problem with her computer on Feb.
+10. The screen had turned blue and appeared frozen, while other
+computers in her firm seemed to function normally.  McCarthy’s Plans  In the weeks leading up to the frozen-screen episode,
+McCarthy had reached an agreement to sell her firm, Little &
+King. She’d bought out her lease, sold her office equipment and
+supplies and was preparing to join the new company as an
+employee, leaving behind the worries of business ownership.  After her computer froze, she printed out statements from
+Toronto Dominion Bank in preparation for the sale of her
+company. Over the Feb. 13-15 Presidents Day weekend, she
+couldn’t figure out discrepancies between recent bank statements
+and the amount in her company’s checking account. Finally, on
+the Monday evening, a national holiday, she checked her online
+banking account and saw five unauthorized wire transfers.  She called TD Bank in a panic. Because of the holiday, she
+was told no one was available. The next morning she marched into
+her TD Bank branch, in Massapequa, New York, and asked an
+assistant manager for help.  Calls Not Returned  At first the manager told her the bank would get her money
+back, she said. Once it became clear the funds were stolen, the
+bank stopped returning her calls, McCarthy said.  The theft derailed the sale of McCarthy’s company, forcing
+her to raid her children’s college funds for needed cash. Of the
+$164,000 stripped from her account, TD Bank recovered almost
+$95,000, leaving her about $70,000 in the hole -- and without an
+office or equipment, she said.  When she learned TD Bank was to hold a fraud-prevention
+seminar on May 13, 2010, in Burlington,  Vermont , she hopped on a
+plane and slipped into the meeting. During the morning
+presentation, when an expert in wire transactions was talking
+about ways that small businesses could protect themselves from
+the dangers posed by cybercriminals, McCarthy raised her hand.  Why wasn’t TD Bank doing a better job protecting its small-
+business clients, she asked. How had TD Bank allowed $164,000 to
+be wired out of her account even though she hardly every made
+wire transfers? As the speaker tried to respond, McCarthy kept
+peppering him with questions about his bank’s responsibilities
+to its clients.  Let’s Talk Outside  Two bank representatives, including TD Bank’s head of
+corporate security and investigations, walked over to McCarthy’s
+table and suggested they continue the subject outside. McCarthy
+told the head of security it was good to meet him finally, since
+she’d been calling him for weeks following the robbery and had
+never gotten through.  Jennifer Morneau, a spokeswoman for TD Bank, confirmed
+that there was such an incident involving a “woman from Long
+Island” at one of its anti-fraud seminars, and didn’t have any
+further information.  “We constantly monitor and assess the security of our
+systems,” Morneau said in an e-mailed statement. “We also
+believe that educating our customers is one of the best ways to
+help them defend against online fraud and identity theft,
+because even the best security measures can only prevent fraud
+if customers are also vigilant about employing the necessary
+safeguards to protect their information.”  Anti-Bank Website  With Woodhill’s support, McCarthy started a website she
+calls www.yourmoneyisnotsafeinthebank.org and has organized
+other cybercrime small-business victims across the country. In
+industry presentations, Woodhill uses her as an example in
+describing what’s wrong with online banking and the current
+rules governing the commercial accounts of small businesses.  “If every small-business account holder in America knew
+what Karen McCarthy had gone through, there would be a run on
+the banks,” he said.  Last year Woodhill supported a proposed law, introduced by
+U.S. Senator Chuck Schumer, a New York Democrat, that would have
+extended protections enjoyed by individual bank depositors to
+publicly funded entities such as school districts and town
+governments. Congress adjourned before any vote was taken.  Woodhill is now pushing for a federal law that would
+require regional and community banks to warn their commercial
+clients explicitly of the dangers of cyber fraud. He’s hired
+former Louisiana congressman Billy Tauzin, a Democrat turned
+Republican who chaired the House Energy & Commerce committee, to
+represent him.  Bank Opposition  The American Banking Association has opposed attempts to
+extend cyberfraud protection from depositors to small-business
+clients. Until recently, the association’s position has
+prevailed.  Then came the Experi-Metal lawsuit brought by Valiena
+Allison against Dallas-based Comerica. In June, U.S. District
+Judge Patrick J. Duggan ruled in  Detroit  in favor of Allison and
+Experi-Metal, agreeing Comerica’s response to the fraud didn’t
+meet standards of good faith and fair dealing. Comerica agreed
+to pay Allison almost the entire amount stolen.  Other cybercrime victims have taken note of this precedent,
+said Brian Krebs, who has written about the Little & King case
+and other cyberthefts on his blog (www.krebsonsecurity.com).  Village View, an escrow company based in Redondo Beach,
+California, that was robbed of $465,558 by cyberthieves in March
+of 2010, sued Professional Business Bank just two weeks after
+the Experi-Metal decision.  Bank Attitudes  The last thing community banks want is to be at odds with
+their clients, said  Doug Johnson , a senior policy analyst for
+the  American Bankers Association .  “Banks don’t like to sue their customers and customers
+don’t like to sue their banks,” he said. “When disputes occur,
+it’s best to try to work together for an appropriate result.”  Woodhill said the banking industry is behind the curve on
+this matter, just as it was in 1978 when it opposed the
+Electronic Funds Transfer Act, which protects consumer bank
+deposits from fraud.  “That’s one of the biggest favors Congress ever did for
+banks, even though they were against it,” he said. “Banks
+truly do not understand what their own interests are. Corporate
+lobbyists only play defense.”  To contact the reporters on this story:
+Greg Farrell in New York at   gregfarrell@bloomberg.net ;
+Michael Riley in Washington at   michaelriley@bloomberg.net   To contact the editor responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net  

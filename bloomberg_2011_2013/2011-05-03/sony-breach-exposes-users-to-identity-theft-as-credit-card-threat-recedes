@@ -1,0 +1,107 @@
+-- 
+Sony Data Breach Exposes Users to Years of Identity-Theft Risk
+
+-- B y   C l i f f   E d w a r d s   a n d   M i c h a e l   R i l e y
+-- 
+2011-05-03T04:20:49Z
+
+-- http://www.bloomberg.com/news/2011-05-03/sony-breach-exposes-users-to-identity-theft-as-credit-card-threat-recedes.html
+Sony Corp. (6758) , maker of the PlayStation 3
+video-game console, may have exposed customers to years of
+potential  identity theft  after hackers breached the company’s
+online entertainment networks in mid-April.  The risk will stay with as many as 100 million customers of
+Sony’s PlayStation Network, Sony Online Entertainment and
+Qriocity film and music service for years, even as the chance of
+credit-card fraud recedes, said Steve Ward, a spokesman for
+Fairfax, Virginia-based online-security company Invincea.  “The attackers may have your name, your birth date,
+potentially your mother’s maiden name,” Ward said in an
+interview. “These are all the things used to check your
+identity, and that can be used to falsify it.”  The value of stolen  credit-card  numbers diminishes each day
+after a data breach becomes known because users and bank-card
+issuers typically step up monitoring. Sony, which was attacked
+between April 16 and April 19, said it had encrypted  customers’
+credit-card numbers with security that would make codes
+difficult to read by hackers who penetrated the system.  “There is no evidence that our main credit card database
+was compromised,” Sony said in a statement to its users. “It
+is in a completely separate and secured environment.”  The best sign that Sony’s assertion is true may be the
+passage of two weeks without reports from credit-card issuers of
+wide-scale fraud, according to an FBI cyber-crime investigator
+who asked not to be named because he wasn’t authorized to speak
+to the press.  As more days go by, it’s less likely card numbers were
+stolen or, if they were, that potential losses will be large,
+the person said.  The FBI’s  San Diego  office is investigating the matter,
+said agent Darrell Foxworth, a spokesman for the office.  Third Service Attacked  Tokyo-based Sony said yesterday that the attack on its
+PlayStation Network and Qriocity online music and film service
+in mid-April also gave hackers access to data from Sony Online
+Entertainment, a separate unit that makes role-playing games.
+Hackers gained access to 23,400 credit card and debit records
+from non-U.S. customers and the personal account information of
+24.6 million account holders.  The disclosure that a third service was compromised came a
+day after top Sony executives offered a public apology and said
+they had no evidence a separate 10 million credit card numbers
+registered to PlayStation Network and Qriocity had been stolen
+in the attacks.  “We have to regain the trust and confidence of our
+users,”  Kazuo Hirai , Sony’s executive deputy president in
+charge of consumer products and network services, said May 1 at
+a  Tokyo  press conference.  Financial Impact  Hackers exploited a known security vulnerability to gain
+access to 77 million PlayStation Network and Qriocity user
+names, addresses, gender, birth dates and other information,
+Sony said. It wasn’t clear from the statement how many of the
+24.6 million accounts in the newly reported breach share
+duplicate user information.  The financial impact Sony faces depends on how well the
+company convinces customers it “will make things right,”
+ Michael Pachter , an analyst with Wedbush Securities in  Los
+Angeles , said in an interview with Bloomberg Television. He
+estimates credit-card fraud, repairs to its networks and
+marketing costs will amount to $50 million.  “There will be a hit if in fact they see their business
+dip,” Pachter said. “I’d say $50 million, not $24 billion, and
+I think Sony can handle $50 million.”  ‘Hash’ Protection  The breach of Sony Online Entertainment exposed information
+from an outdated 2007 database, including about 12,700 non-U.S.
+credit or debit card numbers and expiration dates, Sony said
+yesterday in a statement. The credit-card information didn’t
+include security codes, the company said. The three- and four-
+digit codes are used as a second source of authentication for
+many online vendors.  The stolen data may include 10,700 direct debit records of
+customers in  Austria ,  Germany , the Netherlands and  Spain . The
+compromised debit account information included customer names,
+bank account numbers and account names, Sony said.  Sony also suggested customer passwords may have been less
+vulnerable than originally thought.  Passwords were protected by a level of security called hash
+algorithm in which the word users type in is converted on Sony’s
+servers to a string of characters entirely unrelated to the
+original password, Patrick Seybold, a Sony spokesman, said
+yesterday on the company’s official blog.  “It is very difficult, if not impossible, to reverse the
+process and find the password from the hash,” according to a
+security website linked to the PlayStation blog.  E-Mail Vulnerabilities  There were signs the hackers may be trying to hijack e-mail
+accounts by attempting to access ones provided to Sony, and
+plugging in PSN passwords to see if they were re-used for both,
+according to H.D. Moore, the chief security officer for Rapid7,
+a Boston-based online security firm. Accounts that have been
+compromised are vulnerable to use by spammers or other
+malevolent individuals.  Andrew Kovacs, a  Google Inc. (GOOG)  spokesman, declined to say
+whether the company had detected widespread password re-use
+attempts on Gmail, one of the largest free e-mail services.  Sony has been recommending people who use the same password
+for other unrelated services or accounts change them. The
+company also said it is moving its  data center  from San Diego,
+appointing a chief information security officer, updating game-
+console system software and requiring users to change their
+passwords.  Service Restoration  “We expect Sony to be able to overcome this issue by
+implementing stronger security measures, enabling it to win back
+the trust of its stakeholders,” Ryosuke Katsura, senior analyst
+for Mizuho Securities Co. in Tokyo, who has an “outperform”
+rating on Sony shares, said in a research note yesterday.  Sony said it expected online services to be fully restored
+by the end of May, with partial restoration occurring in phases
+around the world beginning this week. Customers may get
+complimentary downloads and 30 days of free premium services,
+Sony said.  It takes about a half a year to stabilize sales and
+confidence in a company’s network after a breach, Lawrence
+Ponemon, founder of the Ponemon Institute, which studies the
+financial cost of data breaches, said in an interview.  “During that period, a company like Sony can lose millions
+of dollars,” Ponemon said.  To contact the reporters on this story:
+Cliff Edwards in  San Francisco  at 
+ cedwards28@bloomberg.net ;
+Michael Riley in Washington at 
+ mriley17@bloomberg.net   To contact the editors responsible for this story:
+Anthony Palazzo at 
+ apalazzo@bloomberg.net ;
+Michael Hytha at 
+ mhytha@bloomberg.net  

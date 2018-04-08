@@ -1,0 +1,81 @@
+-- Knight Blowup Shows How High-Speed Traders Outrace Rules
+-- B y   t h e   E d i t o r s
+-- 2012-08-06T22:30:56Z
+-- http://www.bloomberg.com/news/2012-08-06/knight-blowup-shows-how-high-speed-traders-outrace-rules.html
+The U.S. has the most sophisticated
+financial markets in the world, yet they can unaccountably spin
+out of control at a moment’s notice.  The latest case involves  Knight Capital Group Inc. (KCG) , a
+securities-trading company in  Jersey City ,  New Jersey , that was
+laid low by one of its inadequately tested computer-trading
+programs. In less than an hour on Aug. 1, the program entered
+incorrect bids for about 150 stocks into the interconnected
+electronic marketplace. Computer programs at other firms sniffed
+out the errors and traded against Knight. By the end of the day,
+the company was out $440 million, forcing it to seek outside
+financing to survive.  This debacle highlights a market weakness that regulators
+have been unable to address because high-frequency trading has
+raced ahead of the humans who try to contain the mischief it can
+cause. Industry resistance to improved regulation hasn’t helped.
+If any good comes out of the Knight episode, it will be a
+commitment by Wall Street’s trading firms to help regulators
+design systems that can track lightning-speed  transactions  and
+tap the brakes when the computers spin out of control.  By now, it’s pretty clear that computer-driven trading can
+be a major source of volatility. In May 2010, the so-called
+flash crash knocked almost 1,000 points off the  Dow Jones
+Industrial Average  in less than an hour, only to bounce back
+just as fast.  Going Bats  Then in March of this year, Bats Global Markets Inc.,
+another computer-trading firm, had to withdraw its initial
+public offering after its system froze, forcing a halt in shares
+of Apple Inc. Two months later,  Facebook Inc. (FB)  couldn’t trade on
+time in its first day as a public company because of hang-ups in
+a Nasdaq computer, feeding doubts about the reliability of
+markets and costing the Swiss bank UBS AG about $350 million.
+UBS was able to absorb the loss; a smaller firm might have
+failed.  The pursuit of speed is an obsession among Wall Street
+trading firms. They can profit by taking advantage of minuscule
+discrepancies in prices that might exist for no more than a few
+microseconds or by getting a sneak peek at orders before they
+are executed. The risks of this are becoming more obvious, even
+to some market leaders.  Markets now  believe  that “if something is faster, then by
+definition it’s better,” says  Duncan Niederauer , chief
+executive officer of NYSE Euronext, which owns the  New York 
+Stock Exchange. “We are understanding that speed is not always
+better.”  Amen. It is also true that making markets more resilient
+doesn’t mean a return to telephone orders, paper order tickets
+or stock exchanges with only human traders bellowing out bids
+and offers.  What we can do, at a minimum, is ensure that monitoring
+systems keep up with the traders’ algorithms.  The Securities and Exchange Commission last month took a
+half-step by  requiring  markets to build a $4.1 billion system
+that can generate audit trails of all transactions. The trouble
+with this system is that trading data won’t be generated until
+the next day, a feature the industry insisted on. Day-old data
+might not help regulators much when they are called upon the
+instant a market blows up. (It took five months to confirm the
+cause of the  flash crash .) Nor is it clear that the  system  will
+be able to pinpoint the identity of every party in a
+transaction.  The SEC might need to consider whether more work is needed
+on market  circuit breakers , a device introduced after the 1987
+market crash that temporarily stops trading when an individual
+stock or an entire market behaves erratically. New rules,
+scheduled to take full effect next August, set lower thresholds
+for triggering a trading halt. One idea the SEC might consider
+is applying circuit breakers to specific firms that issue an
+excessive number of trade orders.  Software Testing  The SEC and  stock exchanges  should also require major
+trading firms to demonstrate that their software programs are
+reliable before letting them go live. Now, firms are simply
+urged to adhere to an industry-recommended set of  best
+practices . Unleashing a flawed program, as Knight seems to have
+done, is unacceptable.  Market apologists have said Knight’s errant trades caused
+no harm to anyone other than Knight and its shareholders, who
+saw the value of their  investment  shrink by about $600 million
+in a few hours. Yet who can be so certain the next bug-infested
+program won’t inflict much more damage? And what might have
+happened if Knight, which handled about 11 percent of all U.S.
+stock trading before the errors, had shut down?  Plus, the argument that Knight only hurt itself is bogus:
+Investors withdrew $127 billion from stock mutual funds in the
+12 months ended in June. Repeated computer-trading misfires --
+not to mention the financial crisis of 2008 -- erode confidence
+in U.S. markets. At some point, regulators and  Wall Street  have
+to decide whether the quest for speed is worth the chaos that
+can result.  To contact the Bloomberg View editorial board:
+ view@bloomberg.net . 

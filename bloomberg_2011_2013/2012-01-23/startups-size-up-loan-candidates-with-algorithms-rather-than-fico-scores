@@ -1,0 +1,103 @@
+-- Programmers Size Up Bank Borrowers With Algorithms Rather Than FICO Scores
+-- B y   A r i   L e v y   a n d   D a k i n   C a m p b e l l
+-- 2012-01-23T05:01:00Z
+-- http://www.bloomberg.com/news/2012-01-23/startups-size-up-loan-candidates-with-algorithms-rather-than-fico-scores.html
+For more than 40 years, banks have
+counted on FICO scores to determine the credit worthiness of
+American consumers. Now a handful of entrepreneurs in  California 
+say it’s time for a smarter way to size up borrowers.  Los Angeles-based  ZestCash Inc. , along with  San Francisco 
+startups BillFloat Inc. and LendingClub Corp., are hiring
+computer programmers to write software that can better identify
+candidates for loans -- including people with low credit scores.
+The companies, backed by venture money, also aim to provide
+lower fees and interest rates than banks.  “There hasn’t been a lot of innovation in the space for a
+while, and it’s time for that to happen,” said Rebecca Lynn, a
+partner at  Menlo Park , California-based Morgenthaler Ventures,
+which is backing LendingClub. “We’re looking at companies that
+are doing new underwriting and using new underwriting methods.”  The idea is to use technology to root out potential fraud
+and give more finely tuned assessments than  FICO (FICO) , named for Fair
+Isaac Corp. Rather than just looking at black marks on a
+person’s credit score, new software can analyze how someone uses
+money on a daily basis, giving more insight into whether they
+will pay back the loan. Like other Internet companies, the new
+crop of lenders will keep operating costs down by delivering
+loan applications and services over the Web -- instead of having
+to maintain physical branches.  Fair Isaac  FICO, founded in 1956, is used by 90 of the largest 100
+U.S. financial institutions, according to its website. FICO
+takes into account a potential borrower’s debt outstanding,
+payment habits and length of credit history and provides a score
+that ranges from 300 to 850. The median last year was 711, and
+lenders vary on what they consider a good credit score.  People like Holly Dickerson are benefiting from newer
+approaches to lending. Dickerson, a youth counselor in St.
+Charles,  Missouri , needed a loan last year to have her son’s
+braces removed, pay her dad back for some borrowed money and
+afford rent at two apartments following a divorce.  Her  FICO score  was too low to qualify for a loan from her
+local credit union, and she didn’t want to use a payday lender.
+With ZestCash, the 49-year-old was able to fill out an
+application online and was shortly approved for a $400 loan, due
+in installments over six months.  “When I went to the bank, they said I needed a credit
+rating of 600, and I was below that,” she said. “The
+installment program makes it so much easier to pay off the loan
+as opposed to having this big chunk.”  Finding Niches  The startups are each going after a different piece of the
+lending market. ZestCash is taking on payday lenders by
+providing loans of $300 to $800 that can get repaid over three
+to eight months.  BillFloat  provides smaller loans -- up to $225
+-- to pay specific services, such as electricity or mobile-phone
+bills. LendingClub focuses on prime borrowers and offers up to
+$35,000 for loans that let customers consolidate debt, remodel
+their homes and pay medical expenses.  Douglas Merrill, Google Inc.’s former chief information
+officer and the founder of ZestCash, said FICO scores ignore
+much of the digital data that’s been created by online activity
+and transactions. He’s almost doubled his staff to 75 since
+July, hiring mostly mathematicians and programmers to come up
+with an algorithm that produces more reliable scores.  Merrill started ZestCash in 2009 with Shawn Budde, a former
+senior vice president at  Capital One Financial Corp. (COF)  By
+combining homegrown Web-crawling tools with underwriting
+expertise, ZestCash uses more than 1,000 variables to determine
+a score and issue loans that the company says are about half the
+price of payday loans. Customers typically use the money to pay
+rent, catch up on health bills and get their cars fixed.  Large Market  U.S. payday lenders in the U.S. will issue $40 billion in
+loans in 2016, up from $33 billion last year, according to a
+report this month from JMP Securities LLC.  ZestCash said last week that it raised $73 million in
+equity and debt financing from investors such as  Matrix Partners 
+and Victory Park Capital. About two-thirds of the capital will
+be used to finance loans. The service is currently available in
+four states, and the company is working with regulators to
+expand into additional states this year.  BillFloat  has raised in $16 million from investors,
+including Venrock Associates and  EBay Inc.’s (EBAY)  PayPal unit. It’s
+now in talks with investors for another funding round, said
+Chief Executive Officer Ryan Gilbert.  Forging Partnerships  The startup is teaming up with banks,  utility companies  and
+cable providers to provide loans specifically to pay bills. When
+customers apply for a loan, they agree to let the company look
+into their checking account to analyze  money flow . The company’s
+software looks at bill payment history, plots debits and
+credits, and determines the likelihood of a timely repayment.  “There’s a huge demand for alternative credit,” Gilbert
+said. Banks are “dependent on FICO and risk models that are
+trying to be one-size-fits-all.”  FICO, based in  Minneapolis , says its scores aren’t meant to
+assess a person’s ability to pay.  “The vast majority of lenders use FICO scores to help them
+assess the likelihood that a consumer will default on a credit
+obligation within the next 24 months,” said Craig Watts, the
+company’s public affairs director. FICO also is working with
+CoreLogic Inc. to develop a new type of credit-risk score that
+relies on a broader range of data.  BillFloat charges a fee of $5 to $15 to process the bill,
+plus 3 percent monthly interest, and it requires that the
+borrower pay BillFloat back within 30 days. Banks may see enough
+value in his technology to eventually license it, Gilbert said.  Oracle Veteran  LendingClub, co-founded by former Oracle Corp. executive
+Renaud Laplanche, also peers into applicants’ checking accounts.
+Much of the company’s technology concentrates on fraud
+detection, developed with the help of Chaomei Chen, the former
+chief risk officer at JPMorgan Chase & Co.’s credit card unit.  LendingClub, which began issuing loans in 2007, focuses on
+lenders with better credit and offers  interest rates  that are
+less than half the average credit-card rate. In August, the
+company raised  $25 million  from investors, including Union
+Square Ventures.  “There are just so many things that aren’t covered by the
+credit score,” said Ian Cohen, CEO of San Francisco-based
+Credit.com, who has worked with LendingClub. “If I can engage
+the user, I can learn if they are bad risks right now. I will
+also see positive things that the bank might not see.”  To contact the reporters on this story:
+Ari Levy in San Francisco at 
+ alevy5@bloomberg.net ;
+Dakin Campbell in San Francisco at 
+ dcampbell27@bloomberg.net   To contact the editors responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net ;
+David Scheer at   dscheer@bloomberg.net  

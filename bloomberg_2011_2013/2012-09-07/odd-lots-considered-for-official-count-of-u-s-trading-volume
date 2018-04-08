@@ -1,0 +1,141 @@
+-- Odd Lots Considered for Official Count of U.S. Trading Volume
+-- B y   N i n a   M e h t a
+-- 2012-09-07T16:12:14Z
+-- http://www.bloomberg.com/news/2012-09-07/odd-lots-considered-for-official-count-of-u-s-trading-volume.html
+Hundreds of millions of shares
+traded each day in companies such as  Apple Inc. (AAPL)  and
+International Business Machines Corp. may be added for the first
+time to the official tally of U.S. equity volume.  Securities exchanges and the Financial Industry Regulatory
+Authority plan to consider adding trades of fewer than 100
+shares, known as odd lots, to the record of transactions, Colin Clark, senior vice president at NYSE Euronext, said in a phone
+interview. There’s general support for modifying the so-called
+consolidated tape of transactions to include them, he said.  “There’s been a trending increase in odd-lot activity,”
+Clark said. “It’s a meaningful amount of activity not being
+reported. It’s time to get some more transparency.”  The policy of leaving odd lots out resulted in about 4
+percent of volume being omitted from the official count in late
+2009, up from 2.3 percent about two years earlier, a 2011 paper
+by Maureen O’Hara, a finance professor at  Cornell University ,
+and Chen Yao and  Mao Ye  of the  University of Illinois  found. The
+trades are now more likely to be from high-frequency firms,
+indicating a shift from their traditional source among
+individual investors, the study said.  Only executions of at least 100 shares, known as a round
+lot, are included in the record of transactions and compiled in
+the Trade and Quote Database, or TAQ, used by academics to study
+asset prices, trading and investor behavior. Compared with most
+of the 1990s when odd lots accounted for less than 1 percent of
+ New York  Stock Exchange volume, their omission now distorts
+analyses, according to the July 2011 paper.  Greater Role  “While this policy may have been sensible in the past,
+fragmentation, high-frequency trading, and the widespread use of
+algorithms have changed markets in fundamental ways,” the co-
+authors wrote. “Our results suggest that odd-lot trades have
+changed as well, and they now play a new, and far from
+irrelevant, role in the market.”  Odd lots are a “large and significant problem” for stocks
+with higher prices or less liquidity, the co-authors said. They
+called them the industry’s “missing trades” and said they
+should be introduced into the public transaction data.  The number of odd-lot trades has increased since 2008, when
+the data for their study began. The amount of traded shares
+going uncounted rose to 4.9 percent in the first 11 months of
+2011, Ye said by phone. Computerized trading that breaks orders
+into smaller pieces to limit price moves is the main reason for
+the increase, he said.  Missing Trades  The study examined 120 stocks listed on NYSE and  Nasdaq 
+Stock Market that were traded on Nasdaq. If the figures are
+extended to the entire U.S. equities market, the missing trades
+in 2011 would have reached almost 390 million shares a day,
+according to data compiled by Bloomberg.  “The emergence of high-priced stocks such as Google, where
+trading a round-lot requires an investment of $50,000 or more,
+has resulted in odd-lots constituting a significant fraction of
+trades for a subset of important stocks in the market,” wrote
+O’Hara, Yao and Ye in their  paper  titled “What’s Not There: The
+Odd-Lot Bias in TAQ Data.”  Odd-lot executions represented 22 percent of trades in
+December 2009, compared with 14 percent in January 2008, the
+paper said. The official data for  Google Inc. (GOOG)  omitted 34 percent
+of trades. Apple was missing 19.3 percent and Amazon.com Inc. 22
+percent, while the tally for some companies excluded two-thirds
+of transactions, the paper said.  Proprietary Feeds  “It is definitely time for odd lots to be on the tape,”
+O’Hara said in an e-mail. “These are invisible to those
+watching the consolidated tape, but not to those getting
+ proprietary data  feeds from exchanges. This gives the appearance
+of a two-tiered market and feeds concerns that the market is not
+fair.”  Exchanges are allowed to provide more information on their
+ proprietary data  feeds than is publicly available.  Trades in multiples of 10 shares were the most likely among
+odd lots, with 50 shares the most prevalent, the paper found.
+The next most common size was 1 or 99 shares. Dividing a round
+lot into multiple trades may be the result of firms seeking to
+avoid reporting requirements and may come from those with more
+knowledge about “future price movements,” the paper said.  “Traders (or algorithms) appear to be splitting trades
+into odd-lot pieces, motivated perhaps by such trades’ absence
+from the consolidated tape,” the researchers wrote in the
+paper. “We also find that odd-lots trades are more likely to be
+from high-frequency traders, evidence suggestive of the new
+patterns of trading in the market.”  Consolidated Tape  Creating the consolidated tape, an official record of price
+and volume data for all transactions, was among the first steps
+the Securities and Exchange Commission took in the 1970s to
+build a national market by linking trading on NYSE and regional
+U.S. exchanges. Once prices from these venue were published on a
+single data feed, they could be seen by everyone, enabling
+investors to compare the transactions they received to other
+trades that had just occurred, regulators said.  The  Consolidated Tape Association  Plan that disseminates
+trading data for stocks listed on U.S. exchanges went into
+effect in 1974. Four years later the SEC approved the
+Consolidated Quotation Plan, which collects the best bid and
+offer prices and the number of available shares at those levels
+from each exchange, for the same securities in the CTA Plan.  A similar program for quotes and trades in securities
+listed on Nasdaq, called the  Nasdaq UTP Plan , was approved as a
+pilot in 1990 and became operational in 1993. The U.S. options
+industry has its own data plan to distribute quote and execution
+information to investors.  Halts, Restrictions  The exchanges and Finra, which oversee the market-data
+programs, plan to vote in November about whether to include
+trades of fewer than 100 shares in the transaction reports, said
+Clark, a member of the operating committee for the CTA who is
+also on a subcommittee examining odd lots for that group and the
+Nasdaq UTP Plan.  One issue they’re considering is whether executions should
+be deemed “last-sale eligible,” which could allow odd lots to
+trigger trading halts or short-sale restrictions, he said. The
+group may also delay the inclusion of bids and offers of fewer
+than 100 shares in the quotation data, he said.  “We’re still trying to work on the implications of
+including odd lots,” Clark said. “It’s about the nuts and
+bolts of what that could mean.”  The prospect of odd-lot trades being reported comes as  NYSE
+Euronext (NYX)  plans to merge the CTA and CQ plans to streamline their
+administration. The data feeds for trading and quotations will
+remain separate, Clark said.  Information Content  U.S. equity trading across exchanges and other venues fell
+to 6.81 billion shares a day in the first half of this year from
+10.83 billion in the first six months of 2008,  data  compiled by
+Bloomberg show. Adding odd lots won’t increase revenue for
+brokers suffering from lower average daily equities volume or
+affect the price of stocks -- it will only affect the official
+count.  Brokers, investment managers and trading firms may glean
+more information about buy and sell demand from new data added
+to the transaction stream. In addition to activity from high-
+frequency firms identified in the 2011 paper, more transactions
+from individual investors, especially in higher-priced stocks,
+will be reported for the first time.  Odd-lot trades accounted for 77 percent of  TD Ameritrade
+Holding Corp. (AMTD) ’s executions in Apple in April, the company told
+the SEC in a  letter  that month. They were 69 percent of the
+total number of transactions in the  SPDR S&P 500 ETF Trust (SPY) , 84
+percent in Google, 84 percent in Priceline.com Inc., 69 percent
+in Amazon and 72 percent in  IBM (IBM) , it said.  Equity Volume  “The firm finds that as security prices increase, retail
+investors continue to dedicate the same dollar amount to invest
+in the security,” the Omaha, Nebraska-based  retail broker  told
+the SEC. “As security prices increase beyond $50, TD Ameritrade
+has observed that there is a commensurate increase in the amount
+of odd-lot trades the firm handles.”  The SEC said in a January 2010 paper that odd lots may
+account for about 4 percent of U.S. equities volume. The agency
+asked market participants if the transactions should be reported
+publicly and whether traders may be buying or selling in smaller
+sizes to “circumvent the trade disclosure or other regulatory
+requirements,” according to the paper.  Credit Suisse Group AG , NYSE Euronext, exchange operator
+Bats Global Markets Inc. and automated trading firms including
+Allston Trading LLC and Hudson River Trading LLC said odd lots
+should be included in the public transaction data. The
+importance of smaller trades has increased as the average
+execution size has decreased, Bats told the SEC.  “Historically, when average trade sizes were 800 shares or
+more, the informational value associated with an odd-lot
+transaction was minimal,” Bats wrote in a 2010  letter . “As
+average trade sizes have fallen below 200 shares, the
+informational value associated with odd-lot transactions has
+risen and begins to approximate the informational value found in
+round and mixed-lot transactions.”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

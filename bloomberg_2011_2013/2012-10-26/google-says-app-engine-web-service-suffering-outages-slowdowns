@@ -1,0 +1,29 @@
+-- Google Says App Engine Web Service Suffering Outages
+-- B y   D a n i e l l e   K u c e r a
+-- 2012-10-26T20:59:22Z
+-- http://www.bloomberg.com/news/2012-10-26/google-says-app-engine-web-service-suffering-outages-slowdowns.html
+Google Inc. (GOOG)  said it has fixed the
+flaw that caused slow performance and dropped connections on App
+Engine, its Web-based computing service that lets software
+developers run websites on the search engine’s data centers.  The company shut down traffic and brought the service back
+to stability after a glitch this morning prompted certain Google
+servers to fail, said Liz Markman, a spokeswoman for the
+ Mountain View , California-based company. Google is still looking
+into the causes, she said.  “Google App Engine has now been restored and users should
+see service returning to normal,” Markman said in an e-mail.
+“Our team is still continuing to investigate and determine the
+root cause of the issue.”  A majority of clients, usually other websites that host
+their own services on App Engine, were experiencing “slow
+response” and “inability to connect to services,” according a
+Google developer  forum .  Tumblr Inc., social microblogging site, also experienced a
+service interruption today at around the same time that Google
+reported the outage, at 8:28 a.m. Pacific time. Tumblr later
+said service was restored.  Apart from using warehouse-sized data centers to deliver
+its own services, Google generates income by renting out
+computing power, storage and services to other websites. Today’s
+outage was the first since Google began offering a more  reliable
+way  to store and access data in January 2011, Markman said.  To contact the reporter on this story:
+Danielle Kucera in  San Francisco  at 
+ dkucera6@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

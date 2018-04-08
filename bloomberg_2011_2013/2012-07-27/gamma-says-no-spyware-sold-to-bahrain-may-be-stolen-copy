@@ -1,0 +1,50 @@
+-- Gamma Says No Spyware Sold to Bahrain; May Be Stolen Copy
+-- B y   V e r n o n   S i l v e r
+-- 2012-07-27T13:29:33Z
+-- http://www.bloomberg.com/news/2012-07-27/gamma-says-no-spyware-sold-to-bahrain-may-be-stolen-copy.html
+Gamma International GmbH’s managing
+director said his company didn’t sell its FinFisher spyware to
+ Bahrain , responding to research that showed activists from the
+Persian Gulf kingdom were targeted by what looked like the
+software, which can secretly monitor computers.  The Munich-based executive, Martin J. Muench, said he’s
+investigating whether the malicious software sent to activists
+was a demonstration copy of the product stolen from Gamma and
+used without permission.  “As you know we don’t normally discuss our clients but
+given this unique situation it’s only fair to say that Gamma has
+never sold their products to Bahrain,” Muench said in an e-mail
+today.  He was responding for the first time to a July 25 report by
+Bloomberg News that said researchers believe they’ve identified
+copies of  FinFisher , based on an examination of the malware e-
+mailed to Bahraini activists. Their research, published the same
+day by the University of Toronto Munk School of Global Affairs’
+Citizen Lab, was based on e-mails obtained by Bloomberg News.  Muench said his company can’t yet confirm whether the
+software analyzed by Citizen Lab is Gamma’s product.  FinFisher Portfolio  Gamma International GmbH in  Germany  is part of U.K.-based
+Gamma Group. The group also markets FinFisher through Andover,
+England-based  Gamma International  UK Ltd. Muench, 30,  leads  the
+FinFisher product portfolio.  The Citizen Lab research linked the malware sent to pro-
+democracy activists to FinSpy, part of the FinFisher spyware
+tool kit. It can secretly take remote control of a computer,
+copying files, intercepting Skype calls and logging every
+keystroke.  Based on details published by Citizen Lab, “it is unlikely
+that it was an installed system used by one of our clients but
+rather that a copy of an old FinSpy demo version was made during
+a presentation and that this copy was modified and then used
+elsewhere,” Muench wrote in his e-mail.  “The modification meant that there was no message sent to
+our server when the demo product was used against a real
+target,” he said. An unaltered demo would have sent a message
+to Gamma, and the company would have been able to deactivate
+that copy of the software, he said.  “I can speculate that probably the demonstration version
+may have been stolen using a flash drive but I have no evidence
+to support this,” Muench said. He added that Gamma will tighten
+its security during presentations.  The Citizen Lab  research  showed the malware took screen
+shots, intercepted voice-over-Internet calls and transmitted a
+record of every keystroke to a computer in Manama, the capital
+of Bahrain, which has been gripped by tension since a government
+crackdown on protests last year.  Muench said the transmissions to Bahrain don’t mean the
+computer ultimately receiving the data is in that country.  “It could simply be a proxy server, which most of our
+clients setup around the world to anonymize the created network
+traffic,” he said.  He said in the e-mail that Gamma complies with the export
+regulations of the U.K., U.S. and Germany.  To contact the reporter on this story:
+Vernon Silver in Rome at 
+ vtsilver@bloomberg.net ;  To contact the editor responsible for this story:
+Melissa Pozsgay at   mpozsgay@bloomberg.net  

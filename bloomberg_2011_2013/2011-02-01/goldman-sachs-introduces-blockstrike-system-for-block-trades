@@ -1,0 +1,100 @@
+-- Goldman Sachs Creates Block Trading Strategy to Work With Algos
+-- B y   N i n a   M e h t a
+-- 2011-02-02T18:41:05Z
+-- http://www.bloomberg.com/news/2011-02-01/goldman-sachs-introduces-blockstrike-system-for-block-trades.html
+  Goldman Sachs Group Inc .’s new
+BlockStrike strategy for handling large orders from clients is
+meant to help firms trade blocks more efficiently while they
+execute in smaller pieces on exchanges and other venues.  The Goldman Sachs Electronic Trading unit is aiming to
+boost trading efficiency in a marketplace of more than 50  stock
+exchanges  and other venues, including broker-run dark pools, or
+private venues that execute transactions without displaying bids
+and offers in advance, said Dave Johnsen, head of liquidity
+strategy at GSET. Traders must currently juggle execution
+tactics as they transact orders in the public market through
+algorithms, or automated trading strategies, and submit orders
+to dark pools.  A trader at a mutual fund or investment firm may send part
+of a block order to an algorithm that seeks to exceed the
+stock’s volume-weighted average price, another portion to a
+strategy that executes pieces in many dark pools, and another to
+a pool specializing in bigger trade requests, Johnsen said.  “It’s a lot of pots on the stove,” he said. Goldman’s
+BlockStrike strategy will try to find block liquidity while
+managing the other parts of the order using a trading algorithm
+to execute smaller buy or sell requests on the  New York  Stock
+Exchange, BZX Exchange and other markets. “The bases here are
+all covered with one order,” Johnsen said.  ‘Check a Box’  “In the past, traders had to decide whether to commit
+their order to an algorithm or try to negotiate a block in a
+dark pool,” Greg Tusar, managing director and co-head of
+Goldman Sachs Electronic Trading, said in a statement yesterday
+announcing the strategy. “With BlockStrike, our clients now
+have the ability to accomplish both simultaneously -- and all
+they have to do is to check a box.”  Goldman had the third-largest equity trading market share
+among brokers for orders from institutional investors, according
+to a June report from Greenwich Associates, based in  Stamford ,  Connecticut . The ranking was weighted by commissions paid.  BlockStrike will employ what the broker calls contingent
+block orders that submit bids or offers to multiple dark pools
+to find bigger trading interest from other firms. Johnsen refers
+to these as “block-share placeholders.”  The number of shares made available to those venues can be
+as large as the total order. When block matches become possible,
+the venue checks with Goldman’s algorithm to make sure the
+entire size is still available and then executes the trade. This
+is done automatically with no human interaction, he said.  Contingent Orders  The firm will initially send contingent orders to Goldman’s
+Sigma X dark pool and  Bids Trading LP , the New York-based
+operator of a dark pool used by brokers and asset managers, both
+of which are able to accept those requests. BlockStrike will
+also place traditional orders for a large minimum number of
+shares that can be traded immediately in other pools. The
+default minimum is 10,000 shares or $200,000 in value. Others
+among the approximately 10 pools Goldman accesses may receive
+contingent orders if they decide to handle them.  Using contingent or uncommitted orders encourages “size
+discovery,” or the ability to execute blocks at a specified
+price, which is important to mutual funds,  hedge funds  and
+brokers whose algorithms are executing in small pieces over a
+period of time, said Tim Mahoney, chief executive officer at
+Bids. Finding someone to trade with in a dark pool allows those
+firms to reduce the price impact their orders may otherwise have
+in the market, as speculators seek profits by trying to figure
+out what’s being bought or sold, he said.  ‘Information Leakage’  “Block trading is an important way to control information
+leakage,” Mahoney said. “If you trade 250,000 shares in
+thousand-share lots, each time a print hits the tape, you’re
+giving away information to the marketplace.” The tape refers to
+the public record of all transactions. He said Goldman is
+helping customers by giving them more ways to trade blocks and
+will increase the liquidity available in his pool. Bids is a
+joint venture with a consortium of firms including Goldman.  Goldman is also expanding its electronic trading offerings
+in Canada and Latin America, Tusar said. This includes
+algorithms, order-routing tools and transaction cost analysis
+that evaluates the benefits of trading through particular
+strategies. He said Goldman is considering introducing its Sigma
+X dark pool to  Canada . Sigma X was the second-largest U.S. pool
+in November, with 1.6 percent of equities trading, according to
+Rosenblatt Securities Inc.  Growth Markets  So-called growth markets are also a “hugely important
+focus area for our firm,” said Todd Lopez, co-head of sales for
+the Americas at GSET. In addition to  Brazil ,  Russia ,  India  and  China , markets such as  South Korea ,  Mexico ,  Indonesia  and  Turkey 
+are important, he said. Goldman is focusing on those countries
+whose securities regulations encourage competition among market
+centers and currently have low electronic adoption, he said.  Brazil, which has introduced new high-speed connections to
+its stock and futures exchanges and co-location, or the ability
+to place computer servers near a venue’s trading engine, is
+likely to continue to attract high-frequency trading firms whose
+investment and execution models rely on “robust technological
+infrastructure,” he said.  Over the last two years, Goldman has also increased the
+information it gives customers about how its algorithms operate
+and where they trade, Tusar said. Asset managers want to
+understand more about how and why the trading logic behind the
+automated strategies they use changes over time, and which
+venues provide better executions. More firms are also
+customizing the strategies to their own needs and views about
+how particular stocks trade, he said.  Algorithm Limits  Clients are specifying more limits on how they want
+algorithms to operate, Lopez said. A fund, for instance, may
+decide that if the price of a stock under $10 moves 500 basis
+points away from its level when Goldman received the order, the
+algorithm should stop trading until the client decides what to
+do. A basis point is 0.01 percentage point.  Customers also want to know “how we’re going to handle the
+orders in abnormal circumstances,” Tusar said. That concern was
+driven by increased interest in the workings of algorithms among
+asset managers over the last two years and fueled by the May 6
+plunge that briefly erased $862 billion in equity value, before
+the market recovered, he said.  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

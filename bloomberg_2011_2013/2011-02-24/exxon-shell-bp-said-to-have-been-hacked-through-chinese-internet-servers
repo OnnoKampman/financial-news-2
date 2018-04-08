@@ -1,0 +1,115 @@
+-- 
+Exxon, Shell, BP Said to Have Been Hacked Through Chinese Internet Servers
+
+-- B y   M i c h a e l   R i l e y
+-- 
+2011-02-24T08:26:33Z
+
+-- http://www.bloomberg.com/news/2011-02-24/exxon-shell-bp-said-to-have-been-hacked-through-chinese-internet-servers.html
+Computer hackers working through
+Internet servers in  China  broke into and stole proprietary
+information from the networks of six U.S. and European energy
+companies, including  Exxon Mobil Corp .,  Royal Dutch Shell Plc 
+and  BP Plc , according to one of the companies and investigators
+who declined to be identified.    McAfee Inc ., a cyber-security firm, reported Feb. 10 that
+such attacks had resulted in the loss of “project-financing
+information with regard to oil and gas field bids and
+operations.” In its report,  Santa Clara , California-based
+McAfee, assisted by other cyber-security firms, didn’t identify
+the energy companies targeted. The attacks, which it dubbed
+“Night Dragon,” originated “primarily in China” and occurred
+during the past three years.  The list of companies hit, none of which disclosed the
+attacks in filings with regulators, also includes  Marathon Oil
+Corp ., ConocoPhillips and  Baker Hughes Inc ., according to the
+people who worked on or are familiar with the companies’
+investigations and asked not to be identified because of the
+confidential nature of the matter.  Chinese hackers broke into the computer network of Baker
+Hughes, said Gary Flaharty, spokesman for the Houston-based
+provider of advanced drilling technology. Baker Hughes concluded
+the incident didn’t need to be disclosed because it wasn’t
+material to investors, he said, declining to comment further.  Undetected Access  In some of the cases, hackers had undetected access to
+company networks for more than a year, said Greg Hoglund, chief
+executive officer of  Sacramento , California-based HBGary Inc., a
+cyber-security company that investigated some of the security
+breaches at  oil companies . Hoglund, who was cited by McAfee as a
+contributor to its report, declined to identify his clients.  “Legal information, information on deals and financial
+information are all things that appear to be getting targeted,”
+Hoglund said, summing up conclusions his firm made from the
+types of documents and persons targeted by the hackers. “This
+is straight up industrial espionage.”  Hackers targeted computerized topographical maps worth
+“millions of dollars” that show locations of potential oil
+reserves, said Ed Skoudis, whose company, Washington-based
+InGuardians Inc., investigated two recent breaches of U.S. oil
+companies’ networks. He declined to name his clients or the
+origin of the hackers.  ‘Unsophisticated’ Techniques  The McAfee report described the techniques used to get into
+the energy company computers as “unsophisticated” and commonly
+used by Chinese hackers. The attacks began in November 2009,
+McAfee said. Two cyber investigators familiar with the probes
+said the attacks began even earlier -- in 2008 -- and involved
+several well-financed groups. The investigators asked not to be
+identified because the company investigations are private.  McAfee based the report on information gathered from its
+own work on the breaches and from others who were directly
+involved in investigating them. The report, produced on the
+condition that the affected companies not be identified, was
+done to “educate the community,” said Ian Bain, a McAfee
+spokesman.  The thefts of oil company data like those in the McAfee
+report match the profile of industrial espionage operations that
+have the backing or consent of the Chinese government, said Joel Brenner, former head of U.S. counterintelligence during the Bush
+and Obama administrations and now a lawyer with Cooley LLP in  Washington . In his former post, one of Brenner’s jobs was
+tracking spying efforts against U.S. companies from foreign
+countries.  ‘On the Hunt’  “The Chinese are on the hunt for natural resources to fuel
+this massive economic leap forward,” Brenner said.  Ma Zhaoxu, spokesman for China’s Ministry of  Foreign
+Affairs , said he had no information about the attacks on the oil
+companies when asked about the issue at a regular briefing today.  “The Chinese government opposes hacking activities,” Ma
+said. “China falls victim to hacking itself. We will step up
+efforts to crack down on hacking crimes.”  The thefts might trigger legal liability for companies that
+chose not to disclose them to investors, said Blair Nicholas, a
+San Diego-based partner at law firm Bernstein Litowitz Berger
+and Grossman.  “To the extent that there aren’t adequate procedures in
+place to protect the companies’ crown jewels and somebody gets
+the key to jewelry box, there is certainly potential for
+shareholder derivative liability,” Nicholas said.  Securities Laws  Investors might also argue they had a right under U.S.
+securities laws to be informed of the thefts, which a judge
+might construe as a “material” fact that should have been
+disclosed, Nicholas said.  John Roper, a spokesman for Houston-based  ConocoPhillips ;
+Lee Warren, a Marathon Oil spokeswoman at its Houston
+headquarters, and  Alan Jeffers , a spokesman for Irving, Texas-
+based Exxon, said in e-mail messages that their companies don’t
+comment on security-related issues. David Nicholas, a spokesman
+for London-based BP, and Kim Blomley, a spokesman in  London  for
+Shell, which is based in The Hague, declined to comment.  Jenny Shearer, an FBI spokeswoman in Washington, said she
+couldn’t comment on whether the agency was investigating the
+attacks.  Laura Sweeney , a Justice Department spokeswoman, said
+the department can’t comment on a possible investigation.  Hacker Activists  Some aspects of the attacks were disclosed in internal e-
+mails made public after a February security breach at HBGary.
+The e-mails were stolen from HBGary’s computer network by the
+group of hacker activists called Anonymous, which posted them on
+the Internet.  “I’ve been able to confirm that the same attackers are
+conducting coordinated IP thefts against Baker Hughes and Shell
+Oil, going after bid data and operational reporting, as well as
+projects/plans and related financial information,” according to
+an e-mail written on Jan. 13 by an independent security
+consultant working on the cases.  “I reached out to some friends at Conoco and Exxon and
+they also experienced similar breaches,” the consultant wrote
+in the e-mail. “This is of course client confidential,” he
+added under the subject line “coordinated Chinese attacks on
+oil companies.”  In a separate e-mail, an HBGary investigator discussed the
+analysis of malware designed to steal data in the computers of a
+drilling rig working on a ConocoPhillips project.  Marc Zwillinger, an attorney representing HBGary, declined
+to comment on the e-mails’ content.  ‘Stolen E-Mails’  “Those are stolen e-mails and they contain confidential
+information relating to clients,” Zwillinger said.  The McAfee report, which cites several attacks connected to
+the Chinese hacking underground, doesn’t link the “Night
+Dragon” attack directly to the Chinese government.  Analysts who assessed the attacks on energy companies said
+the source of the breaches was easier to pinpoint than in
+previous hits by Chinese hackers, including an attack against  Google Inc . that that company disclosed in January 2010.  The hackers used tools prevalent in China’s underground
+hacking forums, the McAfee report said, and they appeared to
+work from 9 a.m. to 5 p.m., Beijing time. McAfee traced the
+hackers’ command-and-control operations to servers operated by a
+company in China’s Heze City in Shandong province.  The owner of the company, Song Zhiyue, said he wasn’t aware
+of any hacking taking place from his servers and that he always
+seeks to verify the activities of customers who rent server
+space from him.  “There are so many servers in the world,” Song said.
+“This has nothing to do with me. This is very unfair.”  To contact the reporter on this story:
+Michael Riley in Washington at 
+ michaelriley@bloomberg.net   To contact the editor responsible for this story:
+John Pickering at   jpickering@bloomberg.net  

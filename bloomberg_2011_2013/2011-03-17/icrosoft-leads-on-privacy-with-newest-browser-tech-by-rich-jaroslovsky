@@ -1,0 +1,91 @@
+-- 
+Microsoft Leads on Privacy With New Browser: Rich Jaroslovsky
+
+-- B y   R i c h   J a r o s l o v s k y
+-- 
+2011-03-17T20:00:00Z
+
+-- http://www.bloomberg.com/news/2011-03-17/microsoft-leads-on-privacy-with-newest-browser-tech-by-rich-jaroslovsky.html
+In the world of Web browsers,
+there’s “privacy,” and then there’s “security,” and they
+aren’t quite the same thing.  This week,  Microsoft Corp. (MSFT)  released a new version of
+Internet Explorer, and while we wait to hear from the security
+experts how it fares against hackers, it’s already taken a big
+step forward on the privacy front.  Internet Explorer 9, which is available as a  free download 
+from Microsoft, replaces IE’s previous, largely ineffectual
+scheme for preventing snoopy content providers from
+surreptitiously tracking your online movements. The goal may be
+benign -- gathering usage data for analytic purposes, for
+instance -- but such data can also generate a profile of you,
+based on your behavior, which can be used for ad-targeting or
+other more nefarious purposes.  The new version of Microsoft’s browser offers controls
+that, while far from perfect, make it easier to choose what
+information about your behavior you’re willing to share with
+online content providers.  While IE remains one of the most widely used pieces of
+software on the planet, it doesn’t wield the clout it once did.
+For years now, new generations of competing browsers -- Google’s
+Chrome, Apple’s Safari, Mozilla’s Firefox and Opera Software’s
+Opera, to name four -- have out-innovated and out-performed it.  With IE9, which is all-around faster, slicker and more
+enjoyable than its predecessor, Microsoft finally deserves to be
+front-of-mind again for anyone lucky enough to be able to run
+it.  Not for Everyone  Therein lies an important point: Not every Web surfer -- in
+fact, not even every Microsoft-using Web surfer -- will be
+capable of running the new software. In a bold move, the company
+has made IE9 compatible only with Windows 7, the current version
+of its desktop operating system, and with its immediate
+predecessor, Vista. About half of all Windows users, who are
+still on the nine-year-old XP operating system, are out of luck.  Microsoft says that step was made necessary by the new
+features of IE9 that integrate it more deeply with the operating
+system than previous versions, or, in earlier years, antitrust
+regulators would allow.  Among other things, IE9 blurs the line between programs
+running on your computer’s hard drive and content from the Web.
+Website icons can now be permanently affixed to Windows’s task
+bar, where they both look and, if the site developer supports
+it, act much like applications located on your PC.  Jump Lists  Pin the Yahoo! icon to your task bar, for instance, and a
+right-button mouse click opens a menu called a jump list that
+lets you go directly to the site’s widely used mail, finance and
+sports services.  The New York Times  menu gives you links to its
+top 10 headlines, plus shortcuts to its home page and search,
+video and most-popular functions.  The new browser is also much speedier. Its Windows-only
+orientation means Microsoft didn’t have to make compromises to
+assure it would run the same on other operating systems; by
+contrast, Chrome, Safari, Firefox and Opera all have versions
+that run on Macs as well as PCs, and all except Safari have
+versions for the open-source Linux operating system too.  The most important part of Microsoft’s Windows-only
+approach is that IE can harness your PC’s hardware to give
+itself a significant speed boost for performing certain kinds of
+functions -- running  animated graphics , for instance.  IE9’s new privacy features, meanwhile, represent an upping
+of the ante for other browser developers. The previous version
+of Explorer had a tool called “InPrivate Filtering” that
+proved to be deeply flawed. Among other things, it was disabled
+by default; to trigger it, users had to deliberately switch it
+on, and every time they closed their browser, the setting would
+revert to the off position.  More Powerful  While IE9 still requires the user to choose tracking
+protection, this time it’s easier to do, more powerful and
+persists across browsing sessions.  To enable the feature, you’ll click on the settings icon on
+IE9’s  newly streamlined interface , and choose the “Safety”
+option from the pull-down menu. The software uses two methods
+for blocking tracking. One instructs your browser to tell
+content providers that you don’t wish to be tracked. While
+reputable services should comply, there’s no protection against
+the unscrupulous ones.  The second method requires a little more work on your part,
+hopefully just once, by allowing you to easily subscribe to
+online “tracking protection lists.” These lists are maintained
+and updated by online-privacy organizations such as  TRUSTe  and
+ PrivacyChoice , which monitor content providers and their
+technologies, and are supposed to actually block their efforts.  Cat and Mouse  The big question is how well the new tools work, or whether
+they’ll trigger cat-and-mouse moves by less-than-reputable sites
+to circumvent them. Indeed, one risk with Microsoft’s new
+features is that they’ll result in a false sense of security.  Still, they represent a welcome step to put privacy issues
+front and center -- and not just for Microsoft. The next version
+of Firefox will include “do not track” functionality, for
+instance, while Google recently made an  anti-tracking add-on 
+available for its new Chrome 10 browser.  With President Barack Obama’s administration and Congress
+beginning to debate the need for online-privacy legislation,
+Microsoft’s efforts with IE9 may be just the opening salvo in a
+feature war among all the browser makers to make Web surfing
+safer and more private. We can only hope.  ( Rich Jaroslovsky  is a Bloomberg News columnist. The
+opinions expressed are his own.)  To contact the writer of this column:
+Rich Jaroslovsky in  San Francisco  at 
+ rjaroslovsky@bloomberg.net .  To contact the editor responsible for this column:
+James Greiff at   jgreiff@bloomberg.net . 

@@ -1,0 +1,112 @@
+-- Google Plays Catch-Up to Amazon in Fight Over Cloud
+-- B y   B r i a n   W o m a c k   a n d   A r i   L e v y
+-- 2012-05-10T23:06:52Z
+-- http://www.bloomberg.com/news/2012-05-10/google-plays-catch-up-to-amazon-in-fight-over-cloud.html
+Google Inc. (GOOG) , which has watched
+ Amazon.com Inc. (AMZN)  dominate the market for Web-based computer
+services, is boosting spending to carve out a bigger piece of
+the cloud for itself.  It’s going to be a long campaign. Amazon Web Services,
+started six years ago, is used by hundreds of thousands of
+companies in 190 countries, allowing them to rent servers for
+their websites, support mobile applications and store customer
+data. Google has offered cloud-computing services for four years
+without gaining much traction.  “We missed it,” said Amit Singh, vice president of
+enterprise at  Mountain View , California-based Google. “We have
+to get better.”  Google is hiring more engineers and salespeople, increasing
+marketing efforts and rolling out new features for businesses
+that are demanding faster computing speeds, more storage
+capacity and lower costs. Google said its customer roster has
+jumped by at least 10 percent each month this year, with clients
+ranging from car-sharing startup Getaround Inc. to established
+retailers such as Best Buy Co.  The push into Web hosting reflects the urgency of Google’s
+search for new revenue streams outside of online advertising,
+which now contributes 96 percent of total sales. The company
+already operates data centers across the globe to manage more
+than 12 billion Internet searches a month and videos uploaded
+from 800 million YouTube users.  ‘Important Endeavor’  Making products for businesses is an “incredibly important
+endeavor” for the company, Google Chief Information Officer Ben Fried said today at the Bloomberg Enterprise Technology Summit
+hosted by  Bloomberg Link  in  New York .  Yet it’s Amazon that’s taken the lead in a market expected
+to grow to $10.5 billion by 2014 from $3.7 billion last year,
+according to Gartner Inc. Additional competitors include
+ Rackspace Hosting Inc. (RAX)  and  Microsoft Corp. (MSFT)   “Cloud computing is a very large, very attractive market
+segment,” said Adam Selipsky, vice president of Amazon Web
+Services in  Seattle . “We’ve actually maintained and, in many
+cases, extended that early lead.”  It’s not hard to see why. The percentage of companies
+planning to use Amazon Web Services rose to 44 percent last year
+from 35 percent in 2010, according to a survey by Forrester
+Research Inc. Google’s App Engine, the business that provides
+online server computers, was preferred by just 13 percent in
+2011, down from 23 percent the previous year.  George Zachary, a partner at Charles River Ventures in
+ Menlo Park ,  California , estimates that about 90 percent of
+startups he meets with use Amazon Web Services.  ‘Incredible Scale’  “Amazon is just running away with the game right now,”
+said Zachary, whose investments include Twitter Inc. and Yammer
+Inc. Google has “plenty of technology and incredible scale.
+They just have to execute,” he said.  Amazon’s record isn’t spotless. Its service crashed one
+morning in April 2011, knocking out the websites of companies
+including location-based mobile service  Foursquare  and question-
+and-answer-site Formspring.me. The same month, hackers used
+Amazon Web Services in an attack against Sony Corp.’s online
+entertainment systems, according to a person with knowledge of
+the matter.  “This could have happened from any computer, and as Sony
+stated, there’s no evidence showing the attacks came from AWS,”
+Tera Randall, a spokeswoman for Amazon Web Services, said in an
+e-mailed statement.  Limited Languages  Google’s efforts have been hampered because it offers a
+limited number of languages for programmers and doesn’t let
+companies control the operating system and security features.
+Its customers tend to run smaller, simpler programs, while
+Amazon clients are willing to hand over their entire Web
+service, said James Staten, an analyst at Forrester.  Amazon, by contrast, is more flexible. It provides the
+infrastructure and lets customers maintain everything in those
+servers and storage boxes at its data centers. Google is
+building what startups want -- a product that lets companies
+focus on developing software and apps without having to spend
+extra time and money with mundane matters like server capacity,
+said Greg D’Alesandre, project manager for App Engine.  “What we’ve gotten is an enormous amount of experience in
+understanding what it takes to run someone else’s application,”
+D’Alesandre said. “That’s where we want to focus, and that’s
+what we want to be really good at.”  Storage Service  While Google entered the market in 2008, the company
+started getting serious about it a year ago, Singh said. It
+brought its storage service out of beta testing and released a
+product to manage databases. It also started distributing
+programs created on App Engine to at least three data centers,
+not just one, to ensure the apps keep running.  The company has beefed up customer support and plans to
+spend more on sales and marketing around the world. To help
+publicize these moves, Google is placing its executives on
+industry panels and conferences, according to Shailesh Rao,
+director of new products and solutions for enterprise. The
+products are getting more attention from within the company as
+well, he said.  “We’re innovating at a faster pace than I think we have
+before because the demand is there, the investment is there,”
+he said. “This is also turning out to be a great place to be
+from within Google. I get transfer requests almost every week.”  Early Tester  Elliot Kroo, co-founder of San Francisco-based  Getaround ,
+has seen the improvements. Getaround has been using App Engine
+since the company’s debut in 2009, partly because Kroo
+previously worked at Google and was an early tester of the
+product. Only in the past six months has it been complete and
+reliable enough for him to recommend it to other entrepreneurs,
+he said.  For Getaround, App Engine has helped keep costs down
+because the company doesn’t have to spend resources monitoring
+its apps and adding servers as needed.  “As a startup, there’s not much systems administration I
+want to do,” said Kroo, Getaround’s director of engineering.
+“It’s just becoming possible for App Engine to provide anything
+you need as a startup.”  Meanwhile, the market is getting more competitive. Amazon’s
+business is approaching $1 billion in revenue, according to
+analyst estimates. San Antonio-based Rackspace increased sales
+at its cloud unit by 88 percent last year to $189.2 million.
+Microsoft is promoting its Azure services, while traditional
+technology providers International Business Machines Corp. and
+Hewlett-Packard Co. also are competing.  DNA Technology  DNAnexus Inc.  Chief Executive Officer Andreas Sundquist
+expects Google to be the biggest challenger to Amazon. His
+Mountain View-based startup, which provides analytical tools for
+DNA sequencing, uses Google’s storage service for the data it
+collects. Yet it uses Amazon for servers, because App Engine is
+too limiting.  “Certain parts of Google cloud are still playing catch-up
+with Amazon,” said Sundquist, whose company is backed by
+Google’s venture arm. “Cloud storage is one area where they’re
+at parity or even better.”  Looking to the future, Sundquist said if he could only
+place two bets on the winners, “they would definitely be on
+Google and Amazon.”  To contact the reporters on this story:
+Brian Womack at   bwomack1@bloomberg.net ;
+Ari Levy at   alevy5@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

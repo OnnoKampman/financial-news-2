@@ -1,0 +1,81 @@
+-- Are You With the Dumb Money or the Smart Money?
+-- B y   J a m e s   H e a t o n   a n d   N i c h o l a s   P o l s o n
+-- 2012-06-13T22:34:08Z
+-- http://www.bloomberg.com/news/2012-06-13/are-you-with-the-dumb-money-or-the-smart-money-.html
+Market observers often divide
+investors into “smart money” and “dumb money.” Our  research 
+shows there may be a way to figure out which group you are in.  The first place to look is prices, which reflect the
+interaction of smart money and dumb money and may contain
+valuable information about the proportion of either in the
+ market . In other words, the price knows which category we belong
+to. The trick is to extract that information.  Consider a simple example of a simple market: betting on a
+horse race. Say there are two horses, A and B. And there are two
+types of bettors, smart money and dumb money. We place our bet
+on horse A because we think it is more likely to win. It turns
+out that 75 percent of the money is on horse B, and 25 percent
+is on A. These “prices” can help us learn whether we are more
+likely to be the dumb money or the smart money.  We want to compare the probability that we are the dumb
+money given the market price to the probability that we are the
+smart money given the market price. We can write this as
+P(dumb|market)/P(smart|market). If this ratio is greater than
+one, then it is more likely that we are the dumb money. Less
+than one, we are more likely to be the smart money.  Horse Race  Bayes’ Rule  tells us how to figure this out.
+P(dumb|market)/P(smart|market) =
+[P(market|dumb)/P(market|smart)] x [P(dumb)/P(smart)]. In words,
+the odds in favor of us being the dumb money given the market
+price is the relative likelihood of the market price if we are
+the dumb money multiplied by the prior odds that we are the dumb
+money. Notice how we are using the market price -- in this case,
+the amount bet on each horse -- to help us figure out where we
+belong. We do this by asking if these prices are more likely to
+occur if we are dumb or if we are smart.  Suppose we believe that there is much more dumb money than
+smart money at the track today. If we are dumb money, we’d
+expect to be betting in the direction of the relatively larger
+group. Yet we’re in the minority. That’s pretty unlikely to be
+the case if we’re the dumb money, given our beliefs about the
+proportion of each type of bettor at the track.  By contrast, if we are smart money, we’d expect to be
+betting with the minority. And that’s exactly what we see.  So
+[P(market|dumb)/P(market|smart)] <1, which pushes us in the
+direction of thinking we are the smart money.  Now, turn to the prior odds. Let’s say we are pretty
+confident that we are smart money. That means [P(dumb)/P(smart)]
+<1.  Overall, combining the two, we think it is more likely that
+we are the smart money than the dumb money. The market prices
+helped us figure it out.  We wish we could say that it is this easy to determine in
+circumstances other than this hypothetical race between two
+horses. It isn’t.  We need to have pretty accurate beliefs about how much dumb
+money is in the  market . If there is actually much more smart
+money at the track than dumb money, then these prices are much
+more likely if we are the dumb money.  Also, it may be hard for us to even consider the
+possibility that we are the dumb money. Often, the identifying
+characteristic of members of the dumb group is thinking too
+strongly that they are the smart money. Are we making that
+mistake here? If so, it may prevent us from learning that we are
+the dumb money.  Costanza Rule  There is an episode of the television comedy “Seinfeld” in
+which George Costanza complains: “My life is the opposite of
+everything I want it to be. Every instinct I have, in every
+aspect of life, be it something to wear, something to eat ...
+It’s all been wrong.”  Jerry Seinfeld  persuades George that the
+answer to his predicament is to do the opposite of everything
+he’d normally do. By doing so, George enjoys great success.  Can dumb money also learn that it is dumb and by doing the
+opposite enjoy the benefits of being smart? The awareness that
+we are part of the dumb money can lead us to change the
+direction of our bets: We might go long instead of going short,
+bet on no default instead of a default, sell  Facebook Inc. (FB) ’s
+shares instead of buying them.  Unfortunately, deciding to do the opposite of what one
+normally does is difficult. After all, George only pulled it off
+for a single episode.  ( James B. Heaton  is a partner at the law firm Bartlit Beck
+Herman Palenchar and Scott LLP in  Chicago . Nicholas G. Polson is
+professor of econometrics and statistics at the University of
+Chicago Booth School of Business and a contributor to  Business
+Class . The opinions expressed are their own.)   Read more opinion online from  Bloomberg View . Subscribe to
+receive a  daily e-mail  highlighting new View columns, editorials
+and op-ed articles.  Today’s highlights: The editors on  measuring methane leaks  and
+ Putin’s attack helicopters in Syria ;  Caroline Baum  on  the
+Federal Reserve’s next move ;  Michael Kinsley  on  why you’re even
+poorer than you thought ; William D. Cohan on  Jamie Dimon’s day
+in Congress ;  Ezra Klein  on  Venture For America ; Amar Bhide and
+Christopher Papagianis on  fixing money-market mutual funds ;
+Jonathan Reiss on  improving regional Fed boards .  To contact the writers of this article:
+James Heaton at  jbheaton3@gmail.com ;
+Nicholas Polson at  ngp@chicagobooth.edu   To contact the editor responsible for this article:
+Max Berley at   mberley@bloomberg.net  

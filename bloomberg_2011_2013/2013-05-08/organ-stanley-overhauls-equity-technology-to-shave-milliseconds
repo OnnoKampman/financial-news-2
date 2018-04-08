@@ -1,0 +1,150 @@
+-- Morgan Stanley Overhauls Equity Systems to Cut Microseconds
+-- B y   N i n a   M e h t a
+-- 2013-05-08T17:47:10Z
+-- http://www.bloomberg.com/news/2013-05-08/morgan-stanley-overhauls-equity-technology-to-shave-milliseconds.html
+Morgan Stanley (MS)  has overhauled its
+trading infrastructure for U.S. equities to keep pace with a
+marketplace in which millionths of a second count.  The bank modernized its technology for stock trading to
+save fractions of a millisecond and is now moving clients onto
+the new platform, Bill Neuberger, global co-head of Morgan
+Stanley Electronic Trading at the New York-based company, said
+by phone. A millisecond is a thousandth of a second and a
+microsecond is a millionth. When carrying out buy or sell orders
+for customers, the changes will enable the bank to get 99
+percent of the shares available on exchanges at a specific
+price, up from the high 80s two years ago, he said.  Faster computers and regulatory changes aimed at spurring
+competition among exchanges have increased the speed at which
+stocks change hands over the last 15 years. High-frequency
+trading, which relies on fast access to changing data, now
+accounts for more than half of U.S. stock volume. Neuberger and
+Andrew Silverman, who run Morgan Stanley Electronic Trading,
+oversaw the firm’s 18-month project.  “As markets continued to evolve, the importance of speed
+and smart coordination became more and more prominent,”
+Neuberger said. “Trading fundamentally changed. We needed to
+think about it at the level of microseconds as opposed to
+milliseconds in the previous world and that involved rethinking
+how our trading systems operate.”  The technology overhaul is unprecedented for Morgan
+Stanley, said Neuberger, who has worked at the bank for 24 years
+including eight in  information technology  where he wrote
+software code. The firm typically made changes to its equities
+technology at a more gradual pace, he said. He declined to say
+how much the bank spent on the project.  Daily Volume  Morgan Stanley’s  equities  trading unit accounts for more
+than 11 percent of average daily volume in the U.S., up from
+less than 10 percent two years ago, Neuberger said. Neuberger,
+who said he expects the upgrade to increase market share, and
+Silverman are responsible for the trading technology systems
+across Morgan Stanley’s entire equities division including the
+electronic unit.  The overhaul and focus on low-latency trading, or buying
+and selling with a minimum of delay, comes as banks face
+decreased profitability from  stock trading  following a  decline 
+in U.S. volume for three years in a row.  Morgan Stanley’s equities trading revenue was $1.59 billion
+in the first quarter, a 19 percent drop from a year earlier,
+excluding accounting charges. The business, headed by Ted Pick,
+produced the second-most revenue among global investment banks
+last year, trailing only Goldman Sachs Group Inc.  Largest Broker  The firm has been the largest broker by volume traded on
+the Nasdaq Stock Market in the exchange’s listed companies every
+month since at least June, according to  data  from Nasdaq OMX
+Group Inc.  Morgan Stanley plans to buy the remaining 35 percent of a
+brokerage joint venture from Citigroup Inc. this year, giving it
+full ownership of a wealth management division with $1.79
+trillion in client assets. Chief Executive Officer  James Gorman 
+said earlier this year that his firm will get a revenue benefit
+since it no longer has to give Citigroup a portion of retail
+trading orders.  The bank introduced the new trading infrastructure
+internally in recent weeks and is shifting clients onto it,
+according to Silverman, who was head of U.S. algorithmic trading
+at Goldman Sachs before joining Morgan Stanley in 2006. The firm
+will shift its U.S. options client business to the new
+technology by mid-year, futures and European trading by the end
+of the year and  Asia  in 2014, he said.  Market Data  The overhaul encompasses trading-related systems and
+technology including how market data from 13 stock exchanges is
+processed, algorithms that execute orders, Morgan Stanley’s dark
+pools and so-called smart routers, or software that decides
+which venue should receive the smaller pieces of a larger order
+and for how many shares. It also includes hardware, the way
+Morgan Stanley connects to exchanges and how it uses its main
+data center for equities trading in Weehawken,  New Jersey .  Morgan Stanley has three dark pools: MS Pool, Trajectory
+Cross and MS Retail Pool. The retail venue was introduced about
+two years ago.  “Reducing latency, increasing automation and maintaining
+proper risk measurements are major objectives of financial
+firms,” Anthony Dostellio, Chicago-based managing partner at
+Objective Paradigm Inc., a technology recruiting firm
+specializing in financial services, said by phone. “More
+organizations are facing a greater emphasis on getting data,
+analyzing data and reacting to data.”  IT Spending  Spending by banks and brokers for U.S. equity trading IT
+infrastructure is projected to be $2.09 billion this year, down
+from $2.27 billion in 2012, according to Bob Iati, partner and
+global head of consulting at New York-based research firm Tabb
+Group LLC. The costs include market data, feed handlers, high-speed messaging, data centers and networking.  As markets moved to more automated processes from exchanges
+centered on human traders over the last decade, brokers
+developed algorithms or electronic execution strategies to buy
+and sell bigger orders over a period of time without
+exacerbating price moves. Programs employed by brokers and their
+clients usually take liquidity by trading against bids and
+offers that have been placed on exchanges and dozens of
+alternative venues.  “You want to hit a bid but it’s made up of 13 different
+bids,” Silverman said, referring to orders spread across  stock
+exchanges . “The ability to maximize the capture of that
+liquidity was declining.”  Canceling Quotes  High-frequency traders may see incoming orders take
+liquidity in a stock at several exchanges and cancel their bids
+or offers on other venues. While firms including market makers
+usually quote on many platforms because they don’t know which
+venues investors or brokers will use, they don’t want to get
+more executions than they expect. Their place in the queue of
+orders awaiting execution at a certain price also differs across
+venues, giving them an incentive to quote in multiple places.  For investors and brokers, that poses a problem, Silverman
+said. They see quotes available across exchanges and are
+frustrated when they try to trade with them and the bids or
+offers vanish or only fewer shares are available.  “In today’s market, liquidity is fleeting,” Silverman
+said.  The problem of market makers canceling quotes at better
+prices isn’t new and occurred when trading was handled by
+individuals manually entering bids and offers on their computer
+screens. Some brokers in recent years have timed when their
+algorithms send trade requests seeking to access buy and sell
+orders at different exchanges to try to reach as many quotes as
+possible at the same time.  Hit Rate  Morgan Stanley’s average hit rate of about 99 percent means
+that if 10,000 shares are available at a specified price, the
+bank could take all but 100.  The firm changed its smart router as part of the overhaul.
+Decisions about how to handle orders now incorporate real-time
+learning algorithms that evolve as they get new information from
+trading orders, improving the ability to get more shares by
+selecting venues where trades are more likely, Neuberger said.  The data center is where the smart router’s “brain” sits,
+with smaller order-handling systems co-located at exchanges or
+other venues, Neuberger said. Dark fiber is used to send orders
+rapidly between the Weehawken building and other sites, he said.  Keeping Up  “Infrastructure at a bank isn’t a commodity,” David B.
+Weiss, a senior analyst at Boston-based research firm Aite Group
+LLC, said by phone. “It’s part of their business. They’ve all
+got to keep up with the Joneses.”  Banks employ systems engineers and software engineers and
+individuals with advanced degrees in computer science,
+electrical engineering, math and physics to build and manage
+trading systems, Dostellio said. The smartest and most versatile
+are also pursued by high-frequency trading firms, gaming
+companies, corporations that make consumer products sold online
+and social-media firms, he said.  Morgan Stanley’s electronic trading group worked in the
+past with application developers to construct execution
+algorithms and smart routers. Trading executives decided how
+they wanted the algorithms to behave and developers built them.  For the project the bank brought so-called enterprise
+infrastructure specialists into the discussion with developers
+for the first time, Neuberger said. These are engineers focused
+on hardware, network switches and operating systems. The
+involvement of both groups ensured that the hardware and
+software were integrated to “trim microseconds,” he said.  Servicing Brokers  The changes will also benefit Morgan Stanley’s business of
+servicing other brokers, Silverman said. The bank, like its
+rivals, handles some trading services for small and mid-size
+brokers. The new technology will let it process more orders, he
+said. Morgan Stanley has more than 275 broker-dealer clients
+globally and expects that number to increase with the new
+infrastructure, he said.  The bank maintained two separate equities trading
+technology infrastructures during the overhaul. Doing so doubled
+the computer-coding work to prepare for regulatory changes such
+as the so-called limit-up/limit-down system that curbs trading
+in individual stocks when prices move rapidly and ordinary
+technical updates to systems.  “We’re betting a lot in a resource-constrained environment
+that this will be a big selling point for us globally,”
+Neuberger said. “The decay due to the changing market
+environment and latency issues is so fast that what you had four
+years ago -- it gets old.”  To contact the reporter on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

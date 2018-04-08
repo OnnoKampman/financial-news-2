@@ -1,0 +1,157 @@
+-- UN Vote Could Allow Mankind to Control the Sun: Richard Cohen
+-- B y   R i c h a r d   C o h e n
+-- 2011-12-22T00:00:52Z
+-- http://www.bloomberg.com/news/2011-12-22/un-vote-could-allow-mankind-to-control-time-commentary-by-richard-cohen.html
+“It shall be what o’clock I say it
+is,” declares Petruchio in “The Taming of the Shrew,” to
+which his companion Hortensio jovially retorts: “Why, so this
+gallant will command the sun.” Next month, the 193 member
+states of the  International Telecommunications Union  will meet
+in Geneva and attempt to do exactly that.  Indeed, if a proposal before the body passes, says David
+Rooney, curator of timekeeping at the U.K.’s  Royal Observatory ,
+“It will be the first time that time is not dependent on the
+rising and falling of the sun.”  First, some history. Over the centuries, man has constantly
+had to change the way he clocks time, as no method has measured
+its passing with absolute accuracy. One can go on fiddling with
+time almost indefinitely (the old joke runs that even a stopped
+clock is right twice a day, and people will talk about today’s
+winter solstice making it the “shortest” day of the year).  Back in 1907, Einstein came up with the “equivalence
+principle,” which states that gravity is locally
+indistinguishable from acceleration and diminishes as distance
+increases from the center of mass. This means that time goes
+faster in, say,  Santa Fe , high up in  New Mexico , than in
+Poughkeepsie, down in  New York , by about a millisecond per
+century. A recent experiment on a westward round-the-world jet
+flight showed that clocks gained 273 nanoseconds, of which about
+two-thirds of the effect was gravitational.  Because of such natural effects, clocks have been reset to
+agree with the Earth’s rotation -- thus the distinction between
+a clock and a chronometer, which ticks on, as undisturbed as
+possible.  Stargazing in Greenwich  The moment when the sun passes its highest point over
+Greenwich, in East London, is noon Greenwich Mean Time, which in
+the late 19th century became the standard by which every
+timepiece in the world was measured. More recently, however, GMT
+has had its rivals, including agencies such as the  U.S. Naval
+Observatory  in  Washington , D.C., the International Earth
+Rotation Service at the Paris Observatory, and the Bureau
+International des Poids et Mesures in Sevres,  France , all of
+which employ remarkably sophisticated timepieces.  Today, Universal Time is something of a compromise, based
+on both the sun’s position in the sky and International Atomic
+Time, or TAI, a global effort that reckons time using the
+metallic element cesium.  Some 60 years ago, scientists at the National Physical
+Laboratory at Teddington,  England , discovered that timekeeping
+calculated by vibrating atoms was more accurate than using the
+rotation of the Earth. This is because the planet’s spin is
+slowing down, while the gravitational pull of the sun and moon,
+plus changes in the molten core beneath our feet, cause our
+globe to go its own way in space, irrespective of atomic time.  Modern atomic instruments count the tick-tock cycles of
+cesium, each cycle being the exceptionally fast vibrations of
+the atoms when exposed to microwaves in a vacuum. Cesium 133
+atoms have their 55 electrons ideally distributed for this
+purpose, all but the outermost being confined to orbits in
+stable electromagnetic shells. The reactions to microwaves by
+the outer one can be accurately determined. As the microwaves
+hit, the electron absorbs and releases measurable packets of
+light energy. This entails a time measurement inaccuracy of just
+two nanoseconds per day, or one second over 1.4 million years.  The scientists were still not happy. “It was slightly
+embarrassing,” says Rooney. “But by the '70s, we needed
+another fudge factor. So the leap second was introduced, to push
+together Earth rotation time and atomic vibration time.” These
+extra seconds are not inserted every year or even on a regular
+schedule: The last correction was made on Jan. 1, 2008. (It
+required an extra pip being added to the BBC Radio time signal,
+a series of short tones at the beginning of every hour.) The
+time thus regulated is called Coordinated Universal Time, or
+UTC, and approximates the traditional Greenwich Mean Time to
+within plus or minus 0.9 seconds.  Forgetting the Sun  For a decade or more a movement has been afoot to take the
+Earth’s rotation and the sun’s position out of the equation
+altogether. In late 2004 a draft formula to have time governed
+entirely by the atomic clock was submitted to the International
+Telecommunication Union, the United Nations body charged with
+coordinating information and communication technologies. It did
+not immediately win favor, but since then the basic concept has
+been worked on by scientists in several countries, and it has
+been put forward again for the Geneva conference to decide.  The proposal would not only obviate leap seconds within
+five years, it would abolish the requirement that time services
+reconcile the difference between Coordinated Universal Time and
+the time of day as based on the Earth’s rotation. Such a
+differential, known as DUT-1, will have to be introduced into
+numerous software systems that currently have the luxury of
+pretending it doesn’t exist.  This poses a gigantic problem for our technology-based
+society -- computers would in effect need to be connected to two
+clocks, to relate cesium time to the sun-based time-of-day. But
+then the very word “day” would no longer have a single
+coherent meaning.  While the proposal has caused intense controversy among
+scientists, there has been very little comment in the mainstream
+news media. “It’s a sad train wreck of people not communicating
+with each other,” says  Steve Allen , a senior analyst at the
+ University of California ’s Lick Observatory. “The document has
+been put through without a consensus in the study group
+commissioned to resolve the question, without a public record of
+an analysis of requirements, and even without cost estimates of
+the various alternative options. The research simply isn’t in.”  In October, Allen and a group of like-minded scientists and
+engineers held a colloquium outside Philadelphia. They
+recognized that the current methods of timekeeping cost
+businesses and governments money -- probably several million
+dollars a year -- but they estimated that the proposed change
+would cost far more, some $100 million alone to reset the Global
+Positioning System to the new timing.  Deploying Man-Hours  And there would be other implications, stemming from the
+globalized technical infrastructure to the legal, historical and
+economic domains. Allen worries about equipment at his own
+observatory. Many telescopes were designed in an era when
+systems that provide civil time were based on the rotation of
+the Earth. “It would take two man-years’ work just to get the
+telescopes reset,” he warns.  The situation is even worse for aerospace industries and
+research. The Hubble Space Telescope, for instance, currently
+operates by UTC on its computer. This reckoning sets the time
+for its downlinked data stream, and is also employed for on-
+board calculations. Were leap seconds discontinued, it would be
+necessary to alter the on-board software as well as that at
+ground level.  Celestial navigation, though a backup of last resort, is
+still widely taught at maritime academies worldwide. In some
+future emergency, the proposed changes would probably leave
+navigators (who are often not even aware of the distinction
+between UTC and GMT) unable to function accurately. One second
+of time equates to a quarter of a mile navigation error; without
+leap seconds, UTC would diverge from Greenwich Time at an
+accelerating pace as the decades pass.  Legal and cultural issues arise, too. Many legal agreements
+employ the phrase, “time is of the essence.” This may seem
+irrelevant in the short term, but over a century or two, large
+international contracts will provide ample opportunities for
+conflict. The Chinese, among others, have raised cultural
+objections. “Most Chinese scholars think it is important for
+timekeeping to have a connection to astronomical time because of
+traditional Chinese culture,” says Chunhao Han of the Beijing
+Global Information Center of Application and Exploration.  Lastly, there are the effects the change would have on all
+of us. “Psychologically it will be very strange,” Allen says.
+“You’d be telling people that time is nothing to do with
+time.”  Lacking Diligence  Rob Seaman , a senior software systems engineer at the
+National Optical Astronomy Observatory in Tucson,  Arizona ,
+compares the proposed change unfavorably to the way scientists
+prepared for the so-called Millennium Bug before 2000. “The new
+millennium was inevitable, so resources were marshaled, things
+happened,” he recalls. “Those making the current proposal
+haven’t performed due diligence. Does air traffic control have
+embedded assumptions about mean solar time or Earth orientation?
+How about global shipping? Nobody has looked.”  Why would scientists rush into something like this? In
+part, it is an extension of a turf war between an alphabet soup
+of international agencies: ITU-R (the Radiocommunication Sector
+of the International Telecommunication Union), CGPM (the General
+Conference of Weights and Measures), IERS (the International
+Rotation and Reference System Service) and BIPM (the
+International Bureau of Weights and Measures). “It’s quite a
+zoo of little bureaucracies,” Seaman says. “There exists an
+extraordinary tolerance for imprecision within a community that
+prides itself on precision.”  Proponents of the change seem to have the momentum. “Most
+delegates will think, this proposal’s been put forward, it must
+have been researched, it must be all right,” a concerned Allen
+says.  The motion is just one of many to be considered in Geneva
+next month, and has been put together by a small group that has
+obtained letters of approval from various agencies in their
+governments. So at the very least it will receive a surprisingly
+large number of “yes” votes from people who are not educated
+on the issue. So, while there is a significant likelihood that
+it may indeed get through, only time will tell.  (Richard Cohen, the author of “Chasing the Sun: The Epic
+Story of the Star That Gives Us Life,” is writing a book on the
+history of historians. The opinions expressed are his own.)  To contact the writer of this article:
+Richard Cohen at  racohen12@gmail.com .  To contact the editor responsible for this article:
+Tobin Harshaw at   tharshaw@bloomberg.net . 

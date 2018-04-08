@@ -1,0 +1,90 @@
+-- Founding Father of the Quants Was Revolutionary Marxist
+-- B y   C o l i n   R e a d
+-- 2013-01-16T16:43:52Z
+-- http://www.bloomberg.com/news/2013-01-16/founding-father-of-the-quants-was-revolutionary-marxist-echoes.html
+One of the more interesting ironies
+of history is that the man who laid the foundation for modern
+quantitative finance began his career as a Marxist
+revolutionary.  Jacob Marschak  may not be a household name today, but he
+inspired a number of financial practitioners and thinkers, from
+Milton Friedman to Harry Markowitz, and his insights are now the
+backbone of trading strategies and computer algorithms
+worldwide.  Marschak was born to a Jewish family in  Kiev , Ukraine, in
+1898. He played a part in the Russian Revolution as a teenager,
+working as a Menshevik activist. The liberation of Ukraine from
+the czar’s Russian Empire vaunted Marschak into the position of
+labor minister of the short-lived independent state of Terek.  Within months, the state was absorbed by another region and
+then subsumed into the Soviet Union. A disillusioned Marschak
+fled to Germany, where he received training in the Austrian
+School of free-market economics. He hoped to make a permanent
+home in Germany, but when the Nazis came to power, the Jewish-
+radical-turned-Marxist-turned-Austrian-School-economist wisely
+left the country, moving first to  England  and then to the U.S.,
+where he joined the New School in New York as part of an anti-
+fascist University in Exile.  The Quants  Marschak was but one of a tide of theoretical financiers
+and economists who flowed into the U.S. as the Nazis came to
+power in  Germany . Some of them gravitated toward the University
+of Chicago, including Marschak, who became director of the
+Cowles Commission, an innovative research institute founded by
+Alfred Cowles III. While there, Marschak inspired a generation
+of financial theorists who would become known as the “quants.”  Before the rise of the quantitative approach, finance was
+more an art than a science. Practitioners relied on instinct and
+experience, and theoreticians used rudimentary tools based on
+expected discounted net income to price securities. Yet there
+was a recognition that these approaches didn’t properly price
+uncertainty. And there was an appreciation that one shouldn’t
+put all eggs in a single basket.  In 1935, the British economist John Hicks (subsequently a
+Nobel Prize winner) noted that a prudent investor ought to place
+some assets in risky enterprises and the remainder in safer
+investments. Doing so could calibrate a portfolio to better
+match the investor’s tolerance of risk.  This observation was intuitively helpful, but it lacked
+theoretical guidance. Before an investor can hedge risk, a
+measure of risk must be created.  Marschak proposed a way to do so in his 1938 paper “ Money
+and the Theory of Assets .” He observed that investors, by their
+nature, anticipate future production and prices. Yet while they
+try to assess the expected mean of future prices, they must also
+assess the probability of a range of possible future values and
+how they may be interrelated.  Marschak proposed that such expectations could be defined
+by two parameters: the mean and the coefficient of variation. He
+deemed the latter to be a measure of risk, which we continue to
+use today.  Physicists had for a century used this same methodology to
+describe means and probabilities. They had developed a way to
+calculate a mean (or expected) value based on the probabilities
+of the various possible future outcomes. This was called the
+first-moment calculation. They also developed a measure of
+variability by weighting the probability of the square of
+various outcomes compared with the mean. This second moment is
+our now-familiar calculation of variance.  An Insight  Marschak reasoned that this same mean-variance technique
+could be applied to asset prices. But he took this natural
+extension still further: He recognized that there may be a
+statistical relationship between how one asset varies relative
+to another. This covariance would eventually act as the basis
+for the insight of one of Marschak’s best-known students, Harry Markowitz.  Markowitz had been intrigued with the Great Depression-era
+research of John Burr Williams, who developed the first
+systematic theory of discounted corporate cash flows. Under
+Marschak’s guidance, Markowitz realized that although the mean
+present value of future cash flows is important, so are their
+variances.  This mentor-mentee collaboration soon resulted in
+Markowitz’s thesis and seminal 1952 paper on modern portfolio
+theory in the Journal of Finance, titled “Portfolio Selection.”
+From that point, modern finance theory was born.  Marschak’s paper on money and the theory of assets -- and
+his other work on market rationality published while he was
+inspiring the thesis for a young Markowitz -- isn’t well-read
+among financial theorists or professionals today. However, a
+reader would easily recognize his analyses. The two-parameter
+mean-variance approach is now baked into every financial
+calculator, and into formulas ranging from Markowitz’s market-
+security line to William Sharpe’s capital-asset pricing model to
+the Black-Scholes-Merton option-pricing formula. Each of these
+fundamental formulas in finance assumes that the reward-risk
+trade-off can be described by only two parameters, just as
+Marschak proposed in 1938. Marschak’s academic descendants were
+later awarded Nobel Prizes for work that would have been
+impossible without him.  Marschak, the onetime radical, did indeed end up launching
+a revolution -- just not the one that Karl Marx had in mind.  (Colin Read is chairman of the finance department at the
+State University of New York, Plattsburgh. He is the author of
+the “Great Minds in Finance” series and other finance titles
+published by Palgrave MacMillan. The opinions expressed are his
+own.)  Read more from Echoes  online .  To contact the writer of this post: Colin Read at
+ readcl@gmail.com .  To contact the editor responsible for this post: Timothy Lavin
+at   tlavin1@bloomberg.net . 

@@ -1,0 +1,100 @@
+-- 
+U.S. Stock Exchanges Ask SEC to Postpone Market-Access Rules to November
+
+-- B y   N i n a   M e h t a
+-- 
+2011-06-21T20:55:30Z
+
+-- http://www.bloomberg.com/news/2011-06-21/u-s-stock-exchanges-ask-sec-to-delay-market-access-rules-until-november.html
+The four largest U.S. stock market
+operators asked the Securities and Exchange Commission to delay
+implementation of rules governing how brokers send orders to
+venues, which includes a ban on unsupervised market access given
+to some high-frequency traders.  NYSE Euronext,  Nasdaq OMX Group Inc. (NDAQ) , Bats Global Markets
+and Direct Edge Holdings Inc. asked the regulator for an
+extension until Nov. 30 from the current deadline of July 14,
+according to a letter dated yesterday obtained by Bloomberg
+News. The Securities Industry and Financial Markets Association,
+a trade organization for brokers, banks and asset managers, also
+ asked  for an extension for all securities firms in April.  Regulators are trying to prevent computer-driven trading
+strategies and erroneous orders from causing market routs and
+increasing risks to brokers and the financial system. The
+market-access rules will  require  brokers to implement financial
+and risk controls for all securities orders before those trading
+requests are sent to exchanges and other venues.  The exchanges said in the letter that a “number of
+interpretative issues” regarding the rule must be resolved and
+that they need time to “complete the development and
+implementation of the compliance controls.”  Lower Fees  Their request would apply only to securities firms that
+route orders on behalf of other brokers, not those sending
+orders to markets directly, they said. Sifma asked for a delay
+for all securities firms.  John Jacobs, director of operations at Lime Brokerage LLC,
+a subsidiary of Wedbush Inc., said he agreed the SEC should
+extend the deadline to give brokers more time to comply with the
+rule. Many brokers use other securities firms to send orders to
+exchanges to get the benefit of better fees or rebates based on
+that firm’s trading volume. Exchanges such as Nasdaq Stock
+Market and NYSE Arca, run by  NYSE Euronext (NYX) , have different  fees 
+for brokers that send them a certain amount of shares per month.  “There’s still a fair amount of pushback from aggregators
+and those who benefit from the aggregation” of trading volume
+about some of the new rule’s requirements, Jacobs said.  Brokers that receive an order from a mutual or pension fund
+must run risk checks to make sure the request doesn’t exceed a
+client’s account limits, isn’t erroneous and doesn’t fall afoul
+of securities rules. Under the SEC proposal, if that broker
+sends the order to another broker for execution, the second firm
+must run its own set of checks, even if the original securities
+firm already performed a similar analysis. Some, but not all,
+checks can be delegated to the first firm.  ‘Naked’ Access  The rule, which the SEC  approved  in November, includes a
+ban on unfiltered or “naked” access, in which brokers allow
+clients to make unsupervised trades on  stock exchanges , using
+the securities firm’s identification number, a practice that
+Boston-based research firm  Aite Group LLC  said accounted for two
+of every five shares traded in 2009.  Richard Adamonis , a spokesman for New York-based NYSE
+Euronext, and Stacie Fleming of Lenexa, Kansas-based Bats
+declined to comment. Robert Madden of Nasdaq OMX in New York
+couldn’t immediately be reached for comment. Michael Boccio of
+Sloane & Co., which represents  Jersey City , New Jersey-based
+Direct Edge, said the market operator co-signed the letter.  John Nester , an SEC spokesman, declined to comment on
+whether implementation would be delayed.  Credit Thresholds  The SEC rule will force firms providing clients with direct
+access to exchanges to analyze customer credit thresholds,
+ensure that orders don’t violate short-sale rules, check for
+manipulative activity and prevent errant trades before those
+orders are sent to the market, Gerard Citera, an expert on
+regulation at Davis Polk & Wardwell LLP, said at a private panel
+at Nasdaq OMX in February. Chief executive officers at broker-
+dealers must certify their firms’ controls, he said.  Many brokers don’t want another broker to check orders
+they’ve already vetted, New York-based Jacobs said. Lime, which
+Los Angeles-based Wedbush agreed to buy on June 13, is ready for
+the new rules, he said.  While the four  exchange operators  said they’re making their
+request “on behalf of all routing broker-dealers,” they
+highlighted the “unique responsibilities and limitations” they
+face through the routing brokers they operate as subsidiaries.
+These brokers are run as facilities of an exchange and must
+receive regulatory approvals for all rules they institute.  Worse Prices  The brokers are used to allow exchanges to comply with
+rules requiring them to avoid trading at a price inferior to the
+best available price on another market by  sending orders  to the
+other venue. While many larger brokers prefer making their own
+routing decisions, this service by exchanges offers an
+alternative and is used by many smaller and medium-size firms.  The exchanges told the SEC that their routing brokers
+currently have no discretion to reject orders they’re required
+to route elsewhere if the buy or sell requests are deemed
+erroneous or shouldn’t be allowed for another reason. They need
+to build the controls that would allow them to comply with the
+ market-access rule , they said.  The exchanges also said the rules may cost more to
+implement than the SEC initially projected. They added that the
+regulator’s limitation on the products and services an
+exchange’s routing broker can offer “has had the effect of
+limiting the availability of sources of revenue to offset the
+costs of compliance with regulatory requirements,” including
+the  market-access  rule.  Exchanges could choose not to offer routing services. They
+aren’t obligated by the SEC to provide them.  A delay in the market-access rules would give brokers in
+equities, options and fixed-income products more time to prepare
+their trading and compliance systems, Jacobs said.  “One of the disconnects we’re seeing is that people don’t
+understand this also applies to internal order flow at a broker-
+dealer,” Jacobs said. “If the block sales trader is trading on
+behalf of a customer, that order flow must be programmatically
+risk managed. People erroneously think this is only about naked
+access and that’s not the case.”  To contact the reporter on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net  

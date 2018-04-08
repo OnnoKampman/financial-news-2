@@ -1,0 +1,120 @@
+-- NYSE Data Violations Extend U.S. Exchanges’ Reputation Woes
+-- B y   J o s h u a   G a l l u   a n d   N i n a   M e h t a
+-- 2012-09-15T00:47:50Z
+-- http://www.bloomberg.com/news/2012-09-15/nyse-data-violations-extend-u-s-exchanges-reputation-woes.html
+NYSE Euronext’s $5 million penalty
+over rule violations for giving certain customers trading data
+before the public delivers a fresh blow to the reputation of
+securities exchanges.  The  New York  Stock Exchange sent data through two
+proprietary feeds to paying customers before relaying the
+information to the so-called consolidated feed, which sells
+trade and quote data to the public, the Securities and Exchange
+Commission said in an  administrative order  filed yesterday.
+Investigators are conducting similar reviews of other exchanges,
+according to two people with knowledge of the probes, which
+aren’t public.  The SEC action follows the Nasdaq Stock Market’s flubbed
+initial public offering of Facebook Inc. in May and Bats Global
+Markets Inc.’s withdrawal of its IPO after a technology glitch
+in March, both of which undercut investor confidence that
+exchanges are in command of their technology systems. The agency
+is considering a new rule to mandate that exchanges and possibly
+brokers employ adequate automated systems to operate their
+markets and related platforms, according to Dave Shillman, an
+executive in the SEC’s trading and markets division.  “The overall reputation of exchanges has taken a bit of a
+battering in the last few months,” Sang Lee, managing partner
+at research firm Aite Group LLC in  Boston , said in an interview.
+“Something like this certainly doesn’t help. At the end of the
+day, exchanges are supposed to be unbiased, providing market
+services fairly to all participants.”  ’Ground Shipping’  The SEC penalty, the first of its kind against an exchange,
+comes as lawmakers and regulators question whether retail
+investors are being harmed in an increasingly fragmented
+marketplace of high-speed, computer-driven trading. The NYSE’s
+practice was discovered in the SEC’s investigation of the so-
+called flash crash of May 2010, in which $862 billion was erased
+from equity prices in 20 minutes before recovering.  “The NYSE chose ground-shipping for sending market data to
+the consolidated feed but used next-day air for its paying
+customers,” Sanjay Wadhwa, deputy chief of the SEC’s market
+abuse unit, said in an interview.  The practice violated Regulation NMS, which obliges
+exchanges to give the public fair access to market information,
+the SEC said. The NYSE flouted SEC rules “over an extended
+period of time” starting in 2008 by failing to monitor the
+speed of its proprietary feeds compared to the consolidated
+feed, the agency said in its order. The disparity in data
+dissemination ranged from single-digit milliseconds to multiple
+seconds, the SEC said.  ‘Rigged Game’  “How does a retail or institutional investor not think the
+game is rigged when you see something like this,” Joseph Saluzzi, partner and co-head of equity trading at Themis Trading
+LLC in Chatham,  New Jersey , said in an interview. “It’s not
+much different from knowing what’s in an earnings report a
+minute before everyone else.”  The violations stemmed from technology advantages that
+benefited NYSE’s Open Book Ultra and PDP Quotes proprietary data
+feeds. One information stream used a faster path to get data to
+customers while another operated independently of the system
+that sent data to the public feed. According to the SEC, about
+80 percent of the NYSE’s trading volume is attributable to
+proprietary products, which customers use to make rapid
+decisions through computer algorithms.  The NYSE also had a software problem that made its public
+data feed susceptible to delays during times of high trading
+volume. While the exchange began to address the problem in
+February 2010, only about half of the relevant computer servers
+had been fixed by May 6, 2010, the day of the flash crash, the
+SEC said.  Old Software  Under the stress of record trading volume that day, the
+servers still running on the old software experienced delays of
+as long as 10 seconds on quotes they processed. During two five-
+minute periods starting at 2:40 p.m. New York time, the average
+delays for quotes were 3.7 seconds and 5.3 seconds, while the
+average processing time for the two proprietary data feeds were
+less than 2 milliseconds and 16 milliseconds, the SEC said.  “The timing differentials stemmed from technology issues,
+not from intentional wrongdoing by the exchange or any of its
+personnel,” NYSE Euronext Chief Executive Officer  Duncan Niederauer , said in a statement. The company, which operates
+exchanges in the U.S. and  Europe , will “ensure that our market
+operates with the utmost fairness and transparency,” he said.  Market Data  U.S. securities exchanges aren’t allowed to release data
+about trades and their best bids and offers to clients faster
+than they send it to the organizations that collect and
+disseminate it publicly. Exchanges earn money from the sale of
+subscriptions to proprietary and public data feeds.  Still, proprietary market data from an exchange enables
+high-frequency and other clients to get transaction-related
+information faster than the public since the content doesn’t
+have to be collected from all venues trading the securities and
+aggregated. The data may also include information that’s not
+public, such as the number of shares available at different
+prices. Exchanges share the revenue they receive collectively
+from the public feeds.  NYSE Euronext (NYX)   received  $193 million for the sale of cash
+equities market data last year, according to a regulatory
+filing. That segment includes the sale of public data in the
+U.S. and some of the data revenue generated in Europe. It
+doesn’t include proprietary U.S. market data.  Automated Trading  As part of the SEC’s focus on high-speed automated trading,
+the commission plans to boost requirements for exchanges by
+converting and expanding its automated review policy program
+into an “enforceable rule,” Shillman, associate director of
+the trading and markets division, said on Sept. 13 at a
+conference in New York. The rule may extend beyond trading
+systems to “market data provision, routing services, issuer
+services and the like,” he said.  While the SEC has previously faulted exchanges for
+misconduct by employees, yesterday’s action marks the first time
+the agency has fined an exchange for having inadequate systems
+that violated securities rules.  Direct Edge Holdings LLC and two electronic exchanges it
+operates were faulted by the SEC last year for having weak
+controls that led to about $2.8 million in trading losses and a
+systems outage. Bats Global Markets Inc., the third-largest U.S.
+exchange operator, said in February that it received a request
+from the SEC for information on its use of order types and
+“communications with certain market participants.”  Technology Issues  NYSE Euronext completed systems modifications in 2010 and
+2011 that eliminated the technology issues that were the subject
+of the investigation, according to its statement. The company,
+which didn’t admit or deny wrongdoing, also agreed to hire an
+independent consultant to assess its compliance systems.  “As investors and traders we need to understand that
+information is being distributed fairly and equally to the
+market,”  Larry Tabb , chief executive officer of research firm
+Tabb Group LLC in New York, said in an interview. “Depending
+upon the investment style of different investors, the time delay
+may not be material, but we can’t have a market where structural
+inequalities present the optics that one class of investors has
+an advantage over another.”  To contact the reporters on this story:
+Joshua Gallu in Washington at 
+ jgallu@bloomberg.net ;
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editors responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net ;
+ Maura Reynolds  at 
+ mreynolds34@bloomberg.net  

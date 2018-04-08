@@ -1,0 +1,105 @@
+-- 
+Hacker ‘Armageddon’ Forces Symantec, McAfee to Seek Fixes
+
+-- B y   D i n a   B a s s   a n d   Z a c h a r y   T r a c e r
+-- 
+2011-08-04T20:23:51Z
+
+-- http://www.bloomberg.com/news/2011-08-04/hacker-armageddon-forces-symantec-mcafee-to-search-for-fixes.html
+A surge in high-profile hacker
+attacks this year is demonstrating the limits of an older
+generation of security software from  Symantec Corp. (SYMC)  and McAfee
+Inc., putting pressure on them to revamp their product lines.  The top providers of security software are racing to adjust
+to cloud computing and the growth of workers plugging mobile
+devices into corporate networks. None of the recent attacks tied
+to hacker groups such as Anonymous and Lulz Security could have
+been repelled by traditional antivirus programs or firewall
+software, according to Johannes Ullrich, a researcher at the
+ SANS Technology Institute . That’s giving a boost to upstart
+rivals, which are developing new ways to safeguard data.  “It sure feels like security Armageddon, and that’s what
+we’re hearing from a lot of customers,” said George Kurtz,
+chief technology officer at McAfee, now part of  Intel Corp. (INTC)   Along with providing competition to Symantec and McAfee,
+security startups will become candidates for takeovers or
+initial public offerings. More than 20 of these companies may
+file for IPOs in the next 18 months, said Brent Bracelin, an
+analyst at Pacific Crest Securities in  Portland ,  Oregon .
+Startups such as Q1 Labs Inc. and Palo Alto Networks Inc. are
+working on more advanced approaches to firewalls, early
+intrusion detection and around-the-clock systems monitoring.  ‘Security 1.0’  “Security 1.0 was about locking down fixed devices,”
+Bracelin said. Now that everyone brings their own device to
+work, companies have to adapt, he said. “We don’t see an easy
+path for the Symantecs and the Intel/McAfees of the world to
+evolve beyond the security 1.0 technology to the next-generation
+market.”  Bigger security companies have already been losing share to
+smaller ones, research firm  Gartner Inc. (IT)  said in a  report  last
+week. The top five providers -- led by Symantec and McAfee --
+accounted for 44 percent of the $16.5 billion worldwide security
+software market in 2010, according to Gartner. That’s down from
+60 percent in 2006.  Many promising startups may become takeover bait, extending
+an acquisition binge for the industry. Four of the 10 biggest
+security acquisitions in history were announced last year,
+including Intel’s purchase of McAfee, said Rob Owens, an analyst
+at Pacific Crest.  Symantec and Intel may use more acquisitions to fill gaps
+in their product portfolios, along with  Hewlett-Packard Co. (HPQ) ,
+International Business Machines Corp. and EMC Corp., Owens said.  Potential Targets  The companies likely to be acquired include Q1 Labs and
+Splunk Inc., said  Robert Breza , an analyst at  RBC Capital
+Markets . Waltham, Massachusetts-based Q1 Labs focuses on
+security information and event management, or SIEM, a category
+of software that monitors networks and manages security threats.
+Splunk, located in  San Francisco , makes software that can
+collect and index security data.  Symantec and McAfee both say they’re prepared to adapt to
+the new security market. “Any segment focused on cutting-edge
+security technology -- we’ve done very well,” said Francis deSouza, group president of enterprise products and services at
+ Mountain View , California-based Symantec. McAfee’s Kurtz said
+his company has “already started this transition and we’re
+ahead of the curve.”  McAfee sold itself to Intel so that it could merge security
+software with computer chips, a “much more next-generation way
+of viewing security,” said  Daniel Ives , an analyst at FBR
+Capital Markets in  New York . The first fruits of that effort
+will be released later this year.  Whitelist Programs  McAfee has also released so-called whitelist programs,
+which permit only approved applications to run. Whitelisting is
+one of the most promising of the newer security technologies in
+terms of ability to stop attacks, said Ullrich, the researcher
+at Bethesda, Maryland-based SANS.  Symantec, meanwhile, is now selling software that blocks
+files by “reputation.” Because today’s hackers often target
+one user at a time -- thwarting traditional filters -- the
+software screens files it’s never seen before.  An increase in security spending has given a boost to
+Symantec’s sales the past two quarters. That’s contributed to a
+31 percent gain in the shares over the past year. Symantec fell
+$1.15 to $17.12 at 4 p.m. today on the Nasdaq Stock Market.
+Shares of  Santa Clara , California-based Intel, which are little
+changed in the past 12 months, lost 96 cents to $20.85.  ‘Not Shy’  Symantec also will invest in areas such as data-loss
+prevention on mobile phones and ways to safely enable workers to
+use personal devices on corporate networks, deSouza said. That
+effort may include acquisitions.  “We will certainly do a lot of organic stuff, but if
+there’s something that’s interesting, we are not shy about
+buying it,” he said in an interview.  The comments echoed remarks by Chief Executive Officer
+ Enrique Salem , who said in May that Symantec plans to spend as
+much as $1.25 billion on acquisitions in mobile and cloud-
+computing markets. With cloud computing, users access software
+and information over the Internet from remote data centers.  Last October, Hewlett-Packard ponied up about $1.5 billion
+for ArcSight Inc., which makes SIEM technology. That helped turn
+Hewlett-Packard into the fifth-biggest security-software seller.
+Now it’s on the lookout for more acquisitions in the field, CEO
+ Leo Apotheker  said in March.  Dell Inc. (DELL) , Hewlett-Packard’s biggest rival in the personal-
+computer market, is making its own deals. In February, the
+company acquired SecureWorks Inc., a seller of managed security
+services. SecureWorks offers companies a service that monitors
+the security of their networks. It’s now hiring 240 people to
+handle the rising workload, said Jon Ramsey, an executive
+director at SecureWorks.  IPO Frenzy  Other startups are preparing for IPOs. That includes Q1
+Labs, which aims to go public by mid-2012, said CEO Brendan Hannigan. His company doesn’t want to be acquired, he said.  Imperva Inc., a maker of firewall software for Web
+applications, filed paperwork in June to sell shares to the
+public. Splunk is aiming for an IPO next year, said Joe
+Fitzpatrick, a spokesman for the company. Palo Alto Networks is
+considering going public as well, said spokesman Mike Haro. They
+declined to discuss takeover possibilities.  At WhiteHat Security, which scans websites for security
+flaws, either a public offering or a sale to a larger company
+are possibilities, said CEO Stephanie Fohn.  In any case, the next generation of technologies needs to
+take hold if companies want to keep pace with hackers, said
+Pacific Crest’s Owens.  “The existing solutions clearly aren’t getting the job
+done,” he said.  To contact the reporters on this story:
+Dina Bass in Seattle at   dbass2@bloomberg.net ;
+Zachary Tracer in New York at 
+ ztracer1@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

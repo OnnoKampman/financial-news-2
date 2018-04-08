@@ -1,0 +1,135 @@
+-- Leaks in a Big Data Age: Bloomberg Businessweek Opening Remarks
+-- B y   P a u l   F o r d
+-- 2013-06-13T11:57:07Z
+-- http://www.bloomberg.com/news/2013-06-13/leaks-in-a-big-data-age-bloomberg-businessweek-opening-remarks.html
+A very large  Internet company  once
+had the noble impulse to share some of its data with the
+research community. It made three months of log files from its
+search service available to all.  The company took many steps to preserve privacy, removing
+personal information and randomizing ID numbers in the belief
+that this would make it impossible to identify any of the more
+than 650,000 customers who’d used the service. But Internet
+hobbyists, professional researchers, and journalists were able
+to ferret out many of the users. No. 4417749, for example, was a
+Georgia widow. Another user appeared to be planning a murder.  Today, the AOL Search Log Scandal is remembered as one of
+the weirdest missteps in Internet history.  That took place an epoch ago, way back in 2006. Now anyone
+with a few dollars and a knack for computers can rent some cloud
+capacity and set up a stack of totally free technologies to deal
+with enormous amounts of data. Managing this data is a key part
+of functioning as a large Internet company.  If you’re the intelligence apparatus of a global
+superpower, and your job is to keep an eye on people who are
+contemplating terrible acts, this data is incredibly valuable.
+You’re going to do what you can to get your hands on it. Once
+you do, you can employ beautiful, supple pieces of software --
+some with point-and-click interfaces and little icons -- to help
+you understand what you’re seeing. It’s powerful stuff.  That’s essentially what’s been going on. From a series
+of leaks to the  Guardian newspaper  we’ve learned that  Verizon
+Communications Inc. (VZ)  turns over logs of all its calls -- the
+numbers, locations, and other “metadata,” but not audio from
+calls themselves -- to the National Security Agency every day.  Discovering Prism  Thanks to a 29-year-old consultant for  Booz Allen Hamilton
+Holding Corp. (BAH)  named Edward Snowden, we also learned of a program
+called Prism. The details are uncertain: At first it seemed that
+companies such as  Google Inc. (GOOG) , Apple Inc.,  Facebook Inc. (FB) , and
+Microsoft Corp. had given the NSA open access to all of their
+user information. Now it seems that these companies are merely
+streamlining the way that Foreign Intelligence Surveillance Act
+requests work, setting up a secured drop-point service for the
+NSA to use.  Of course, this implies that there are so many requests
+that a special expediting system is needed -— and since we don’t
+know how much data is being shared, nor which is domestic or
+international, the leak about the NSA program has become a
+global sensation.  Public debate about how to strike a balance between security
+and liberty in the age of global terrorism and big data is long
+overdue. And despite the insistence of the country’s elected
+leaders that the NSA’s activities pose no threat to law-abiding
+citizens, we can’t merely shrug off the details.  Total Absorption  The total absorption of our telecommunications system into
+the national-security apparatus should give all of us pause. But
+it shouldn’t be shocking. That’s because the vast digital trove
+of secrets amassed by the government isn’t a secret.  Amid all the fury over the Snowden leak, it’s easy to forget
+that when asked in a March 12 hearing if the NSA collects “any
+type of data at all” on millions of Americans, the director of
+National Intelligence,  James Clapper , said, “No sir, not
+wittingly.” Later, on NBC, Clapper offered this explanation:
+“What I was thinking of is looking at the Dewey Decimal numbers
+of those books in the metaphorical library.” Collecting data,
+he said, “would mean taking the books off the shelf, opening it
+up, and reading it.”  Human Card Catalog  In other words, the NSA is building a giant card catalog
+of human beings, many of whom are Americans. They’re not
+actually collecting their conversations, or the people
+themselves, but all the data about their conversations -— not
+the data but the metadata.  It’s entirely possible that Clapper believes he has drawn
+a sensible ethical line here. Yet as that AOL case in 2006 made
+clear, metadata can be revealing. Search histories or call logs
+like those the NSA ingests and presumably stores are hardly the
+same as Dewey Decimal numbers. They’re more like the index in
+the back of a book. What the NSA seems to be doing is treating
+hundreds of millions of people like open books and indexing
+them: Who are they, who do they know, where have they been, and
+so forth.  Data that’s well-defined and cleanly organized can be
+connected to whole other swaths of data. So once you build big
+organized indexes of human beings -- one of their search terms,
+one of their phone calls, for example -- you can merge them into
+one mega-index. And you can combine that mega-index with other
+mega-indexes.  Linking Power  There’s enormous power in linking things. Google famously
+got its start by judging the way one page connected to another
+on the Web. Facebook has its “social graph” of interconnected
+people and organizations. Person A connects to person B, and by
+inference to all of person B’s friends, too.  This capability is so powerful and compelling that it gets
+hard not to link things. That a midlevel external consultant
+such as Snowden could have access to so many poorly designed
+PowerPoint slides doesn’t necessarily demonstrate that the NSA
+is bad at keeping secrets. It could imply that these programs
+are so typical inside the organization that they’re almost taken
+for granted. Perhaps people like Director Clapper really do
+believe, or have chosen to believe, that building a huge index
+to the invisible library of humanity is essentially a clerical
+act that doesn’t fall under the same moral category as
+surveillance. He might argue that a program like Prism doesn’t
+involve digging up secrets so much as combining ways of seeing
+the world.  Statistical Self  There’s a weird side effect for the rest of us. We are not
+just ourselves anymore. Each one of us has a new, statistical
+self living in databases around the world. It’s those selves,
+uniquely identified bundles of behavior, that marketers target
+and companies try to reach. These are remarkable, distributed
+portraits of what we read, what we eat, and where we sleep.  When it comes to our statistical selves, the difference
+between the NSA and private companies such as Facebook or Google
+or  Amazon.com Inc. (AMZN)  lies in what the government can do with the
+data it collects. It’s building that giant index so that, if it
+needs to, it can actively cross the line between your
+statistical self and your real, physical self. It’s the
+difference between “would you like to receive local coupons for
+businesses you love?” and “why is there a van in front of our
+house?”  Less Snoopable  Do we have a choice? Not much of one, not yet. It’s
+possible but very burdensome to encrypt all of your data and
+become less snoopable. Americans, according to polls, just don’t
+care that much about this sort of privacy. As long as the line
+between the statistical self and the real self isn’t crossed,
+why worry? Full participation in modern culture, one could
+argue, requires us to continually leave these data trails, to
+build these other selves, all bound to be indexed inside the
+NSA’s secret empire at Fort Meade,  Maryland .  Will that change, now that the extent of surveillance has
+been revealed? It’s hard to imagine the president doing much,
+since the executive branch has become an executive dashboard: a
+world of online petitions and spreadsheets and briefings
+produced from the very data under discussion. The legislature
+could act, but no one ever went broke underestimating the
+technical savvy of the  U.S. Congress .  Requesting Files  There are, however, some basic questions an informed
+citizenry can and should ask. Where is this data being
+collected? Where does it come from? How long is it stored? Which
+databases are linked? And another one: Can I see? To its credit,
+the NSA does allow you to request your own file and see the
+information it has on record. You can mail the request to Fort
+Meade, fax it, or e-mail it (with a special digital signature).
+It takes a while to process; obviously the NSA would prefer not
+to share this information with you.  The irony is that the NSA is very likely the organization
+that best understands the digital self-portraits we’ve painted
+over the Internet years. Searching for terrorists, it’s built an
+unbelievably large index of human events.  As the conversation unfolds, it’s likely that the media
+will focus on individuals: Edward Snowden and his motives, or
+the terrorists caught out. But don’t forget all of that data,
+all those captured moments. We deserve to know this database’s
+shape and how it protects us.  As the weeks go on and people in power talk about needles,
+keep your eye on the haystack.  (Paul Ford is a programmer and the creator of
+SavePublishing.com.)  To contact the editor responsible for this story:
+Josh Tyrangiel at 
+ jtyrangiel@bloomberg.net  

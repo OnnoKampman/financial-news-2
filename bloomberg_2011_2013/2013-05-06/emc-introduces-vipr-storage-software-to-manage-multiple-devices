@@ -1,0 +1,43 @@
+-- EMC Introduces ViPR Storage Software to Manage Multiple Devices
+-- B y   D i n a   B a s s
+-- 2013-05-06T18:00:00Z
+-- http://www.bloomberg.com/news/2013-05-06/emc-introduces-vipr-storage-software-to-manage-multiple-devices.html
+EMC Corp. (EMC) , the world’s biggest maker
+of storage computers, is introducing software that makes it
+easier to manage and automate its own data-storage devices and
+those made by competitors such as  NetApp Inc. (NTAP)   Called ViPR, the product uses an idea called software-
+defined storage in which the program acts like a universal
+remote control, providing a common way to operate different
+machines, said Jeremy Burton, an EMC executive vice president.
+ViPR will also let users manage so-called object storage, which
+is better suited for many new Internet applications.  EMC, which last month reported first-quarter earnings that
+trailed analysts’ estimates, is working to find new ways to
+profit from the storage market as companies slow purchases,
+particularly of more expensive products. Customers who use EMC
+machines and also those from NetApp and commodity, unbranded
+hardware from  Asia , are looking for software that lets them
+easily manage rapidly expanding stores of information.  The company is showing ViPR at its EMC World conference in
+ Las Vegas  this month and it will be available in the second half
+of the year.  To build ViPR, EMC hired Amitabh Srivastava, who previously
+led  Microsoft Corp. (MSFT) ’s Azure cloud software and oversaw Windows
+operating system engineering efforts. ViPR needed to be similar
+to an operating system, which allows users to add devices like
+printers from various manufacturers in a common and consistent
+way, Burton said.  Virtualization Software  It also borrows from the virtualization software technology
+dominated by  VMware Inc. (VMW) , which is majority-owned by EMC. That
+software allows companies to manage a pool of available servers
+and easily assign an application to use certain parts of the
+server. Users can also move applications or expand them to more
+server space.  It’s a shift for EMC to focus this effort so much on
+software, said Burton. Typically EMC has sold programs with
+these kinds of capabilities only bundled with its own machines.
+Burton said more and more customers have data centers with
+multiple kinds of boxes, particularly as companies like Google
+Inc. and  Amazon.com Inc. (AMZN)  buy commodity machines.  “This is a pretty aggressive move for us to put software
+first and foremost in our strategy to manage storage,” he said.
+“We think a lot of people will buy the storage and software
+together but for the first time you have a choice.”  To contact the reporter on this story:
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

@@ -1,0 +1,147 @@
+-- Google as Benevolent Dictator Yanks Apps With Kill Switch: Tech
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-02-15T05:01:01Z
+-- http://www.bloomberg.com/news/2012-02-15/google-as-benevolent-dictator-yanks-smartphone-apps-with-kill-switch-tech.html
+Finnish developer Janne Kytomaki
+said he knew something was amiss last year when he noticed
+dozens of best-selling applications on  Google Inc. (GOOG) ’s  Android
+Market  listing the same incorrect author.  Kytomaki ran tests, identified the mislabeled software as a
+fast-moving attack and published the findings online.  Google responded swiftly. It yanked the apps from the
+marketplace and, using a little-known tactic to keep the malware
+from spreading, flipped a kill switch that reached into more
+than 250,000 infected Android smartphones and removed all
+vestiges of the software.  “I was positively surprised by how fast Google got the
+apps removed from the market and how fast they were able to roll
+out a tool for removing the malware,” Kytomaki said.  Google,  Apple Inc. (AAPL)  and  Microsoft Corp. (MSFT)  have with little
+fanfare embraced technology that lets technicians instantly and
+remotely purge unauthorized content from users’ machines. So-
+called kill switches are standard on Android handsets and
+iPhones, the smartphone leaders. The capability will soon become
+more widespread with the release of Microsoft’s Windows 8
+software for tablets and computers.  While their stated use is for the removal of harmful
+content, there’s no standard definition of what that means, and
+companies aren’t required to disclose when and how the tools are
+employed. The technology could be harnessed by a hacker to
+unleash a virus, a company to pry into a user’s private
+information or a government body to repress free speech, said
+ Eric Goldman , director of the  High Tech Law Institute  at Santa
+Clara University’s law school.  ‘Dictator-Philosopher-King’  “We have the benevolent dictator, philosopher-king type of
+model,” Goldman said. “You have someone who has absolute
+control over my hard drive in ways I may have never anticipated
+or consented to. If they use that power wisely, they actually
+make my life better. We don’t know if they use the power wisely.
+In fact, we may never know when they use their power at all.”  Kill switches are technologically unsophisticated
+administrative programs that run silently in the background.
+They have long existed in controlled networks, like at work,
+where technical staff has power over every machine. They haven’t
+been widely used on personal computers, whose users are online
+sporadically and inconsistently update security patches -- a
+failure that has fostered the spread of malware such as the
+Conficker worm, which has infected millions of Windows machines.  Smartphone users, on the other hand, are online all the
+time and must download applications from tightly controlled
+stores. By design, mobile software gives computer companies a
+second chance on security, said  Kevin Mahaffey , co-founder of
+Lookout Inc., a San Francisco security firm for smartphones.  ‘Overcorrection’  “The remote-removal tools are very much a response to the
+mistakes of the PC era,” Mahaffey said. “Whether or not it’s
+an overcorrection, I think history will tell us. It can be done
+right, but we as an industry need to tread carefully. It’s easy
+to imagine several dystopian futures that can arise from this.”  One concern is that Google, Microsoft and others could face
+external pressure to engage kill switches.  Governments are getting increasingly aggressive in
+demanding help from technology companies in censoring e-mail and
+the Internet, as BlackBerry maker  Research In Motion Ltd. (RIM) 
+learned in 2010 when  India ,  Saudi Arabia  and the  United Arab
+Emirates  pressured it to open customer communications to
+inspection.  “If you build a control into a device that the
+manufacturer and carrier can control, it will be used by
+governments,” said  Chris Wysopal , co-founder of Veracode Inc.,
+a security firm in Burlington,  Massachusetts .  Benefits, Drawbacks  Hackers are also getting more sophisticated at infiltrating
+protected networks, and privacy breaches are more common as
+personal data becomes the coin of the Internet realm. A kill
+switch feature carries clear benefits, and potentially dangerous
+drawbacks, Wysopal said.  “It can really be used to add security, but it can also be
+used to deny people their rights to communicate,” he said.
+“This is a place where there’s no clear doctrine. We haven’t
+heard anything clearly come out from an Apple or a Google
+saying, ‘Here’s when we’ll use our kill switch and when we
+won’t.’”  Representatives of  Mountain View , California-based Google
+and Microsoft, based in Redmond,  Washington , said they have used
+kill switches a handful of times, though they declined to
+provide specifics.  Tricking ‘Twilight’ Fans  The kill switch is reserved for “really egregious, really
+obvious cases” of harmful content, said  Hiroshi Lockheimer ,
+Google’s vice president of Android engineering.  “We’ve always viewed remote removal as the final option,”
+he said. “It’s not something we want to use.”  One instance came after  Jon Oberheide , a 28-year-old
+security researcher from  Ann Arbor ,  Michigan , duped fans of the
+“ Twilight ” teen vampire movies. Oberheide uploaded a fake app
+on the Android Market and billed it as a preview of the latest
+film in the series. The software was empty, except for a single
+screen shot.  Still, the app, which had been downloaded 200 times,
+provided an entrée that might have let Oberheide introduce
+malware onto devices. It also helped Oberheide goad Google into
+using its kill-switch option.  “It finally happened,” Oberheide said.  Google, taking a lesson from PC industry bouts with
+malware, has built in more aggressive protections since the
+first versions of Android, which began appearing in phones in
+2008. Google’s partners have sold more than 250 million Android
+devices, while Apple has sold more than 180 million iPhones.  Hacking Risk  Security experts said users would be at risk if hackers
+were able to hijack the mechanism Google uses to push software
+to the devices. Lockheimer said Google takes security of the
+mechanism seriously and has built-in protections.  Microsoft, which enabled the feature in Windows smartphones
+several years ago, said its takedowns have not involved malware.
+The violations concerned “technical issues and content
+issues,” said Todd Biggs, a director of  product management  at
+Microsoft.  “Revocation is a last resort, and it’s uncommon,” Biggs
+said. “We take that as a signpost that we’re on target toward
+our goal, which is safe, reliable apps for consumers.”  Microsoft disclosed last year that it was adding a kill
+switch to desktop and laptop software. It did so by posting the
+ terms of use  for an application store, a new feature for Windows
+8.  Amazon’s ‘1984’ Moment  RIM’s  licensing documents  for vendors say that RIM reserves
+the right to remove applications from users’ devices “for any
+reason whatsoever.” Marisa Conway, a spokeswoman for Waterloo,
+Ontario-based RIM, declined to comment.  Tom Neumayr , a spokesman for Cupertino, California-based
+Apple, also declined to comment.  Steve Jobs , Apple’s deceased
+co-founder, confirmed the existence of a kill switch in a 2008
+ interview  with the Wall Street Journal. Jobs said it would be
+“irresponsible” for Apple not to have a way to protect users
+from malicious applications. The comment appeared at the bottom
+of a story about iPhone app sales, in response to research that
+uncovered clues that such a feature existed on Apple devices.  The incident that encapsulates the danger of using a kill
+switch is  Amazon.com Inc. (AMZN) ’s use of the feature to delete some
+copies of  George Orwell ’s “1984” and “Animal Farm” novels
+from Kindle devices in 2009 after discovering a publisher had
+sold them without the necessary rights.  ‘Stupid, Thoughtless, Out of Line’  Customers were infuriated, and CEO  Jeff Bezos  called it
+“ stupid , thoughtless and painfully out of line with our
+principles.” The company vowed it would never delete books from
+Kindles again.  Amazon representatives didn’t respond to requests for
+comment.  While the emergence of kill switches shows the growing
+control that technology companies have assumed over users’
+devices, it also exposes the shortcomings of other methods of
+keeping users’ computers clean.  Stephanie Stambaugh, a 47-year-old freelance writer from
+Denver, has been battling a so-called botnet infection on her
+home PCs since December. Her Internet provider,  Comcast Corp. (CMCSA) ,
+alerted her to the infection, a type of program where a machine
+is controlled without the user’s consent that is becoming more
+common. She said that while she has run a dozen different
+antivirus and other cleanup programs, she is still getting
+alerts that her machine is infected.  Giving Up Privacy  Stambaugh said she can’t afford the $130 virus cleanup
+service that Comcast offers, and is considering reinstalling her
+operating software, the nuclear option of virus cleanups.  Cable-network operators such as Comcast have insight into
+which computers are compromised, since they can see when
+machines are silently reaching out to malicious sites. Yet they
+don’t have the same capabilities as companies such as Google,
+Microsoft and Apple. Aside from alerting customers, they are
+limited to quarantining poisoned computers, or restricting the
+amount of bandwidth they consume.  Cathy Avgiris, a senior vice president for Philadelphia-
+based Comcast, said fully cleaning an infection is tedious,
+imprecise work, since the most harmful programs are good at
+hiding themselves. She said Comcast would be leery of adopting a
+kill-switch function for that reason.  Even some security experts who see the value of a kill
+switch say its advantages don’t outweigh the potential risks.  “For most users, the ability to remotely remove apps is a
+good thing,” said Charlie Miller, a hacker of Apple products
+and a researcher at the security firm Accuvant Inc. However, “I
+don’t really like Google or anybody else with the ability to
+tell me what apps I can run or can’t run and to remotely manage
+my devices. For me, the added payoff of security doesn’t make up
+for the control and privacy you give up.”  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

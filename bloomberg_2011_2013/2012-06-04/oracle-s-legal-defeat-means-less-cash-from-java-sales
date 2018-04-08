@@ -1,0 +1,100 @@
+-- Oracle’s Legal Defeat Means Less Cash From Java Sales
+-- B y   A a r o n   R i c a d e l a
+-- 2012-06-05T04:01:01Z
+-- http://www.bloomberg.com/news/2012-06-04/oracle-s-legal-defeat-means-less-cash-from-java-sales.html
+     June 5 (Bloomberg)--  Oracle Corp. (ORCL) ’s defeat in a two-year-
+old lawsuit against  Google Inc. (GOOG)  will make it harder for the
+ software company  to harness demand for mobile devices and
+benefit from its $7.4 billion Sun Microsystems purchase.  A federal judge ruled on May 31 that Google didn’t violate
+Oracle’s copyrights on programming interfaces related to the
+Java computer language, which came as part of the 2010 Sun
+acquisition.  That means Google doesn’t have to pay Oracle to use
+elements of Java in its Android operating system, the software
+used in more than 300 million mobile devices. And since Apple
+Inc. doesn’t use Java in its iPhones, Oracle misses out on a
+chance to make money from the world’s two biggest providers of
+smartphone software just as Sun’s hardware business  shrinks .  “One of the crown jewels of the Sun acquisition was
+Java,” said  Brent Thill , an analyst at UBS AG in  San Francisco ,
+who has a buy rating on Oracle. “They had grand aspirations of
+being able to take the ubiquitous platform of Java and monetize
+it at a potentially higher rate. There are some questions now
+about what their ability to monetize this is.”  Google and Oracle have jousted since August 2010 to resolve
+Oracle’s allegation that Google ripped off software code and
+programming tools to build Android.  When Oracle announced the Sun deal in 2009, Chief Executive
+Officer Larry Ellison called Java “the single most important
+software asset we have ever acquired,” and he has been working
+to increase the $220 million in licensing fees Sun made from
+Java in 2008.  No Bonanza  “This question of, ’Why hasn’t anyone been able to make
+money from Java?’ is kind of a cliche in our industry,” said
+Andy van Dam, a computer science professor at  Brown University 
+in Providence,  Rhode Island , who teaches a course on Java and
+has written a textbook on it. “It’s never been a bonanza for
+anyone.”  The Java programming language, created at Sun in the mid-
+’90s, is free for anyone to use. Java lets developers write
+programs that work across a variety of operating systems and
+computers by translating their code into instructions various
+machines can understand. Part of the reason Oracle sued was to
+prevent Google and other companies from coming up with software
+that runs functions like Java without taking an official
+license.  When software developers write programs in Java, Oracle has
+a greater chance of selling its other products, such as computer
+servers or middleware, used to knit together various
+applications.  ‘Calling-Card’  For instance, if corporate technology departments creating
+ business software  choose Microsoft Corp.’s .Net technology, they
+might gravitate toward Microsoft’s operating system, middleware
+and database software, and servers running Intel Corp. chips,
+which compete with Oracle’s products.  “Java was essentially a calling card for Sun salesmen,”
+said John Rymer, an analyst at Forrester Research Inc.  That’s especially important as sales of Sun hardware
+decline.  Oracle’s hardware sales may drop 11 percent to $6.3 billion
+this year and slide for a fourth consecutive period in the
+fourth quarter, which ended in May, Walter Pritchard, an analyst
+at Citigroup Inc., wrote in a  report . Oracle’s database,
+middleware and business applications revenue may climb 9 percent
+this year to $26.2 billion and account for 70 percent of the
+company’s sales.  Oracle’s share of worldwide server revenue declined 7.4
+percent in the first quarter to 5.9 percent of a $12.4 billion
+market, according to market researcher  Gartner Inc .  Android Dominance  At issue in the court proceedings, which began on April 14,
+was Google’s use of instructions called application programming
+interfaces, which help developers create a wide range of
+programs -- from operating systems to smartphone applications.  Google says it legally used the APIs -- a central building
+block of computer programs -- to come up with its own compatible
+version of Java for Android without taking a license to use it.  In 2007, Google released Android using open-source
+technologies, including the  Linux operating system  and Apache
+Harmony, open-source software that replicates Java’s functions.
+ Mountain View , California-based Google gives Android away to
+smartphone and tablet makers, then makes money through resulting
+mobile app sales and users’ searches. Android devices now have
+51 percent of the U.S. smartphone market, according to market
+researcher  ComScore Inc.   Ellison Testimony  “Google didn’t want a platform Sun controlled,” said Al Hilwa, an analyst at market researcher IDC. “They wanted to
+bulldoze through things and move much faster.”  Oracle executives, who initially sought $1 billion in
+damages from Google for infringing copyrights, have said in
+court proceedings that Google copied Java’s functions without
+signing a contract to use it. That risks creating multiple,
+incompatible versions of the language, in turn hampering other
+developers’ ability to use it effectively.  “Just because something is open source doesn’t mean you
+can do whatever you want with it,” Ellison said on the witness
+stand April 17.  To be sure, Oracle gained much more than Java when buying
+Sun, including the Solaris operating system and Sparc chips. The
+business is “enormously profitable” and the deal has “already
+paid for itself” given Sun’s cash, Ellison said at a
+technology-industry conference May 30.  Appeal Plans  “Java is only one component of the Sun acquisition,” said
+UBS’s Thill. “They have had favorable legal battles in the past
+-- they can’t win ’em all. I don’t think this disrupts the
+overall story.”  Still, the court ruling may set back Oracle’s growth
+prospects. U.S. District Judge William Alsup ruled on May 31 in
+San Francisco that elements of Oracle’s APIs are free for anyone
+to use and Google didn’t infringe any of Oracle’s copyrights.
+Alsup said earlier in the trial that even though the jury
+decided there was infringement, Google wasn’t liable for damages
+because the jury deadlocked on the question of whether the
+company’s copying constituted “fair use.”  Oracle plans to appeal,  Deborah Hellinger , a company
+spokeswoman, said in an e-mail after the decision.  As Oracle seeks to make more money from Java than Sun ever
+did, its best chance now may be on an appeal.  “If  Larry Ellison  knows anything, it’s how to make
+money,” said Scott Kveton, CEO of Urban Airship, a Portland,
+Oregon, maker of software that developers can use in mobile
+apps. The fight against Google was “Oracle saying, ‘We want a
+piece of the action.’”  To contact the reporter on this story:
+Aaron Ricadela in San Francisco at 
+ aricadela@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

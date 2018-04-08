@@ -1,0 +1,97 @@
+-- How Google Can Avert the Next Financial Crisis
+-- B y   M a r k   B u c h a n a n
+-- 2012-08-06T22:30:48Z
+-- http://www.bloomberg.com/news/2012-08-06/how-google-might-help-us-avert-a-financial-crisis.html
+(Corrects first paragraph to reflect that Google doesn’t
+need to act.)  The mathematical insight that turned
+Google Inc. into a multibillion-dollar company has the potential
+to help the world avert the next financial crisis. If only banks
+made public the data required to do the job.  Sixteen years ago, the founders of Google -- computer
+scientists  Larry Page  and  Sergey Brin  -- introduced an algorithm
+to measure the “importance” of Web pages relative to any set
+of keywords.  Known as PageRank, it works on the notion that Web pages
+effectively vote for other pages by linking to them. The most
+important ones, Page and Brin reasoned, should be those drawing
+links from many other pages, especially from other really
+important ones.  If this definition sounds circular, it is. It also captures
+an authentic reality, which is why respecting it gives far
+superior results. Page and Brin’s breakthrough involved using
+mathematics to make it work. The required ideas don’t go much
+beyond high-school algebra, although it takes lots of computing
+power to make something as sprawling as the World Wide Web
+possible.  What could this have to do with finance? Quite a lot. The
+systemic risk that turned the U.S. subprime-lending crisis into
+a global disaster is circular, too. We can’t identify it simply
+by looking for the banks with the most assets or the biggest
+portfolios of risky loans. What matters is how many links a bank
+has to other institutions, how strong those links are and how
+risky those other banks are, not least because they too have
+links to other risky banks.  Creating DebtRank  Something like PageRank might be just the right thing to
+cut through it. That’s the argument, at least, made by a team of
+European physicists and economists  in a new study . Their
+algorithm, DebtRank, seeks to measure the total economic value
+that would be destroyed if a bank became distressed or went into
+default. It does so by moving outward from the bank through the
+web of links in the financial system to estimate all the various
+consequences likely to accrue from one failure. Banks connected
+to more banks with high DebtRank scores would, naturally, have
+higher DebtRank scores themselves. (I have put a little of the
+technical detail  on my blog .)  As a demonstration, the researchers calculated DebtRank on
+the basis of the known network of equity investments linking
+institutions -- pretty much the best they can do with publicly
+available data. If Bank A owns stock in Bank B, the two are
+linked. This network, of course, reflects only a subset of the
+many links created by derivatives and other instruments, so the
+calculation is a little like working out the best driving route
+from  New York  to  Los Angeles  while ignoring two-thirds of all
+the roads. Nevertheless, it’s useful for demonstrating what
+might be possible with more complete data.  The analysis offers some surprises. At the peak of the
+financial crisis, in November 2008, for example, DebtRank scores
+for the largest 20 or so banks show that simple bank size isn’t
+as important as we have come to think. Institutions such as
+Barclays Plc, Bank of America Corp., JPMorgan Chase & Co. and
+Royal Bank of Scotland Group Plc presented more systemic risk
+than did Citigroup Inc. or Deutsche Bank AG, despite being
+significantly smaller in total assets.  Wells Fargo & Co . stands
+out even more: It presented as much systemic risk as Citigroup,
+despite having only a quarter of the assets.  An algorithm alone can’t save the world, and this isn’t the
+final word on the best way to measure systemic risk. Yet the
+apparent superiority of the DebtRank approach underscores how
+our ability to monitor the financial system depends wholly on
+the availability of data. Currently, most of the information
+that would be needed to calculate DebtRank or any other similar
+measure is simply not public.  Imagine Transparency  Imagine a world in which banks and other financial
+institutions were legally required to disclose absolutely all of
+their assets and liabilities to central banks, which would in
+turn make that information public on a website. Regulators --
+indeed, anyone -- would then be able to see the whole network
+and assess a bank’s situation in full clarity. Anyone so
+inclined could calculate measures such as DebtRank and assess
+how much any particular bank is contributing to potential
+financial instability.  With full transparency, it’s just possible that the core
+business of lenders would go back to assessing the
+creditworthiness of borrowers. They would need to do so to
+maintain a good reputation and to borrow themselves, as any
+risky loans they made would be known to all. In such a
+situation, the economist and physicist Stefan Thurner of Medical
+University of Vienna  suggests , “financial institutions would
+only survive and prosper if they assess the risk of others
+better than their peers.”  That is a radical idea, so radical it is almost certainly a
+political nonstarter. But as the British physicist William
+Thomson, also known as Lord Kelvin, put it back in the 19th
+century: “What you cannot measure, you cannot hope to
+improve.” It’s a lasting piece of wisdom.  ( Mark Buchanan , a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  Read more opinion online from  Bloomberg View . Subscribe to
+receive a  daily e-mail  highlighting new View editorials, columns
+and op-ed articles.  Today’s highlights: the editors on how governments should brace
+for  rising sea levels  and on  Knight Capital and computerized
+trading ;  Jeffrey Goldberg  on  anti-Semitism in Egypt ; William
+Pesek on  rebuilding the tsunami zone  with microfinance;  Ramesh
+Ponnuru  on improving  political TV shows ; Betsey Stevenson and
+ Justin Wolfers  on the booming business in  empirical economics ;
+Richard Cohen on  whether fourth is good enough  at the Olympics;
+Caleb Scharf on how  massive black holes  regulate star creation.  To contact the writer of this article:
+Mark Buchanan at  buchanan.mark@gmail.com .  To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net . 

@@ -1,0 +1,123 @@
+-- High-Speed Trading Is Progress, Not Piracy
+-- B y   B e r n a r d   S .   D o n e f e r
+-- 2012-04-10T23:00:23Z
+-- http://www.bloomberg.com/news/2012-04-10/high-speed-trading-is-progress-not-piracy.html
+They steal from the rich and keep
+it! That sums up the criticism of E-pirates, aka high-frequency
+traders, the current bad boys of the financial markets. Many
+retail and institutional investors believe that as much as $2
+billion annually in high-frequency trading profits are coming
+out of their own pockets.  High-frequency technology has also been wrongly blamed for
+sudden instability in the markets, most recently when the Bats
+equity exchange canceled its initial public offering after a
+computer glitch caused chaotic trading in its own stock and
+others.  But criticisms of HFT are overblown, and regulating
+potential abuses isn’t as hard as many believe. In fact, more
+regulation -- unless wisely applied -- is likely to do more harm
+than good.  Critics are concerned that traders with “low-latency”
+technology, who often pay to locate their servers near an
+exchange’s systems to decrease messaging delays, have the
+earliest access to market data and may front-run other market
+participants.  But information-timing asymmetries have always existed.
+Specialists, over-the-counter market makers and floor traders
+have always had price information ahead of the rest of the
+market. In the mid-1990s, the “SOES bandits” took advantage of
+human market makers by using  Nasdaq (NDAQ) ’s Small Order Execution
+System to place orders before humans could update their bids and
+offers.  Speed of information and execution is everyone’s objective
+in the marketplace -- and the current trading infrastructure is
+no more than a logical extension of a long-term trend.  Benefits of HFT  That’s not a bad thing. If an investor plans to hold a
+stock for weeks, months or years, it isn’t clear that he is
+disadvantaged -- and, in fact, he may benefit from HFT.  In a study published March 19, Ana Avramovic of Credit
+Suisse Group AG showed that intraday volatility has actually
+been steadily decreasing since 2005, even as HFT has increased.
+In 2008, of course, daily volatility shot to the highest level
+since 1932, as traders responded to the collapse of Lehman
+Brothers Holdings Inc. But 2011 ranked only 16th in terms of
+daily volatility in that period, and was less volatile than 2000
+and 2002, years when HFT was less prevalent.  Avramovic also found tighter spreads and greater liquidity
+for the national best bid and offer since 2004. She concluded
+that, as far as HFTs were concerned, “at a minimum, markets are
+not worse for their presence.” This has been corroborated by a
+number of academic and industry sources.  The reason why is that automated market makers (or AMMs), a
+subset of HFTs, are liquidity providers. Their quote-and-cancel
+rates may be high, but unless they offer the best price in the
+market, they won’t get order flow.  Some argue that AMMs are less reliable than traditional
+market makers and that their liquidity evaporates in a crisis --
+as in the May 6, 2010 “flash crash.” Some AMMs did indeed abandon
+the market that day, and left the infamous, and now banned, stub
+quotes (buy at $0.01, sell at $10,000) as evidence. But AMM
+systems automatically stop trading when market data appear out
+of normal bounds or when regulatory capital reaches prescribed
+limits. These are reasonable actions. Had AMMs kept trading,
+they would have been criticized for not having appropriate risk
+systems in place.  More to the point, after a few minutes of analysis,
+managers responded to the flash crash by quickly restarting
+their systems and driving the market to a recovery within half
+an hour -- as opposed to the year it took to recover from the
+stock-market crash of 1987. A  report on the flash crash  by the
+Securities and Exchange Commission and the Commodity Futures
+Trading Commission notably did not place the blame with high-
+frequency traders. Those who question the reliability of AMM
+liquidity forget that liquidity itself has always been a
+fleeting and fitful commodity in our markets.  Further Scrutiny  Do esoteric quant models, which also require little human
+interaction, pose a threat? It depends on the model. Models
+based on momentum strategies may exacerbate volatility. But
+quants are most often based on arbitrage strategies, which I
+believe smooth markets and lower volatility. In examining many
+of the models, it is clear that they use techniques similar to
+the technical analysis I learned decades ago -- only now
+exploiting access to real-time data. This is neither illegal nor
+unexpected. It’s merely a consequence of technological advances.  Some HFT practices do require further scrutiny. Momentum
+ignition (in which traders take a position and then start rumors
+or place orders to quickly drive the market up or down) and
+layering (where traders place orders in the market-order books
+to imply substantial buying or selling pressure without the
+intention of executing) could both open the door to market
+manipulation.  But we need specificity in identifying such strategies,
+rather than cracking down on high-frequency traders as a
+homogenous class.  Regulators worldwide are responding to calls to address
+perceived market abuses. Studies have been undertaken by an
+alphabet soup of organizations: the FSA, IOSCO, SEC, CFTC,
+FINRA, FRB and others. All these studies suffer from the same
+problems -- too much anecdotal information and insufficient
+relevant data. We still can’t tell if a 300-share buy order
+originated as a market-maker quote, my aunt’s retail order, a
+quant trade or part of an institutional algorithm programmed to
+buy 500,000 shares.  There is a good solution to this problem. As I’ve
+previously argued, all market orders should be coded by trading
+strategy. This information would be available only for use by
+regulators, who could analyze trading trends or a problematic
+market event. However, since all order-management systems,
+financial-information exchange (or FIX) messages and execution
+systems would need to be modified to carry the data, many in the
+industry reject this suggestion as too costly. Hopefully that
+attitude will change.  Structural Reforms  In January 2010, the SEC identified a number of other
+problem areas that need to be addressed in its excellent
+“ concept release ” on market structure. Most important, we need
+to direct attention to broad structural issues. For example, we
+should consider creating new trading venues exclusive to
+institutional block investors, and perhaps allowing block
+traders to opt out of the SEC’s “trade-through rule,” which
+requires buying shares at the best available price, even when
+that’s a hindrance to large trades. A new call market limited to
+small and mid-cap stocks might increase liquidity and tighten
+spreads for stocks with low average  daily volume .  Finally, we need to ensure that all markets and asset
+classes are regulated in a consistent way. That means, for
+example, uniform rules across exchanges on circuit breakers,
+trading collars, trade-cancellation rules and systemic-risk
+models.  Let’s regulate to ensure fairness and not to hinder
+technological advance. Perhaps high-frequency traders are the
+more useful privateers -- and not the pirates.  (Bernard S. Donefer is a distinguished lecturer and
+associate director of the Subotnick Financial Services Center of
+ Baruch College , CUNY. The opinions expressed are his own.)  Read more online from  Bloomberg View .  Today’s highlights: The View editors on the similarities of the
+ budget plans  of President  Barack Obama  and Representative  Paul
+Ryan  and what a  nuclear deal  with  Iran  should look like. Clive
+Crook on why the  Federal Reserve  needs a new, simpler  mandate .
+ Margaret Carlson  on why there always will be waste, fraud and
+ abuse  in government.  Peter Orszag  on how  index funds  are
+boosting aluminum prices. William Pesek on growth in the
+ Philippines  reducing the  appeal of emigrating . Gary Shilling on
+why U.S.  employment gains  are linked to stagnating productivity.  To contact the writer of this article: Bernard S. Donefer at
+ bernard.donefer@baruch.cuny.edu .  To contact the editor responsible for this article: Timothy
+Lavin at  tlavin1@bloomberg.net . 

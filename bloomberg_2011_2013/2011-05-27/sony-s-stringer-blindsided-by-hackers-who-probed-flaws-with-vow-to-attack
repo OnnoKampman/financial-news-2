@@ -1,0 +1,144 @@
+-- 
+Sony Chief Stringer Blindsided by Hackers Seeking Revenge
+
+-- B y   C l i f f   E d w a r d s ,   M i c h a e l   R i l e y   a n d   J o s e p h   G a l a n t e
+-- 
+2011-05-27T18:43:55Z
+
+-- http://www.bloomberg.com/news/2011-05-27/sony-s-stringer-blindsided-by-hackers-who-probed-flaws-with-vow-to-attack.html
+Sony Corp. (6758) , besieged by hackers since
+April, considered its PlayStation Network an unlikely target
+even after threats by the online collective Anonymous and three
+separate security incidents in 2008.  The hacker group declared in April that it would wage a
+cyber war against Sony for trying to stop people from tinkering
+with the PlayStation 3. Three years earlier, the company faced
+three breaches in Europe, including one in which Sony said some
+PlayStation Network user data might have been stolen.  The repeated incidents should have warned Sony its online
+network was vulnerable, said Eugene Spafford, a computer science
+professor at Purdue University in  West Lafayette ,  Indiana . The
+failure to enact safeguards such as appointing a single chief of
+security may show Sony misunderstands the risks inherent in
+Chairman and Chief Executive Officer Howard Stringer’s networked
+strategy, he said.  “The evidence we’ve seen so far speaks to a lack of a good
+data management plan and a good security plan,” said Spafford,
+who  specializes  in information security, computer crime
+investigation and information ethics.  Japan ’s Ministry of Economy, Trade and Industry  said  today
+it told Sony to carry out preventive measures against data
+breaches, instructed the company to ease customer concerns over
+misuse of credit cards and share more information among
+affiliates.  Spreading Attacks  Sony has struggled to keep up with the barrage that started
+in mid-April. The Qriocity and PlayStation Network entertainment
+services were knocked out for almost a month, compromising data
+in more than 100 million accounts.  In the past week, the Tokyo-based company has been hit with
+smaller intrusions -- a breach at online-service unit  So-net
+Entertainment Corp. (3789)  led to the misuse of user names and
+passwords of 128 customers. This week, Sony shut web pages that
+were targeted in  Greece ,  Canada ,  Thailand  and  Indonesia .  The PlayStation Network will resume in Japan,  Taiwan ,
+ Singapore ,  Malaysia , Indonesia and Thailand tomorrow, while
+services in  South Korea  and  Hong Kong  will remain suspended
+until further notice, Sony said today.  “Obviously our network security didn’t stop the attack and
+we’re trying to understand why, and we’ve made big strides in
+bolstering our security,” Stringer said in a May 17 interview,
+before the most recent incidents.  Sony believed it had “good, robust security,” Stringer
+said. He rejected suggestions that the company is paying for a
+lack of vigilance and said he was unaware of the 2008 intrusion
+on the PlayStation Network.  ‘New Experience’  Since most users of PSN don’t pay, and most threats focus
+on stealing credit card information, the theft of passwords and
+other personal data from those services appeared less likely,
+Stringer said.  “We have a network that gave people services free,”
+Stringer said. “It didn’t seem like the likeliest place for an
+attack.”  When the April incursion first started, he didn’t know how
+serious it was, Stringer said. “I really don’t think I could
+apologize for not knowing,” he said. “It’s a whole new
+experience for everybody at this scale.”  Anonymous Vow  There were warning signs. Sony was singled out for
+retaliation by Anonymous, the hacker group that brought down the
+websites of  MasterCard Inc. (MA)  in December, after the company sued
+21-year-old George “GeoHot” Hotz for posting information on
+how to modify the PlayStation game console. The case was settled
+on March 31.  Anonymous announced its revenge campaign, “Operation
+Payback,” on the website anonnews.org. In an early May
+statement, the group denied involvement in the PlayStation and
+Qriocity breaches, while saying some members of the loosely
+organized collective may have been behind it.  Sony, Japan’s largest consumer-electronics exporter, must
+connect its televisions, Blu-ray players, game consoles and
+digital cameras via the Internet to music, movies and video
+games, Stringer has said. Unconnected devices rapidly become
+commodities as rivals compete for customers, he has said.  Sony’s investigation into the cause and search for suspects
+in the mid-April attack is ongoing, the company said. In a
+letter to U.S. lawmakers today, the company said it believes it
+knows how the network was penetrated. The company said it
+doesn’t know who was responsible or precisely how much
+information was taken.  ‘Failure of Trust’  On May 23, Sony said it may spend more than $170 million
+related to the hack. The company also said it discovered
+personal data may have been stolen from 8,500 user accounts in a
+music entertainment site in Greece.  The company erred in “thinking of these incidents in terms
+of a breach of systems” and communicating with its customers
+based on the severity of the failure, said Kevin Kosh, a partner
+at Waltham, Massachusetts-based Chen PR, which represents
+technology companies.  “When you’re a consumer-facing organization, that’s not
+the way you should think,” Kosh said. “It’s first and foremost
+a business failure and a failure of trust.”  In March 2008, Sony informed users in  Europe  that an
+unauthorized person may have gained access to personal data on
+PSN through personal computers. There is no evidence that
+personal information or credit-card data was taken, and the
+security flaw, which is unrelated to the recent attack, was
+fixed, the company said in response to questions for this story.  2008 Probes  London Metropolitan Police questioned a teenager about a
+separate, September 2008 hacking attack into Sony’s developer
+network, according to three people familiar with the incident.  The network has no identifying information about customers
+and isn’t attached to the PlayStation Network, Sony said in the
+statement provided by Dan Race, a spokesman.  In December 2008, a user revealed a flaw in Sony’s
+PlayStation Home virtual-world game for the PS3 that let him
+manipulate pictures and videos on his own device. That person
+never had access to Sony’s servers, the company said.  “The one incident that related to PlayStation Network,
+once we identified what it was, they went in and fixed it,”
+Race said. The April attacks were much more sophisticated than
+2008 and appear to be unrelated, Sony said.  In the weeks leading up to the April 16 breach, Sony missed
+key opportunities to plug holes in its system, said Bret
+McDanel, a security expert who monitored publicly available
+server logs.  Navy Server  The company’s network security should have seen a sustained
+probing of its systems from a Navy medical computer in  Southern
+California , which may have been used as a proxy server by
+potential attackers, McDanel said.  The company hasn’t turned up evidence of such a probe of
+its servers, said a person with knowledge of Sony’s efforts to
+trace the cause of the security break.  “The truth is that people test for vulnerabilities on
+network systems on a daily basis, and Sony is constantly
+monitoring for unauthorized activity, conducting our own
+vulnerability tests and making constant enhancements,” Race
+said.  He declined to say whether Sony found evidence of a probe
+from the  Department of Defense  server. Justin Cole, a spokesman
+for the U.S. Navy, didn’t return a call requesting comment.  The attack in April was launched through a server rented
+from  Amazon.com Inc. (AMZN) ’s cloud-computing service, a person with
+knowledge of the matter said this month. The account was shut
+and Amazon’s servers weren’t compromised, the person said.  Security Chief  Companies should consider carefully what data belongs on
+open servers, put one person in charge of administrative rights
+and keep track of how and when the network is accessed, said
+Yuichi Uzawa, a Tokyo-based senior consultant in charge of
+investigative response at Verizon Business. Nevertheless,
+determined hackers can often find ways to break in, he said.  “In the end, it’s extremely difficult to defend a network
+from an organized, targeted attack,” Uzawa said. “Early
+discovery of signs of intrusion through monitoring of key assets
+is the best defense.”  Sony said it takes network security and the protection of
+personal information seriously. There are multiple layers of
+protection and the company constantly monitors for unauthorized
+activity, including testing for vulnerabilities, it said.  Even so, Sony’s chief information officer oversaw network
+security as part of his duties until after the April attacks. A
+chief information-security officer was then appointed, reporting
+to the CIO, to provide an additional layer of security, the
+company said.  Failing to take such a step earlier was a critical
+shortcoming, according to Chen PR’s Kosh.  “Adding a CISO after the fact is like hiring a bodyguard
+after you’ve been fatally wounded,” Kosh said. “It creates an
+impression that there’s a lack of accountability.”  To contact the reporters on this story:
+Cliff Edwards in  San Francisco  at 
+ cedwards28@bloomberg.net ;
+Michael Riley in Washington at 
+ michaelriley@bloomberg.net ;
+Joseph Galante in San Francisco at 
+ jgalante3@bloomberg.net   To contact the editors responsible for this story:
+Anthony Palazzo at 
+ apalazzo@bloomberg.net ;
+Young-Sam Cho at 
+ ycho2@bloomberg.net ;
+Michael Hytha at 
+ mhytha@bloomberg.net ;
+Tom Giles at 
+ tgiles5@bloomberg.net  

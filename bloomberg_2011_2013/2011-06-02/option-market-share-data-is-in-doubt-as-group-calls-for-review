@@ -1,0 +1,133 @@
+-- 
+Option Market-Share Data Is in Doubt as Group Calls for Review
+
+-- B y   N i n a   M e h t a
+-- 
+2011-06-02T19:16:52Z
+
+-- http://www.bloomberg.com/news/2011-06-02/option-market-share-data-is-in-doubt-as-group-calls-for-review.html
+The U.S. options industry should
+consider standards for how exchanges calculate their market
+share because the current system may be sowing confusion,
+according to Barclays Plc’s J.P. Xenakis, who is co-chair of a
+group that is examining data issues.  Most exchanges use information from Chicago-based  OCC ,
+which clears all options trades executed by public venues. That
+tally produces a higher number than the volume of buy and sell
+requests matched by those venues, said Manisha Kimmel, executive
+director of the  Financial Information Forum , which formed a
+group co-chaired by Xenakis to examine what data are reported by
+both the OCC and Options Price Reporting Authority, which
+publishes trade and quotation data in real time.  “There’s a lot at stake,” said Xenakis, New York-based
+head of electronic options trading distribution at  Barclays
+Capital . Market share matters to exchanges, while retail brokers
+and investors may also look at the statistics to decide where to
+send orders. “It’s pretty important we find out what exactly
+we’re looking at when we look at market share and volume numbers
+from OCC and OPRA,” he said.  Options market share has become more important with nine
+exchanges competing for orders, up from six in 2007. A pilot
+program to quote some contracts in 1-cent price increments that
+year also produced changes in the rules some exchanges use to
+match orders, intensifying the battle for volume.  ‘Trying to Understand’  “We’re trying to understand the data,” said Kimmel. FIF
+is a subsidiary of New York-based  Jordan & Jordan , which
+specializes in securities industry information and compliance
+issues. “People are seeing different numbers in different
+places and want to know what the volume includes,” she said.  Exchanges, brokers and the media use  OCC  data to track
+options trading because it’s publicly available and segments
+each venue’s share of volume, Xenakis said. He added that it’s
+unclear how accurately the current market share data represents
+the industry’s actual trading volume, which can differ from the
+cleared volume. The FIF committee will also examine whether
+users may benefit from changes that identify certain types of
+orders in the OCC or OPRA data, he said.  Nasdaq OMX Group Inc. (NDAQ) ’s Nasdaq OMX PHLX exchange passed
+ CBOE Holdings Inc. (CBOE) ’s  Chicago Board Options Exchange  in May to
+become the biggest equity-derivatives venue in the U.S.,
+according to data released yesterday by OCC. It accounted for
+more than 24 percent of total options volume.  OPRA, which administers the dissemination of trade and
+quote information to brokers, investors and market-data vendors
+such as Thomson Reuters Corp. and Bloomberg LP, the parent of
+Bloomberg News, is managed by the nine options exchanges. It
+ charges  users for its data.  ‘Accurate’  The OCC data is an “accurate reflection” of the options
+information it’s meant to capture, according to Dan Busby, a
+vice president at OCC, which is owned by five exchanges. The
+organization, formerly called Options Clearing Corp.,  processes 
+all equity derivatives contracts traded on exchanges, as well as
+other products such as futures on individual stocks and
+securities-lending transactions.  OCC reports cleared trades, which may be a larger number
+than the total reported through  OPRA , Busby said. The difference
+occurs because orders sent from one exchange to another that has
+a better price result in two cleared trades for technical
+reasons. If the first exchange’s so-called executing broker
+ships the order to another venue and gets a trade, the broker
+produces another transaction to give that execution to the
+original customer, he said.  ‘Inflated Number’  That second transaction is a cleared trade reported in OCC
+volume figures. It is not reported to OPRA.  “There has been some deviation between cleared volume and
+OPRA volume for years,” Busby said. “The OCC volume is
+somewhat of an inflated number, but I don’t think we know
+exactly what that percentage is.”  About 3 percent of the OCC volume may come from cleared
+trades beyond the actual number of matched trades, based on data
+from December through April that FIF compiled, Kimmel said. An
+exchange’s market share may vary based on how much volume it
+routes to other venues, she said.  “There’s an awful lot of gray here in terms of what
+constitutes volume and market share,” said Thomas Knorring,
+vice president for trade processing at the  Chicago Board Options
+Exchange , the largest equity derivatives venue in 2010. “The
+OCC is very reliable about what it clears, and everyone
+understands their data is based on cleared trades.”  Less Than 5%  Since less than 5 percent of trades are currently double-
+counted and every exchange routes some orders to other markets
+for execution, it’s unclear whether the data used to track
+volume should be altered, Knorring said. He added that the OPRA
+data may not “sync with” OCC’s because trade messages sent to
+OPRA may not be updated or technology outages may lead to
+missing transactions.  Knorring is a member of the OPRA committee and chairs the
+policy committees of the  Consolidated Tape Association  and
+ Nasdaq UTP Plan , which oversee the dissemination of all quote
+and trade information for U.S.-listed equity securities. The
+members of the CTA and UTP include U.S.  stock exchanges  and the
+Financial Industry Regulatory Authority. Although additional
+transactions for orders routed to other venues also occur in
+equities, the 13 stock exchanges use data from the CTA and UTP
+to report their volume, not cleared trades, Knorring said.  ‘Objectionable’  The FIF group will also consider whether it may be useful
+to identify subsets of options volume reported by OPRA such as
+so-called dividend trades or complex orders.  Complex transactions include multiple legs. Dividend trades
+involve strategies aimed at profiting from investors’ failure to
+exercise options to collect a corporate dividend payment by a
+certain date. The  International Securities Exchange  has said the
+trades reflect “ objectionable principles ” and shouldn’t be
+included in market-share statistics. Nasdaq OMX’s PHLX exchange
+accounts for the vast majority of dividend trades, according to
+data compiled by ISE.  Segmenting the volume to break out dividend trades or
+complex orders may allow brokers and investors to gauge the type
+of orders exchanges attract, Xenakis said. That could provide
+clarity about the options volume that brokers and their
+customers can trade with on a particular exchange, he said.  While most exchanges use OCC data to represent U.S. options
+volume and calculate their share of trading, they don’t hew to a
+standard for reporting those numbers. The result is that their
+market shares don’t reflect comparable statistics.  “Because there’s no defined method for calculating market
+share, there are multiple institutions giving different views,”
+Xenakis said. “It muddies the water.”  No Dividends  NYSE Euronext , Nasdaq OMX Group and ISE, all based in New
+York, publish their markets’  share  of volume that excludes
+equity index options. Rival CBOE last month had 93 percent of
+the marketplace’s index volume in part because it is the only
+exchange allowed to trade options on the Standard & Poor’s 500
+Index. ISE  reports  its share of trading with and without
+dividend trades. CBOE Holdings  reports  the CBOE’s and C2 Options
+Exchange’s portion of total volume and equity options trading
+with and without dividend transactions.  BOX Options Exchange, based in  Boston ,  reports  its average
+daily volume for the month without providing its market share.
+Bats Global Markets in Lenexa,  Kansas ,  publishes  its so-called
+matched share of trading. Matched trades reflect the portion of
+volume matched on its own exchange and exclude orders routed to
+other markets that led to executions.  Knorring said that many arbitrary decisions involving
+market data have been made over the last couple decades as the
+options industry grew, and “it’s not in the industry’s best
+interest to rush to a judgment.”  While CBOE hasn’t yet formed an opinion on whether dividend
+and other trades should be marked as such by OPRA, Knorring said
+the exchanges should all calculate their share of trading the
+same way. The stock market has also gone through periods when
+data was reported differently by different venues, he said.  “There are different conventions for reporting options
+market share, but we should know what the real market share and
+real volume is,” Xenakis said. “We want consistency.”  To contact the reporter on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net  

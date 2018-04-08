@@ -1,0 +1,122 @@
+-- Tokyo System Errors Underscore Decline in Japan’s Equity Market
+-- B y   T o s h i r o   H a s e g a w a ,   Y o s h i a k i   N o h a r a   a n d   Y u m i   I k e d a
+-- 2012-08-07T15:01:01Z
+-- http://www.bloomberg.com/news/2012-08-07/second-system-error-in-seven-months-halts-tokyo-derivative-trade.html
+The  Tokyo Stock Exchange Group Inc. ’s
+second major system error in seven months took derivatives
+trading offline for 95 minutes and underscored the challenge
+ Japan  faces to revive its reputation as a global equity hub.  Share trading  volumes  fell,  government bonds  dropped and
+index-futures traders were diverted to Tokyo’s smaller  Osaka 
+rival during the halt, which lasted from 9:22 a.m. to 10:55
+a.m. local time. The error was compounded by a failure of backup
+systems similar to that which caused the biggest disruption in
+six years on Feb. 2, said Hiroaki Uji, director of trading 
+systems at the bourse.  The outage, which affected stock-index and government-bond
+futures and options, is a further setback for the Tokyo exchange
+as it pursues a takeover bid for the Osaka bourse, which
+dominates Japan’s equity derivatives business. The breakdown
+also highlights the vulnerability of global markets to computer
+malfunctions, a week after errors at market-maker  Knight Capital
+Group Inc. (KCG)  led to wrong trades for more than 100 U.S. stocks.  “They need to get to the bottom of this fast or people
+will lose faith in Tokyo trading,” said  Ayako Sera , a market
+strategist at Sumitomo Mitsui Trust Bank Ltd., which has 33
+trillion yen ($421 billion) in assets. “Fortunately, the error
+took place when the market was quiet. If a system glitch happens
+when the market’s busy, say, with the release of GDP data, and
+we can’t measure the market with JGB futures. That would be a
+mess.”  Earnings Peak  This week is the second-busiest for earnings on the 1,672-
+company Topix Index, which has lost 74 percent since a 1989
+peak. Japan, the world’s No. 2 equity market by value, has
+played host to $1.67 billion in initial public offerings this
+year, just 2.1 percent of the global total, according to data
+compiled by Bloomberg.  Japan’s reputation as a financial hub has been battered as
+more than two decades of equity losses and economic stagnation
+have combined with corporate governance scandals. Poor
+management at Tokyo Electric Power Co. was blamed in part for
+last year’s nuclear disaster, while senior board members of
+Olympus Corp. were found to have hidden losses through inflated
+fees after they fired whistle-blowing president  Michael Woodford 
+in October.  The initial error took place somewhere in the Tdex+ system
+used for derivatives at the bourse, not Arrowhead that handles
+cash equity transactions, Hiroki Kawai, director of information
+technology planning and corporate strategy at TSE, said. The 
+exact nature of the first problem or its cause were still 
+unknown, he said at a 7:45 p.m. press briefing yesterday in
+Tokyo. A switch that was supposed to automatically activate 
+backup systems didn’t work. A failure of backups was blamed for 
+the February crash as well.  ‘Shouldn’t Happen’  “This shouldn’t be happening at all, and it’s a risk for
+investors that they can’t trade when they want to,” said
+Kazuyuki Terao, chief investment officer of RCM Japan Co. RCM
+oversees about $153 billion globally. “A system error happened
+earlier as well, and I have to have reservations about what’s
+going on.”  Volume on the Topix Index was about 20 percent below the
+10-day average for the time of day when derivatives resumed
+trading. Average daily turnover for futures on Japan’s broadest
+measure of stock performance was 737 billion yen ($9.42 billion)
+in June, the Tokyo bourse said. Volume for the day was 12
+percent below the 10-day average.  “The failure of Topix futures reduced the number of people
+doing index arbitrage,” said Naohide Une, head of equity
+derivatives trading at Goldman Sachs Japan Co. “That’s why the
+system error is not only affecting futures, but making cash-
+equity trading thinner. I thought lower volume could cause
+unusually big moves in stocks, but what actually happened was
+market participants were holding back trading.”  Trading Osaka  The breakdown diverted investors to Osaka, the only place
+in Japan where contracts on the benchmark  Nikkei 225  Stock
+Average are traded, said Yuji Nakagawa, manager of derivatives
+trading at Toyo Securities Co. in Tokyo. Osaka Securities
+Exchange Co.  reported  daily average turnover of 1.29 trillion
+yen in contracts and mini contracts on the Nikkei 225 during
+June.  “It just prompted people to buy back short positions on
+the Topix using Nikkei 225 futures, because Nikkei 225 futures
+and cash are still being traded,” said Toyo Securities’
+Nakagawa. “I haven’t seen a major effect.”  The Tokyo exchange  reported  an average of 45,537 10-year
+JGB futures changed hands during June. An auction of 40-year
+Japanese government bonds went ahead as scheduled. Yields on the
+10-year JGB climbed as much as three basis points while the
+futures-trading halt was in force. The bonds extended losses
+after the lunch break.  “Because investors can’t sell futures before today’s
+auction, bonds are susceptible to selling for hedging,” said
+Okasan’s Suzuki, before trading was resumed. Okasan is one of
+the 25 primary dealers obliged to bid at government debt sales.  IT Synergies  The Tokyo exchange operator and the Osaka venue cited cost
+savings from integrating computer systems as a reason for
+merging when they announced the takeover bid on Nov. 22. Tokyo
+is offering 480,000 yen a share for up to 67 percent of Osaka in
+a tender offer that ends Aug. 22. The merger has the backing of
+Japan’s government as it tries to revive the country’s
+reputation as a global financial hub amid competition from  Hong
+Kong  and  Shanghai .  Tokyo started using Tdex+, based on NYSE Euronext’s Liffe
+Connect platform, for options trading in Oct. 2009 and for
+futures in November 2011.  Osaka’s J-Gate derivatives system uses technology from
+Nasdaq OMX Group Inc. and hasn’t had a major error since it
+began operations in February 2011, Fumihiro Yada, a spokesman
+for Osaka Securities Exchange, said by phone. Some firms
+reported that placed options orders didn’t appear on the system
+in February this year, Yada said.  ‘Ongoing Problems’  “It could be argued that the TSE is worth a little bit
+less now than it was yesterday, because they’ve got ongoing
+problems with their systems,” said Jonathan Foster, Singapore-
+based director of Global Special Situations at Religare Capital
+Markets Ltd., who advises some of Osaka’s shareholders. “There
+aren’t ongoing issues with the OSE. This perhaps demonstrates
+that the TSE needs them and their expertise more than the other
+way round.”  Tokyo  stopped trading in 241 securities for 3.5 hours on
+Feb. 2 after backup systems failed to compensate for a server
+error. That malfunction, which also occurred during the height
+of earnings season, followed a Dec. 29 cable problem that slowed
+trading. Another bug in 2006 derailed all trading.  A Tokyo Stock Exchange information technology  planning
+document  from September last year made building and maintaining
+“a trading system of the highest global standard” a core
+priority for developing the company’s derivatives market.  “Even without this, there’s a feeling that Japan’s markets
+are losing ground, and I want them to get their act together,”
+said Isao Kubo, a Tokyo-based equity strategist at Nissay Asset
+Management Corp., which oversees about 5 trillion yen ($64
+billion.) “The presence of Japanese stocks is shrinking, and
+so, as an investor, I want them to do their job for the
+future.”  To contact the reporters on this story:
+Toshiro Hasegawa in Tokyo at 
+ thasegawa6@bloomberg.net ;
+Yoshiaki Nohara in Tokyo at 
+ ynohara1@bloomberg.net ;
+Yumi Ikeda in Tokyo at 
+ yikeda4@bloomberg.net   To contact the editor responsible for this story:
+Nick Gentle at 
+ ngentle2@bloomberg.net  

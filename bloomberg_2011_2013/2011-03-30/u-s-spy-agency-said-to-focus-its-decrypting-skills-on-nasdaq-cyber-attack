@@ -1,0 +1,128 @@
+-- 
+U.S. Spy Agency Is Said to Investigate Nasdaq Hacker Attack
+
+-- B y   M i c h a e l   R i l e y
+-- 
+2011-03-30T15:03:14Z
+
+-- http://www.bloomberg.com/news/2011-03-30/u-s-spy-agency-said-to-focus-its-decrypting-skills-on-nasdaq-cyber-attack.html
+The  National Security Agency , the
+top U.S. electronic intelligence service, has joined a probe of
+the October cyber attack on  Nasdaq OMX Group Inc. (NDAQ)  amid evidence
+the intrusion by hackers was more severe than first disclosed,
+according to people familiar with the investigation.  The involvement of the NSA, which uses some of the world’s
+most powerful computers for electronic surveillance and
+decryption, may help the initial investigators --  Nasdaq  and the
+FBI -- determine more easily who attacked and what was taken. It
+may also show the attack endangered the security of the nation’s
+financial infrastructure.  “By bringing in the NSA, that means they think they’re
+either dealing with a state-sponsored attack or it’s an
+extraordinarily capable criminal organization,” said Joel Brenner, former head of U.S. counterintelligence in the Bush and
+Obama administrations, now at the  Washington  offices of the law
+firm Cooley LLP.  The NSA’s most important contribution to the probe may be
+its ability to unscramble encrypted messages that hackers use to
+extract data, said Ira Winkler, a former NSA analyst and chief
+security strategist at  Technodyne LLC , a Wayne, New Jersey-based
+information technology consulting firm.  The probe of the attack on the second biggest U.S. stock
+exchange operator, disclosed last month, is also being assisted
+by foreign intelligence agencies, said one of the people, who
+declined like the others to be identified because the
+investigation is confidential and in some cases classified. One
+of the people said the attack was more extensive than Nasdaq
+previously disclosed.  Motive Undetermined  Investigators have yet to determine which Nasdaq systems
+were breached and why, and it may take months for them to finish
+their work, two of the people familiar with the matter said.  Disclosure of the attack prompted the House Financial
+Services Committee in February to begin a review of the safety
+of the country’s financial infrastructure, according to the
+committee’s chairman,  Spencer Bachus , an Alabama Republican.  The widening investigation may also complicate Nasdaq’s
+ability to strike deals to buy or merge with other exchanges at
+a time when several competitors have announced such moves,
+according to Alexander Tabb, a partner at Tabb Group LLC, a
+financial-markets research firm based in Westborough,
+ Massachusetts .  “For an organization like Nasdaq, it does have an impact
+on the overall perception of their security, their resiliency
+and their value,” Tabb said. “For potential partners of the
+company, that has to be a concern.”  Exchange Acquisitions  More than $20 billion of exchange acquisitions have been
+announced in the past five months, including Singapore Exchange
+Ltd.’s $8.3 billion offer for ASX Ltd., London Stock Exchange
+Group Plc’s agreement to acquire TMX Group Inc. for $3.1
+billion, and  Deutsche Boerse AG (DB1) ’s $9.5 billion deal for  NYSE
+Euronext. (NYX)   Nasdaq operators will be hard pressed to assure potential
+partners that they have resolved the matter, Tabb said.  “Uncertainty in the functioning of the market is the
+biggest blow-back to this event,” Tabb said.  Nasdaq reported in February that the breach of its
+computers was limited to a single system known as  Directors
+Desk , a product used by board members of companies to exchange
+confidential information. The company said that as far as
+investigators could determine, no data or documents on that
+system were taken.  Other Systems  The NSA-assisted probe is now focused on how far the attack
+may have reached, including the breach of other systems, said
+one of the people familiar with the probe.  Frank De Maria, a Nasdaq spokesman, declined to comment on
+the effect the security breach might have on the company’s
+future strategic moves. He said Nasdaq is pursuing its probe and
+has no new information about the scope of the attack.  “With every company now, searching the networks for break-
+ins and insuring they’re secure has got to be a full-time job,”
+De Maria said in an interview.  NSA spokeswoman Vanee Vines declined to comment and
+referred all questions to the  Federal Bureau of Investigation ,
+the lead agency in the investigation. Jenny Shearer, a
+spokeswoman for the FBI, declined to comment.  Directors Desk, where the break-in was discovered, is
+designed to allow directors and executives of Nasdaq client
+companies to share private files, nonpublic information that
+cyber criminals could trade on. Nasdaq bought Directors Desk in
+2007 as part of its effort to diversify into corporate services.  Sophisticated hackers often enter computer networks through
+a single system, like Directors Desk, then hop to other secure
+parts of a computer network, the people familiar with the
+investigation said.  Network Vulnerabilities  Tabb said investigators are likely trying to chart which
+parts of Nasdaq’s network might have been accessible through
+Directors Desk and to ensure those vulnerabilities weren’t
+exploited -- a time-consuming process, he said.  Brenner, the former counter-intelligence chief, said he
+couldn’t independently confirm the NSA’s role in the probe. He
+said the agency rarely gets involved in investigating cyber
+attacks against companies.  Brenner said that the NSA played a part in probing the 2009
+attack against  Google Inc. (GOOG) , saying that represented “a major
+change” for the agency, which monitors the electronic
+communications of foreign entities and helps secure the networks
+of U.S. government agencies.  “It’s part of an increasing awareness that the distinction
+between economic and national security is rapidly breaking
+down,” he said.  Unique Tools  The NSA, based at Fort Meade,  Maryland , has the
+government’s most detailed knowledge of cyber attackers and
+their methods, Brenner said. A 2008 executive order signed by
+President  George W. Bush  expanded the NSA’s responsibilities to
+include monitoring U.S. government computer networks to detect
+cyber attacks.  The NSA could help identify and analyze electronic clues
+left behind by the hackers, including communication between the
+malicious software used in the attack and the outside computers
+that controlled it, Winkler said.  One challenge in analyzing the scope of cyber attacks is
+that the information captured by intruders is often sent out in
+an encrypted form, making it difficult to tell what was taken,
+according to the FBI.  Stealthy Software  Another obstacle, Brenner said, is that the most
+sophisticated cyber attacks employ stealthy software that’s
+programmed to go dormant for months and can be altered by
+hackers in response to changing security measures. That makes it
+difficult for investigators to be sure they’ve found all the
+malicious software and removed it from the network.  “In theory, the NSA should have the ability to reconstruct
+the data that is being obfuscated,” said Winkler, the former
+NSA analyst.  One line of inquiry pursued by investigators is whether the
+attack is linked to state-based cyber espionage or sabotage,
+which would raise national security concerns, one of the people
+familiar with the probe said.  De Maria, the Nasdaq spokesman, said in February in
+response to an article in the Wall Street Journal that the
+exchange had been hacked, that there was no evidence the trading
+platform the company runs was breached.  Security dangers include the potential for intruders to
+alter trading algorithms and cause a market crash, according to
+Larry Dignan, who writes for ZDNet, a technology publication
+that’s a unit of CBS Interactive.  Doubts on Trades  Brenner said intruders might do just as much damage by
+manipulating trading to create doubt about the validity of
+trades. More than 93 billion shares were traded on the Nasdaq
+exchange in the fourth quarter of 2010, equal to almost 20
+percent of the U.S. equities market, according to the company’s
+final quarterly report to the Securities and Exchange Commission
+last year.  Initial reports that the computers used in the attack were
+based in  Russia  weren’t correct, the people familiar with the
+probe said. The investigation has yet to determine the origin of
+the attack, they said.  The attack’s sophistication doesn’t rule out that an
+organized crime group was responsible, Brenner said. Criminal
+enterprises have narrowed the skills gap with state-sponsored
+hackers, launching attacks that can penetrate even the best-
+guarded computer networks, he said.  To contact the reporter on this story: Michael Riley in
+Washington at   michaelriley@bloomberg.net .  To contact the editor responsible for this story:
+David E. Rovella at   drovella@bloomberg.net . 

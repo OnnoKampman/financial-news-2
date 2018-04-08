@@ -1,0 +1,139 @@
+-- Why Some Housing Markets Do Better Than Others: Edward Glaeser
+-- B y   E d w a r d   G l a e s e r
+-- 2012-03-12T23:01:37Z
+-- http://www.bloomberg.com/news/2012-03-12/some-housing-markets-do-better-than-others-commentary-by-edward-glaeser.html
+As of December 2011, the  S&P Case-
+Shiller housing price index  had declined in 18 of the past 19
+months. In constant dollars, its 10-city index is about the same
+as it was in 1989, which suggests two lost decades.  Yet the national housing blahs obscure the fact that some
+markets, such as  New York  and  Washington , have seen  prices rise 
+substantially since 2000, while others, such as Detroit and Las
+Vegas, have experienced dramatic price declines.  The real value of housing in Detroit is 30 percent less
+than it was when  Case-Shiller (ETSLTOTL)  started tracking the city in 1991,
+and 52 percent less than it was a decade ago. Any real estate
+agents who told homebuyers that housing prices only go up
+deserve a place in the pantheon of great liars along with
+Pinocchio, Joe Isuzu and the Grand Duchess Anastasia.  The great housing boom and bust of the last decade wasn’t a
+unified national phenomenon. Figure 1 (attached) relates growth
+in real housing prices between 2001 and 2006 with declines in
+prices between 2006 and 2011. I use the  Federal Housing Finance
+Agency price indexes , because they are publicly available for
+far more metropolitan areas than the Case-Shiller data, and I
+include only those areas with more than 200,000 people in the
+2000 census. To keep the units similar, I divided price growth
+in both periods by the  price index  for 2001.  Lean Years  Joseph told Pharaoh to expect seven lean years after seven
+fat years; that’s also pretty normal in housing markets.
+Typically, markets give back  32 cents  of any extra price growth
+over a five-year period during the next five years.  But the past 10 years have been far more undulating than
+usual. Figure 1 shows that, on average, between 2006 and 2011,
+markets gave back 96 percent of their growth between 2001 and
+2006. The boom of the early 2000s was a tsunami that came and
+went, leaving the average market more or less where it started.  The figure also illustrates the remarkable range of
+metropolitan experiences. Some markets, such as Dallas and
+Houston, had barely any movement during either period. Others,
+such as  Las Vegas  and Riverside,  California , experienced
+extraordinary swings.  Those areas that lie significantly above the line
+experienced less decline between 2006 and 2011 than their
+earlier growth would have predicted, which means that they did
+relatively well over the entire decade. Washington and Midland,
+ Texas , are particularly notable in this group (being one of
+President  George W. Bush ’s hometowns seems to have been good for
+housing prices). The areas below the line, such as Detroit and
+Las Vegas, experienced post-2006 price declines that were lower
+than their previous price growth would warrant. In these areas,
+real prices were down over the decade.  The best way I have found to explain why certain areas
+experienced the biggest price swings over the past decade is by
+looking at temperatures in January. Figure 2 shows the
+relationship between that variable and percentage growth in
+prices (again relative to the 2001 baseline) and January
+temperature.  Obviously, there were exceptions -- Dallas and Houston --
+but overall, for every additional 10 degrees of January
+temperature, prices rose by an additional 12 percent. But after
+2006, the connection between warmer temperatures and price
+decline was just as strong as the warmth-growth connection
+before that year. Over the entire decade, there is no
+statistical link between warm Januaries and price growth.  Warm Weather  The fact that the great booms and busts occurred
+disproportionately in warmer places is a puzzle. Why should
+irrational exuberance dislike snow? One explanation is that
+because the Sun Belt has been  growing rapidly  for decades,
+buyers may have overestimated the impact that this trend would
+have on price growth. Certainly, buyers in Las Vegas and Phoenix
+don’t seem to have understood that the essentially unlimited
+housing supply in those areas will ultimately keep prices low
+even if  population growth  continued.  Although January temperature doesn’t explain price-growth
+variation over the entire decade, there are some variables that
+correlate with housing price growth between 2001 and 2011.  I’ve put together a little statistical model that can, with
+five variables for 2000, explain the majority of the
+heterogeneity in price growth between 2001 and 2011 for
+metropolitan areas with more than 400,000 people (as of 2000);
+the same five variables can explain over four-tenths of the
+variation in price growth for areas with more than 200,000
+people. Figure 3 shows the relationship between actual price
+growth and the growth predicted by the model.  There were some big misses. Midland and Washington did much
+better than expected (the Bush effect) and  Detroit  did worse.
+Yet overall, the model seems to do a reasonable job
+“explaining” the data.  Before I discuss the model, a few disclaimers. Above all,
+this is a data-mining exercise, which means that it should be
+taken with plenty of grains of salt. Some of the correlations
+(even though they are “statistically significant”) may be
+spurious. Moreover, there is no reason to have any confidence
+that past price relationships will hold in the future. My model
+just tries to make sense of what happened over the last decade.  The five factors that best predicted price growth between
+2001 and 2011 were the share of adults with college degrees,
+housing permits per capita, median family income, median housing
+value and the closest distance to the Atlantic Ocean or the  Gulf
+of Mexico . To reduce the power of outliers to shape results, I
+took logarithms of all of the variables, except the percent of
+adults with college degrees. Apart from distance to the ocean,
+the variables all come from the U.S. Census Bureau.  College Education  The only variable that had a positive correlation with
+price growth was the share of adults with college degrees as of
+2000. On average, if the share of adults with college degrees
+was 10 percentage points higher in 2000, price growth was 15
+percent higher over the past decade. Given the  strong
+correlation  between education and urban success over the past
+four decades, we shouldn’t be surprised when skills predict
+price growth.  But college education only has such a positive link with
+price growth once we control for income, and income (controlling
+for education) is strongly negatively associated with price
+growth over this time period. Holding education constant, 10
+percent higher family incomes in 2000 are associated with about
+4 percent lower price growth between 2001 and 2011.  If places were earning more than their skills would
+suggest, as of 2000, then they experienced less price growth.
+This result is in line with decades of  economic research  that
+finds that -- holding skills constant -- poorer places
+experience faster economic growth.  Technology catches up in backward areas, and companies
+reduce labor costs by coming to places with low wages relative
+to skills. As previously poorer places catch up economically,
+their housing prices also grow more quickly.  Housing prices  also typically converge, and higher prices
+in 2000 were strongly associated with less price growth between
+2001 and 2011. Places with prices that were 10 percent higher in
+2000 experienced, on average, 2 percent less price growth.  There are two plausible explanations for why price growth
+typically declined by 3 percent as distance to the coasts
+doubled. One explanation is that coastal America contains the
+most economically productive parts of the country, and demand
+for housing in these areas has been more robust. A second
+explanation is that there is just so much empty space between
+the oceans that abundant supply limits the growth of housing
+prices.  The fact that abundant supply limits price growth is
+certainly the best explanation why permits per capita are so
+strongly associated with lower price growth between 2001 and
+2011. Figure 4 shows the relationship between average price
+growth and permits per 100 people in 2000, where I have grouped
+those areas with more than 10 permits per 1,000 together in the
+right-most bar. The areas with the least permitting activity in
+2000 had average real price growth of about 15 percent; the
+areas with the most permitting activity had real price declines
+of 13 percent.  Oversupply and Demand  No matter which way the macroeconomic winds may blow,
+housing price will ultimately be determined by the intersection
+of supply and demand. Places that permit a lot of new homes,
+such as Las Vegas and Phoenix, will ultimately see limited
+housing price growth even if demand is robust. Places that
+permit very little will tend to be expensive, as long as they
+have the kind of dynamic skill-driven economy that keeps housing
+demand high.  Indeed, it’s precisely because I like affordable housing
+just as much as I like inexpensive computers and cars, that I
+typically favor fewer restrictions on housing construction.  ( Edward Glaeser , an economics professor at  Harvard
+University , is a Bloomberg View columnist. He is the author of
+“Triumph of the City.” The opinions expressed are his own.)  Read more opinion online from  Bloomberg View .  To contact the writer of this article:
+Edward Glaeser at  eglaeser@harvard.edu .  To contact the editor responsible for this article:
+Max Berley at   mberley@bloomberg.net . 

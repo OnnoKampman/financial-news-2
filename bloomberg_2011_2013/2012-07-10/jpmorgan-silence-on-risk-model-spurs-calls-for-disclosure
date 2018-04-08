@@ -1,0 +1,188 @@
+-- JPMorgan Silence on Risk Model Spurs Calls for Disclosure
+-- B y   B r a d l e y   K e o u n
+-- 2012-07-10T17:17:23Z
+-- http://www.bloomberg.com/news/2012-07-10/jpmorgan-silence-on-risk-model-spurs-calls-for-disclosure.html
+JPMorgan Chase & Co. (JPM) ’s multibillion-
+dollar trading loss exposed an industry practice that U.S.
+regulators are now likely to clamp down on: Banks keep investors
+in the dark about how they calculate trading risks.  The U.S. Securities and Exchange Commission is probing
+JPMorgan’s belated May 10 disclosure that a change to its
+mathematical model for gauging trading risk helped fuel the loss
+in its chief investment office. While the SEC would have to
+prove that the biggest  U.S. bank  improperly kept important
+information from investors, regulators probably will press Wall
+Street firms to tell more about the risks they’re taking, three
+former SEC lawyers said.  “The SEC and investors are learning that apparently the
+compliance folks and financial folks at very senior levels at
+JPMorgan do not think it’s important to share really significant
+modeling changes,” said Elizabeth Nowicki, a former attorney in
+the SEC general counsel’s office who’s now an associate law
+professor at  Tulane University  in New Orleans.  So far, New York-based JPMorgan has added a warning in its
+most  recent quarterly report  that risk models are continually
+tweaked to account for “improvements” in modeling techniques,
+and the head of the SEC has publicly asserted that banks should
+disclose significant changes and the reasons.  The dispute revolves around value-at-risk, the main and
+sometimes only empirical gauge that investors get as they try to
+fathom how much a bank could lose if its trading bets go bad.
+Wall Street firms routinely give only broad outlines of how
+their mathematicians calculate VaR, according to data compiled
+by Bloomberg, and almost nothing about changes in statistical
+assumptions or the prices they choose to feed into their models.  London Whale  The skewed comparisons can leave investors guessing about
+whether the potential for loss is rising or falling, according
+to risk analysts. Adding to the muddle, some bankers including
+JPMorgan Chief Executive Officer  Jamie Dimon  have told investors
+not to rely too much on VaR, calling it just one part of their
+effort to manage risks at the biggest lenders.  SEC Chairman  Mary Schapiro  told a Congressional panel last
+month that her agency is scrutinizing the banks’ disclosures
+about the change in VaR models for its chief investment office,
+which invests the banks’ excess cash. The Federal Reserve and
+Office of the Comptroller of the Currency are  examining  why the
+change was made and whether it’s a sign of weakness in risk-
+management practices.  Formula Changed  They’re asking because JPMorgan changed its calculation
+methods on Jan. 15 for the CIO as the unit was grappling with
+how to unwind stakes held by Bruno Iksil. The U.K.-based
+executive was dubbed “the London Whale” after his trades
+became so big that they distorted prices in an illiquid market,
+making it hard to get out of the positions.  Losses on the trades may have climbed to $4 billion in the
+second quarter, according to  John McDonald , an analyst with
+Sanford C. Bernstein & Co., far exceeding the amounts predicted
+by JPMorgan’s VaR gauge.  Value-at-risk represents the maximum trading loss that
+might be expected by JPMorgan on 95 out of 100 trading days. The
+SEC  ordered  banks to disclose information about their market
+risks through a rule adopted in 1997.  ‘Nefarious Purposes’  JPMorgan didn’t tell investors about the change in its
+formula before it took effect, or in its first-quarter earnings
+report on April 13, when it said the figure averaged $67
+million. It wasn’t until May 10, after losses mounted to about
+$2 billion, that the bank disclosed that the formula had changed
+-- and that it had been discarded in favor of the old one, which
+showed average VaR was actually $129 million. JPMorgan’s shares
+have tumbled 17 percent since then through yesterday, the worst
+showing among the four biggest U.S. banks.  Dimon, 56, told a Congressional panel last month that his
+bank has hundreds of computer-based models for estimating
+trading risk and they’re constantly updated. He said that the
+change in the VaR model and its lower reading “did effectively
+increase the amount of risk that this unit was able to take,”
+adding he didn’t believe it was altered for “nefarious
+purposes.”  There’s “tremendous subjectivity” in how VaR is
+calculated, said  Aaron Brown , a former  Citigroup Inc. (C)  and  Morgan
+Stanley (MS)  executive who’s now head of risk management at hedge
+fund AQR Capital Management LLC in Greenwich, Connecticut. In
+his 32-year career, Brown said, he had never seen a bank
+disclose a change in the risk model for a specific trading desk.  ‘Continuously Evaluated’  “What would you tell people, that we changed this
+parameter that we never told you about in the first place?”
+Brown said. The threshold might depend on the potential impact,
+he said. “Maybe it was so big it should have been disclosed.”  Not once in the three years before JPMorgan’s trading loss
+did the bank disclose a change in any risk models for specific
+trading desks, according to data compiled by Bloomberg.  Underscoring the point, JPMorgan’s  quarterly report  on May
+10 included a disclaimer -- for the first time -- that risk
+models are changed frequently.  “VaR models are continuously evaluated and enhanced in
+response to changes in the composition of the firm’s portfolios,
+changes in market conditions and dynamics, improvements in the
+firm’s modeling techniques, system capabilities and other
+factors,” the bank said on page 73 of the 178-page report.  Jennifer Zuccarelli , a JPMorgan spokeswoman, declined to
+comment on VaR, citing the bank’s plan to discuss the CIO’s
+losses in conjunction with a July 13 second-quarter earnings
+announcement.  John Nester , an SEC spokesman, declined to comment
+on the agency’s investigation.  JPMorgan isn’t alone in tweaking its risk models behind the
+scenes or employing discretion to calculate the figure.  Goldman
+Sachs Group Inc. (GS)  and Citigroup also make changes to their VaR
+models regularly, people with knowledge of the matter said.  Analysts’ Questions  Schapiro, 57,  testified  before the House Financial Services
+Committee on June 19 that banks’ quarterly reports are supposed
+to include “discussion and analysis” of any “material changes
+in the market risk.”  They must also “disclose any changes to key model
+characteristics and to the assumptions and parameters used, as
+well as the reasons for the change,” she said. “Changes to the
+scope of the instruments included within the model and the
+reasons for those changes must be disclosed as well.”  Value-at-risk is critical enough to investors that analysts
+including  Guy Moszkowski , formerly of  Bank of America Corp. (BAC) , and
+ Glenn Schorr  of Nomura Holdings Inc. asked Dimon during at least
+three quarterly conference calls about changes in the figure.  Other Tools  Dimon, responding in April 2009, said that he didn’t “pay
+that much attention to VaR.” In January 2010, he told analysts
+that it was “really not an accurate measure of risk.” JPMorgan
+uses data going back one year, Dimon said, so the figure might
+fall just because a volatile week was no longer included in the
+calculation. He didn’t mention then that the models themselves
+were constantly changing.  “It was exceedingly difficult for third-party analysts to
+diagnose the magnitude of JPMorgan’s CIO hedging portfolio risk
+buildup based on bank-provided disclosures,”  David Hendler , an
+analyst at CreditSights Inc., wrote in a June 18 report. Only
+“on-the-ground”  hedge funds  trading credit derivatives could
+discern the buildup, he wrote.  JPMorgan supplements its VaR modeling with other risk-
+management tools, including “stress tests,” in which bank
+officials estimate how trading positions might perform in
+deteriorating economic conditions or market turmoil, according
+to the bank’s annual report. The results of the internal stress
+tests aren’t disclosed.  Harvey Pitt , a former SEC chairman, said the agency might
+allege that when JPMorgan adopted the new VaR model in January,
+it should have disclosed any perceived defects with the old one
+-- and how results might have differed with the new model.  SEC’s Concerns  “The SEC would be concerned about how JPMorgan became
+aware of the original problems, how it satisfied itself that it
+had repaired those deficiencies and how much assurance it had
+that its new model would perform,” Pitt wrote in an e-mail.
+“JPMorgan did not bother to address these issues.”  Based on past regulatory practice, bringing a case against
+the bank may not be warranted, said Edward Greene, a former SEC
+general counsel who later served as legal chief for Citigroup’s
+trading and investment-banking division.  “All these banks have a VaR approach, and they come up
+with a range of values that they disclose, but to my knowledge
+the SEC has never required you to give much background as to how
+you change it or adjust it,” said Greene, now senior counsel at
+the law firm Cleary Gottlieb Steen & Hamilton LLP in New York.
+The SEC “may have to show that there would be some intent to
+deceive the market, or reckless disregard.”  Evolving Models  Banks typically disclose only changes to the broadest
+parameters of their risk models. In 2008, for example, JPMorgan
+switched its VaR formula to use the 95 percent “confidence
+level” from 99 percent, according to the bank’s  annual report
+for that year . The move, which reduced the bank’s year-end VaR
+to $286 million from $317 million, was intended to “provide a
+more stable measure,” the bank said.  Goldman Sachs changed its VaR model in 2004 to exclude
+“distressed asset portfolios” that couldn’t “be properly
+measured,” according to the bank’s  annual report  filed in
+February 2005. The impact of the change was “not material to
+prior periods,” so previously reported figures weren’t
+adjusted, New York-based Goldman Sachs said. The company’s
+recent filings haven’t disclosed changes to any VaR model for a
+particular trading desk.  Risk Estimates  Morgan Stanley, owner of world’s largest brokerage, has
+included a disclaimer in its  annual report  since at least 1998
+stating that its VaR model “evolves over time” in response to
+“improvements in modeling techniques and systems
+capabilities.” Bank of America’s  annual report  for this year
+included the line, “We continually review, evaluate and enhance
+our VaR model.”  Citigroup said in its annual report its VaR model is
+updated weekly. In the first quarter, a 10 percent drop in the
+New York-based bank’s average VaR compared with the prior three-
+month period was “primarily driven by a change in VaR model
+parameters,” according to a May 4 filing.  Jon Diat, a Citigroup spokesman, said the firm “provides
+extensive disclosure on value-at-risk.”  Mary Claire Delaney, a spokeswoman for Morgan Stanley in
+New York, declined to comment, as did  Jerry Dubrowski  at
+Charlotte, North Carolina-based Bank of America and Goldman
+Sachs’s  Michael DuVally .  ‘Subjective Judgment’  Risk modelers and mathematicians at banks routinely make
+choices that affect the VaR calculation, said AQR’s Brown, who
+in February was named “ risk manager of the year ” by the Global
+Association of Risk Professionals, a trade group. For instance,
+banks can base their risk estimates on absolute numbers or
+percentage changes.  “That is something that might change without somebody
+noting it in an annual report,” said Steve Allen, a former head
+of risk methodology for JPMorgan who retired in 2004. “It could
+have made a really big difference.”  When calculating VaR for an asset without a complete
+pricing history, traders and risk managers have to choose a
+“proxy” -- an asset whose price moves are believed to be
+similar to those of the asset being modeled.  “The choice of proxy is a subjective judgment,” said
+Allen, now a consultant based in New York.  Goldman Sachs regularly tweaks its models, Chief Financial
+Officer David Viniar said in May at a Citigroup-sponsored money-
+management conference in Napa County, California, according two
+people with knowledge of the remarks. What’s unusual is for a
+model change to result in a doubling of the VaR, Viniar said,
+according to the people, who asked not to be identified because
+the session wasn’t public.  ‘Terrible Precedent’  Viniar added that JPMorgan executives are good risk
+managers, one of the people said.  The SEC “could allege that the books and records were not
+accurate, or that they failed to disclose material facts or
+amend timely obligatory disclosures,” said  Jacob Frenkel , a
+former SEC enforcement lawyer who’s now at the law firm  Shulman
+Rogers Gandal Pordy & Ecker PA  in Potomac, Maryland. “But it is
+a terrible precedent if the SEC starts second-guessing or
+expecting that every tweak of a model or a calculation for
+legitimate reasons should somehow implicate a violation.”  To contact the reporter on this story:
+Bradley Keoun in New York at 
+ bkeoun@bloomberg.net   To contact the editor responsible for this story:
+David Scheer at 
+ dscheer@bloomberg.net  

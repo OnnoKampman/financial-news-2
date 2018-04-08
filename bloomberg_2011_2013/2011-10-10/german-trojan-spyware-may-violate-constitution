@@ -1,0 +1,56 @@
+-- 
+German Malware May Put PC’s Camera at Risk
+
+-- B y   C o r n e l i u s   R a h n   a n d   B r i a n   P a r k i n
+-- 
+2011-10-10T11:45:30Z
+
+-- http://www.bloomberg.com/news/2011-10-10/german-trojan-spyware-may-violate-constitution.html
+The German government is using
+spying software that violates the country’s constitutional law
+because it contains functions beyond the interception of
+Internet-based communication, a hacker organization said.  The malware, once installed on a computer, can receive
+software and remotely execute it, the Chaos Computer Club  said .
+It can also be used to control hardware such as microphones and
+cameras for room surveillance as well as upload falsified
+evidence to the target hard drive, said Hamburg-based CCC, which
+calls itself  Europe ’s largest hacker group.  The Federal Interior Ministry and its units did not employ
+the software examined by the CCC, ministry spokesman Markus
+Beyer said at a routine press conference today in Berlin.
+“That’s what is decisive for us,” said Beyer. He added that
+the software is “freely available” and three years old, while
+declining to say whether the software was designed by or for the
+government.  In 2008,  Germany ’s Federal Constitutional Court  ruled  that
+the secret infiltration of information technology systems is a
+grave encroachment on civil rights and can only be justified in
+some criminal investigations. The court laid out strict legal
+limitations for such probes.  “This refutes the claim that an effective separation of
+just wiretapping Internet technology and a full-blown trojan is
+possible in practice -- or even desired,” the hacker club said.
+“Functions clearly intended for breaking the law were
+implemented in this malware.”  A trojan is a software program that appears benign but
+performs functions that can be harmful to a computer user’s
+system. Unlike viruses, trojans don’t make copies of themselves.  Probe Called  The German government takes allegations about illegal
+surveillance software used by investigative authorities “very
+seriously” and will examine the claims at every level of its
+operations, chief government spokesman Steffen Seibert said at
+the same press conference today.  “The government values and defends the privacy of citizens
+also in the digital world,” Seibert said.  The Free Democratic Party, coalition partner of  Chancellor
+Angela Merkel ’s Christian Democratic Party, called yesterday for
+an investigation and a ban on the use of the software until the
+allegations are cleared.  The spy software contains security weaknesses that make it
+possible for third parties to control the target computer once
+the trojan is installed, the CCC said. As part of an effort to
+conceal the source of the attack, all data is routed through a
+ data center  in the U.S., which could violate “a fundamental
+principle of national sovereignty,” according to the CCC.  “It would be a very grave incident and clearly against the
+law should the allegation be accurate,” Wolfgang Bosbach,
+chairman of the German parliament’s interior-affairs committee
+and a member of Merkel’s party, told the public broadcaster
+Deutschlandfunk radio today.  To contact the reporters on this story:
+Cornelius Rahn in Frankfurt at 
+ crahn2@bloomberg.net ;
+Brian Parkin in Berlin at 
+ bparkin@bloomberg.net   To contact the editor responsible for this story:
+ Kenneth Wong  in Berlin at 
+ kwong11@bloomberg.net  

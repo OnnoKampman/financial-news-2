@@ -1,0 +1,112 @@
+-- Market Outages Highlight Exchanges’ Conflicts Over Data Streams
+-- B y   D a v e   M i c h a e l s ,   S a m   M a m u d i   a n d   M a t t h e w   P h i l i p s
+-- 2013-09-26T21:00:01Z
+-- http://www.bloomberg.com/news/2013-09-26/market-outages-highlight-exchanges-conflicts-over-data-streams.html
+On the morning of Sept. 12,
+executives of the nation’s major stock and options exchanges
+traveled to  Washington  to meet with Securities and Exchange
+Commission Chairman Mary Jo White. The summons was prompted by a
+rash of technical glitches on the exchanges, the most glaring of
+which hit on Aug. 22, when a software failure forced the Nasdaq
+to halt trading for three hours.  White told the executives to come back in two months with a
+“comprehensive action plan” for making the markets more
+resilient, Bloomberg Businessweek reports in its Sept. 30 issue.
+“Our homework assignments are clear,”  NYSE Euronext (NYX)  Chief
+Executive Officer  Duncan Niederauer  said to reporters afterward.
+“They require collaboration, and we’ve got 60 days.” Four days
+later, a glitch at an NYSE subsidiary helped bring the entire
+U.S. options market to a halt for 20 minutes.  Over the past decade, exchanges in the U.S. have evolved
+from physical places where trading is conducted by humans into
+vast electronic networks where computers buy and sell stocks in
+milliseconds. Despite -- or because of -- this complexity, one
+glitch can crash the entire system. This weakness was most
+apparent with the Nasdaq outage. The failure occurred in a piece
+of software called a securities information processor, or SIP,
+which is responsible for distributing stock price data to
+brokers, traders, and media outlets. The SIP is what feeds the
+tickers crawling along the bottom of the screen on CNBC or
+Bloomberg TV, and on financial websites. When that failed,
+exchange officials decided to shut down all trading so that
+investors who still had access to price data couldn’t exploit
+the situation.  40-year-old System  The system for conveying trading information dates to
+regulations put in place almost 40 years ago. Brokers and money
+managers contend that this basic pricing function, the backbone
+of the market, has not kept up with technological advancements
+that have spread across the exchanges, resulting in a two-tier
+system where most investors get inferior information.  “Everyone will tell you the SIP is fair,” says R. Cromwell Coulson, president and CEO of the OTC Markets Group,
+which operates a trading venue for 10,000 stocks that aren’t
+listed on NYSE or Nasdaq. “But the SIP isn’t fair.”  In 1975, the SEC forced the exchanges -- the New York Stock
+Exchange, the  American Stock Exchange , Nasdaq, and a handful of
+regional exchanges -- to combine their trading data and publish
+the latest prices at which stocks changed hands on one central
+data feed accessible to brokers and investors. The idea was to
+level the playing field so all market participants could see the
+best prices for every stock, no matter where it was listed.  Mergers, Acquisitions  NYSE merged with Euronext in 2007, then bought Amex a year
+later. Nasdaq bought the Boston and Philadelphia stock exchanges
+in 2007, then purchased the Nordic stock exchange group OMX in
+early 2008. Both are now public companies that face investor
+pressure to boost revenue and earnings. As trading has become
+more automated they have lost share to new electronic exchanges
+such as BATS and Direct Edge. Even so, the SIP operated by
+ Nasdaq  and NYSE remains responsible for disseminating market
+data to the public.  The SEC allows the exchanges to charge brokers, money
+managers, and media a fee for the information. That money is
+split among all the exchanges based roughly on their market
+share of total trading volume. Over the years, the public data
+had been a lucrative source of revenue. They generated $463.9
+million in 2008, according to the SEC. After deducting $14.8
+million for expenses associated with collecting the data, the
+exchanges divvied up $449.1 million.  Revenue Declines  As trading volumes have diminished over the last five
+years, though, so has the revenue. According to data compiled by
+financial market consultant Tabb Group, public data revenue fell
+to $445 million in 2012 and is expected to come in at about $430
+million in 2013.  NYSE and Nasdaq have helped offset the decline in public
+data revenue by selling proprietary data feeds to a variety of
+clients including high-frequency traders. These feeds arrive
+sooner and contain more information than the SIP -- including
+all prices being offered, not just the best ones. By law, prices
+must be entered into the public and proprietary feeds at the
+same time, but the proprietary systems process and transmit the
+information more quickly. From 2006 to 2012, Nasdaq’s
+proprietary market data revenue more than doubled, to $150
+million from $69.6 million, while its public data revenue fell
+to $117 million last year from $149 million in 2007.  Some market participants suggest there is a clear conflict
+of interest that has led Nasdaq and NYSE to neglect the public
+feed, making it more susceptible to breakdowns.  ‘No Question’  “There is no question they have underinvested” in the
+SIP, says Jeffrey Brown, a senior vice president at  Charles
+Schwab . As a discount brokerage, Brown says, Schwab can’t afford
+to buy the proprietary feeds for all its clients, which puts
+them at a disadvantage. The system is “flawed and degrades the
+data we can provide to our clients,” he says.  Brokers should have a choice of market data providers
+operating multiple versions of the SIP, says OTC Markets’
+Coulson. Not only would that add some redundancy to the system,
+it would give independent companies an incentive to make the
+public feed as fast and efficient as possible. “There is zero
+competition or choice,” he says. “What kind of information
+provider doesn’t change their data? Doesn’t make it deeper?
+Doesn’t improve the quality every year?”  Nasdaq and NYSE maintain that they’ve invested adequately
+in the public feed. While the system has been made faster over
+the past few years, both exchanges admit that the public data
+feed is still slower than proprietary ones.  Committee Budget  The amount that Nasdaq and NYSE must spend to maintain the
+public feed is determined by a committee comprised of executives
+from the exchanges and from the brokerage industry’s self-regulator, the Financial Industry Regulatory Authority. Neither
+the committee nor Finra would comment.  The issue of public vs. private data is shaping up to be a
+core part of White’s effort to make the exchanges more
+resilient. Even before the Nasdaq outage, the SEC introduced a
+proposed rule that would require exchanges to adopt policies to
+prevent failures, stress-test their systems, and report
+disruptions to the SEC. The proposal, Regulation SCI, would
+replace a voluntary program created after the crash of 1987 and
+expand the SEC’s oversight.  “White needs to be convinced these guys, all of them, take
+this with the utmost seriousness,” says Andrew Klein, a former
+director of trading and markets at the SEC and now a partner at
+New York-based law firm Schiff Hardin. “It’s starting to look
+like Nasdaq can’t stop these problems, and they need to stop.”  To contact the reporters on this story:
+Dave Michaels in Washington at 
+ dmichaels5@bloomberg.net ;
+Sam Mamudi in  New York  at 
+ smamudi@bloomberg.net ;
+Matthew Philips in Washington at 
+ mphilips3@bloomberg.net   To contact the editor responsible for this story:
+ Maura Reynolds  at 
+ mreynolds34@bloomberg.net  

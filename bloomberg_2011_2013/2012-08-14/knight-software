@@ -1,0 +1,141 @@
+-- Knight Trading Loss Said to Be Linked to Dormant Software
+-- B y   S t e p h a n i e   R u h l e ,   C h r i s t i n e   H a r p e r   a n d   N i n a   M e h t a
+-- 2012-08-14T22:23:40Z
+-- http://www.bloomberg.com/news/2012-08-14/knight-software.html
+Knight Capital Group Inc. (KCG) ’s $440
+million trading loss stemmed from old computer software that was
+inadvertently reactivated when a new program was installed,
+according to two people briefed on the matter.  Once triggered on Aug. 1, the dormant system started
+multiplying  stock trades  by one thousand, according to the
+people, who requested anonymity because the firm hasn’t
+commented publicly on what caused the error. Knight’s staff
+looked through eight sets of software before determining what
+happened, the people said.  “Whenever there’s software involved, there’s always a
+danger of something going wrong,” Sang Lee, managing partner at
+research firm Aite Group LLC in  Boston , said in a phone
+interview. Lee had no first-hand knowledge of Knight’s
+situation, he said. “It’s a risk everyone lives with, not just
+in the financial services world.”  Knight, based in  Jersey City ,  New Jersey , hasn’t explained
+in detail what caused the trading loss, which depleted its
+capital and led to a $400 million rescue that ceded most of the
+company to a group of investors led by  Jefferies Group Inc. (JEF)  The
+45-minute delay in shutting down the malfunction has confused
+some securities professionals, who say that trading programs can
+typically be disabled instantly.  ‘Infrastructure Problem’  “This software problem was an infrastructure problem,”
+Chairman and Chief Executive Officer Thomas Joyce, 57, said in
+an Aug. 2 interview with Bloomberg Television’s “Market
+Makers.” “It was more of a networking problem as opposed to
+using quantitative tools to trade.”  Knight’s computers bombarded the market with unintended
+orders just after trading began on Aug. 1, causing volume to
+surge and prices to swing in dozens of  securities . NYSE Euronext
+canceled trades that were 30 percent or more away from the price
+at the start of trading, a decision that applied to six
+securities out of 140 that were reviewed.  The company was updating software in preparation for an
+NYSE plan aimed at luring more individual investors to the
+exchange, Joyce said in the Aug. 2 interview, without offering
+details. The Big Board’s so-called retail liquidity program,
+designed to attract smaller investors by giving them superior
+prices, was being implemented that day.  Market Making  The company, whose market-making unit executes about 10
+percent of U.S. share volume, will hire an outside adviser to
+investigate what led to the losses. The company is conducting an
+in-depth review, Kara Fitzsimmons, a Knight spokeswoman, said in
+an e-mailed statement.  “As previously stated, on Aug. 1, 2012, Knight experienced
+a technology issue at the opening of trading related to Knight’s
+installation of software for its NYSE-listed market making
+business,” she wrote. “We have been working with clients
+continually and we are gratified to see the return of order flow
+to the company.”  Knight stock increased 5.3 percent to $2.99 today.  Rules formalizing the treatment of erroneous trades were
+adopted amid criticism by investors after exchanges and the
+Financial Industry Regulatory Authority voided transactions
+totaling 5.6 million shares in the market crash of May 6, 2010.
+Regulators added guidelines governing when sales or purchases of
+stock could be canceled after market makers said confusion about
+which trades would stand prevented them from acting.  Investor Group  Getco LLC , an automated trading firm,  Blackstone Group LP (BX) ,
+brokerages  Stifel Nicolaus & Co. (SF)  and  TD Ameritrade Holding Corp. (AMTD) 
+and the investment banks  Stephens Inc.  and Jefferies paid $400
+million on Aug. 6 for preferred stock that will convert into 267
+million common shares. Knight, which closed at $10.33 the day
+before the trading error, ended yesterday’s session at $2.84.  The accidental trading at Knight follows the cancellation
+of an initial public offering by Bats Global Markets Inc. on
+March 23 and the May 18 IPO by  Facebook Inc. (FB)  on Nasdaq OMX Group
+Inc., which was marred by technology failures and delayed trade
+confirmations.  The growth of electronic trading over the last 15 years has
+transformed markets, first for Nasdaq stocks and later for NYSE-
+listed companies. Racks of computers usurped or joined human
+traders unable to analyze real-time data and market conditions
+quickly enough to act in split seconds. There are more than 50
+venues on which to trade, often making decisions about where to
+send orders and at what price too complex for individuals.  High-frequency firms and market makers like Knight compete
+for computer science experts, software and network engineers,
+system administrators, and staff to conduct quality assurance
+tasks, according to Anthony Dostellio, managing partner at
+Objective Paradigm, a technology recruiting firm in  Chicago  that
+works with trading companies.  Programming Language  High-speed programs that funnel orders to markets need
+software engineers who can write code in the programming
+language known as C++ and for a  Linux operating system , he said
+in a phone interview. They also need rigorous testing and risk
+controls to prevent potentially harmful outcomes from their
+trading strategies, he said.  “All the software they develop, for the most part, is
+proprietary,” Dostellio said. “They’re trying to attract the
+best talent that’s out there because that’s their competitive
+advantage.”  U.S. Securities and Exchange Commission Chairman  Mary Schapiro  called Knight’s problem “unacceptable.” The agency
+will assess the need for additional regulations related to the
+so-called market access rule aimed at reducing the risk of
+trading disruptions, including from rogue algorithms and
+unsupervised executions, according to an Aug. 3 statement.  Risk Checks  The rule, adopted in 2010, directed brokers starting last
+year to employ credit and capital risk checks and filters to
+ensure a firm’s aggregate financial position doesn’t exceed its
+specified limits. It required brokers to have controls to avoid
+jeopardizing their own financial condition and the integrity of
+trading on U.S. securities markets.  The Managed Funds Association, a trade group for the hedge
+fund industry, said the SEC should re-evaluate the market-access
+rule in light of Knight’s mishap. Regulators should consider
+requiring brokers to employ risk controls on an order-by-order
+basis before trade requests are sent to a market, it said in a
+letter to Schapiro today. Brokers could also have a technology
+advisory group conduct risk assessments, it said.  ‘Kill Switch’  At least one trading official should be authorized to
+operate a “kill switch” to turn off trading programs at all
+times, the hedge fund group said. The SEC may also want to issue
+guidelines requiring a technical manager to certify to the
+company’s executives that proper testing and “appropriate
+market simulations” were done and the broker has complied with
+its own policies for software installations, the group said.  The regulation also mandated that brokers have systems to
+prevent duplicative or erroneous orders from entering the
+market, and obey rules such as those prohibiting manipulative
+activity or requiring shares to be located for short sales, or
+bearish trades. The goal was to make sure orders are vetted
+before they’re sent to markets.  Knight’s episode underscores the challenges that Wall Street
+firms have faced updating and maintaining their computer
+systems. After Lehman Brothers Holdings Inc. collapsed in 2008,
+bankruptcy examiner Anton Valukas from law firm Jenner & Block
+LLP found that Lehman had “maintained a patchwork of over 2,600
+software systems and applications.”  “The Examiner’s financial advisers ultimately requested
+access to 96 of the most relevant systems,” Valukas wrote in a
+ report  published in March 2010. “Many of Lehman’s systems were
+arcane, outdated or non-standard.”  Technology Staff  Goldman Sachs Group Inc.’s technology staff accounted for
+27 percent of its employee base in 2010, up from 16 percent in
+2000, Chief Financial Officer David A. Viniar told investors at
+a conference in February 2011.  Small technical changes can “trigger downstream effects”
+that spiral out of control, Rick Lane, chief technology officer
+at Trading Technologies International Inc., a Chicago-based
+company that offers an execution platform for derivatives
+markets, said in a phone interview.  Software alterations to accommodate new features or order
+types offered by exchanges must be rigorously tested and “run
+through the wringer” to make sure the systems operate properly,
+he said in a phone interview.  “When you throw your trading strategy into a sea of other
+trading strategies, there’s no way to perfectly understand the
+consequences,” Lane said. “Identifying and quickly quelling
+these scenarios when they happen is important. It’s surprising
+something like this could last potentially 45 minutes. The
+ability to quickly identify a problem and take action is where
+innovation is sorely needed.”  To contact the reporters on this story:
+ Stephanie Ruhle  in  New York  at 
+ sruhle2@bloomberg.net ;
+ Christine Harper  in New York at 
+ charper@bloomberg.net ;
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editors responsible for this story:
+ David Scheer  at 
+ dscheer@bloomberg.net .
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

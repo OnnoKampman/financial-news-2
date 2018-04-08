@@ -1,0 +1,58 @@
+-- Microsoft Wins Court Order in ‘Zeus Botnets’ Lawsuit
+-- B y   T h o m   W e i d l i c h
+-- 2012-03-29T17:27:42Z
+-- http://www.bloomberg.com/news/2012-03-29/microsoft-wins-court-order-in-zeus-botnets-lawsuit.html
+Microsoft Corp. (MSFT)  got a judge to
+order a group of unidentified hackers to stop running networks
+of infected computers known as botnets that allegedly hijack
+online bank accounts.  U.S. District Judge Sterling Johnson Jr. in Brooklyn, New
+York, today issued a preliminary injunction against 39 John Does
+who use hacker aliases such as “Monstr” and “Gribodemon” to
+create a network of botnets running malicious software known as
+Zeus.  A botnet is a network of infected computers programmed to
+send data automatically from their hard drives to a server
+controlled by hackers. Hackers infect computers with software
+that can steal online banking logins and passwords, which they
+can use to transfer money to their own accounts.  “That’s the primary purpose of this scheme,” said  Gabriel
+M. Ramsey , a lawyer for Redmond, Washington-based Microsoft,
+which claims the Zeus botnets controlled by the John Doe hackers
+have taken more than $100 million.  Microsoft, the world’s biggest software maker, sued the
+unnamed hackers on March 19. The case was made public March 27,
+the day after Microsoft said it had seized computer servers in
+Pennsylvania and  Illinois , while escorted by U.S. Marshals, to
+preserve evidence.  Record Keystrokes  The Zeus software allows a hacker to monitor a victim’s
+online activity and record keystrokes, according to a March 26
+statement from Microsoft. The company said it has detected more
+than 13 million suspected infections of Zeus software worldwide
+since 2007, and 3 million in the U.S.  “Microsoft and its partners took down two Internet
+Protocol addresses behind the Zeus command and control
+structure, and Microsoft is currently monitoring 800 domains
+secured in the operation, which are helping identify thousands
+of computers infected by Zeus,” the company said in the
+statement.  Ramsey said Microsoft and other plaintiffs are speaking to
+ law enforcement  about the matter. He declined to comment on the
+case after the hearing.  A botnet is a collection of computers “running software
+that allows communication among those computers and that allows
+centralized or decentralized communication with other computers
+providing control instructions,” according to Microsoft’s
+complaint.  Same Codes  Botnets running Zeus software share the same code and
+infrastructure, according to the complaint. The names of the
+botnets’ creators are unknown, according to the complaint. No
+defendants’ representatives appeared at today’s hearing.  Microsoft said the raids this month marked the second time
+it has conducted physical seizures in a botnet operation. Some
+Zeus botnet computers are in the Eastern District of New York,
+the U.S. jurisdiction that includes the  Brooklyn  federal court,
+according to the complaint.  The company also said it believed the lawsuit is the first
+to use the Racketeer Influenced and Corrupt Organizations Act
+against a botnet operation. The federal RICO law was passed to
+fight organized crime.  Plaintiffs joining Microsoft in the case are Reston,
+Virginia-based FS-ISAC Inc., which represents banks and other
+financial-services companies in combating cyber threats, and
+Herndon, Virginia-based National Automated Clearing House
+Association, which manages the ACH Network, “the backbone for
+the electronic movement of money and data,” according to the
+complaint.  The case is Microsoft Corp. v. John Does 1-39, 12-cv-01335,
+U.S. District Court, Eastern District of New York (Brooklyn).  To contact the reporter on this story:
+Thom Weidlich in Brooklyn,  New York , federal court
+at   tweidlich@bloomberg.net .  To contact the editor responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net . 

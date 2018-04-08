@@ -1,0 +1,98 @@
+-- AT&T, Behind Amazon in Cloud, Turns to Hackathons: Tech
+-- B y   A r i   L e v y
+-- 2012-06-12T04:01:00Z
+-- http://www.bloomberg.com/news/2012-06-12/at-t-behind-amazon-in-cloud-turns-to-hackathons-tech.html
+When Pritesh Damani stumbled upon a
+hackathon for application developers in  New York  last month, he
+was surprised to discover that the event was using  AT&T Inc. (T) ’s
+cloud technology to host the contestants’ apps.  Damani, like startup engineers across the country, sees
+ Amazon.com Inc.’s (AMZN)  Web services as the dominant choice for
+software and Web developers looking to outsource their data-
+center needs. After winning the event by creating a mobile app
+for fantasy sports, Damani is using AT&T’s infrastructure to
+help build a company around his product.  “I didn’t even know that it existed,” said Damani, 30,
+referring to  AT&T Cloud Architect , which was introduced in
+January to provide hosting services via the Internet to small
+businesses and developer teams. “It turns out their stuff is
+equally simple, if not simpler.”  Getting that message across to emerging startups is no easy
+task for AT&T. Amazon has a six-year head start, while  Rackspace
+Hosting Inc. (RAX)  is growing rapidly and  Microsoft Corp. (MSFT)  and  Google
+Inc. (GOOG)  are trying to catch up. AT&T, the largest U.S. phone
+company, is counting on its nationwide wireless network,
+experience with large data centers and established relationship
+with Apple Inc. to lure developers away from competitors.  The cloud-services market, where companies can pay pennies
+an hour to have their apps and websites hosted rather than
+buying and managing their own servers, is expected to almost
+triple to $10.5 billion in 2014 from $3.7 billion last year,
+according to researcher  Gartner Inc.   Revenue Stream  Cloud represents a new potential revenue stream for AT&T
+after a 6.6 percent increase in  sales  over the past four years
+to $126.7 billion in 2011. The company is seeking ways to make
+up for slower subscriber growth in the saturated mobile-services
+business, which accounts for 45 percent of revenue.  To gain a footing, AT&T has to first make startups aware it
+has a product. The Dallas-based company is sponsoring hackathons
+across the country, where it can show off its service and offer
+promotions, including a complimentary first month.  Hackathons, also called codefests, typically last a day or
+two and bring together teams of developers and designers, who
+often work around-the-clock, building applications tied to a
+particular theme.  In addition to the New York hackathon, which was part of
+last month’s  TechCrunch Disrupt  conference, AT&T has more than
+15 events lined up the rest of this year in cities ranging from
+ Los Angeles  and  Palo Alto ,  California , to Denver and Toronto.  ‘Different Game’  “We recognize it’s a different game we’re playing and
+there are a different set of rules,” said John Potter, a vice
+president in AT&T’s business solutions unit, in Bedminster,  New
+Jersey . “We’re looking to get people engaged and understand
+what Cloud Architect is, put promotions out there and get a
+certain percentage of promotional users flipped to real users.”  For winning the New York contest, Damani got $5,000 along
+with a free month of service. His app,  Fantasy Buzzer , is
+designed to alert players of fantasy football and baseball games
+when their team has injuries, and let them make changes with
+just a couple of clicks.  AT&T introduced Cloud Architect in January at the  Consumer
+Electronics Show  in  Las Vegas . There, it finalized a partnership
+with  SoftLayer Technologies Inc. , a seven-year-old company also
+based in  Dallas  that provides data-center technology and
+services. AT&T is adding services on top of SoftLayer’s servers
+and using its sales and marketing teams to promote the product.  Balancing Needs  The carrier isn’t concentrating solely on the startup
+market. For big companies, AT&T has a partnership with  VMware
+Inc. (VMW) , whose virtualization software lets businesses create a
+cloud in their own data center, ensuring greater privacy and
+control.  “Long-term, you’ll see a mix of architectures within our
+portfolio,” said Steven Caniano, AT&T’s vice president of
+hosting, application and cloud services, at a conference on May
+31. “We’ll be able to balance based on customer needs in terms
+of functionality, price point, service level, the best solution
+set to meet their particular work load.”  For smaller companies and app developers, Cloud Architect
+starts at $50 a month, or customers can pay by hour of usage,
+similar to how Amazon’s service is priced. AT&T is touting its
+ability to provide networking, security and storage via the
+cloud, using its experience offering those services to large
+companies across the country.  As a mobile operator, it’s also letting developers access
+the company’s APIs, or application programming interfaces, to
+build apps that utilize location services and messaging
+technologies.  Amazon Loyalty  Going head-to-head with Amazon presents a new challenge.
+The online retailer leads the cloud market with revenue
+estimated to be about $1 billion. Hundreds of thousands of
+companies in 190 countries use Amazon’s service, and the company
+is located in  Seattle , one of the top U.S. tech hubs.  While AT&T is known as an old phone behemoth, Amazon has
+the loyalty of emerging startups that have used its Web services
+from the beginning, like  Euclid Inc.  Founder Will Smith’s Palo
+Alto-based startup hosted a tech talk in May where Amazon
+executives spoke to about 10 local companies, and Smith said he
+doesn’t see AT&T cracking the developer community. That’s
+because Amazon continues adding new features and dropping prices
+as the cost of online storage declines.  “Every two weeks, I get an e-mail about how the costs are
+going down,” said Smith, whose company provides analytics
+technology to retailers. Amazon is “incredibly easy to work
+with and their product is so seamless,” he said.  Success Stories  To Potter, that sentiment just signifies how much work his
+group has to do. At a recent mobile  hackathon  in Seattle, AT&T
+attracted more than 130 developers for an information session on
+development in the wireless industry.  The winner of the event was  RaaSIO , a team of engineers
+building robots that can be controlled by smartphones. AT&T’s
+cloud works for them, because it has the right technology to
+collect data from wireless devices and communicate commands to
+the cloud and back. The founders now promote the service when
+they pitch their project, which means the word-of-mouth trick is
+starting to work, said Shubham Shukla, a RaaSIO team member.  “They need some more success stories to push Cloud
+Architect to the developer community,” he said.  To contact the reporter on this story:
+Ari Levy at   alevy5@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

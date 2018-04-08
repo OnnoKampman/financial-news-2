@@ -1,0 +1,132 @@
+-- 
+Morgan Stanley Changing Dark Pool Rules
+
+-- B y   N i n a   M e h t a
+-- 
+2011-09-21T22:48:48Z
+
+-- http://www.bloomberg.com/news/2011-09-21/morgan-stanley-changing-dark-pool-rules-in-attempt-to-increase-order-sizes.html
+Morgan Stanley plans to alter the
+way it brings orders together in dark pools, trying to encourage
+bigger trades for institutional customers after a three-year
+decline in the number of shares per transaction industrywide.  The bank, which operates venues in the U.S., Europe,  Hong
+Kong ,  Japan  and  Australia  that match buyers and sellers without
+showing bids and offers, will give priority to larger orders at
+a specified price instead of those that arrived first, Bill Neuberger, co-head of Morgan Stanley Electronic Trading, said in
+a phone interview. MS POOL, which is adopting a model similar to
+one used by a  Nasdaq OMX Group Inc. (NDAQ)  exchange, is among the first
+dark pools to offer the protocol in the U.S.  “We want to reward size and de-emphasize speed,”
+Neuberger said. MS POOL had the second-smallest average trade
+size in July among venues tracked by Rosenblatt Securities Inc.
+They averaged 209 shares in August, Neuberger said. “Fewer 100-
+share prints in dark pools may be a good thing,” he said.  Morgan Stanley (MS) ’s changes are part of an effort to portray
+its venues as places where sophisticated users employing high-
+frequency strategies have less influence. Larger trade sizes may
+connote less interaction with proprietary trading firms, whose
+ability to sniff out and exploit the intentions of investors was
+one of the reasons dark pools gained popularity in the latter
+half of the last decade.  Getting Smaller  Trades in most dark pools average 200 shares to 300 shares,
+down from 300 shares to 400 shares in 2008 and 2009, Justin Schack, managing director for market structure analysis at
+Rosenblatt Securities, a New York-based broker that analyzes
+dark pool volume and trends, said in a phone interview. The
+decline may have resulted from more high-frequency penetration
+in venues that don’t display quotes, increased stock volatility,
+or algorithms reacting to trades they receive, he said.  U.S. dark pools followed by Rosenblatt accounted for 12.3
+percent of U.S. volume in July, compared with 10.9 percent a
+year earlier. There are about 40 U.S. pools, with data from the
+largest included in Rosenblatt’s tally. A category of hidden
+orders on equity exchanges such as Nasdaq Stock Market and the
+New York Stock Exchange totaled 3.4 percent. More than 9 percent
+of volume on the main exchange run by Lenexa, Kansas-based Bats
+Global Markets was in dark or hidden orders, Rosenblatt said.  Market Share  MS POOL traded 61 million shares daily on average last
+month, or 0.6 percent of U.S. equity volume, according to data
+compiled by Morgan Stanley and Bloomberg. The broker had 0.7
+percent of volume in July, Rosenblatt data showed. Credit Suisse
+Group AG’s Crossfinder, the largest dark pool, had 2.2 percent
+of U.S. volume, followed by New York-based  Goldman Sachs Group
+Inc. (GS) ’s Sigma X with 1.5 percent. Zurich-based Credit Suisse’s
+venue had the smallest average trade size in July, with 188
+shares, according to Rosenblatt data.  U.S. stock exchanges match orders submitted to them against
+incoming buy and sell requests based on when they were received,
+a system called price-time priority. Among markets run by larger
+exchange operators, only the New York Stock Exchange and NYSE
+Amex allow certain firms -- brokers working on the exchange’s
+floor and so-called designated market makers -- to jump ahead
+and execute alongside those next in line to trade. Nasdaq OMX
+PSX, which relies on price-size priority, began last year.  Order Size  Existing orders at a given price in MS POOL will trade
+based on the number of shares they initially represented. If a
+firm wants to buy 1,000 shares and another subsequently bid for
+5,000 shares, the second one would move ahead of the 1,000-share
+order. Even if smaller orders trade against the 5,000 shares and
+500 shares remained, the order retains its priority because it
+initially was bigger, Neuberger said from  New York .  Nasdaq OMX PSX  has a different version of price-size
+priority. Existing orders trade based on the number of shares
+they represent, with incoming orders distributed proportionally.
+In the last example, an incoming order for 600 shares would
+trade 500 shares against the 5,000-share bid and 100 against the
+smaller one. Nasdaq OMX chose this method to avoid hurting the
+senders of smaller orders that are publicly displayed who might
+otherwise not send bids or offers.  Sapna Patel, head of market structure and liquidity
+strategy for the Americas for Morgan Stanley, said a customer in
+a dark pool isn’t revealing his intentions because bids and
+offers aren’t public. “Since it’s a different model,” the
+trader may opt to supply larger orders, she said.  The new rules are expected to become effective in MS POOL
+in the U.S. and Europe next week and in  Asia  later this year,
+she said.  Customer Curiosity  Investment Technology Group Inc.’s Posit dark pool uses
+price-size priority to match buy and sell orders, according to
+J.T. Farley, a spokesman. Other dark pools employ versions of
+the protocol. Bids Trading LP gives users a choice about how to
+execute their trade requests, Tim Mahoney, chief executive
+officer of the dark pool operator, wrote in an e-mail. Both
+companies are in New York.  Whit Conary, chief executive officer of Level ATS, a
+Boston-based dark pool operator, said investors have asked
+venues that don’t display quotes for more information about what
+kind of traders are on their system, what kind of orders are
+available and how rules on the platforms work. The  information 
+helps users make better decisions about where they want to send
+orders, he said. More brokers are also reporting trading volume
+to Rosenblatt to increase transparency in the market. Level
+traded almost 49 million shares in July, Rosenblatt data showed.  ‘Electronic Way’  “More broker-dealers are finding it’s efficient to have an
+electronic way to match internal sources of order flow,” Conary
+said in a phone interview. The result is that more dark pools
+are finding customers, he said.  Morgan Stanley introduced MS POOL in the U.S. in 2006 and
+in  Europe  in 2008. It runs another network called MS Trajectory
+Cross in countries where MS POOL operates. That system matches
+pieces of bigger algorithmic orders according to the stock’s
+average price weighted by volume over a period of time.  Morgan Stanley hasn’t allowed some types of trading that
+other dark pools encourage to attract orders. The firm doesn’t
+let traders to submit orders that must be executed immediately
+or canceled. It doesn’t send messages called indications of
+interest to other pools or venues to solicit orders. Users must
+also keep orders in MS POOL for at least a second before
+withdrawing them -- a long time for many high-frequency traders.
+That discourages short-term players, Neuberger said.  Minimum-Share Requirements  Some customers are asking whether dark pools aggregate
+orders from users to get around minimum-share size requirements
+that some investors place on orders. Such a restriction might be
+sought to avoid trading against automated firms that prefer 100-
+share transactions.  Schack said he asked dark pools several months ago to count
+orders aggregated to meet a minimum-share size imposed by the
+counterparty as separate trades in their reporting. “Bulking”
+inflates the average trade size, which some investors use to
+assess the type of liquidity in a venue, he said.  Conary said  Level , which is used by about 185 broker-dealer
+customers, lets members choose whether to allow minimum-share
+sizes they impose to be met by multiple orders.  Changes at MS POOL come as regulators in  Canada  and Europe
+are considering rules to limit trading in dark pools that don’t
+give investors better prices or larger executions than what’s
+publicly available. While the U.S. Securities and Exchange
+Commission has raised the prospect of a similar restriction,
+called a trade-at rule, many institutional investors and retail
+brokers have said they wouldn’t support that since it would hurt
+their transactions.  Trade Transparency  Separately, the SEC in October 2009 proposed rules that
+would increase transparency for trades in dark pools and reduce
+the amount of daily volume in a company’s shares that can be
+executed on the systems before prices must be made public. The
+agency hasn’t acted on that proposal, in part because of dozens
+of new rules it has had to write related to the Dodd-Frank Act,
+the financial overhaul enacted in July 2010.  “The SEC may be more likely to address the October 2009
+proposal first,” Schack said. “The trade-at rule is incredibly
+controversial. It has many organized, vocal opponents and very
+few organized and vocal supporters.”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

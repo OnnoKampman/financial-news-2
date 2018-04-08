@@ -1,0 +1,86 @@
+-- Central Bank of India and Indian Bank CD's Deals: Indian Money
+-- B y
+-- 2013-09-11T12:37:49Z
+-- http://www.bloomberg.com/news/2013-09-11/central-bank-of-india-and-indian-bank-cd-s-deals-indian-money.html
+Following is a table showing certificate of deposits
+issued by Indian banks. The data has been provided by Derivium Tradition
+Securities Pvt. Ltd., LKP Securities Limited, NVS Brokerage Ltd, SPA Securities
+Ltd. and Trust Financial Consultancy Services.  T = Tentative  C = Confirmed  Deal Date      Security    Mty Date  Qtm(Crs.) Rate  Buyer        CTRB    Status
+11-Sep-13      CBI         2 MONTHS            10.61              NVSB    T
+11-Sep-13      INDIAN      2 MONTHS            10.58              NVSB    T
+11-Sep-13      UBI         2 MONTHS            10.59              NVSB    T
+11-Sep-13      CBI         2 MONTHS            10.61              LKPS    T
+11-Sep-13      INDIAN      2 MONTHS  250       10.58              LKPS    T
+11-Sep-13      UBI         2 MONTHS  150       10.59              LKPS    T
+11-Sep-13      SBH         2 MONTHS            10.54              NVSB    T
+11-Sep-13      SBH         2 MONTHS  100       10.54              LKPS    T
+11-Sep-13      CBI         2 MONTHS  200       10.61 BKS and MFS  TFCS    T
+11-Sep-13      INDIAN      2 MONTHS  200       10.58 BKS and MFS  TFCS    T
+11-Sep-13      SBM         1 YEAR              10.19              LKPS    T
+11-Sep-13      SBM         1 YEAR    45        10.19              DCAP    T
+11-Sep-13      CBI         2 MONTHS  200       10.61              DCAP    T
+11-Sep-13      INDIAN      2 MONTHS  400       10.58              DCAP    T
+11-Sep-13      UBI         2 MONTHS  50        10.59              DCAP    T
+11-Sep-13      SBH         2 MONTHS  200       10.54              DCAP    T
+11-Sep-13      IDBI        1 YEAR              10.27              NVSB    T
+11-Sep-13      INDUSIND    1 YEAR              10.35              NVSB    T
+11-Sep-13      UNION       2 MONTHS            10.56              NVSB    T
+11-Sep-13      UBI         2 MONTHS  150       10.59 BKS and MFS  TFCS    T
+11-Sep-13      UNION       2 MONTHS  1200      10.56              LKPS    T
+11-Sep-13      UBI         2 MONTHS            10.59              SPAS    T
+11-Sep-13      IDBI        1 YEAR              10.27              SPAS    T
+11-Sep-13      UNION       2 MONTHS  750       10.56              DCAP    T
+11-Sep-13      INDIAN      2 MONTHS            10.58              LKPS    T
+11-Sep-13      IDBI        1 YEAR    100       10.27              LKPS    T
+11-Sep-13      SBM         1 YEAR              10.19              SPAS    T
+11-Sep-13      CBI         2 MONTHS            10.61              SPAS    T
+11-Sep-13      UBI         2 MONTHS            10.59              SPAS    T
+11-Sep-13      SBH         2 MONTHS            10.54              SPAS    T
+11-Sep-13      INDUSIND    1 YEAR              10.35              SPAS    T
+11-Sep-13      INDIAN      2 MONTHS            10.58              SPAS    T
+11-Sep-13      AXIS        2 MONTHS            10.68              NVSB    T
+11-Sep-13      AXIS        2 MONTHS  275       10.68              LKPS    T
+11-Sep-13      INDUSIND    1 YEAR    130       10.35              LKPS    T
+11-Sep-13      AXIS        2 MONTHS  275       10.68              DCAP    T
+11-Sep-13      SBM         1 YEAR    145       10.22              LKPS    T
+11-Sep-13      SBM         1 YEAR              10.22              NVSB    T
+11-Sep-13      AXIS        2 MONTHS            10.68              SPAS    T
+11-Sep-13      AXIS        3 MONTHS            10.68              SPAS    T
+11-Sep-13      AXIS        3 MONTHS  85        10.68              LKPS    T
+11-Sep-13      OBC         1 YEAR              10.26              SPAS    T
+11-Sep-13      SBM         1 YEAR    150       10.22              DCAP    T
+11-Sep-13      INDUSIND    1 YEAR    130       10.35              DCAP    T
+11-Sep-13      IDBI        1 YEAR    100       10.27              DCAP    T
+11-Sep-13      OBC         1 YEAR              10.26              DCAP    T
+11-Sep-13      OBC         1 YEAR    85        10.26              NVSB    T
+11-Sep-13      AXIS        1 YEAR              10.34              NVSB    T
+11-Sep-13      OBC         1 YEAR              10.29              NVSB    T
+11-Sep-13      AXIS        1 YEAR    342       10.34              LKPS    T
+11-Sep-13      INDUSIND    3 MONTHS  20        10.70              LKPS    T
+11-Sep-13      AXIS        1 YEAR              10.34              SPAS    T
+11-Sep-13      OBC         1 YEAR              10.29              SPAS    T
+11-Sep-13      INDUSIND    3 MONTHS            10.70              NVSB    T
+11-Sep-13      AXIS        3 MONTHS            10.68              NVSB    T
+11-Sep-13      OBC         1 YEAR    675       10.29              LKPS    T
+11-Sep-13      IDBI        1 YEAR    150       10.3025            LKPS    T
+11-Sep-13      UNION       2 MONTHS  1000      10.56 BKS and MFS  TFCS    T
+11-Sep-13      AXIS        1 YEAR    200       10.22 BKS and MFS  TFCS    T
+11-Sep-13      UBI         1 YEAR    150       10.29              NVSB    T
+11-Sep-13      SBM         1 YEAR    200       10.22 BKS and MFS  TFCS    T
+11-Sep-13      SBH         2 MONTHS            10.57              NVSB    T
+11-Sep-13      SBH         3 MONTHS            10.57              LKPS    T
+11-Sep-13      SBH         2 MONTHS            10.57              LKPS    T
+11-Sep-13      UNION       2 MONTHS  800       10.58              LKPS    T
+11-Sep-13      ALLAHBAD    2 MONTHS  100       10.60              ALLB    C
+11-Sep-13      ALLAHBAD    12-Nov-13 100       10.60              DCAP    T
+11-Sep-13      ALLAHBAD    2 MONTHS            10.60              LKPS    T
+11-Sep-13      ALLAHBAD    2 MONTHS            10.60              NVSB    T
+11-Sep-13      ALLAHBAD    2 MONTHS            10.60              SPAS    T
+11-Sep-13      SBH         2 MONTHS            10.57              SPAS    T
+11-Sep-13      INDUSIND    3 MONTHS            10.70              SPAS    T
+11-Sep-13      UNION       2 MONTHS  500       10.58 BKS and MFS  TFCS    T
+11-Sep-13      UBI         1 YEAR    150       10.29 BKS and MFS  TFCS    T
+11-Sep-13      OBC         1 YEAR    500       10.29 BKS and MFS  TFCS    T
+11-Sep-13      AXIS        1 YEAR    407       10.34              DCAP    T
+11-Sep-13      OBC         1 YEAR    1700      10.29              DCAP    T  Contributed via: Bloomberg Publisher WEB Service  Provider ID: 2652560cc2614f4796e5cf614a585689
+ 

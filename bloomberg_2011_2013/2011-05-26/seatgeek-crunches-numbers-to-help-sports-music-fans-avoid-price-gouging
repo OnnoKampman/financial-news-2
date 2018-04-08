@@ -1,0 +1,81 @@
+-- 
+SeatGeek Crunches Data to Help Sports, Music Fans Duck Scalpers
+
+-- B y   K a r e n   W e i s e
+-- 
+2011-05-26T21:00:01Z
+
+-- http://www.bloomberg.com/news/2011-05-26/seatgeek-crunches-numbers-to-help-sports-music-fans-avoid-price-gouging.html
+Tickets to see the Milwaukee Brewers
+play at home on a Wednesday night -- ideally for the last game
+of a series -- may be the best deal in  Major League Baseball .  That’s the perfect combination of factors that leads to a
+bargain, according to two-year-old startup  SeatGeek .  The number-crunching website aggregates sports and
+entertainment tickets available on resale sites such as  StubHub ,
+then mixes together millions of data points, some algorithms and
+an easy-to-use interface to help fans find the best deal.  The process of buying tickets on the secondary market can
+be maddening, Bloomberg Businessweek reports in its May 30
+issue. Fly-by-night vendors and a lingering air of
+illegality -- sidewalk scalping is still against the law in many
+states, while online reselling isn’t -- make it hard to know
+whom to trust, while price gougers make it tough to find a good
+deal.  Resellers change ticket prices seemingly at random in a way
+that maximizes their revenue and assumes “many consumers are
+not strategic,” said Andrew T. Sweeting, a  Duke University 
+economics professor.  Primary ticket sellers are getting in on the act, too, with
+ Ticketmaster , sports teams and event promoters experimenting
+with variable pricing.  “It’s kind of overwhelming, the malice people have toward
+ticketing,” said SeatGeek Co-Founder Jack Groetzinger. “They
+constantly feel like they are getting ripped off.”  Groetzinger and his co-founder, Russell D’Souza, both 26,
+came up with the idea for SeatGeek in 2008 and started the site
+a year later.  Celtics,  Red Sox   The former fraternity brothers were living in  Boston  and
+wanted to see the Red Sox and the Celtics play. Tickets for both
+teams are scarce and the college buddies were “overwhelmed by
+the bad experience of buying online,” Groetzinger recalls.  They ended up spending hours bouncing among different
+reseller sites, waiting to find the best prices. Data, they
+thought, might bring transparency to the black hole of
+ticketing.  Sites such as  Kayak  and  Orbitz  have long aggregated and
+helped buyers sort through airline deals. A startup called
+Farecast used historical data to predict changes in  air travel 
+ticket prices starting in 2006. In 2008 it was bought by
+ Microsoft Corp. (MSFT) , which uses the technology in its  Bing  search
+engine.  Tricky Market  Groetzinger and D’Souza quickly learned that making sense
+out of event tickets is trickier than in air travel. While every
+coach ticket on an airplane is more or less the same, seats for
+events can vary greatly.  Searches on their site yield a list of most of the
+available aftermarket tickets displayed on a large dynamic map
+of the venue. Overlaid on the map is SeatGeek’s key feature: a
+“Deal Score” that rates each ticket.  A big green dot over a seat means it’s a bargain; a small
+red dot, not so much. Want to see  Taylor Swift  in Hartford,
+ Connecticut , on June 22? The $90 seat in Row V of the nosebleed
+section is a great value, as are the $195 tickets in front of
+the stage.  Glancing at the map, users quickly understand that “there
+are still good deals to be found,” said D’Souza.  The color-coded dots are powered by SeatGeek algorithms
+that take into account such elements as how far a seat is from
+home plate or the angle of a view to the stage, and what
+Groetzinger calls the “irrational premium” fans put on sitting
+in the first row of a section.  Win-Loss Record  Equally important is how the price compares with historical
+data for similar concerts and seats at the venue. For sports
+events, SeatGeek takes into account a team’s win-loss record,
+how far the game is into a season and even  weather forecasts .  SeatGeek’s main rival,  FanSnap , uses a simpler formula to
+create a short list of top deals for each event instead of
+evaluating every available ticket.  “If it’s not worthy, it does not get listed,” said
+FanSnap spokesman Christian Anderson.  Tom Davis, who co-founded a similar startup that closed
+last year after a co-founder passed away, said that at one point
+about a dozen sites tried to aggregate event tickets. Now,
+“aside from SeatGeek, a lot of them have just frozen in time,”
+he said.  SeatGeek doesn’t sell tickets directly. It links to the
+seller’s site, like StubHub or  EBay Inc. (EBAY)   The sites then pay
+SeatGeek a commission of 9 percent to 10 percent of each
+transaction.  $2.3 Million Funding  SeatGeek, which refused to discuss its revenue, said the
+average customer buys 2.5 tickets totaling $250 to $300. It has
+raised $2.3 million in funding and has 12 people on staff -- its
+corner of a shared office in  Manhattan  is overflowing.  “It sounds ridiculous, but I think we have about
+18 million tickets on SeatGeek at any given time,” said
+D’Souza.  The founders say their data analytics have been so well-
+received that at one point they planned on selling the
+information back to resellers, who wanted to use it to price
+tickets more strategically. SeatGeek shelved that idea.  “It’s a little tricky to play both sides,” Groetzinger
+said.  To contact the reporter on this story:
+Karen Weise in New York  at
+ dmcluskey@bloomberg.net   To contact the editor responsible for this story:
+Jon Kelly at   jkelly101@bloomberg.net . 

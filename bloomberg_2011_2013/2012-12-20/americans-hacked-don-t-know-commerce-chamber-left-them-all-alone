@@ -1,0 +1,297 @@
+-- Americans Hacked Don’t Know Chamber Left Them Alone
+-- B y   V e r n o n   S i l v e r ,   B e n   E l g i n ,   D u n e   L a w r e n c e   a n d   M i c h a e l   R i l e y
+-- 2012-12-21T17:48:25Z
+-- http://www.bloomberg.com/news/2012-12-20/americans-hacked-don-t-know-commerce-chamber-left-them-all-alone.html
+For years, fixing the software flaws
+that left  Adobe Systems Inc. (ADBE) ’s customers prey to hackers simply
+wasn’t a top company priority.  At Adobe, whose Acrobat and Reader programs for creating
+and viewing PDF documents sit on most of the planet’s personal
+computers, “security never made the list,” says Brad Arkin,
+senior director of security for products and services at the San
+Jose, California-based company.  Then, in 2009, what became known as the JBIG2 flaw created
+an existential crisis for the company. For the first time,
+hackers were found to be using a crack in the armor of Acrobat
+and Reader to infiltrate major corporations and Adobe had no
+available fix.  “That was the big wake-up call,” Arkin says. “We needed
+to make some big changes to protect our users.”  The company realized it had to defend itself against a new,
+sophisticated type of hacker-spy targeting the software’s
+corporate users and their secrets, Arkin says.  In one instance, attackers used the JBIG2 defect to get
+access to the computer of a  Coca-Cola Co. (KO)  executive in  China 
+through an infected Adobe PDF they e-mailed to her, according to
+an internal Coca-Cola document obtained by Bloomberg. The
+beverage maker was involved in what would have been the largest
+foreign takeover of a Chinese company at the time.  After finding there were too many imperfections to fix,
+Arkin says he instead erected a virtual wall around the
+programs, and focused on keeping that defense intact.  Eschewing Vigilance  It might not be enough.  “Imagine a castle wall as long as the Great Wall of
+China,” says Kyle Randolph, a former senior manager of product
+security at Adobe, who worked there from 2008 until this year.
+“All you need is one hole and the whole thing is compromised.”  Flaws  in the ubiquitous software on PCs, tablets and
+smartphones have empowered cyber intruders and plagued
+businesses, governments and political dissidents with sabotage,
+theft and physical attacks, a year-long series by  Bloomberg News 
+shows. In part, it is the legacy of companies that eschewed
+vigilance, putting profit before safety.  That it took a series of attacks on corporate customers to
+shock the U.S. software company into making security a priority
+helps illustrate why today -- two decades after the Internet age
+took off -- computer users are at risk whenever and wherever
+they’re online.  Protective Walls  Products used on virtually all computers, from Adobe,  Apple
+Inc. (AAPL) ,  Microsoft (MSFT)  Corp. and  Oracle Corp. (ORCL) , consistently dominate
+industry rankings of programs most vulnerable to attack. The
+resulting Swiss cheese of imperfections has made every citizen a
+potential crack in the security walls meant to protect their
+governments, employers and anyone with whom they do business.  Across the industry, software makers say they are taking
+security seriously and making improvements to address the
+increasingly sophisticated hacker threat. For instance,
+Microsoft and Adobe have made it easier for users to get updates
+that patch defects, and Google Inc. fends off attacks by
+encrypting traffic on its Gmail service.  Adobe’s Arkin says the company’s strategy makes the
+software easier to defend by requiring it to safeguard about
+8,000 lines of code that hackers could use to breach the
+protective wall, instead of tens of millions of lines in the
+underlying programs. While the programs won’t be perfect
+forever, Adobe is working to keep ahead of the hackers by making
+their jobs harder and more expensive, Arkin says. “Our end goal
+is to protect users of our software,” he says.  Chamber Resistance  The flaws have nevertheless flourished in the absence of
+industry standards or product liability.  Attempts to force the architects of the Internet to improve
+the safety of users have so far failed, in part because the U.S.
+Chamber of Commerce has pushed back on behalf of its business
+members. It helped defeat a cyber security bill backed by the
+White House this year that included regulation of the small
+fraction of corporate computer systems that, if hacked, could
+cause mass casualties or economic damage. Chamber lobbyists cast
+the bill as unnecessary and overreaching, and said government
+meddling would only make the problem worse.  In response to questions about its opposition to the bill,
+the Chamber provided a letter it sent last month to the  U.S.
+Senate , favoring a “workable” bill focused on information
+sharing, and voicing “serious concerns” about government
+interference with the private sector.  U.S. Defense Secretary  Leon Panetta  invoked Pearl Harbor in
+an Oct. 11 speech warning that extremist groups or a rival
+nation might use cyber tools to attack.  Lagging Security  In America and the U.K., about 1-in-3 computer users had
+contact with malicious software, just between July and September
+this year, according to data Moscow-based anti-virus software
+maker  Kaspersky Lab  collected from its customers.  The implications of lagging security go beyond PCs to
+critical infrastructure and industry, such as power grids and
+railroads, and to increasingly networked lives, including phone
+systems and videoconferencing that run over the Internet.  “Sooner or later, the people who are exploiting these
+security flaws will go from stealing information to breaking
+systems -- because they can -- and then it’s going to be obvious
+to everybody how bad things are,” says Stewart Baker, former
+general counsel for the  National Security Agency , the U.S. spy
+agency, which monitors foreign communications.  Global Abuses  Increasing the security of millions of lines of code
+underlying some of the world’s most popular software would be
+time-consuming and expensive. Behind closed doors, software
+makers consistently argue that while consumers may appreciate
+more security, there is little evidence they’d sacrifice
+functionality, time-to-market or cost to get it, according to
+three policy makers who regularly attend meetings with software
+company chief executive officers. They asked not to be named
+because the meetings were confidential.  In a series of stories that showed the global abuses and
+costs of cyber weapons and espionage, Bloomberg News uncovered a
+diverse array of attackers and targets: A hacker group linked by
+U.S. intelligence to the Chinese military, according to a U.S.
+diplomatic cable released by Wikileaks, stole U.S. corporate
+secrets and pilfered bureaucrats’ e-mails in Brussels, while
+commercial spyware made in Europe hit Persian Gulf activists;
+and Syrians fought a cyber war via online chats and webmail with
+rudimentary tools and deadly results.  Single Thread  As different as the examples are from each other, a single
+thread runs through them all: flawed software or network design
+enabled the hacks.  The March 2009 Coca-Cola hack, which was first reported by
+Bloomberg News in November this year, used the Adobe JBIG2
+vulnerability a month after Adobe alerted customers to the
+problem.  Spyware identified as being from Milan-based HackingTeam,
+which targeted activists in the United Arab Emirates and
+ Morocco , used imperfections in Microsoft and Adobe software.  A commercial spy program sold to governments -- and
+discovered by Bloomberg News to have been used in the
+surveillance of Bahraini democracy activists -- had  advertised 
+that it was able to gain control of computers through an Apple
+iTunes flaw that was publicly known for three years before Apple
+patched it in November 2011. The manufacturer of the  FinFisher 
+software, U.K-based Gamma Group, pins the blame on Apple.  “They could have protected users,” says Martin J. Muench,
+the managing director of Gamma’s German unit. “Security wasn’t
+their highest priority.”  ‘Good Impact’  Apple spokesman  Bill Evans  said the iTunes security
+problem has been fixed and declined to comment on Muench’s
+statement.  Microsoft has taken steps to keep customers safer, says
+Matt Thomlinson, general manager of product security at the
+Redmond, Washington-based company. It ramped up the effort in
+2002 with the establishment of its  Trustworthy Computing 
+initiative, which deals with security and privacy issues. Since
+2004, Microsoft has made automated updates a standard setting
+for users of its  Windows operating system .  “We’ve had some really good impact on driving down attacks
+through vulnerabilities, but that doesn’t mean the attackers are
+going away,” he says.  “I don’t think you’re ever going to get to the point where
+there are zero vulnerabilities,” says Thomlinson, who has been
+with Microsoft since 1994. “We can remove vulnerabilities from
+the code, and that’s what we’ve attempted to do.”  ‘Moving Target’  As companies such as Microsoft harden their defenses,
+hackers find new ways to get in, improving their skills or going
+after other products, says Steven M. Christey, principal
+information security engineer at  MITRE Corp. , a non-profit group
+based in Massachusetts and Virginia that tracks vulnerabilities.  “Software security is a rapidly moving target,” he says.
+“The result is a perpetual arms race between the software
+vendor and the attacker.”  In the continuous battle, an informal army of hackers,
+security firms, academics and other bug hunters seeks out
+imperfections in programs that an attacker can use to compromise
+a computer. Some privately alert software makers to flaws they
+find. Others devise methods for using those defects -- known as
+exploits -- and then sell or publicize them as hacking tools.  Despite new priorities for security, some software makers
+give hackers head starts by failing to fix the problems quickly.  This year, Oracle didn’t patch a bug in Java, its computing
+platform for a range of games, trading and other programs, until
+almost five months after researchers alerted it about the
+vulnerability.  Alerting Hackers  On April 2, Polish firm  Security Explorations  told Oracle
+it had discovered a defect in the product. Months went by with
+no solutions from Oracle, the world’s largest supplier of
+ database software .  That began to change on Aug. 26, when an alert went up on a
+website that tracks software vulnerability. The site, run by the
+security firm  FireEye Inc. , said that a new Java flaw had been
+spotted in targeted  attacks .  The next day, computer code for using that flaw to invade
+machines running Java was added to a hacking tool kit available
+for free online, called Metasploit. Virtually any hacker could
+now download the exploit and use it.  HD Moore, chief security officer at  Rapid7 , the Boston-
+based company that runs Metasploit, says publishing exploits
+forces companies to be accountable. “It’s hitting the vendor
+over the head with a hammer,” he says. “When everybody has
+access to it, they need to take it seriously.”  Most Targeted  On Aug. 28, Milpitas, California-based FireEye found
+evidence of the “first indication of a large scale attack”
+with the new exploit. AlienVault, a security firm, linked the
+original attacks to China-based hackers.  Then, two days later, Oracle  issued  patches to protect
+customers.  Hackers have piled on, making Java the most targeted
+application during the third quarter of 2012, accounting for 56
+percent of exploits blocked by  Kaspersky  Lab anti-virus
+software. Adobe took second place, with 28 percent.  “This year, yes, Oracle has been the worst,” says Jaime
+Blasco, head of the security lab at AlienVault.  Oracle spokeswoman  Deborah Hellinger  declined to comment on
+the Java flaw identified by Polish researchers or its system for
+patching vulnerabilities.  Arkin said the Kaspersky ranking catches many attacks aimed
+at problems in older versions that have been fixed but which
+haven’t been updated by users. “That’s the milk carton with last
+year’s date on it,” he says. “We say, ’We hear you, we’ve
+listened and here’s the solution.’”  Reducing Dangers  While hacking’s dangers can’t be eliminated, they can be
+reduced, as the evolution of the  auto industry  has shown.  In 1965, consumer rights advocate  Ralph Nader  published
+“Unsafe at Any Speed,” detailing how U.S. automakers, fearing
+higher costs, resisted measures such as seat belts and ignored
+crash-test findings. The book spawned congressional hearings and
+modern safety requirements -- and since then the U.S. per-capita
+death rate from auto accidents has been cut by more than half.
+Cars still crash, but new ones come with air bags.  Almost a half century later, Nader says the government and
+online service providers should do more to safeguard consumers
+from the new threat. “It does seem they can’t keep up with the
+genius nature of the hackers,” says Nader. “Basically it’s the
+cost of doing business.”  Safety Crossroads  For the Internet, the current safety crossroads has roots
+in the fine print that comes with most software licenses, which
+largely absolve makers of the products underpinning the Internet
+of liability.  Legal liability can wreck an industry or move it offshore,
+Baker, the former NSA general counsel, says.  “Software security is uniquely resistant to the kind of
+law making and standard setting that courts do,” he says.  Today the onus is on consumers to protect themselves so
+they don’t become the conduit that lets attackers into their
+businesses, utilities or governments. To help reduce those
+risks, there are several steps technology companies can take to
+add virtual seat belts and air bags to their products and give
+customers safer choices.  In one simple solution already adopted by some suppliers,
+software makers can automate the patches for flaws, rather than
+depending on users to figure out how to do it themselves, says
+Stefano Ortolani, a security researcher for Kaspersky Lab Italy.  Automated Patches  Even with the Java patch issued in August, for instance,
+there was no automated update process for all users, so many had
+to either deploy the fix themselves or disable Java to be
+protected. Today about 65 percent of Java users lack the latest
+version, which includes patches of security holes, according to
+Rapid7.  Service providers and software makers can change the ways
+people use computer programs by keeping applications off devices
+altogether, and running them in a new network of remote
+computers, known as the cloud. With word processing or
+accounting programs in the cloud, rather than individual
+machines, software makers can ensure security fixes are applied
+for all users and are done more quickly, says Rob Rachwald,
+director of security strategy at  Imperva Inc. , a Redwood Shores,
+California-based web security company.  “You’re using it on the Web, not your desktop,” he says.  Roadmaps Deprived  Software makers could provide another fix that would
+deprive hackers of the predictable roadmaps they use to navigate
+peoples’ computers by purposely jumbling where programs and data
+are stored in a machine’s memory. That defensive move doesn’t
+stop hackers from getting in, but can keep them from taking
+control, says Andy Chou, chief technology officer of San
+Francisco-based Coverity Inc., which finds and fixes software
+defects for clients.  Consumers themselves have options to mitigate risk, some
+borrowed from the world of hacking, from encrypting their e-
+mails to using special Web browsers that disguise their
+identities.  Using sites whose addresses start with HTTPS -- an
+encrypted version of HTTP -- adds a layer of protection. Most
+webmail providers, such as Google’s Gmail, have made HTTPS
+standard, while  Yahoo! Inc. (YHOO)  until recently had held out. The San
+Francisco-based  Electronic Frontier Foundation  has said Yahoo
+puts users at risk, especially in repressive countries.  Shaming Yahoo!  “They deserve to be shamed loudly and at length,” EFF’s
+International Freedom of Expression Coordinator Eva Galperin
+said in a Nov. 28 e-mail.  In response to questions about EFF’s position, Yahoo said
+that it has begun offering the technology behind HTTPS and will
+continue to do so over the next few months, and that it is
+developing and testing more secure platforms. “Yahoo! is
+committed to protecting the security and privacy of our users,”
+the statement said. The EFF’s Galperin said, “I am glad they
+are finally getting started.”  To achieve the cyber equivalent of crash-testing, industry
+standards for vetting programs would tip the balance toward
+safety, says Sean Coyne, a Washington-based cyber-security
+researcher who has worked for government and corporate clients.  “Nobody is holding the manufacturers’ feet to the fire,”
+Coyne says.  Minimum security standards might lead software makers to
+beef up the now paltry ranks of programmers dedicated to making
+sure products are safe. It’s not unusual for software makers to
+have one security person per every 500 to 1,000 developers, says
+ Coverity ’s Chou.  Fixable Flaws  “Those 1,000 developers are writing code every day -- how
+can that one poor guy keep up?” he says.  As corporate customers fend for themselves, they also can
+do more to keep safe. Many of the hacks uncovered this year by
+Bloomberg News showed basic -- and fixable -- flaws in internal
+security.  In the 2009 Coca-Cola hack, an internal investigation found
+that it was the work of state-backed hackers, and that the
+company neglected to take several protective steps. Details in a
+company document detailing the attack indicate the intruders
+were part of a prolific China-based hacking group, according to
+researchers interviewed by Bloomberg.  Coca-Cola needed to patch Adobe Reader vulnerabilities to
+address immediate holes and, for the longer term, establish a
+comprehensive program for managing fixes, according to the
+report.  Fighting JBIG2  When inadequate records prevented them from reconstructing
+the hack, investigators recommended the company implement
+systems to perform centralized logging of what occurs on the
+network. Coca-Cola spokesman  Kent Landers  declined to comment
+when asked this week about any follow-up to the incident.  The story behind the Coca-Cola hack is also the tale of
+Adobe’s fight against the JBIG2 bug. Adobe’s challenge, as told
+by former and current employees, provides a window into the
+tension between profit and safety that has shaped the Internet.  Tom Ferris, an Adobe researcher from 2006 to 2010, worked
+finding security failures and triaging all the security
+vulnerabilities streaming in. He recalls that when he started,
+they’d find 10 to 15 flaws a week that needed a fix. “I told my
+managers this was a big problem,” he says.  They ignored him, until the JBIG2 bug hit, he says. The
+flaw causes the Adobe Reader and Acrobat applications to crash,
+allowing an attacker to take control of the system.  “Everything changed,” Ferris says.  Hackers Pounce  The ordeal began on Feb. 19, 2009, when researchers at
+Symantec Corp., the world’s biggest security-software maker,
+said they’d  discovered  the bug, and alerted Adobe. That day,
+Adobe issued a security warning, saying a fix wouldn’t be
+available until the following month.  In China, and possibly elsewhere, hackers pounced. On March
+3 and 4, 2009, U.S. defense contractor Lockheed Martin Corp.’s
+incident response team  intercepted  intrusion attempts that used
+the vulnerability in e-mails purporting to be about an
+aeronautics conference and a meeting on U.S. missile defense,
+according to a paper the company researchers wrote.  It took until March 10 for Adobe to come out with an
+updated program that users could download to mitigate the flaw.  Three days later, hackers hit an executive in China for
+Coca-Cola, which was awaiting approval for its $2.4 billion
+acquisition of China Huiyuan Juice Group. It was one of several
+hacks using different means that compromised company executives
+at the time.  ‘Not Economical’  On March 18, 2009, the Chinese Ministry of Commerce
+rejected Coca-Cola’s acquisition citing antitrust grounds.  Inside Adobe, the security push had just begun. Yet fixing
+every line of the programs wasn’t in the cards because the
+company wasn’t willing to take on the expense, says Ferris and
+his former colleague, Randolph.  “It’s just not economical,” Randolph says. “They’re
+still making money and they’re doing what’s best for their
+shareholders.”  Arkin says the company heavily automated its process for
+releasing a patch, reducing the time lag from weeks to an
+average of five days. They turned off risky features, leaving it
+to users to decide if they wanted them.  The best bet, Arkin says he decided, was to find a way to
+quarantine programs. In the design, called sandboxing, a hacker
+might manage to take over Adobe’s Reader, but would need to
+escape the virtual sandbox to do further damage on a user’s
+computer.  In November 2010, Adobe released Reader X, promoting the
+sandbox as a way to better protect customers. “To date, we’re
+not aware of any customer anywhere who is running Adobe Reader X
+who has ever been attacked in the real world,” Arkin says.  That’s the kind of challenge hackers love.  For Related News and Information:
+Bloomberg’s  Unsafe at Any Bitrate  series:
+ http://topics.bloomberg.com/unsafe-at-any-bitrate/   To contact the reporters on this story:
+Vernon Silver in Rome at 
+ vtsilver@bloomberg.net ; Ben Elgin in  San Francisco  at 
+   belgin@bloomberg.net ; Dune Lawrence in New York at
+   dlawrence6@bloomberg.net ; and Michael Riley
+in Washington at +1-202-624-1982 or  michaelriley@bloomberg.net .  To contact the editor responsible for this story:
+Melissa Pozsgay at +33-1-5365-5056 or  mpozsgay@bloomberg.net  

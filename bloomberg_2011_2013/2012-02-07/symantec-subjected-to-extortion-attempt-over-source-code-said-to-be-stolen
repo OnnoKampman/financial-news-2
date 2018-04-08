@@ -1,0 +1,37 @@
+-- Symantec Subjected to Extortion Attempt Over Source Code Said to Be Stolen
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-02-07T18:53:52Z
+-- http://www.bloomberg.com/news/2012-02-07/symantec-subjected-to-extortion-attempt-over-source-code-said-to-be-stolen.html
+Symantec Corp ., the biggest maker of
+computer-security software, said a person claiming to be part of
+the Anonymous group tried to extort $50,000 to keep it from
+posting stolen source code on the Internet.  “Symantec conducted an internal investigation into this
+incident and also contacted  law enforcement  given the attempted
+extortion and apparent theft of intellectual property,”
+ Mountain View , California-based Symantec said in a statement.  A group calling itself  Lords of Dharmaraja , which claims an
+affiliation with hacker group Anonymous, has been publicly
+taunting Symantec for weeks in online forums, saying that it
+stole programming code for several Symantec products and was
+planning to leak it on the Web. Symantec said that code that was
+already posted is real, and was stolen in a 2006 incursion into
+its network, though most of it was for obsolete products,
+limiting the potential damage from a disclosure.  One vulnerable program is pcAnywhere, which corporate
+technical staff used to remotely control employees’ computers.
+Symantec said it has issued patches, or fixes for known security
+holes, for the product. Customers using older versions who don’t
+apply the patches face a slightly increased security risk,
+ Symantec  said. That means that hackers may find it easier to
+break into corporate networks that use the program.  Source code is valuable because it is a blueprint for how a
+company built a piece of software. Hackers who get their hands
+on it can hunt for weaknesses.  Security software is constantly probed for programming
+errors, and many legal, third-party programs exist to help
+security researchers find those flaws, without the need to
+examine source code, said Rich Mogull, chief executive officer
+of Securosis, a Phoenix-based security-research firm. That
+limits the source code’s usefulness in crafting attacks,
+especially for older products whose errors have already been
+fixed, Mogull said.  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

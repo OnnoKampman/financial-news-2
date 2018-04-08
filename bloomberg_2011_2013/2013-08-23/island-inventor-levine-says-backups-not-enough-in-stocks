@@ -1,0 +1,57 @@
+-- Island Inventor Levine Says Backups Not Enough in Stocks
+-- B y   S a m   M a m u d i
+-- 2013-08-23T18:03:32Z
+-- http://www.bloomberg.com/news/2013-08-23/island-inventor-levine-says-backups-not-enough-in-stocks.html
+Systems such as stock markets should
+be designed to avoid “single points of failure,” though doing
+so is getting harder, according to Josh Levine, who invented the
+technology that underlies  Nasdaq  OMX Group Inc.’s exchanges.  The Nasdaq Stock Market halted trading in shares it lists
+for three hours yesterday after connectivity was disrupted
+between its data processor and NYSE Arca, where about 11 percent
+of American share volume occurs. The breakdown spurred Nasdaq to
+freeze thousands of stocks from Apple Inc. to Facebook Inc. that
+trade on about 50 markets from  Kansas  to  New Jersey .  “In general I prefer distributed systems over centralized
+ones, and distributed systems’ resistance to outages like this
+is only one of the many reasons why,” Levine, who designed the
+Island ECN that Nasdaq acquired when it bought Instinet Group
+Inc. in December 2005, wrote in an e-mail. He said he didn’t
+have specific details about the Nasdaq outage.  Yesterday’s shutdown raised questions among traders about
+how problems in Nasdaq’s quote-distributing subsidiary, known as
+the securities industry processor, were enough to bring half the
+American equity market to a standstill. Concern bad data could
+lead to “information asymmetry” among investors spurred the
+decision, Nasdaq Chief Executive Officer  Robert Greifeld  said on
+Bloomberg television this morning.  “Having backups is not enough to assure failure
+resistance,” Levine wrote. “You must also make sure that you
+do not have single points of failure.”  Securities Processors  Nasdaq and the  New York Stock Exchange (NYX) , where almost all
+U.S. companies go public, each operate securities industry
+processors, known as SIPs. The units receive quotes and trades
+from around the country and disseminate them in three groups,
+known as tapes. NYSE operates the Tapes A and B and Nasdaq runs
+Tape C.  The Nasdaq SIP processed about 100.5 million quotes and
+6.75 million trades per day in the first quarter, according to a
+consolidated exchange data report. NYSE’s handled 394.8 million
+quotes and 16.6 million trades daily in the same period. During
+peaks, Nasdaq saw an average of 97,955 quotes and 19,446 trades
+a second.  “Designing systems and structures that avoid these single
+points of failure is very hard, and gets harder the more complex
+and centralized a system is,” Levine wrote. “It is remarkable
+how rare outages like this are considering the regulatory and
+structural challenges that systems like Nasdaq are faced with --
+they do an amazing job keeping these huge, complicated, and
+constantly changing systems running almost all the time without
+incident.”  Big J  In a January 2002 letter to an operating committee
+reviewing proposals for a quote processor, Levine offered to
+design a SIP by himself that would be run not-for-profit over an
+open architecture. Big J SIP, it would be called, according to
+the letter posted on his website.  “I’m not in this for the money,” he wrote. “I’m offering
+to create this SIP because I see it as a once-in-a-lifetime
+opportunity to make a meaningful and lasting improvement in the
+overall quality of the U.S. equities markets. My ultimate hope
+is that the SIP would effectively disappear; becoming the
+infrastructure that invisibly supports the innovations happening
+inside the marketplaces and data vendors.”  To contact the reporter on this story:
+Sam Mamudi in  New York  at 
+ smamudi@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

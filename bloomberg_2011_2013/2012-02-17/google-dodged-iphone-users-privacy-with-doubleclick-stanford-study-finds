@@ -1,0 +1,79 @@
+-- Google Dodged IPhone Users’ Privacy With DoubleClick, Stanford Study Finds
+-- B y   H e a t h e r   P e r l b e r g   a n d   B r i a n   W o m a c k
+-- 2012-02-17T22:39:10Z
+-- http://www.bloomberg.com/news/2012-02-17/google-dodged-iphone-users-privacy-with-doubleclick-stanford-study-finds.html
+Google Inc. (GOOG)  violated users’ privacy
+on Apple Inc.’s Safari Web browser, Stanford University research
+found, adding to a drumbeat of criticism from consumer groups
+and lawmakers over how the search giant tracks people online.  Using its DoubleClick ad network, Google has been dodging a
+privacy setting in Safari, the primary Web browser on the
+iPhone, iPad and Apple computers, according to a report today by
+Stanford’s Security Lab and the Center for Internet and Society.
+The  study  named three other companies -- Vibrant Media Inc.,
+Media Innovation Group LLC and PointRoll Inc. -- that also
+evaded privacy settings.  “Apple’s Safari Web browser is configured to block third-
+party cookies by default,” Stanford graduate student Jonathan Mayer said in the report. “Google and Vibrant Media
+intentionally circumvent Safari’s privacy feature.”  Google, the world’s biggest Internet-search company, has
+drawn regulatory scrutiny and pressure from consumer advocates
+for the way it handles personal information. Last year it agreed
+to settle claims with the  Federal Trade Commission  that Google
+used deceptive tactics and violated its own privacy policies
+when it introduced its Buzz social-networking service in 2010.  In the Stanford study, Mayer said Google’s software
+employed cookies, or small pieces of code, that can be used to
+follow users’ activities on the Web. Blocking them is supposed
+to prevent the cookies from tracking behavior. The actions
+potentially affected millions of users, Mayer said. Safari is
+the top browser for mobile devices, with 55 percent of the
+market, according to January data from  Net Applications .  Apple’s Response  Apple is aware that “that some third parties are
+circumventing Safari’s privacy features,” said  Bill Evans , a
+spokesman for the Cupertino, California-based company. “We are
+working to put a stop to it,” he said.  Google’s actions also prompted Consumer Watchdog to send a
+letter to the FTC and demand action against Google.  “Safari users with the browser set to block third-party
+cookies thought they were not being tracked,”  John Simpson ,
+privacy project director of Consumer Watchdog, said in the
+letter. “Nonetheless, because of an element invisible to the
+user, but designed to mimic a form, DoubleClick was able to set
+tracking cookies in an obvious violation of the set
+preference.”  No Personal Information  Google has started removing the advertising cookies from
+Safari browsers, Rachel Whetstone, senior vice president of
+communications and public policy at the  Mountain View ,
+California-based company, said in an e-mailed statement.  “It’s important to stress that, just as on other browsers,
+these advertising cookies do not collect personal information,”
+Whetstone said.  Google said it began to use the functions in the Safari
+browser last year to enable its “+1” feature, which lets
+surfers easily identify content that interests them. Google
+created a temporary communication link between its servers and
+Safari’s, so the company could know whether a user had signed up
+for +1, she said.  “But we designed this so that the information passing
+between the user’s Safari browser and Google’s servers was
+anonymous -- effectively creating a barrier between their
+personal information and the Web content they browse,” she
+said. “However, the Safari browser contained functionality that
+then enabled other Google advertising cookies to be set on the
+browser. We didn’t anticipate that this would happen.”  Letter to FTC  The controversy drew fresh concerns from lawmakers.
+Representatives  Edward Markey , a Democrat from  Massachusetts ;
+ Joe Barton , a Republican from  Texas ; and  Cliff Stearns , a
+Republican representing  Florida , sent  a letter  to the
+FTC today asking whether Google violated its agreement with the
+agency over privacy.  Senator  Jay Rockefeller , chairman of the commerce
+committee, said in a statement that Google “may have violated
+the company’s own stated privacy policies.” Rockefeller, who
+represents  West Virginia , said he intends to look into the
+matter. Separately, a Safari Web browser user sued Google,
+accusing the company of violating privacy.  The findings of the Stanford study were reported earlier by
+the Wall Street Journal.  “Consumers are outraged at news reports today that Google
+used a work-around hack to ‘trick’ the  Apple (AAPL)  Safari browser into
+allowing the dominant Internet and advertising company to track
+the Web browsing habits of millions of Apple users,” said Steve Pociask, president of the American Consumer Institute, an
+organization in  Washington .  Google shares fell less than 1 percent to $604.64 today.
+The shares have declined 6.4 percent this year.  Google began using data from its Google+ service in search
+results of members this year and announced a new privacy policy
+covering the majority of its products that will take effect on
+March 1. The updated policy will let Google provide more
+targeted advertisements, part of an effort to compete more
+closely with Facebook Inc.  To contact the reporters on this story:
+Heather Perlberg in New York at 
+ hperlberg@bloomberg.net ; and
+ Brian Womack  in  San Francisco  at 
+ bwomack1@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

@@ -1,0 +1,119 @@
+-- SEC Votes to Require Consolidated Audit Trail for Markets
+-- B y   S t e v e n   S l o a n   a n d   N i n a   M e h t a
+-- 2012-07-12T04:01:00Z
+-- http://www.bloomberg.com/news/2012-07-11/sec-votes-to-require-consolidated-audit-trail-for-markets.html
+The Securities and Exchange
+Commission voted yesterday to require exchanges and a broker
+oversight group to build a single system to monitor and analyze
+trading activity across U.S. equity and options markets.  In a 3-2 vote, the SEC approved a rule requiring the
+exchanges and the Financial Industry Regulatory Authority, which
+oversees 4,400 brokers, to establish a so-called consolidated
+audit trail that will enable the reconstruction of market crises
+and expedite surveillance across 13 equity exchanges, 10 options
+markets and more than 200 broker-dealers that execute stock
+trades away from public venues. The effort is part of the
+agency’s response to the May 6, 2010, stock rout that
+temporarily erased $862 billion in U.S. equity value.  “A consolidated audit trail that accurately tracks orders
+throughout their lifecycle and identifies the broker-dealers
+handling them will provide us with an unprecedented ability to
+effectively oversee the markets we regulate,” said SEC Chairman
+ Mary Schapiro . The rule is a “great leap forward,” she said.  The SEC has already implemented circuit breakers to halt
+trading when a company’s shares move 10 percent in five minutes
+and required market-makers to supply quotes closer to the best
+prices than was previously required. Still, Schapiro has pressed
+for tools that would allow faster and broader oversight of
+trading activity across U.S. venues. After the 2010 market
+disruption, a 20-person SEC team needed three months to collect
+and process order and transaction data that arrived in different
+formats from exchanges and brokers.  Measure’s Strength  Schapiro, a political independent appointed by President
+ Barack Obama , had to rely on the support of Republican
+Commissioners  Troy Paredes  and Daniel Gallagher to adopt the
+rule. The two Democrats on the SEC, Elisse Walter and  Luis Aguilar , opposed the measure, saying it doesn’t go far enough.  Walter said the SEC should have required real-time order
+and trade reporting, which exchanges fought as too costly and
+unnecessary to meet the agency’s surveillance and enforcement
+needs. The rule adopted yesterday would require some of the data
+to be reported by 8 a.m. the following day.  “Not striving” for a real-time reporting regime “seems
+to ensure that the industry remains one step or one day ahead of
+the regulators,” Walter said.  Next-Day Standard  The Securities Industry and Financial Markets Association
+had opposed real-time monitoring. The next-day standard adopted
+by the SEC “is a more manageable and cost-effective approach to
+this kind of system,” Randy Snook, Sifma’s executive vice
+president, said in a statement after the vote.  Gregg Berman, a senior adviser to the director of the SEC’s
+division of trading and markets, told commissioners at the end
+of their meeting that real-time reporting doesn’t provide better
+information than the next-day mandate. Data can also only be
+used after it’s been checked, orders and trades hailing from the
+same source have been linked, and the information has been
+aggregated and made available to regulators, he said.  “The only advantage of real-time data is that an analysis
+might start sooner but not that it will be better,” Berman
+said.  Regulators currently keep tabs on the markets and monitor
+trading using data stored in different formats. The consolidated
+audit trail would be a centralized data hub that captures order
+information throughout the life cycle of a transaction, from
+when the buy or sell request is generated to how and when it’s
+routed, modified, canceled or executed. Each broker, exchange
+and customer would have an identifier that’s reported to the
+repository so information can be linked back to the same source.  More Data  The consolidated audit trail will give the SEC’s
+enforcement division more data to pursue  insider trading  and
+market manipulation investigations,  Steve Cohen , an  enforcement 
+official, said in the meeting. It will also permit the agency to
+more easily examine all activity by a trader and not just the
+behavior that provoked the investigation, he said.  The lack of access to customer information has hindered and
+slowed the division’s investigations, hiding potentially
+manipulative activity and forcing the SEC to “cobble together
+data from disparate systems, each incomplete, inaccurate,
+inaccessible and untimely in their own way,” Cohen said. The
+planned audit trail should remedy the problem by enabling the
+SEC to identify linked accounts and pursue trading that appears
+suspicious more rapidly and confidentially, he said.  Devising Specifics  The SEC’s approval leaves it to the  self-regulatory
+organizations  that operate exchanges and Finra, the private-
+sector regulator for brokers, to develop the specifics of how
+the consolidated audit trail will work in practice. The SEC must
+approve the plan before it can be implemented.  “This is an important step that will address cracks in our
+fractured market system,” Senator  Charles Schumer , a Democrat
+from  New York , said in an e-mailed statement. “The SEC should
+follow through and require high-frequency traders who impose the
+highest costs on the system to bear the largest share of the
+burden for implementing the consolidated audit trail.”  Regulators will be able to use data collected through the
+audit trail to study the strategies of market participants
+including high-frequency trading firms and their impact on the
+“quality and fairness” of the market, Schapiro said. The
+exchanges and Finra must specify how the costs to build and
+support the consolidated audit trail will be distributed across
+the SROs and their broker-dealer members, according to the SEC.
+Many high-frequency traders are brokers.  Plan Deadline  The exchanges and Finra must submit their audit trail plan
+within nine months of the rule’s publication in the Federal
+Register, according to the SEC. The public will be able to
+comment on that plan. If the SEC approves the initiative, the
+SROs would begin reporting data to the repository a year after
+the plan becomes effective. Bigger brokers would have one more
+year before they must report quote and trade data to the
+repository while smaller firms would get two years.  While today’s action was a step in the right direction,
+it’s “disappointingly weak,” Walter said in the SEC meeting.  “Sometimes the good just isn’t good enough,” she said.
+“We appear to be adopting an overly cautious approach.”  The rule should have been more prescriptive and laid out
+“minimum requirements” for the accuracy and completeness of
+the data, according to Walter. The commissioner also said she
+worried the SEC may settle for only “incremental improvements”
+to its oversight capabilities if the planned record-keeping
+system is built on top of an existing audit trail maintained by
+Finra and built a decade ago. “We need far more,” she said.  Finra’s Blueprint  Finra told the SEC last year it could be the technology
+processor for the consolidated audit trail. It gave the SEC a
+ blueprint  in April 2011 for a timeline to build the record-
+keeping system on top of its current order audit trail system,
+or OATS. Implementing the system for equities would cost no more
+than $125 million, Finra said, not including the expense of
+integrating options, bonds, swaps and other products, which the
+SEC wants. The exchanges and Finra will be responsible for
+selecting the technology provider or plan processor to operate
+the repository for the audit trail data, the SEC said in 2010.  “We are not going to throw this rule over the transom and
+say to the SROs, ’Come back to us with whatever you think works
+here and we’ll be happy to approve it,’” Schapiro said at the
+closing of today’s meeting. “We’re going to stay intimately
+involved. We’re going to have to push and pull and make sure
+that the plan meets our standards.”  To contact the reporters on this story:
+Steven Sloan in Washington at 
+ ssloan7@bloomberg.net ;
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+ Maura Reynolds  at 
+ mreynolds34@bloomberg.net  

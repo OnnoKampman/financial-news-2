@@ -1,0 +1,262 @@
+-- Stolen Credit Cards Go for $3.50 at Amazon-Like Online Bazaar
+-- B y   M i c h a e l   R i l e y
+-- 2011-12-20T05:01:34Z
+-- http://www.bloomberg.com/news/2011-12-20/stolen-credit-cards-go-for-3-50-each-at-online-bazaar-that-mimics-amazon.html
+In mid-September, a European hacker
+nicknamed Poxxie broke into the computer network of a U.S.
+company and, he said, grabbed 1,400  credit-card  numbers, the
+account holders’ names and addresses, and the security code that
+comes with each card.  With little trouble, he sold the numbers for $3.50 each on
+his own seller’s site, called CVV2s.in, to underworld buyers who
+have come to trust the quality of his goods, he said.  “The main thing in any business is honesty,” Poxxie said,
+without any trace of irony.  The Traverse City, Michigan-based  Ponemon Institute , which
+researches data security, estimates that thieves annually steal
+8.4 million credit-card numbers in the U.S. alone. How do
+cyberbandits, who have turned hacking into a volume business,
+unload all those numbers? A lot like  Amazon.com (AMZN) , it turns out.  Customers on CVV2s can search for card numbers by bank,
+card type, credit limit and zip code, loading them into a
+virtual shopping basket as they go. The site offers the ability
+to search by bank identification number. That means customers
+can choose cards by institutions known to have weak security,
+Poxxie said. CVV2s even has an automated feature that lets
+clients validate the numbers in real time, to make sure the bank
+hasn’t canceled the card.  Sites like Poxxie’s make up the cyberunderworld’s version
+of a pirate’s cove, offering their online booty at cut-rate
+prices. Hundreds of millions of dollars in stolen data are
+bought and sold in underground’s chat rooms and forums every
+year, a fencing operation that becomes more robust annually,
+according to RSA, the security division of  EMC Corp. (EMC) 
+CrackHackForum.com, one of the sites, even mimics  EBay Inc. (EBAY) ,
+rating buyers and sellers with starred reviews.  $114 Billion a Year  Symantec Corp. (SYMC) , the cybersecurity firm, estimates that
+cyberthieves steal data worth $114 billion a year. By
+comparison, the  Federal Bureau of Investigation  said the take
+from all bank robberies in the U.S. in 2010 was just
+$43 million. The global market in cocaine is an estimated
+$85 billion, according to the  United Nations .  “The problem is getting worse faster than we’re getting
+better,” said Tony Sager, chief operating officer of the
+Information Assurance Directorate at the National Security
+Agency, which includes some of the U.S. government’s best
+cyberexperts. “We’re not keeping pace.”  To look inside the cyberbazaar, to find details on prices
+and goods for sale, Bloomberg News gathered information through
+publicly available websites and in restricted forums, aided in
+this search by cybersecurity experts. Some of the information
+was provided through online interviews with participants, who
+protected their real identities as they discussed details on
+their lives and criminal operations.  How to Verify  The cyberunderground thrives because of anonymity: Hackers
+can devise any persona to conduct business and use a variety of
+technical tricks to hide their tracks. Their stories were
+verified to the extent possible by security experts who have
+watched the careers and methods of specific hackers for years.  As recently as 2008, the fight between those who protect
+ computer networks  and those who attack them was about evenly
+matched. That’s no longer the case, according to the cybercops.
+The defenders are losing the battle because of a combination of
+their opponents’ technical achievements and rapid advances in a
+global supply chain of theft.  In 2009, Symantec cataloged 2.8 million new viruses
+infecting computers. A year later, that number had jumped to
+286 million. One reason for the hundredfold growth is that
+sophisticated viruses now change their digital signatures as
+they infect new machines. Because anti-virus software uses a
+catalog of known signatures to stop infections, the dominant
+cybersecurity technology in many cases is useless as a result.  Cheap Malware  Some of the market’s most advanced malware -- stealth
+software that steals data or lets hackers take remote command of
+a computer -- can be bought for a few thousand dollars.
+Sophisticated spam operations implant the malware in computers
+for pennies per victim.  Black-market vendors test malware against the latest anti-
+virus programs; provide hosting for command-and-control servers
+in countries that can’t be touched by U.S.  law enforcement ; or
+start a directed denial-of-service attack on a commercial or
+other website priced by the number of hours the site is down.  One enterprise, advertised recently on the Israeli forum
+SecondZion, has created a language-aid call center for hackers
+who need to pose as U.S. bank customers or communicate with a
+German-speaking money mule, as currency transporters are called.
+The hackers provide a script; operators do the rest. “Good
+afternoon, ladies and gentleman crooks,” the site says, noting
+that its translators are “all operators with extensive
+experience.” Two users followed up with comments praising the
+service as excellent.  Illicit Chat Rooms  Distribution of goods and services is organized through
+thousands of illicit chat rooms and invitation-only forums. Some
+are publicly accessible: Any beginner looking to learn the
+basics of a so-called SQL injection hack -- a basic attack on
+the security of a website -- can join a forum like OpenSC and
+ask for tips. Others are private and access is strictly
+protected.  The most serious criminals congregate on forums such as
+Maza. Membership to the forum is granted only by a vote of all
+of its senior members and only after an eight-day waiting
+period, according to researchers who have tried to infiltrate
+it. Most deals done on the forum are large, so members use an
+escrow system. Cash or goods are held either by a trusted senior
+hacker or one who has retired from the business. In a criminal
+world in which conspirators almost never meet and trust is in
+short supply, the escrow system has evolved as a way for elite
+hackers to do big business.  ‘Five Figures’  “Most of the transactions of in those forums will be in the
+five figures,” said a security investigator who has infiltrated
+several such forums. “The escrow system is the only way to make
+those transactions viable.”  Public hacker sites, including CrackHackForum and
+HackForums, usually have rules against selling stolen data.
+Enforcement of sales postings is often weak and varies widely.  Poxxie’s site, which is well known to security experts, was
+run until recently from a server in  India , where U.S. law
+enforcement carries little weight with local authorities when it
+comes to computer crime. The site was recently moved or shut
+down, a common security practice among hackers.  Poxxie has been in business long enough to see the price
+for a stolen credit card plummet because of over-supply and more
+sophisticated safety precautions by banks. Why charge $3.50 for
+a stolen card number with the purchasing power to buy a car? The
+card could be canceled at any time after purchase, he said, and
+there are inherent risks in using it.  Crime Wave  “In this whole carding scene, nothing is guaranteed,”
+Poxxie said via ICQ, the online messaging network that is a
+common platform for doing business in the cyberunderground.  Poxxie’s business is a boutique firm in an industrial-scale
+crime wave. Although the targets of cybercrime are still
+concentrated in the U.S. and  Europe , the perpetrators are
+global. Some are independent operators who make a few thousand
+dollars a month, often supplementing their income with a day
+job. Others are members of large criminal organizations.  Hex Nightmare falls somewhere in between. When you conduct
+business with the 20-something cyberthief, the first -- and only
+-- thing you see is an avatar on ICQ: an anime version of a girl
+in hip huggers and a tank top. A person who has tracked her over
+several years said Hex Nightmare has managed to gain an
+impressive pedigree in the cyberunderground, learning quickly
+and moving in some of the most trusted circles of top
+cyberthieves.  Take-Home Pay  Her take-home from cybertheft, which concentrates mostly on
+stealing credit-card numbers and online banking credentials,
+compares with the pay of some lower-level corporate executives,
+she said via ICQ -- keeping her true identity secret. “I can
+possibly make an extra $8k a month on top of my regular income,”
+she said.  To the young hacker, cybertheft is like a second job, one
+she juggles, she said, with going out to clubs on weekend nights
+and waitressing during the week. Her legitimate job is also a
+way to launder illicit income, she said. Hex Nightmare said she
+didn’t want the debt of a university education and instead spent
+two years on the forums learning her trade. The hacker faces
+none of the violence associated with other organized crime and
+otherwise leads a relatively normal life.  “They have no idea what I do,” she said of friends and
+acquaintances. The details of the cyberthief’s personal life --
+including her real gender and age -- couldn’t be verified but
+her business model and activities were corroborated by a
+security professional and fit the profile typical of young
+hackers, according to Eric Strom, an FBI special agent who heads
+an elite cyber team based in Pittsburgh.  Like Universities  “These are marketplaces, but they are also like
+universities,” Strom said. “You have newbies on there, you have
+seasoned guys. It’s a meeting place, it’s a social networking
+place, everything wrapped into one.”  Working out of an office in a tech hub along the
+Monongahela River, Strom wears short-sleeves and loose pants,
+the uniform of a man who fights crime at a computer keyboard.
+His unit has a storied place in that world. It was behind
+DarkMarket, an elite English-language hackers forum that turned
+out to be an FBI sting when 56 of its members were arrested in
+2008.  Before turning to the cyber world, Strom spent most of his
+FBI career fighting the Mafia. It’s was good training, he said.  Like the Mob  “The stance we take is looking at it through the lens of
+organized crime,” he said. It took the better part of the 1980s
+and early 1990s for federal authorities to understand and begin
+to dismantle the U.S. mafia: develop investigative capacity,
+penetrate complex enterprises, pass new laws. It will take time
+with global cybercrime as well, Strom said.  “We’re trying to keep pace with how the crime is evolving,”
+he said.  Facing sophisticated cartels, the FBI and European law
+enforcement officials have created new cybersquads and launched
+major investigations. In October 2010, the FBI began one of its
+most ambitious cybercrime operations. Code-named Trident Breach,
+authorities broke up an international crime ring responsible for
+stealing $70 million from online bank accounts of small
+businesses and local government throughout the U.S. and Europe.
+There were arrests in four countries, including 39 in the U.S.  Frustrations  That success was accompanied by frustrations faced daily by
+investigators: There is almost no chance the world’s top
+cybercriminals -- residing in haven countries like Belarus,
+ Romania , and Ukraine -- will ever be brought to justice. Most of
+the individuals detained last year were international students
+who, acting as so-called mules, withdrew money from the hackers’
+U.S. bank accounts and forwarded it home. Five people who were
+described as kingpins were detained for questioning in Ukraine.
+All five were eventually set free without seeing the inside of a
+courtroom, the FBI said in September.  “Cybergangs, mainly in Eastern Europe and the former  Soviet
+Union , are making money that rivals some drug cartels,” said
+Richard Clarke, former special adviser on cybersecurity to U.S.
+President  George W. Bush , at an October conference on network
+security. “There is frankly nothing the FBI and Secret Service
+can do about it.”  In April, the  Department of Justice  dismantled one of the
+largest known criminal botnets, a network of infected computers
+programmed to send data automatically from their hard drives to
+a server controlled by hackers. The department declared the
+break-up of Coreflood, as the botnet was known, a major victory.  The Russians  It said almost nothing about the criminals who ran it.
+Researchers at Dell SecureWorks, the Atlanta-based security firm
+that aided the investigation, said the kingpins behind Coreflood
+are three Russians last known to be living comfortably in
+Rostov, a mid-size city on the Don River.  “Our relationship with the Russians is always a work in
+progress,” Strom said.  No one personifies  Russia ’s place at the top of the cyber
+underworld more than Gribo-demon, a Russian programmer, around
+30 years old, U.S. investigators estimate. He is one of the few
+cybercriminals who is the focus of a his own FBI special
+operation. Gribo-demon is the author of SpyEye, a sophisticated
+malware package first released in late 2009 and upgraded several
+times since then.  Once downloaded on a machine, the malware can be used by
+hackers to take remote command of key functions. Using SpyEye, a
+cyberthief can hijack an online banking session in real time,
+transfer funds to accounts they or their mules control, and
+adjust the balance displayed so nothing seems amiss.  Seems Legit  The transaction looks legitimate because, in computer
+terms, it is. All the bank can tell is that it was made from
+their customer’s computer, using their correct password. A basic
+version of SpyEye costs around $2,000, according to the hacker
+sites.  “SpyEye provides military-grade intrusion capabilities for
+the price of a TV,” said Gunter Ollmann, vice president of
+research at Damballa Inc., the Atlanta-based security firm
+that tracks major cyberthreats.  Gribo-demon’s real innovation stems from what he didn’t do:
+keep SpyEye to himself. Hackers used to write their own code.
+Good tools were  trade secrets . Gribo-demon instead licenses
+SpyEye, mimicking Microsoft and Oracle, a business model that
+arguably opened cybercrime to the masses.  The model was pioneered by a competitor and fellow Russian
+who created popular malware called ZeuS, according to security
+experts. ZeuS first appeared in 2008. Both programmers provided
+clients with  customer service , offering an array of enticing
+modules to add functionality for an additional price.  Beta Testing  The ZeuS author, known as Slavik, even Beta-tested new
+versions with elite users, according to Don Jackson, a
+SecureWorks researcher. Slavik disappeared in late 2010, but not
+before he handed the ZeuS source-code to Gribo, who incorporated
+some of its features into his own product, Jackson said.  Security experts say it’s hard to overestimate impact of
+Slavik’s and Gribo-demon’s handiwork. In September, the Tokyo-
+based cybersecurity firm Trend Micro publicized a dossier on a
+20-something Russian cyberthief who goes by the name Soldier,
+tracing his activities in the underground forums over several
+months. Using SpyEye, soldier stole $3.2 million from U.S.
+customers of three banks in just six months -- about $17,000 a
+day -- Trend Micro said.  Going Price  The hacker used bank-account information scraped from more
+than 25,000 victims’ computers, in some cases renting other
+cyberthieves’ networks of infected computers. He created
+counterfeit checks with banking data and mailed them to money
+mules throughout the  United States . They cashed them, then
+forwarded the funds untraceably to Russia. He even used stolen
+credit card numbers vacuumed from the victims’ hard drives to
+buy pre-paid postal-service labels for the packages.  “From start to finish, this guy leveraged every bit of
+data,” said Alex Cox, an investigator for Netwitness, a
+cybersecurity division of  EMC Corp. (EMC) , which has also been
+tracking Soldier’s activities.  The most remarkable thing about the theft -- and this is,
+to experts in the field, the most worrisome development of the
+past few months -- was that Soldier didn’t need any special
+expertise with computers. All he needed was a shopping list.  “He’s not a lone hacker,” said Trend Micro’s  David Perry .
+“He didn’t write any code.”  Shopping List  Strom said the FBI is also tracking Soldier and is
+confident they’ll get him. “These guys are very sophisticated,
+but often times they slip up,” Strom said.  Strom and other investigators have one significant
+advantage: the hackers have a habit of turning their skills on
+one another. The FBI’s DarkMarket sting started with a hacker
+war between a hacker, calling himself Iceman, who ran
+CardersMarket, and JiLsi, the DarkMarket administrator, whose
+real name was Renukanth Subramaniam, the FBI said.  “We took advantage of that animosity,” Strom said,
+eventually persuading JiLsi to turn over the site to the FBI and
+giving the bureau control over all communications involving
+DarkMarket’s 2,500 members. As a result, Subramaniam was
+sentenced to more than four years in prison in the U.K.  Maza, the elite Russian forum, was recently hacked and its
+database dumped online. It presented a priceless opportunity for
+law enforcement. The forum’s database held membership lists, e-
+mail addresses, IP addresses, and passwords -- the kind of
+information the world’s top cyber thieves try very hard to keep
+secret. The main suspect in the Maza attack is the administrator
+of a rival site, Hex Nightmare said.  Learned a Lot  “We learned a lot of lessons with DarkMarket, and we’ve
+passed that experience on not only to other offices within the
+FBI but to our counterparts overseas,” Strom said. “We’re
+definitely taking the fight back to them.”  Hex Nightmare agrees the FBI may eventually make more
+progress. When Slavik, the author of the ZeuS malware,
+disappeared in 2010, he was at the height of his fame. Theories
+about his disappearance abound on the underground: Slavik was
+killed; he now works as a cyberspy for the Russian government.
+Hex Nightmare has her own: “I think Slavik thought it was a good
+time to get out.”  To contact the reporter on this story:
+Michael Riley in Washington
+at   michaelriley@bloomberg.net ;  To contact the editor responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net . 

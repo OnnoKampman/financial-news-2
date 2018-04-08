@@ -1,0 +1,33 @@
+-- How We Crunched the Numbers to Find the Best-Paid CEOs
+-- B y   B l o o m b e r g   R a n k i n g s
+-- 2012-06-05T04:01:00Z
+-- http://www.bloomberg.com/news/2012-06-05/how-we-crunched-the-numbers-to-find-the-best-paid-ceos.html
+For the Finance 50 compensation
+tables, we limited our universe to the largest publicly listed
+financial companies for which we had 2011 proxy statements as of
+May 1. We created a list of the largest companies by market
+capitalization using the Equity Screening function. These
+companies had to be headquartered in the U.S.  The CEOs of the 50 largest companies that met our criteria
+are ranked by total compensation. Because KKR has two CEOs, only
+49 companies are listed. All of the data come from the Summary
+Compensation Table in companies’ proxy statements for their 2011
+fiscal year. Direct compensation is the sum of base salary,
+annual bonus, non-equity incentive-plan compensation and “all
+other compensation.” Indirect compensation is the value of stock
+and options awards.  For a number of firms, such as Bank of America, JPMorgan
+Chase and Goldman Sachs, a portion of the pay in any given year
+may be in recognition of a CEO’s performance in the previous
+year. To make up for the lag between performance and pay, in
+calculating the best- and least-value CEOs, we used three years
+of stock returns.  Using the Total Return Analysis function, we calculated the
+cumulative total return for each stock for fiscal years 2009,
+2010 and 2011. We divided that figure by the CEO’s total
+incentive compensation in 2011 (stock and option awards and non-
+equity incentive-plan compensation) to derive the percentage
+point return on stock for every $1 million of incentive pay.
+(For returns that were less than zero, we inverted the
+denominator.)  Two Ways of Counting  We also added a table showing the amounts 10 big bank
+boards awarded CEOs for their work in 2011, which in some cases
+include money and stock granted in early 2012. These figures
+were found in proxies and other filings.  To contact the editor responsible for this story:
+Michael Serrill at   mserrill@bloomberg.net  

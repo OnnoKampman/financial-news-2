@@ -1,0 +1,296 @@
+-- 
+Nuclear Safety Lessons Start With Manholes, Axes: Peter Coy
+
+-- B y   P e t e r   C o y
+-- 
+2011-03-24T18:12:34Z
+
+-- http://www.bloomberg.com/news/2011-03-24/nuclear-safety-lessons-start-with-manholes-axes-commentary-by-peter-coy.html
+(Corrects name of lab and description of project in 43rd
+paragraph.)  Three Mile Island, Chernobyl,
+Fukushima. First the accident, then the predictable allegations
+in the postmortem: The design was flawed. Inspections were
+inadequate. Lines of defense crumbled, and reliable backups
+proved unreliable. Planners lacked the imagination or willpower
+to prepare for the worst.  There’s a way to break out of this pattern. Nuclear power
+plants will never be completely safe, but they can be made far
+safer than they are today.  The key is humility. The next generation of plants must be
+built to work with nature, and human nature, rather than against
+them, Bloomberg Businessweek reports in its March 28 edition.
+They must be safe by design, so that even if everything goes
+wrong, the outcome won’t be disaster.  In the language of the nuclear industry, they must be
+“walkaway safe,” meaning that even if all power is lost and
+the coolant leaks and the operators flee the scene, there will
+be no meltdown of the core, no fire in the spent fuel rods, and
+no bursts of radioactive steam into the atmosphere.  For inspiration, consider the manhole. If manholes were
+square, a cover that got jounced around by a passing vehicle
+could fall diagonally through the open hole. That’s why manholes
+aren’t square--they’re round, because no matter how you rotate a
+round cover, it can never fall through a round hole. The
+solution is brilliant in its simplicity, and cheaper than hiring
+armies of inspectors to go around making sure square covers are
+correctly aligned on square holes.  Manhole Wisdom  The beginnings of manhole wisdom are incorporated into
+nuclear power plants under construction in China,  India , and
+probably soon in the U.S.  The plants use “passive” safety features, a label that
+sounds underwhelming until you consider its implications.
+Passive means that the reactor’s safety doesn’t depend on active
+interventions, such as operators flipping the correct switches
+or sensors and actuators working properly. The safety depends,
+rather, on physics.  The new Westinghouse AP1000 (the AP stands for Advanced
+Passive), for example, has a huge emergency water reservoir
+above the reactor vessel that’s held back by valves.  If the cooling system fails, the valves open and a highly
+reliable force takes over: gravity. Water pours down to cool the
+outside of the containment vessel. Then another highly reliable
+force, convection, kicks in. As the water turns to steam, it
+rises. Then it cools under the roof, turns back into a liquid,
+and pours down again.  Three Days  Westinghouse estimates that the pool contains enough water
+to last three days, after which pumps operated by diesel
+generators are supposed to kick in and add water from an on-site
+lake.  This isn’t an idea on the drawing board. Westinghouse,
+owned by  Toshiba Corp. (6502) , is about halfway to completion of one of
+the plants at Sanmen in China’s Zhejiang province. It’s supposed
+to go online in 2013.  At the Vogtle plant in Georgia, excavation and non-safety-
+related construction has begun for two AP1000 reactors. Southern
+Co., the largest utility in the U.S. by market capitalization,
+has 1,400 workers on the site and is expecting a combined
+construction and operating license for them later this year.  France’s  Areva SA (CEI)  and a venture between  General Electric
+Co. (GE)  and  Hitachi Ltd. (6501)  are among groups lined up behind
+Westinghouse in getting Nuclear Regulatory Commission
+certification for their own safer designs.  Obama Call  Critics continue to argue that there will never be a truly
+safe nuclear power plant, and it’s true: Any time you split
+atoms, there’s risk. But nuclear plants have one thing going for
+them that hasn’t changed since the leak at Fukushima. They
+generate badly needed electricity without creating  greenhouse
+gases  that cause global warming.  In his State of the Union address in January, U.S.
+President  Barack Obama  called for “building a new generation of
+safe, clean nuclear power plants in this country.”  In his fiscal 2012 budget request in February, Obama asked
+for $36 billion in government-backed loan guarantees for new
+nuclear reactors. Obama also asked for $125 million for what the
+Energy Department calls Generation IV nuclear reactors that the
+department said “will feature advances in safety and
+reliability to improve public confidence in nuclear energy while
+providing enhanced investment protection for plant owners.”  Nuclear power faces all sorts of challenges, including the
+multibillion-dollar construction cost of each new plant.
+Fukushima is a reminder that making the plants simpler and safer
+is the biggest challenge of all.  Ax Man  In late 1942, Enrico Fermi, the Italian physicist who was
+one of the key figures in the development of the atomic bomb,
+came up with nuclear power’s first safety mechanism: a man with
+an ax. In case of a runaway reaction, he decided, the ax man’s
+job was to cut a rope, dropping cadmium rods that would absorb
+neutrons and halt the reaction.  “The ax man received his hand-signaled instructions from
+Fermi, who stressed the speed necessary by holding one hand flat
+and depicting a chopping motion with the other,” recalled Edwin
+Blackburn, a millwright who was on the scene, in an Oak Ridge
+National Laboratory publication.  The ax man’s skills were never needed, but in the decades
+that followed, nuclear energy suffered a series of stigmatizing
+accidents.  Light Water  One reason for that is the almost total reliance on one
+particular design, the light water reactor, which has some
+inherent problems. The light water’s prominence dates to a
+fateful 1950s choice by Admiral Hyman Rickover, father of the
+nuclear Navy.  Rickover decided that the first nuclear submarine, the USS
+Nautilus, which was launched in 1955, would be powered by solid
+uranium oxide and would use water as both a coolant and a
+moderator. (A coolant carries heat from the reactor to produce
+power; a moderator slows down the neutrons emitted by the fuel
+so they have a better chance of interacting with other fissile
+materials to keep the reaction going. There’s no requirement
+that water perform either of those functions, but that’s the way
+light water reactors work.)  Rickover went with the design because it was likely to be
+ready soonest and because it produced plutonium-239, a bomb-
+making material, as a byproduct. It has some big drawbacks, as
+explained by physicist Robert Hargraves and nuclear engineer
+Ralph Moir in a 2010 article in the American Scientist.  Damaged Rods  The bundles of fuel rods are quickly damaged by heat and
+radiation. Short-lived byproducts such as xenon-135, which
+poisons the fission process, are tricky to manage--and
+contributed to the instability that led to the Chernobyl
+explosion. Long-lived byproducts are abundant and highly toxic.
+The water is corrosive and radioactive. To raise its boiling
+point, it must be pressurized to 150 times atmospheric pressure.
+That necessitates a costly network of vessels, pipes, and
+valves--and raises the risk of an explosive release of
+radioactive steam to the atmosphere. Overall, the design is the
+precise opposite of passive safety.  Rickover’s choice had lasting consequences. The first
+commercial nuclear power plant in Shippingport, Pennslyvania,
+used a design similar to that of the Nautilus, setting a pattern
+that endures to today.  Solid Fuel  “Maddeningly,” write Hargraves and Moir, “historical,
+technological, and regulatory reasons conspire to make it hugely
+difficult to diverge from our current path of solid-fuel,
+uranium-based plants.”  New reactors such as the Westinghouse AP1000 and Areva’s
+EPR don’t diverge from Rickover’s path. They too have the solid-
+fuel cores and high-pressure water cooling systems. But they are
+substantially safer than older light water reactors.  Areva says its EPR has four redundant safety systems
+instead of the two or three found on most current reactors.
+Westinghouse says the AP1000 is 100 times as safe as current
+plants.  Those claims, while subject to debate, are not mere
+corporate puffery. They’re based on engineering analyses that
+have been reviewed by the  Nuclear Regulatory Commission  as part
+of the plant certification. The Energy Department is also
+supporting development of small “plug-and-play” modular
+reactors such as the 125-megawatt mPower design from  Babcock &
+Wilcox Co. (BWC)  and Bechtel Group.  The case for these new, safer plants doesn’t come through
+clearly because their existence conflicts with the agendas of
+both pro- and anti-nuclear organizations.  Older Designs  Utilities and manufacturers don’t want to imply that the
+older designs now in service are unsafe. In fact, Westinghouse
+points out in its marketing materials for the AP1000 that even
+the older reactors are twice as safe as the NRC requires.  “The plants we’re operating now are extremely safe as
+well,” says Beth Thomas, spokeswoman for  Southern Co. (SO)   Nuclear opponents have even less reason to point out safety
+advances.  “My shortest answer is that we shouldn’t build more
+nuclear plants,” says Charles Perrow, a retired Yale University
+sociology professor who wrote extensively about the partial
+meltdown in 1979 at Three Mile Island nuclear power plant near
+Harrisburg, Pennsylvania. “There’s no way to make any system
+free of a disaster.”  If worse comes to worst, as it so often seems to, the
+safety systems that give the most confidence are the passive
+ones.  The  International Atomic Energy Agency  has created an
+elegant hierarchy of these passive systems. The ones at the
+highest level, Category A, require no signal inputs, no external
+power sources or forces, no moving mechanical parts, and no
+moving working fluid. Example: really thick concrete walls.
+Westinghouse’s reservoir above the AP1000’s containment vessel,
+clever as it is, doesn’t fit into Category A because it involves
+moving fluids and valves.  Bigger Departure  Generation IV reactors will be a much bigger departure.
+Many will do away with water, using elements such as helium or
+liquid sodium as a coolant. Most also get rid of solid uranium-
+235 as a fuel, relying instead on different uranium isotopes, or
+liquid uranium mixtures, or even thorium as the primary fuel.  The profusion of creativity in nuclear design recalls the
+early days of the automobile, when the Stanley Steam Car
+coexisted with the Columbia electric buggy and internal
+combustion engines running on gasoline and diesel.  The comparison with cars goes deeper. Just as electric
+vehicles are staging a minor comeback after their early demise,
+some long-since-rejected concepts for nuclear energy are getting
+a second look as the faults of the incumbent technology become
+clearer.  New Design  The only requirement is that somehow a nuclear chain
+reaction must occur: A fissile material absorbs a neutron and
+splits, releasing energy and more neutrons that carry the
+process on. There are probably 1,000 conceivable combinations of
+the basic choices, an Oak Ridge official once calculated.  The new design that’s closest to commercial electricity
+generation is the pebble bed reactor, which has been under
+development for decades in Germany, then  South Africa , and now
+ China  and the U.S.  Its uranium fuel is encased in more than 300,000 tennis-
+ball-sized “pebbles,” each one containing thousands of tiny
+graphite-coated fuel seeds, like a metal pomegranate. The
+radioactive fission products are absorbed in the coatings, and
+the fuel doesn’t get hot enough to melt down even if the plant
+loses all its cooling for days.  China Closest  China is closest to commercializing the pebble bed, pushing
+forward where the South Africans left off for financial reasons.
+ Tsinghua University , working with Massachusetts Institute of
+Technology, already has a 10-megawatt experimental reactor in
+operation. It is building a 200-megawatt plant in Shidaowan in
+Shandong province with a unit of China Huaneng Group, the
+nation’s largest power group.  The Energy Department is leading a U.S. initiative, based
+at Idaho National Laboratory in Idaho Falls, called the Next
+Generation Nuclear Plant. It, too, may be a pebble bed design.  Energy Secretary Steven Chu has appointed a review
+committee to decide later this year whether to move on to the
+second phase of the project, which could lead to an operating
+pebble bed plant in the U.S. by around 2025, says David A.
+Petti, director of the Very High Temperature Reactor Technology
+Development Office at Idaho National Laboratory.  Scale Up  Pebble bed reactors don’t scale up well. Above 600
+megawatts they lose their safety advantage over reactors with
+ordinary fuel rods, says Petti. At that scale the pebbles can
+get so hot that they can’t shed heat fast enough and can melt
+down just like any other uranium fuel, releasing radioactivity.  The sweet spot for pebble bed reactors is 250 to 600
+megawatts, Petti says. He envisions them being located next to
+industrial plants, where their excess energy could be used to
+heat facilities and produce petrochemicals.  Liquid fuels are getting another look, too. As early as
+1944, Fermi tested the world’s first liquid-fuel reactor in
+Chicago. It used uranium sulfate dissolved in water.  In 1965, Oak Ridge National Laboratory in Tennessee
+achieved criticality with a reactor using a more advanced liquid
+fuel: molten fluoride salt with uranium dissolved in it. The
+experiment ran for five years, then stopped when the money ran
+out. Now, scientists in India, France, and the U.S. are
+experimenting with another variety: liquid fluoride thorium
+reactors (known as “lifters”).  Perhaps the farthest-out design comes from a spinoff of
+ Intellectual Ventures , a company headed by former Microsoft
+Corp. chief scientist  Nathan Myhrvold  and funded in part by
+Microsoft co-founder  Bill Gates .  ‘Massive Power’  TerraPower LLC, as the spinoff is known, used massive
+computing power to design a reactor that could run for decades
+on an isotope of uranium that is today considered waste.  The concept, first proposed in the 1950s, is to set up a
+slow-moving wave in which neutrons transmute inert, nonfissile
+fuel such as uranium-238 into fissile isotopes such as
+plutonium-239 that can split and throw off energy.  TerraPower says its spent fuel would not be useful for
+making weapons. The company, chaired by Gates, has been seeking
+a production partner and a host country. So far, no takers.  Wave Reactor  Technological breakthroughs such as the traveling wave
+reactor are part of the answer to nuclear safety, but not the
+answer in its entirety. Better management is crucial as well.  For many people, the most disturbing thing about the
+Fukushima disaster is that it occurred in a nation renowned for
+quality control.  Japan  invented poka-yoke, a design approach
+that is supposed to remove the possibility of doing things the
+wrong way. (It means mistake-proof. Round manhole covers are
+poka-yoke in spirit.)  The trouble with poka-yoke is that it lends itself mainly
+to preventing day-to-day types of mistakes, not strategic
+errors. On that score, Japanese regulators and officials of
+Tokyo Electric Power Co. (known as Tepco) appear to have
+underestimated the risk that a huge tsunami would overwhelm
+Fukushima’s defenses.  Katsuhiko Ishibashi, Japan’s leading seismologist and an
+adviser to the government, warned in 2007 of what he called
+genpatsu-shinsai -- meaning a quake-caused meltdown.  The oldest of the six reactors on the site was recently
+given a 10-year license extension in spite of regulators’
+findings of inadequate management maintenance and Tepco’s spotty
+history of compliance with regulation. (In 2003, regulators
+forced it to suspend operations briefly at 10 reactors after
+evidence emerged that it had falsified inspection records.)  Made Safe  In fairness to Tepco, no system can be made safe against
+every risk.  “It’s a very difficult question,” says Tepco spokesman
+Hiro Hasegawa. “Maybe we should have prepared for the worst,
+worst, worst, worst, worst. But we can’t do anything if we
+consider every risk.”  Hasegawa says the utility did reinforce the Fukushima Dai-
+Ichi reactors after the 2007 quakes. And he says the 2003 tussle
+with regulators was caused in part by their overstrictness about
+a hairline crack in one key part.  There’s nothing particularly Japanese about what went wrong
+at Fukushima. It’s natural to minimize the risk of catastrophic
+events when you have no clear idea about how to deal with them,
+says J. Edward Russo, a management professor at Cornell
+University’s Johnson Graduate School of Management.  “It’s human nature to want to lower the probability of a
+particular disaster. They say, ‘We can’t plan for and pay for
+everything, so let’s knock that off the list.’ ”  Homer Simpson  Homer Simpson, the ultimate everyman-nuclear technician,
+would approve.  To be truly safe, the reactors of the future will have to
+withstand the worst that the Homer Simpsons of the world can
+throw at them.  Remember the cynical adage: Whoever invented the term
+“foolproof” underestimated the ingenuity of fools. Actually,
+it’s worse than that. In a genuine emergency, even calm,
+seasoned pros can make terrible decisions.  At Three Mile Island, operators refused to believe a dial
+that told them the reactor was boiling dry, preferring to trust
+another dial that was giving a different (and incorrect)
+interpretation, says Perrow, the Yale sociologist, who studied
+the accident in a 1984 book called Normal Accidents.  That’s where passive safety comes in.  The ideal system is one that’s inherently stable, like a
+ball at the bottom of a bowl. However it’s shaken, the ball
+tends to roll back to the bottom.  An inherently unstable system is the opposite, like a ball
+balanced on top of another ball. In some special cases, such as
+fighter aircraft, inherent instability is an asset.  Fighter Jets  Fighter jets are built to perform incredible dogfighting
+maneuvers, but the price for achieving that airborne
+maneuverability is radical instability: The onboard computer
+must send adjustment signals as many as 40 times a second to the
+engines and various wing surfaces to keep the plane flying true.  A nuclear plant should be like a ball in a bowl, not a jet
+fighter. In other words, stable and safe.  For future plants, safety can be designed in as a basic
+feature. Not so easy for existing plants, some of which may be
+with us for decades to come. For them, the solution is
+retrofitting where possible, greater vigilance, and creative
+thinking about what might go wrong.  A “premortem” might help. Gary Klein, a consultant to the
+Air Force Research Laboratory, advises institutions that deal
+with risk to analyze a failure before it even occurs.  ‘Clever Enough’  Often, Klein says, planners will underestimate dangers by
+assuming they will be clever enough to surmount any difficulty
+that arises. Klein, who is senior scientist of MacroCognition in
+Yellow Springs, Ohio, removes that overconfidence bias in
+sessions with clients by asking participants to assume that a
+terrible accident, however unlikely, has already occurred. The
+challenge is to explain how it happened.  “You show you’re smart by trying to identify things that
+are plausible and worrisome,” says Klein. “It almost gets into
+a competition.”  To say nuclear power can be made much safer is not to say
+it can be made safe enough. That’s a political judgment, not a
+question for nuclear engineers.  If Japan’s radiation nightmare continues to worsen, the
+outcry against nukes will be hard to ignore.  Some are already calling nuclear energy dead. Although
+that’s premature,  NRG Energy Inc. (NRG)  said on Mar. 21 that it was
+slowing work at its South Texas nuclear plant expansion because
+of possible regulatory changes stemming from the Fukushima
+disaster. Those plants are based on evolutionary, Generation
+III+ designs.  Generation 4  On the other hand, Chinese executives confirmed on Mar. 22
+that they are going ahead with building their Generation 4
+pebble bed reactor.  “Japan’s Fukushima plant was using old technology while
+Chinese reactors are more advanced,” Cui Shaozhang, deputy
+general manager at Huaneng Nuclear Power Development, told
+Bloomberg News.  Those are the two faces of the nuclear debate. Fukushima
+could bring reactor development to a halt. Or it might stimulate
+the demand for safer designs. The future of atomic energy is at
+stake.  ( Peter Coy ’s column will appear in Bloomberg Businessweek’s
+March 28 edition. The opinions expressed are his own.)  To contact the writer of this column:
+Peter Coy at   pcoy3@bloomberg.net   To contact the editor responsible for this column:
+Amit Prakash at   aprakash1@bloomberg.net  

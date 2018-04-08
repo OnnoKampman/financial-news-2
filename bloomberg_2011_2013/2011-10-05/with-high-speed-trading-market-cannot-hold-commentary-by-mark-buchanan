@@ -1,0 +1,108 @@
+-- 
+Buchanan: With High-Speed Trading, the Market Cannot Hold
+
+-- B y   M a r k   B u c h a n a n
+-- 
+2011-10-05T00:00:02Z
+
+-- http://www.bloomberg.com/news/2011-10-05/with-high-speed-trading-market-cannot-hold-commentary-by-mark-buchanan.html
+Last year, when the U.S. Securities
+and Exchange Commission came out with its final report on the
+flash crash, the stomach-churning event of May 6, 2010, that
+wiped $1 trillion of value from the markets in less than 30
+minutes, it never managed to explain why the episode happened.  A large trade of  stock futures  by a Kansas firm had sparked
+it, the report said, and it detailed the ensuing chain of
+events, without offering much insight into why such a tumult was
+possible.  The  report  did say the activities of high-frequency traders,
+firms that use computers to buy and sell thousands of times per
+second, had helped the trouble spread. Investors today can’t be
+terribly comforted because hundreds of minor flash crashes
+involving only a few stocks at a time have struck since then.
+Earlier this year, for instance, the share price of an insurance
+company called  Enstar Group Ltd. (ESGR)  fell from roughly $100 to zero,
+then rose back to $100 in the space of just a few seconds.     Since
+we don’t know what’s causing these sudden shifts, we can’t be
+sure that one as big as, or even bigger than, the May 2010 event
+won’t occur tomorrow, or next week.  The good news is, people are still studying the situation.
+One of the most illuminating recent  analyses  comes from Andrew
+Haldane, the Bank of England’s executive director for financial
+stability. High-frequency trading, he says, really is making the
+market less stable, and for understandable reasons.
+Unfortunately, identifying what is happening appears to be more
+straightforward than figuring out what to do about it.  High-frequency trading now accounts for almost 75 percent of
+all buying and selling of U.S. equities, and a race to trade
+even faster is under way. The technology to trade thousands of
+times per second has existed for several years, and it won’t be
+long before that rate is pushed to a million. The fastest
+exchanges are now executed in about 10 microseconds -- the time
+it takes a jetliner flying at full speed to travel one 10th of
+an inch.  This speed has clearly brought some benefits. Consider, for
+example, the so-called bid-ask spread: the small difference
+between the prices at which an investor can buy or sell a
+particular stock. Smaller spreads mean cheaper trading, and data
+suggest that spreads in the U.S. and the U.K. have, over the
+past decade, narrowed to about a 10th of their previous values.
+For slightly technical reasons, the bid-ask spread is also a
+convenient measure of market liquidity: how easy it is to sell a
+stock at any moment (without having to cut the price). Narrower
+bid-ask spreads mean higher liquidity and markets that run
+smoother.  Abrupt Price Changes  But a single measure never tells a complete story. Other
+evidence suggests that as markets become more liquid -- and
+hence, more stable most of the time -- they also become more
+prone to abrupt gyrations.  An informal  study  by the New York Times, reported a few
+weeks ago, found that single-day share-price changes as large as
+3 percent to 4 percent are now more likely than at any other
+time in recent stock-market history. Academic studies show much
+the same thing: In the past six years, large and volatile
+movements in stock prices over periods of 15 minutes or so have
+become much more common.  This isn’t surprising. It just means that markets now behave
+the same way over short periods (minutes) as they have done over
+hours and days -- with a marked tendency toward sudden
+movements. It’s when you consider the consequences of this
+increasing volatility that Haldane’s analysis becomes most
+interesting: He argues that the precarious position in which
+some high-frequency traders find themselves, especially during
+stormy periods in the markets, may cause their actions to
+exacerbate the trouble.  Here’s why. The bid-ask spread is largely set by traders who
+act as so-called market makers. They don’t speculate on price
+movements, but simply stand ready to take either side of a
+trade, and aim to profit from the spread. Market makers can
+reduce spreads to attract trading, but they can’t go too far
+because they face risks -- for example, that a stock they buy
+might lose value before they can sell it. Ultimately, the bid-
+ask spread reflects how much market makers have to charge to
+take on such risks and still be profitable, while making it
+easier for everyone else to trade when they want.  Importantly, Haldane points out, the risks that market
+makers face grow with the likely size of price movements. In
+increasingly volatile periods, high-frequency market makers have
+to charge more because they get burned more often by unexpected
+movements. Hence, it’s quite natural to expect a market maker,
+during an episode of market chaos, to widen its bid-ask spreads,
+sometimes drastically.  Vanishing Liquidity  And this brings us to the main point -- that it’s the sudden
+evaporation of such liquidity that propels events such as the
+flash crash. All in all, then, it seems likely that the very
+high-frequency trading that makes the markets run so smoothly in
+quiet times does the opposite in stormy times, exaggerating the
+chaos.  Some critics say the liquidity these traders provide when
+markets are calm is elusive: It vanishes in rough periods. This
+seems to have helped make the 2010 flash crash so extreme, and
+is, in Haldane’s analysis, exactly what we should expect.  In principle, the very computing technology that has made
+high-frequency trading possible might also be put to work in
+controlling the instabilities it creates, possibly through
+circuit breakers that would kick in automatically on early-
+warning signs of liquidity disruption. A mechanism for doing
+that effectively may be a long way off, though, and simple speed
+limits on trading -- making every transaction take at least a
+time T, which might be one second, or something else -- would
+probably be much better in the short run.  But that, of course, would mean accepting a trade-off. In
+reducing the likelihood of flash crash events, we would have to
+accept wider bid-ask spreads during the market’s normal peaceful
+periods -- and that would mean more expensive trading. Very
+possibly, as Haldane has helpfully pointed out, we just can’t
+have it both ways. (For those interested in some of the
+technical details of Haldane’s argument, see  my blog ).  (Mark Buchanan is a theoretical physicist and the author of
+“The Social Atom: Why the Rich Get Richer, Cheaters Get Caught
+and Your Neighbor Usually Looks Like You,” is a Bloomberg View
+columnist. The opinions expressed are his own.)  To contact the writer of this article:
+Mark Buchanan at  buchanan.mark@gmail.com   To contact the editor responsible for this article:
+Mary Duenwald at   mduenwald@bloomberg.net  

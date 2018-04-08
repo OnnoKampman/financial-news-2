@@ -1,0 +1,47 @@
+-- Apple Tightens Rules on IPhone Applications That Access Users’ Addresses
+-- B y   A d a m   S a t a r i a n o
+-- 2012-02-15T21:32:16Z
+-- http://www.bloomberg.com/news/2012-02-15/apple-tightens-rules-on-apps-that-can-access-users-addresses.html
+Apple Inc. (AAPL)  tightened its rules over
+software that accesses address-book information, following a
+controversy over social-networking applications such as Path
+uploading users’ contacts data without permission.  Apple is changing its policy to require app makers to get
+users’ approval before uploading data from their address books,
+said  Tom Neumayr , a spokesman for Apple. Applications that
+upload contact-list information will need to be updated to meet
+the new requirements or be removed from Apple’s  App Store .  “Apps that collect or transmit a user’s contact data
+without their prior permission are in violation of our
+guidelines,” Neumayr said. “As we have done with location
+services, any app wishing to access contact data will require
+explicit user approval in a future software release.”  The change follows criticism of the social-networking
+application Path, which was discovered to be uploading and
+storing users’ address-book information. Path Chief Executive
+Officer Dave Morin  apologized  to users last week for accessing
+their contacts without permission and vowed to delete all the
+data.  Accessing address data has become a widespread, little-
+known practice among many developers for the iPhone, said Alex
+Stamos, vice president of ISec Partners, a security consulting
+firm with offices in San Francisco,  Seattle  and  New York .  “It’s extremely common,” Stamos said.  Routine Practice?  The approach is often used to see if other people in
+someone’s address book are also using the same app. Users don’t
+realize it’s happening because they aren’t asked before the
+information is taken, Stamos said. That contrasts with the
+policy for accessing location data, which requires people to
+give permission before the information is made available.  In addition to Path, applications that have been accessing
+address-book information include Facebook, Twitter,  Instagram ,
+Foursquare, Foodspotting, Yelp and Gowalla, according to a
+ VentureBeat report  yesterday.  Accessing the address-book information is drawing scrutiny
+in  Washington , where two lawmakers submitted questions to Apple
+about the practice today. The matter gained attention when a
+developer, Arun Thampi, wrote in  a blog post  that he had
+discovered Path was accessing and collecting the contents of his
+iPhone address book without his consent.  “This incident raises questions about whether Apple’s iOS
+app developer policies and practices may fall short when it
+comes to protecting the information of iPhone users and their
+contacts,” U.S. House representatives Henry A. Waxman and G.K. Butterfield said in  a letter  to Apple Chief Executive Officer
+ Tim Cook .  Apple faced questions from lawmakers last year about how
+user location data was been accessed and stored. Along with
+other companies, Apple testified before House and Senate
+committees to defend their privacy practices.  To contact the reporter on this story:
+Adam Satariano in  San Francisco  at 
+ asatariano1@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

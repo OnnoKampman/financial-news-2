@@ -1,0 +1,150 @@
+-- Bats Blaming Market Rules as Calls of Overhaul Grow
+-- B y   N i n a   M e h t a ,   W h i t n e y   K i s l i n g   a n d   L u   W a n g
+-- 2013-01-11T05:00:00Z
+-- http://www.bloomberg.com/news/2013-01-11/bats-blaming-market-rules-for-mishaps-as-calls-of-overhaul-grow.html
+Bats Global Markets Inc., the stock
+exchange operator that acknowledged four years of trading
+errors, blamed the mistakes on regulations it says are too
+complex.  The rule violations at Bats, which canceled its initial
+public offering last year after its own computer systems kept
+the stock from trading, threaten to further erode confidence in
+U.S. stock exchanges. Operators including  NYSE Euronext (NYX)  have
+called for an overhaul of regulations that boosted high-speed
+trading and the fragmentation of equity markets to 13 stock
+exchanges and about 50 private broker-run dark pools from three
+dominant venues in the 1990s.  “The challenge facing a lot of the exchange providers is
+that the market structure in America has become far too
+complex,”  Thomas Caldwell , who oversees about $1 billion as
+chairman and chief executive officer of Toronto-based Caldwell
+Securities Ltd., said in a phone interview. “It’s very easy in
+the complex market structure for minor errors to occur and not
+be detected because of the multiplicity of the exchanges that
+the SEC has created.”  The order types that produced the error at Bats are used to
+comply with regulations the U.S. Securities and Exchange
+Commission implemented in 2007 to ensure all investors get the
+best prices for equities, Chief Executive Officer Joseph Ratterman said in a phone interview yesterday. Simpler rules
+would limit such technical mishaps, he said. The Lenexa, Kansas-
+based company intends to reimburse clients for the $420,360 lost
+because of its errors since 2008.  Rule Violations  The SEC is investigating the rule violations and government
+officials are concerned about similar order types at other
+ exchanges , according to a person familiar with the situation.
+Still, Bats’s errors are probably specific to the company’s
+trading processes, said the person who asked not to be named
+because the matter is confidential.  “We routinely review these matters with the exchanges as
+part of our oversight,”  John Nester , an SEC spokesman, said in
+an e-mail yesterday. Ratterman declined to comment on a
+potential regulatory response.  Exchanges shouldn’t rely on regulators to catch errors and
+need to be more vigilant about checking and testing their
+systems, said Thomas Garcia, head of equity trading at  Santa Fe ,
+New Mexico-based Thornburg Investment Management Inc. The
+mishaps at Bats raise concern about the possibility of other
+software breakdowns in the industry, he said.  High Speeds  “The exchanges and these guys that are trading at really
+high speeds, they need to make sure their systems are good
+before they start,” Garcia said by telephone. His firm oversees
+more than $80 billion. “It falls on the exchanges. The
+regulators are there to help regulate and facilitate that sort
+of thing. They can only look at so many trades.”  The errors don’t suggest the industry is incapable of
+overseeing itself, Ratterman said. Among the approximately 250
+members affected by the breakdown, five firms lost more than
+$10,000 and 74 lost less than $100, Stacie Fleming, a
+spokeswoman for Bats, wrote in an e-mail.  Inspection of operating systems is an ongoing practice,
+said  Rich Adamonis , an NYSE Euronext spokesman. Jim Gorman, a
+spokesman for  Jersey City , New Jersey-based exchange operator
+Direct Edge Holdings LLC, declined to comment on the status of
+its computer systems. Rob Madden, a spokesman for  Nasdaq OMX
+Group Inc. (NDAQ) , also declined to comment.  Regulatory Review  Executives at NYSE Euronext and Nasdaq OMX, the owners of
+the largest U.S. equity exchanges, called for a regulatory
+review last year. Joseph Mecane, head of U.S. equities at NYSE
+Euronext, said in September that the increase in venues,
+advances in technology and the use of increasingly complex
+orders warrant a coordinated assessment.  Eric Noll , executive
+vice president and head of transaction services at Nasdaq OMX,
+told a U.S. Senate subcommittee last month that more testing and
+more coordination are needed.  Increased competition has improved technology and benefited
+investors, Direct Edge Chief Executive Officer  William O’Brien 
+said in June.  Bats’s error involved software written to handle the myriad
+order types that exchanges provide to automated-trading clients.
+The orders offer ways for them to optimize executions amid
+split-second price changes and within the strictures imposed by
+regulators. Among other responsibilities, venues must seek to
+prevent trades at prices inferior to the best levels available
+anywhere in the country.  Locked Market  Operators must prevent other violations, including a
+phenomenon known as a locked market, when a bid on one venue is
+the same price as the ask on another, rather than separated by a
+spread. Normally, a stock will be available for sale at a level
+a penny or more than the bid price. The maintenance of the gap,
+codified in rules adopted in the last decade as venues
+multiplied, has traditionally been viewed by regulators as a way
+to facilitate orderly trading.  Bats offers its users order types with price-sliding
+features designed to adjust to changes in the best national bid
+and offer while preventing markets from locking. The trades that
+shouldn’t have been permitted involved this type of order,
+Ratterman said. The company has no plans to eliminate the
+orders, which are often used by brokers and professionals to get
+the executions they seek, he said.  “The price-sliding is predominantly a reaction to the
+prohibition on locked markets,” Ratterman said. “It creates
+complexity in everybody’s systems. We’ve been advocating for
+some time we need an industry review of some elements” of
+Regulation NMS that govern locked markets, he said.  Inferior Prices  The violations also occurred in situations that programmers
+describe as a “race condition,” in which computers are
+communicating with each other in real time while adjusting to
+new information in the market. Computers that match orders for
+two Bats equity exchanges and an options venue allowed some
+trades to occur at prices inferior to the best available bid or
+offer and enabled others to violate rules for  short sales , or
+bearish bets, the company said.  “We will most likely see more of these types of errors
+before investors’ disdain produces a government push to overhaul
+the marketplace,”  Larry Peruzzi , senior equity trader at
+Cabrera Capital Markets LLC in  Boston , wrote in an e-mail.
+“Maybe the old methods and dealing with people wasn’t so bad
+after all.”  Bats discovered the problem that involved almost 450,000
+transactions on Jan. 4 through data inspections by its
+operations department looking for anomalies in transactions and
+how the exchange handles orders, Ratterman said. It informed the
+SEC and member firms on Jan. 9, he said.  Bats’s Origins  Bats was founded by a high-frequency trader in 2005 after
+the SEC approved rules that spurred competition with the then-
+dominant  New York  Stock Exchange. The company, whose acronym
+stands for Better Alternative Trading System, became an exchange
+in 2008.  Venues run by Bats execute about 12 percent of American
+share volume, compared with about 10 percent at the end 0f 2010,
+data compiled by Bloomberg show. Customers of the all-electronic
+exchange company range from retail brokers and securities firms
+to professional traders and institutional investors.  “My concern would be not really with Bats’s own reputation
+as a result of this, but the potential negative impact on the
+electronic market overall,” Sang Lee, managing partner at Aite
+Group LLC in Boston, said in an e-mail. “If one of the best
+technically driven exchanges is having issues, what does that
+say about the potential issues with the rest of the
+marketplace?”  Rule Violations  NYSE Euronext, the biggest U.S. exchange operator, agreed
+to pay $5 million in September to resolve regulatory claims that
+the Big Board violated rules by giving certain customers a head
+start on trading information. The NYSE sent data through two
+proprietary feeds to paying customers before relaying the
+information to the so-called consolidated feed, which
+distributes trade and quote data to the public, the SEC said.  Nasdaq Stock Market mishandled Facebook Inc.’s IPO on May
+18 when an auction to set the first traded price for the shares
+failed. The exchange’s systems were overwhelmed by order updates
+and cancellations before the stock began trading, causing the
+exchange to make technology changes that prevented confirmations
+of orders and trades from being disseminated for hours, and
+leading to confusion among investors, brokers and market makers.  Investor Confidence  Bats’s error follows market breakdowns that have weighed on
+investor confidence. Trading for companies listed on U.S.  stock
+exchanges  has declined to an average 6.2 billion shares a day
+since the  Facebook IPO , 17 percent lower than the previous 12
+months, data compiled by Bloomberg show. Investors pulled money
+from mutual funds that invest in American stocks, with $377
+billion in outflows since the May 2010 flash crash, according to
+data from Washington-based  Investment Company Institute .  “It highlights why people don’t trust the market,” Rick Fier, director of equity trading at Conifer Securities LLC in
+New York, said in a phone interview. “Although it was not a
+very large problem, meaning it didn’t effect that many trades as
+a percentage, people at home will only hear that the market is
+not working properly still, and that no one is doing anything to
+correct it.”  To contact the reporters on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net ;
+Whitney Kisling in New York at 
+ wkisling@bloomberg.net ;
+Lu Wang in New York at 
+ lwang8@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

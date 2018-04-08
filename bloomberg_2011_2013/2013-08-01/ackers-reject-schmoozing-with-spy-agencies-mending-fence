@@ -1,0 +1,142 @@
+-- Hackers Reject Schmoozing With Spy Agencies Mending Fence
+-- B y   P h i l   M a t t i n g l y   a n d   C h r i s   S t r o h m
+-- 2013-08-01T04:00:01Z
+-- http://www.bloomberg.com/news/2013-08-01/hackers-reject-schmoozing-with-spy-agencies-mending-fence.html
+Alex Stamos, an independent security
+researcher, recalls spending a casual two hours hanging out with
+National Security Agency employees at the pool during the 2012
+Black Hat computer-security conference.  U.S. officials had similarly relaxed -- and often brief --
+public appearances on  Capitol Hill , where top-secret programs
+were the domain of sessions closed to the public.  Not anymore.  “This year, if I got the same request I would say, ‘Send
+me questions in writing or you can meet with me and my
+lawyers,’” Stamos, a member of the Black Hat advisory board,
+said yesterday in an interview at the annual  Las Vegas 
+conference, billed as the world’s largest gathering of security
+experts.  Intelligence leaders yesterday encountered pushback from
+key constituencies as they tried to mend fences in the wake of
+former NSA contractor Edward Snowden’s disclosures about the
+scope of classified programs that collect bulk data on phone and
+Internet use.  NSA Director Keith Alexander was heckled during a speech at
+the Black Hat conference yesterday in which he appealed to
+hackers to examine “the facts” about the spy programs and to
+keep working with his agency on cybersecurity defenses.  Senior intelligence officials were subjected to pointed,
+skeptical question by lawmakers in  Washington  yesterday after
+the director of national intelligence declassified parts of
+documents describing how and why the NSA collects records of
+millions of Americans’ phone calls.  ‘Not Convinced’  The documents included a surveillance-court ruling
+underlying a requirement that a unit of Verizon Communications
+Inc. provide all of its customers’ phone-calling logs to the NSA
+under an order renewed every three months.  They also included congressional briefings from 2009 and
+2011 outlining the scope of that program and one that until 2011
+allowed collection of bulk electronic communications including
+e-mails.  Snowden revealed that the U.S. government was secretly
+collecting the telephone calling information through the secret
+Verizon court order, and operating a program known as Prism that
+collects Internet data from Apple Inc., Google Inc., and other
+companies to monitor online activity of foreigners believed to
+be plotting terrorist attacks.  The lobbying effort will include a push from President
+ Barack Obama . He is scheduled to meet with a bipartisan group of
+lawmakers today to discuss the programs utilized under the
+Foreign Intelligence Surveillance Act, the White House said.  Alexander Heckled  Yesterday’s audiences made clear they want changes, and
+more transparency.  “If this program is not effective, it has to end,”
+Senator  Patrick Leahy , a Vermont Democrat and the chairman of
+the Judiciary Committee, said today during a hearing on NSA
+programs. “So far I’m not convinced by what I’ve seen.”  Alexander’s speech in Las Vegas, his first public remarks
+to security researchers since Snowden’s disclosures, was
+interrupted several times.  When Alexander said employees at the NSA “stand for
+freedom,” one audience member shouted a profanity and another
+screamed the NSA can’t be trusted. Another attendee later told
+Alexander to “read the Constitution.”  Alexander responded directly to some of the shouts.  “You need to understand what we’re trying to do to defend
+the country and protect civil liberties and privacy,” he said.
+“Those are facts.”  Overdue Conversation  The efforts of these researchers, who explore
+vulnerabilities in  computer networks  and let companies know they
+exist, are crucial to U.S. intelligence agencies that count on
+them to find holes before malicious hackers do.  “You’re the greatest gathering of technical talent
+anywhere in the world,” Alexander said. “The whole reason I
+came here was to ask you to help us make it better. If you
+disagree with what we’re doing, then you should help twice as
+much.”  Concerns that government surveillance programs are
+violating the privacy rights of Americans have been building for
+years within the hacking community, Jeff Moss, founder of the
+Black Hat conference, said in opening remarks to attendees.  The spy programs exposed by Snowden have raised those
+concerns to new heights, he said.  “I’ve never sensed this level of tension or apprehension
+in the community,” Moss said. “We’re finally having the
+conversation that we’ve all been wanting to have for five or 10
+years.”  U.S. officials yesterday opened the door to changes, even
+as they say the programs strike the proper balance between
+security and privacy.  Metadata Collection  “We are open to re-evaluating this program in ways that
+can perhaps provide greater confidence and public trust that
+this is in fact a program that achieves both privacy protections
+and national security,” Robert Litt, the national intelligence
+director’s general counsel, told members of the Senate Judiciary
+Committee.  National Intelligence Director James Clapper yesterday
+declassified and disclosed three documents intended to shine
+more light on the use of bulk data collection of phone records.  Each of the documents -- a primary court order providing
+for the collection of phone records and two congressional
+briefings -- cite the program, known as Section 215, as integral
+to protecting the U.S. from terror plots in the wake of the
+Sept. 11, 2001 terrorist attacks.  While the court document, from the secret Foreign
+Intelligence Surveillance Court, doesn’t lay out the legal
+rationale for the programs, it does designate the mechanisms for
+analysts to access the collected metadata, as well as the
+restrictions in place for its use.  Grave Damage  Authorized personnel can access the database of domestic
+phone records only when there is a “reasonable, articulable
+suspicion” that the number is related to terrorism, according
+to the April 25 order signed by U.S. District Judge Roger Vinson.  The five-page congressional briefings, provided to
+lawmakers on the Intelligence and Judiciary committees in 2009
+and 2011, outline the scope of the program, as well as one that
+also allowed collection of bulk electronic communications. U.S.
+officials have said that aspect of the program ended in 2011.  The briefing materials, which were limited to lawmakers and
+cleared congressional staff, underscored in blunt terms their
+importance -- and classified nature -- to those who had access
+to them prior to their declassification.  More Disclosure  “The information contained in this report describes some
+of the most sensitive foreign intelligence collection programs
+conducted by the United States government,” the heading of the
+2011 briefing said in all capital letters. “Publicly disclosing
+any of this information would be expected to cause exceptionally
+grave damage to our nation’s intelligence capabilities and to
+national security.”  The government’s disclosures came the same day the  Guardian
+newspaper , one of the two publications that has received the
+bulk of Snowden’s information, published a story about another
+NSA program called XKeyscore.  That program, according to the Guardian, allowed analysts
+to conduct detailed searches of databases containing e-mails,
+online chats and individuals’ browsing histories.  U.S. Representatives Mike Rogers of Michigan and Dutch
+Ruppersberger of  Maryland , the top Republican and Democrat on
+the House Intelligence Committee, called the report “a
+completely inaccurate picture of the program.”  ‘Ad-Hoc Transparency’  “The program referenced in the story is not used for
+indiscriminate monitoring of the Internet, as many falsely
+believe,” the lawmakers said in a joint statement. “Rather,
+the program is simply a tool used by our intelligence analysts
+to better understand foreign intelligence, including terrorist
+targets overseas.”  While lawmakers yesterday said they appreciated the latest
+declassification effort by the Office of the Director of
+National Intelligence, or ODNI, they also criticized its timing
+and the forced nature of the debate over the programs.  “ODNI has known for weeks that this hearing was coming and
+yet ODNI releases this material just a few minutes before the
+hearing began,” Senator  Al Franken , a Minnesota Democrat, said.
+“You know, again, it’s a step forward, but you get the feeling
+when it’s ad hoc transparency, that doesn’t engender trust, I
+don’t think.”  Franken is among lawmakers from both parties and chambers
+drafting legislation to curb the collection of phone records.  Feinstein Proposal  A House proposal to defund the NSA programs came seven
+votes short of passing July 24.  Litt said the administration “is more or less in the same
+place” as a proposal being crafted by Senator  Dianne Feinstein ,
+a California Democrat and chairman of the Intelligence
+Committee.  Feinstein said she would attempt to include a series of
+changes designed to provide more information to the public in
+the annual intelligence reauthorization bill. Part of that bill
+would allow for the disclosure of the number of times per year
+any company is required to provide data to the government.  That would come as companies including  Facebook Inc. (FB) ,
+Microsoft Corp., Yahoo! Inc. and Google Inc. are pressuring the
+ Justice Department  to allow them to give details about the scale
+of their participation in the programs.  The secret surveillance court has ordered the department to
+conduct a broad review to identify orders and exhibits that can
+be declassified for release. The Justice Department is in the
+midst of that review now.  To contact the reporters on this story:
+Phil Mattingly in Washington at 
+ pmattingly@bloomberg.net ;
+Chris Strohm in Washington at 
+ cstrohm1@bloomberg.net   To contact the editors responsible for this story:
+Bernard Kohn at 
+ bkohn2@bloomberg.net ;
+Steven Komarow at 
+ skomarow1@bloomberg.net  

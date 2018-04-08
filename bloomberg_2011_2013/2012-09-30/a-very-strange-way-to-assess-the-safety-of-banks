@@ -1,0 +1,88 @@
+-- A Very Strange Way to Assess the Safety of Banks
+-- B y   S i m o n   J o h n s o n
+-- 2012-09-30T22:30:00Z
+-- http://www.bloomberg.com/news/2012-09-30/a-very-strange-way-to-assess-the-safety-of-banks.html
+Global regulators have a peculiar way
+of assessing the soundness of big banks: Ask bankers how risky
+their investments are, then figure out if they have enough
+capital to absorb the potential losses.  This method, known as risk weighting, has failed repeatedly
+-- most spectacularly during the 2008 financial crisis. The good
+news is that some smart regulators understand and are
+articulating the problem.  Like most firms, banks finance themselves with a
+combination of debt, which they get by taking deposits and
+issuing bonds, and equity, which they get from their
+shareholders. The latter, also known as capital, is crucial to
+the bank’s survival. If bad investments cause the value of a
+bank’s assets to fall, its equity decreases by an equivalent
+amount. If equity is depleted, the bank is insolvent. There will
+be either bankruptcy or some form of government bailout. Hence
+the need for  capital requirements .  In thinking about whether a financial institution has
+enough equity, current practice -- for example, as seen in the
+international banking regulations called  Basel II  and Basel III
+-- is to compare it with a measure that places weights on the
+bank’s assets according to their riskiness. A bond with a rating
+of AAA and a face value of $1 million, for example, might not be
+counted at all, based on the (often erroneous) assumption that
+it would always pay out in full. So a bank with total assets of
+$2 trillion might have risk-weighted assets of only $1 trillion.
+With just $100 billion in equity, or 5 percent of assets, it
+could have a risk-weighted capital ratio of 10 percent.  Big Difference  In reality, the difference between simple equity ratios and
+risk-weighted  capital ratios  tends to be even larger. Consider
+ Deutsche Bank AG (DBK) , which reported a  core Tier 1 capital ratio  of
+10.2 percent as of June 30. At the same time, its shareholder
+equity was slightly less than 2.5 percent of its total assets.
+The discrepancy was  remarkably similar  for the top 10 U.S. banks
+just before the financial crisis hit: The average headline
+capital ratio was about 11 percent, and the true ratio of equity
+to total assets was 2.8 percent.  So which measure is right? It’s not the risk-weighted one,
+as  Andrew Haldane  from the  Bank of England  and Tom Hoenig of the
+Federal Deposit Insurance Corp. (and formerly president of the
+ Federal Reserve Bank of Kansas City ) have  pointed out  in
+speeches.  One big problem is incentives. Bankers like to use as much
+borrowed money as possible, relative to their equity. This
+boosts the return to shareholders in good times, but also
+presents a threat to the financial system and the broader
+economy. If bankers are in charge of calculating their own risk
+weights, they will try to understate the risks. This happened
+with mortgage-backed securities and associated derivatives in
+the U.S., with real-estate-related loans and assets in countries
+such as Ireland and  Spain , and with sovereign debt in much of
+the euro area.  Second, regulators are no better than bankers at figuring
+out the right risk weights. For one, they are often heavily
+influenced by the bankers -- a reality I have experienced
+personally in my conversations with central bankers and other
+officials, who meet with banking staff continually and even now
+are convinced that top executives really know how to measure and
+handle risk. Beyond that, they are out of their depth. The
+system of risk weights has become  too complex, unwieldy and far
+too easy to game .  Unknowable Data  Actually, no one can calculate proper risk weights. They
+are unknowable. Analysts at credit-rating companies, even if one
+sets aside all the conflicts of interest they face, are just as
+prone to group think, fads and misconceptions as the rest of us.
+Academics would do no better. And the “wisdom of crowds” -- as
+reflected in the market for credit-default swaps -- suggested
+that Citigroup Inc. was a low-risk investment until 2007.  The right approach, as articulated by Hoenig, is to choose
+capital rules that are “simple, understandable, and
+enforceable.” The best available measure is the ratio of
+tangible equity to tangible assets. The term “tangible” excludes
+ephemera such as deferred tax assets, which banks can use to
+reduce their future tax bills only if they stay in business and
+generate profits.  The Basel III rules would nudge the required tangible
+equity ratio up to 3.25 percent, meaning that a 3.25 percent
+drop in the value of a bank’s assets could wipe out its capital.
+That is puny in a world that is becoming more risky. Look at the
+ European debt crisis , think about  China ’s prospects, and reflect
+on what has happened to the  U.S. economy  in the past decade.  We should abandon the notion of risk weights and move the
+tangible-equity ratio back toward 20 percent. Investors in banks
+might not reap the same returns, but they would also be taking
+on less risk.  As argued  by Stanford University economist Anat Admati and her colleagues, the total funding cost of big banks
+probably wouldn’t increase. The reduced likelihood of severe
+financial crises would have a positive, not negative, impact on
+our medium-term growth.  The sooner risk weighting is dead and buried, the better
+off we will be.  (Simon Johnson, a professor at the  MIT Sloan School of
+Management  as well as a senior fellow at the Peterson Institute
+for International Economics, is co-author of “White House
+Burning: The Founding Fathers, Our National Debt, and Why It
+Matters to You.” The opinions expressed are his own.)  To contact the writer of this article:
+ Simon Johnson  at  sjohnson@mit.edu   To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net  

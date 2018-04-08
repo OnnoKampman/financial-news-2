@@ -1,0 +1,112 @@
+-- Bats Says System Errors Cause Pricing Problems
+-- B y   N i n a   M e h t a   a n d   E l e n i   H i m a r a s
+-- 2013-01-10T16:30:38Z
+-- http://www.bloomberg.com/news/2013-01-10/bats-says-system-errors-caused-pricing-problems-over-4-years-1-.html
+Bats Global Markets Inc., the third-
+largest U.S. stock exchange operator, said its computers allowed
+trades that violated rules intended to ensure all investors get
+the best prices for equities over a period of four years.  Machines that match orders for two Bats equity exchanges
+and an options venue allowed some trades to occur at prices
+inferior to the best available bid or offer and enabled others
+to violate rules for short sales, or bearish bets, the company
+said in a  notice  published on its website yesterday. Customers
+lost $420,360, because of rule violations,  Randy Williams , a
+Bats spokesman, said by e-mail.  The issue allowed technical infringement of rules in the
+U.S., where trading is fragmented across 13 exchanges and dozens
+of other venues, aimed at preserving fairness. While losses to
+any single user would have been close to undetectable and the
+vast majority of Bats trades executed correctly, the disclosure
+comes after a year in which breakdowns on American exchanges
+sowed concern the nation’s electronic equity infrastructure is
+too complex to manage.  SEC Scrutiny  “Once again, we see there’s a problem with electronic
+systems, this time an exchange system,”  Larry Harris , a finance
+and business economics professor at the University of  Southern
+California  in  Los Angeles  and former chief economist at the U.S.
+Securities and Exchange Commission, said in a phone interview.
+“Bats will get a lot of scrutiny from the SEC at a time when
+nobody wants that kind of attention. That said, it’s important
+to recognize that Bats itself identified the problem and brought
+it to public attention and to the attention of regulators.”  SEC spokesman  John Nester  declined to comment in an email.  Bats’s computers inadvertently permitted trades counter to
+specific rules. One regulation involves the best nationally 
+available bid and offer, a central concept aimed at ensuring 
+that even as exchanges proliferate, investors who want to buy 
+and sell shares can be confident they are getting the best prices.  The short-sale circuit breaker, implemented in 2011, was
+intended to prevent investors from driving down share prices
+when a stock had already fallen 10 percent from the previous
+day’s closing level. The curb limits the price of short sales
+relative to the national best bid.  Price-Sliding  Bats said some mistakes occurred with so-called price-
+sliding orders that re-price trade requests based on the
+movement of the national best bid or offer, under specific
+circumstances involving other orders. Additional infractions
+took place when orders pegged or tied to the national best bid
+or offer traded through that level or executed at a price not
+permitted under the short-sale rule because of the actions of
+unrelated other orders.  The trades at inferior prices, called trade-throughs
+because they trade through or ignore the best available bid or
+offer, happened 433,000 times, an average of 410 a day from
+October 2008 to January 2013 on the main Bats stock exchange,
+the company said. Almost 8,000 similar incidents occurred on the
+second Bats stock exchange and 617 on its options market, the
+firm said.  Short-selling (SPX)  violations involved more than 3,600
+incidents across its equity venues, Bats said.  Bats said it identified the trading issues in an internal
+review and that none of its customers had reported it. The first
+indication of the problem was on Jan. 4 and it was confirmed on
+Jan. 7, according to a statement from the company.  Regulatory Tools  “It’s a miniscule amount of trades but I don’t think the
+regulators have the tools to keep up with the technology that’s
+out there and the sheer number of quotes and trades going on,”
+Joseph Saluzzi, partner and co-head of equity trading at Themis
+Trading LLC in Chatham,  New Jersey , said in a phone interview.
+“Is this happening at other exchanges? Can I trust regulators
+to find out? I don’t know.”  The software problem at Bats is a symptom of overly complex
+market regulations that should be simplified, Chief Executive
+Officer Joseph Ratterman said in a phone interview. About 250 
+customers, mainly market-making firms, and 0.004 percent of trades
+on Bats’s two equity exchanges were affected by the problem 
+that dates back to 2008, Ratterman said. About 0.0009 percent 
+of options trades were affected, he said.  Self Regulatory  The Bats announcement comes amid a securities industry
+debate about benefits afforded to exchanges in their role as
+self-regulatory organizations. According to its rules, Bats’s
+aggregate liability to its customers is limited to $500,000 per
+calendar month when the exchange makes a mistake in the normal
+course of business.  Participants may only seek compensation “for losses
+resulting directly from the malfunction of the exchange’s
+physical equipment, devices and/or programming or the negligent
+acts or omissions of its employees,” according to a statement
+from the company’s website.  “We will explore with the SEC the extent to which we can
+provide compensation retroactively regarding this issue,”
+Williams said by e-mail.  The pricing issues at Bats follow the company’s withdrawal
+of its own initial public offering after a technology glitch in
+March and the Nasdaq Stock Market’s botched IPO of Facebook Inc.
+in May, events that undercut investor confidence that exchanges
+are in command of their technology systems.  Better Trading  Bats, whose name stands for Better Alternative Trading
+System, rose to prominence in tandem with the proliferation of
+electronic firms that now dominate the buying and selling of
+equities in the U.S. The six-year-old equity exchange canceled
+its IPO on March 23 after errors on its own computer systems
+kept its stock from trading.  Nasdaq mishandled  Facebook’s (FB)  IPO on May 18 when an auction
+to set the first traded price for the shares failed. The
+exchange’s systems were overwhelmed by order updates and
+cancellations before the stock began trading, causing the market
+operator to make technology changes that prevented confirmations
+of orders and trades from being disseminated for hours, and
+leading to confusion among investors, brokers and market makers.  Nasdaq OMX plans to reimburse its members up to $62 million
+for losses related to the  Facebook IPO , the New York-based
+company said July 20. The cap on Nasdaq Stock Market’s liability
+stemming from specific technology errors and malfunctions it
+causes is $3 million, according to the exchange’s rules, and the
+higher payout is voluntary. Exchanges have immunity from losses
+related to activity they undertake as part of their duties as
+SEC-registered self-regulatory organizations.  Legislation that created the SEC in 1934 also deemed the
+main venues self-regulatory organizations that oversee their
+member firms and trading. Critics say the Facebook mishap shows
+how changes in the structure of markets have made old
+regulations obsolete.  “Bats is a self-regulatory organization and they’re the
+first line of defense,” said Saluzzi of Themis. “But it’s for
+the SEC to come in and say maybe some of these order types
+shouldn’t be approved because the market is too complex.”  To contact the reporters on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net ;
+Eleni Himaras in  Hong Kong  at 
+ ehimaras@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

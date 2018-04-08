@@ -1,0 +1,68 @@
+-- High Frequency Trading of High Concern, ASIC Says
+-- B y   A d a m   H a i g h   a n d   E l e n i   H i m a r a s
+-- 2012-10-10T04:01:38Z
+-- http://www.bloomberg.com/news/2012-10-10/high-frequency-trading-of-high-concern-asic-says.html
+Australian regulators are
+considering requiring all trading algorithms to have an inbuilt
+“kill switch” to immediately disable them if they malfunction,
+Australian Securities and Investments Commission Chairman Greg Medcraft said at a conference in Sydney.  ASIC is also mulling a mandate that any trades done through
+a dark pool, an off-exchange venue that doesn’t display prices
+or the identity of buyers and sellers, have meaningful price
+improvement from public platforms, Medcraft said.  Australia ’s
+latest consultation paper on electronic trading closed for
+comments Sept. 14. Final rules are expected this month.  Electronic trading has come under scrutiny globally after
+the practice was blamed for a May 2010 incident that saw the Dow
+Jones Industrial Average briefly lose almost 1,000 points in
+less than 20 minutes. An algorithm malfunction on Aug. 1 cost
+ Knight Capital Group Inc. (KCG)  $440 million, driving the company to
+the brink of bankruptcy. Traditional exchanges worldwide are
+losing market share to dark pools and other alternative venues.  “People are still looking for an answer on high-frequency
+trading,” Medcraft said. “While I know that some high-
+frequency trading provides liquidity, I also know that some
+senior bankers and fund managers have privately described it as
+providing phantom liquidity. The reason for that is that it’s
+phantom because it only stays there for a few seconds, or micro
+seconds.”  Lower Threshold  Regulators plan to require any trades through dark pools
+obtain a better price than lit, or public, venues by at least
+one tick size or that they occur at the midpoint between bids
+and offers, Medcraft said. ASIC planned to lower the threshold
+for block trades from A$1 million to A$200,000, he said.  In March, 16.4 percent of Australian trading went through
+dark pools, with an additional 13.2 percent trading in blocks of
+larger than A$1 million away from the exchange, according to
+ASIC statistics e-mailed to Bloomberg.  The smaller size of Australia’s market means it’s more
+vulnerable to fragmentation and off-exchange trades,  ASX Ltd. (ASX) ,
+Australia’s main bourse operator, said on Aug. 6 in response to
+the market-structure consultation. ASX lost its monopoly as
+Australia’s only public, or lit, venue in October last year with
+the entry of Nomura Holdings Inc.’s Chi-X Australia.  Algorithmic trading mishaps haven’t been as prominent in
+ Asia  as in the more developed markets. Trading in  India ’s
+benchmark Nifty and some stocks stopped for 15 minutes on Oct. 5
+after the 50-stock gauge sank 16 percent.  Erroneous Trades  The plunge wasn’t due to a malfunctioning trading program;
+it was caused by as many as 59 erroneous trades by a dealer at
+Emkay Global Financial Services Ltd. in Mumbai, the NSE said in
+a statement on Oct. 5. The brokerage said Oct. 8 that one of its
+dealers “committed a bona fide error.”  Brokers are responsible for minimizing the impact on
+markets when their algorithms and systems malfunction, Mark
+Steward,  executive director  in the enforcement division of the
+Hong Kong Securities and Futures Commission said at conference
+on Aug. 31. The SFC has issued 18 compliance letters to
+electronic trading firms, mostly due to computer algorithms that
+have led to price or volume disruptions, he said.  The SFC declined requests from Bloomberg to give more
+detail on the trade, citing confidentiality of the parties
+involved that were not formally sanctioned.  U.S. regulators are also mulling kill switches, or
+automated triggers that would turn off trading at securities
+firms when their volume surpassed preset maximums. A group of
+exchange and investment professionals recommended the measure in
+a  letter  for discussion to the U.S. Securities and Exchange
+Commission. Kill switches that could have stopped orders from
+Knight Capital on Aug. 1 may have saved the  Jersey City , New
+Jersey-based firm millions of dollars, they said.  “We’ve taken a very constructive approach with how we
+analyze the market and are pretty forward thinking” on a global
+basis,’’ ASIC’s Medcraft said. “We are stepping up surveillance
+efforts, particularly focusing on high-frequency traders.”  To contact the reporters on this story:
+Adam Haigh in Sydney at 
+ ahaigh1@bloomberg.net ;
+Eleni Himaras in  Hong Kong  at 
+ ehimaras@bloomberg.net   To contact the editor responsible for this story:
+Nick Gentle at 
+ ngentle2@bloomberg.net  

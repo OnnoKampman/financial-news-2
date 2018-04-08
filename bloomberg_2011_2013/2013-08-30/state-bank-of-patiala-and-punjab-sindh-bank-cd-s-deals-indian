@@ -1,0 +1,74 @@
+-- State Bank of Patiala and Punjab & Sindh Bank CD's Deals: Indian
+-- B y   P o o j a   S a r a f
+-- 2013-08-30T12:46:19Z
+-- http://www.bloomberg.com/news/2013-08-30/state-bank-of-patiala-and-punjab-sindh-bank-cd-s-deals-indian.html
+Following is a table showing certificate of deposits
+issued by Indian banks. The data has been provided by Derivium Tradition
+Securities Pvt. Ltd., LKP Securities Limited, NVS Brokerage Ltd, SPA Securities
+Ltd. and Trust Financial Consultancy Services.  T = Tentative  C=Confirmed  Deal Date  Security   Mty Date   Qtm(Crs.) Rate         Buyer    CTRB   Status
+30-Aug-13      SBOP          3 MONTHS   200       11.80               NVSB    T
+30-Aug-13      SBOP          2 MONTHS             11.75               NVSB    T
+30-Aug-13      SBOP          3 MONTHS   300       11.80               DCAP    T
+30-Aug-13      SBOP          2 MONTHS   300       11.75               DCAP    T
+30-Aug-13      SBOP          2 MONTHS             11.75               LKPS    T
+30-Aug-13      SBOP          3 MONTHS             11.80               LKPS    T
+30-Aug-13      PSB           23-Sep-13            10.68               LKPS    T
+30-Aug-13      PSB           23-Sep-13            10.68               NVSB    T
+30-Aug-13      SBH           2 MONTHS             11.75               NVSB    T
+30-Aug-13      J&K BK        2 MONTHS             11.93               LKPS    T
+30-Aug-13      IDBI          31-Oct-13  250       11.825              LKPS    T
+30-Aug-13      IDBI          31-Oct-13  250       11.825              SPAS    T
+30-Aug-13      SBOP          2 MONTHS             11.75               SPAS    T
+30-Aug-13      SBOP          3 MONTHS             11.80               SPAS    T
+30-Aug-13      PSB           1 MONTH    500       10.68               DCAP    T
+30-Aug-13      SBOP          1 YEAR               10.78               NVSB    T
+30-Aug-13      SBOP          1 YEAR               10.78               LKPS    T
+30-Aug-13      IDBI          1 YEAR               10.84               NVSB    T
+30-Aug-13      IDBI          2 MONTHS             11.8250             NVSB    T
+30-Aug-13      IDBI          3 MONTHS             11.8250             NVSB    T
+30-Aug-13      ING           1 YEAR               10.90               NVSB    T
+30-Aug-13      J&K           2 MONTHS  100        11.93               DCAP    T
+30-Aug-13      SBH           1 YEAR               10.77               NVSB    T
+30-Aug-13      SBH           1 YEAR    150        10.77               DCAP    T
+30-Aug-13      SBH           2 MONTHS             11.75               SPAS    T
+30-Aug-13      ING           1 YEAR               10.90               SPAS    T
+30-Aug-13      SBH           1 YEAR               10.77               SPAS    T
+30-Aug-13      IDBI          1 YEAR               10.84               SPAS    T
+30-Aug-13      BOM           1 YEAR    100        10.81               DCAP    T
+30-Aug-13      BOM           1 YEAR               10.81               LKPS    T
+30-Aug-13      IDBI          1 YEAR    250        10.85               DCAP    T
+30-Aug-13      IDBI          2 MONTHS  250        11.8250             DCAP    T
+30-Aug-13      IDBI          3 MONTHS  50         11.8250             DCAP    T
+30-Aug-13      SBH           2 MONTHS  300        11.75               DCAP    T
+30-Aug-13      SBT           1 YEAR    25         10.77               DCAP    T
+30-Aug-13      SBOP          1 YEAR    250        11.78               DCAP    T
+30-Aug-13      SBT           1 YEAR               10.77               NVSB    T
+30-Aug-13      IDBI          1 YEAR    170        10.84               LKPS    T
+30-Aug-13      IDBI          29-Jul-14 50         10.84               NVSB    T
+30-Aug-13      PSB           23-Sep-13 50         10.68  IFCI LTD     TFCS    T
+30-Aug-13      PSB           23-Sep-13 50         10.68  L&T MF       TFCS    T
+30-Aug-13      PSB           23-Sep-13 50         10.68  UNION KBC    TFCS    T
+30-Aug-13      PSB           23-Sep-13 50         10.68  IBULLS MF    TFCS    T
+30-Aug-13      IDBI          31-Oct-13 300        11.825 MF           TFCS    T
+30-Aug-13      IDBI          28-Nov-13 75         11.85  MF           TFCS    T
+30-Aug-13      IDBI          29-Jul-13 50         10.84  HDFC MF      TFCS    T
+30-Aug-13      IDBI          04-Sep-14 50         10.84  RIL MF       TFCS    T
+30-Aug-13      IDBI          1 YEAR    10         10.84  RELIGARE MF  TFCS    T
+30-Aug-13      IDBI          1 YEAR    90         10.84  MF           TFCS    T
+30-Aug-13      SBOP          2 MONTHS             11.75  MF           TFCS    T
+30-Aug-13      SBOP          3 MONTHS  100        11.80  KOTAK LIFE   TFCS    T
+30-Aug-13      SBOP          3 MONTHS  100        11.80  BIRLA MF     TFCS    T
+30-Aug-13      J&K           2 MONTHS  100        11.93  MF           TFCS    T
+30-Aug-13      J&K           3 MONTHS  100        11.93  MF           TFCS    T
+30-Aug-13      SBH           1 YEAR    5          10.77  BNP MF       TFCS    T
+30-Aug-13      SBH           1 YEAR    50         10.77  PRU MF       TFCS    T
+30-Aug-13      SBH           1 YEAR    75         10.77  KOTAK MF     TFCS    T
+30-Aug-13      SBH           1 YEAR    25         10.77  HSBC MF      TFCS    T
+30-Aug-13      ING           1 YEAR    10         10.90 RELIGARE MF   TFCS    T
+30-Aug-13      ING           1 YEAR    7          10.90 BNP MF        TFCS    T
+30-Aug-13      SBT           1 YEAR    90         10.77               TFCS    T
+30-Aug-13      SBH           1 YEAR               10.77               LKPS    T
+30-Aug-13      SBH           2 MONTHS  200        11.75 IDFC MF       TFCS    T
+30-Aug-13      SBH           2 MONTHS  50         11.75 RELIGARE MF   TFCS    T
+30-Aug-13      J&K           2 MONTHS             11.93               NVSB    T  Contributed via: Bloomberg Publisher WEB Service  Provider ID: 275779d6055346f9af102a5ff6982134
+ 

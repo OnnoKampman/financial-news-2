@@ -1,0 +1,84 @@
+-- 
+Windows 8 Will Be Microsoft’s Multitasker: Rich Jaroslovsky
+
+-- B y   R i c h   J a r o s l o v s k y
+-- 
+2011-09-21T20:00:00Z
+
+-- http://www.bloomberg.com/news/2011-09-21/bold-windows-8-will-double-up-for-tablets-pcs-tech-by-rich-jaroslovsky.html
+Big colorful tiles instead of tiny
+icons. Functions controllable by touch and gestures.
+Applications that are better designed and better looking than
+you’ve ever seen before.  If Windows has a future, this is it.  Windows 8, the next version of the world’s most widely used
+operating system, is probably still a year from release. But
+ Microsoft Corp. (MSFT)  has begun to bang the drum for it, unveiling it
+to developers and the media at a conference last week in
+ Southern California .  I’ve been exploring the preview version for a week or so,
+and am both impressed and intrigued. It may change significantly
+on its way to your office, home or briefcase, but even at this
+stage, it is the most radical overhaul of Windows ever.  Microsoft had little choice. The future belongs to mobile
+devices: Sales of smartphones and tablets -- most of them
+running software from  Apple Inc. (AAPL)  and  Google Inc. (GOOG)  -- are
+ projected to surpass  traditional personal computers this year
+for the first time. Meanwhile, Microsoft continues to lean
+heavily on the Windows and Office franchises for the bulk of its
+profits and can’t afford to sit back and watch them wither away.  Two in One  Moreover, even if the PC market is no longer the engine of
+growth it once was, a huge number of people work on PCs and will
+continue to for years. So Microsoft is attempting something
+extraordinarily ambitious: combining a state-of-the-art
+operating system for tablets and other mobile devices with a
+traditional desktop environment. Two for the price of one.  The most striking thing about Windows 8 is its new “Metro
+style” user interface. For a taste of it, try a device running
+Windows Phone 7. Applications are represented by large tiles
+that can be resized and can update themselves dynamically -- the
+mail tile displaying the most recent incoming message, for
+instance, or the calendar tile showing your next appointment.  One little irony of Windows 8 is that it de-emphasizes
+windows. When you poke at or click on a tile, a Metro-style
+program launches full-screen, with nary a toolbar or pull-down
+menu in sight. The traditional taskbar is replaced by what
+Microsoft calls “charms,” icons representing basic functions
+common to all programs that are summoned by a finger swipe from
+the right-hand edge of the screen (on the prototype Samsung
+tablet PC handed out to developers last week, that is).  Apps Zapped  But what happens to the huge body of software written for
+earlier versions of Windows? Some may be rewritten for Metro --
+the developer’s preview includes a Metro-style version of the
+Internet Explorer 10 browser -- but many won’t be.  Microsoft’s answer is a tile on the new Start screen that
+launches a traditional desktop similar to what you get when you
+boot up Windows 7. At the developer conference, Steven Sinofsky,
+the executive in charge of the operating system, denied that
+Windows 8 demotes the desktop to the status of a “penalty
+box,” the place you’re exiled to if you can’t get with the hip
+new program.  Still, you can’t help but wonder about the potential for
+confusion. Let’s see: Does my program use the Metro start
+screen, or the desktop? If I need to look something up on the
+Web, do I launch Metro-friendly IE 10, or desktop-style IE 10?  Another bunch of questions concern one of Windows 8’s
+biggest changes, one that will be invisible to the naked eye.  Hot Chips  Until now, Windows has always run only on “x86”
+microprocessors -- the type of electronic brains made by  Intel
+Corp. (INTC)  and  Advanced Micro Devices Inc.. (AMD)  Microsoft says that any
+machine capable of running Windows 7 will also run Windows 8.
+But the new operating system also promises to run on the
+processors being used in tablets, smartphones and other mobile
+devices. These chips, utilizing technology licensed from  ARM
+Holdings PLC (ARM) , tend to be less potent than x86 chips -- but also
+use less power, generate less heat and allow for longer battery
+life.  While there was much talk at last week’s session about ARM
+compatibility, almost everything shown was running on Intel-
+powered machines. The demonstration tablet had an i5 chip -- the
+same one that powers many desktop and laptop PCs today, and
+generates so much heat that the tablet had an internal fan.  An ARM-based Windows 8 device wouldn’t have those issues.
+But it also, according to Microsoft, will only run newly written
+Metro-style applications, not the more traditional and familiar
+desktop software. So here’s another potential layer of
+complexity and confusion. Will a given program run on a given
+Windows 8 device?  No one knows what the volatile digital marketplace will
+look like when Windows 8 reaches consumers. And that must be a
+little scary for Microsoft. The operating system may provide an
+important transitional link between computing’s past and future.
+On the other hand, it could just end up being remembered as a
+last-ditch effort to squeeze a little more milk from the
+greatest cash-cow in the history of technology.  ( Rich Jaroslovsky  is a Bloomberg News columnist. The
+opinions expressed are his own.)  To contact the writer of this column:
+Rich Jaroslovsky in  San Francisco  at 
+ rjaroslovsky@bloomberg.net .  To contact the editor responsible for this story:
+Manuela Hoelterhoff at 
+ mhoelterhoff@bloomberg.net . 

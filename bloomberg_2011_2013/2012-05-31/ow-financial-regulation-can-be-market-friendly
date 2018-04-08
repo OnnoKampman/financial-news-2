@@ -1,0 +1,177 @@
+-- How Financial Regulation Can Be Market Friendly
+-- B y   L u i g i   Z i n g a l e s
+-- 2012-05-31T23:01:34Z
+-- http://www.bloomberg.com/news/2012-05-31/how-financial-regulation-can-be-market-friendly.html
+The structure of financial regulation
+in the U.S. resembles sedimentary rock: Each layer is the legacy
+of a crisis, but there is nothing binding the layers together.  The  Federal Reserve  was created in 1913 to address the
+liquidity problems that occurred during the panic of 1907. The
+ Federal Deposit Insurance Corporation  was instituted in 1933 to
+prevent the kind of bank runs that had forced more than 5,000
+banks to close in the early 1930s. The Securities and Exchange
+Commission came into being in 1934 to prevent the stock-market
+manipulations of the 1920s. The Office of Thrift Supervision was
+created in 1989, after the savings-and-loan crisis of the late
+1980s. And the 2010  Dodd-Frank Wall Street Reform and Consumer
+Protection Act , which brought us the Financial Stability
+Oversight Council, was the result of the most recent financial
+crisis.  So it’s not surprising that the current regulatory system
+runs into problems with coordination and the communication of
+information. This lack of coordination can tempt industry to
+avoid regulation entirely. For example, state insurance
+regulators never oversaw credit-default swaps -- even though
+they were essentially insurance products -- because they were
+called “swaps,” which made them sound like standard
+derivatives.  Poor Condition  As for communication of information, consider what happened
+during the collapse of Bear Stearns Cos. The Fed was late
+learning about the extent of the bank’s poor financial condition
+or the risks that its failure would pose to the entire  banking
+system  because the central bank didn’t regulate investment banks
+-- that was the SEC’s job.  The way to fix these problems is to allocate financial
+regulation and supervision to three different agencies, each
+responsible for only one of the three principal goals of
+financial-system regulation.  One agency would be in charge of  price stability , more or
+less conducting the traditional monetary policy of the Fed. A
+second agency would focus on protecting the little guys, whether
+they are investing in stock, depositing funds at a bank,
+borrowing from a bank, or buying an annuity or other insurance
+product. A third would be tasked with systemic considerations,
+absorbing some of the extraordinary roles that the Fed has taken
+on during the current crisis, together with other solvency
+issues (often overseen by state insurance regulators).  The main challenge of such a design would be striking
+compromises across agencies and communicating crucial
+information among them. A new board could be set up consisting
+of the heads of the three agencies, together with a small number
+of other Senate-appointed representatives. The minutes of this
+new board would be publicly released (possibly with a delay), so
+that the trade-off decisions were transparent and the
+responsibility for them clearly allocated.  Monetary policy : Let’s examine the three goals of financial
+regulation, starting with price stability. The relevant agency
+here is the Fed, which is charged with making the monetary
+policy that keeps prices stable.  During the 2008 financial crisis and its aftermath,  the Fed 
+overstepped its boundaries by acting to ensure the stability of
+the financial system. It has been under severe attack by
+Congress, which would like to limit its discretion.  Bad Design  Congress is correct, though the Fed’s missteps are the
+fault not of its governors but of bad institutional design. By
+dividing the three major responsibilities of financial
+regulation among three separate agencies, my proposed
+architecture allows for having a fully independent monetary-
+authority board and a politically accountable financial-
+stability board.  Curbing risk: The market should be able to assess the risks
+of  large financial institutions . But it cannot do so if market
+players know that those institutions will be bailed out in a
+crunch. Simply outlawing the “too big to fail” policy might
+prove very costly one day, preventing Congress from acting as
+catastrophe looms.  Fortunately, there may be another solution. The
+government’s reason for bailing out large financial institutions
+isn’t that they are so large that their demise would bring down
+the whole system. Rather, it is that they have such extensive
+interconnections with other financial institutions -- through
+their various transactions, obligations and contracts -- that a
+default might trigger losses among an enormous number of
+counterparties.  To function properly, the financial system needs to operate
+under the assumption that certain  assets , such as deposits, are
+worry-free. But this trust can be sustained only if people don’t
+question the prompt and full repayment of so-called sensitive or
+systemically relevant obligations. People need to know that even
+if their banks collapse, not just deposits but also short-term
+interbank borrowing and the network of derivative contracts are
+secure.  Once we understand that the issue is the interconnectedness
+of large financial institutions, and therefore the stability of
+the larger system, we can make some important distinctions. Not
+all of the debt issued by large financial institutions and not
+all of the transactions they engage in are systemically relevant
+or in need of comprehensive protection. Specifically, long-term
+debt isn’t systemically relevant, because it is mostly held not
+by large financial institutions but within the massive
+portfolios of mutual and pension funds, which can absorb losses.  Systemically Relevant  The solution is regulation that protects the systemically
+relevant obligations of large financial institutions -- making
+sure that these institutions, not the taxpayers, would repay the
+obligations in case of bankruptcy.  But that leaves open the possibility that nonsystemically
+relevant obligations wouldn’t be protected. Under this new
+system, banks would be required to hold two layers of  capital  to
+protect their systemically relevant obligations. The first would
+be basic equity. This isn’t very different from today’s standard
+capital requirement, except that the amount of equity required
+would be determined not by an accounting formula but by a market
+assessment of the risk contained in the second layer.  That second layer would consist of so-called junior long-
+term debt, which means that the institution would repay it only
+after making good on its other debt. This debt would therefore
+involve more risk for those who bought it, as well as higher
+rates of return. It would provide an added layer of protection
+because, in the event the institution defaulted, it could be
+paid back only after other, more systemically relevant
+obligations had been repaid. Perhaps most important, because
+this layer of debt would be traded without the assumption that
+it would always be protected by federal bailouts, it would make
+possible a genuine market assessment of its value and risk --and
+therefore of the value and risk of the financial institution
+itself.  The crucial innovation of the approach I proposed with
+Oliver Hart, of  Harvard University , is that the second layer of
+capital would allow for a market-based trigger to signal that a
+company’s equity cushion was thinning, that its long-term debt
+was potentially in danger, and that the institution was taking
+on too much risk. If that warning mechanism provided accurate
+signals and the regulator intervened in time, even the junior
+long-term debt would be paid in full. If not, the institution
+might burn through some of the junior debt layer, but its
+systemically relevant obligations would generally still be
+secure.  Large banks would have to show the regulator that they had
+enough collateral (in the form of equity) to ensure that all of
+their debt -- not just the systemically relevant part -- could
+be paid in full. And if declines in the value of their
+underlying assets put the banks’ debt at greater risk, the
+regulator could force them either to post additional capital or
+to submit to liquidation. Either way, debt would be repaid.  Swift Response  The success of this system rests, of course, on the timely
+intervention of the regulator. Thus it is essential to have an
+effective mechanism that assesses risk and triggers a swift
+response.  Such a trigger would be market-based, tied to the price of
+a security traded in a market with a lot of liquidity and
+therefore stability. And its price should be closely linked to
+the financial event we want information about: whether an
+ institution’s long-term debt  is at risk.  There is one security that is linked to bond prices but
+remains very liquid -- the credit-default swap, essentially an
+insurance claim that pays off if the underlying entity fails and
+creditors aren’t paid in full. Since a CDS is basically a bet on
+the odds of a particular company’s failure, its price reflects
+the market’s assessment of how likely it is that the debt won’t
+be repaid in full. Under our system, the CDS price for a bank’s
+long-term debt would be used to gauge the risk of the equity
+cushion’s being devoured by losses. If the price were to rise
+above a critical threshold, the regulator would force the
+institution in question to issue equity by offering new stock
+for sale. If the price then didn’t fall below that threshold
+within a predetermined period, the regulator would intervene.  Credit-default swaps are often cited as a cause of the
+financial crisis. The problem, though, wasn’t with CDSs but with
+the way they were traded: in opaque markets in which companies
+could sell the swaps without posting the proper collateral. When
+traded in an organized exchange with proper collateral, the CDS
+is a useful instrument for reducing exposure to credit risk.  Fortunately, there is a clear trend toward moving credit-
+default swaps onto exchanges, which will require better
+collateralization to protect exchange members.  What form should the regulator’s intervention take? If the
+trigger were set off by a CDS price that was too high, the
+regulator would be required to subject the financial institution
+to a  stress test . If the bank failed the test, the debt was
+found to be at risk, and issuing equity didn’t improve its
+situation, then the regulator would replace the institution’s
+chief executive officer with a receiver or trustee. This person
+would be required to recapitalize and sell the company,
+guaranteeing in the process that shareholders were wiped out and
+junior creditors took a “haircut,” meaning that the value of
+what they were owed would be reduced by a set percentage.  This regulatory receivership would avoid bankruptcy’s worst
+cost: the possibility that one company’s failure could take down
+the entire financial system.  (Luigi Zingales is professor of entrepreneurship and
+finance at the University of Chicago Booth School of Business, a
+contributor to  Business Class  and a contributing editor of City
+Journal. This is the last of three excerpts from his new book,
+“A Capitalism for the People: Recapturing the Lost Genius of
+American Prosperity,” which will be published in June by Basic
+Books, a member of The Perseus Books Group. The opinions
+expressed are his own. Read  Part 1  and  Part 2 .)  Read more opinion online from  Bloomberg View . Subscribe to
+receive a  daily e-mail  highlighting new View columns, editorials
+and op-ed articles.  Today’s highlights: the View editors on  private space
+exploration  and  fighting childhood obesity ; William Pesek on
+ Hong Kong’s growth concerns ;  Noah Feldman  on  China’s social-
+media censorship ; Josh Barro on  taking over failing cities .  To contact the writer of this article:
+ Luigi Zingales  at  Luigi.Zingales@chicagobooth.edu   To contact the editor responsible for this article:
+Max Berley at  mberley@bloomberg.net  

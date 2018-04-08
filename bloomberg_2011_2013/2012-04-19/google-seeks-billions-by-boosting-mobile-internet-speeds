@@ -1,0 +1,102 @@
+-- Google Seeks Billions by Boosting Mobile Internet Speeds
+-- B y   O l g a   K h a r i f
+-- 2012-04-19T04:01:00Z
+-- http://www.bloomberg.com/news/2012-04-19/google-seeks-billions-by-boosting-mobile-internet-speeds.html
+Like many users of mobile devices,
+Arvind Jain is annoyed by how long it takes Web pages to load
+over cellular connections.  The  Google Inc. (GOOG)   engineering director  is continually
+monitoring Internet-access rates -- from hotels, offices and
+airport lounges around the world -- looking for ways to speed
+things up. Jain’s mission: get websites to load over mobile-
+phone networks twice as quickly as they do now. Today’s times
+are typically 9.2 seconds in the U.S.  The goal is part of a companywide initiative for Google,
+the world’s biggest search-engine provider, which aims to use
+faster mobile  Internet access  to unlock billions of dollars in
+additional e-commerce and online advertising. When people are
+waiting for pages to load, they aren’t shopping or viewing ads.
+That’s hampering everyone from giant Internet companies to local
+businesses trying to reach customers.  “There’s a clear correlation between speed and the success
+of your online business,” Jain said.  What makes a mobile Web connection slow? In some cases,
+it’s the carriers’ network -- say, if users can’t get 3G or 4G
+service on their phones. Often, though, it’s because the Web
+page wasn’t designed to load quickly on a wireless device. The
+site may have high-resolution pictures or data-intensive
+effects. Beyond that, Internet protocols and software aren’t
+always optimized for mobile connections, which can lose some of
+the data they transmit.  Website Abandonment  An especially long delay can cause consumers to give up on
+purchases altogether, and the risk is more acute on mobile
+phones than with desktop computers. Twice as many mobile-phone
+users abandon a website for reasons such as sluggishness than
+their desktop counterparts, according to  Forrester Research Inc. (FORR) 
+That results in lost revenue for online sellers, as well as
+companies like Google, the U.S. leader in mobile advertising.  To fix the problem, Google is tweaking its mobile browser
+and working with other companies on changing the way basic
+Internet technologies work. It’s also rolling out tools that
+help website owners see the connection between their sites’
+performance and sales. That can prod businesses to spend the
+money needed to speed up their services.  Faster mobile Web loads could increase mobile-commerce
+sales in the U.S. by 10 percent, or about $600 million a year,
+said  Sucharita Mulpuru , an analyst at Forrester. They also could
+help online commerce in general: Almost half of mobile users are
+unlikely to return to a website at all if they had trouble
+accessing it from their phone, a 2011 study by  Equation Research
+found .  Hurting Business  “There’s a big business impact to these kind of
+struggles,” said Geoff Galat, vice president of worldwide
+marketing at  Tealeaf Technology Inc. , a provider of website-
+improvement software.  Faster mobile Web speeds also translate into additional
+mobile-ad revenue. A 30 percent improvement in mobile Internet’s
+speed could lead to a 15 percent rise in ad sales, said Trevor Healy, chief executive officer of mobile-ad provider  Amobee Inc. 
+U.S. mobile-advertising spending will reach $2.61 billion this
+year, up from $1.45 billion in 2011, according to EMarketer Inc.  While carriers adopting 4G networks have helped speed up
+the mobile Internet, those upgrades won’t have the biggest
+impact on performance, said  Craig Mathias , founder of consulting
+firm Farpoint Group in Ashland,  Massachusetts . Improvements to
+servers, browsers and other Internet software are even more
+important, he said.  Catching up to Desktops  Google has plenty of company in trying to accelerate mobile
+connections.  Akamai Technologies Inc. (AKAM) ,  Microsoft Corp. (MSFT) , Mozilla
+and a slew of startups are all focused on optimizing Web
+performance.  The effort could be help mobile speeds catch up with
+desktop rates by 2014, said  Lelah Manz , chief strategist for e-
+commerce at Akamai. For now, wired users are far ahead. They
+haven’t had to deal with nine-second downloads since at least
+2001, according to Akamai.  “Mobile has to catch up,” Manz said. “Your shoppers are
+more distracted on a mobile device, and the performance is more
+important. This realization has just started to hit in the last
+six to nine months.”  To get there, Google has been tweaking its Chrome Web
+browser for Android, the most popular smartphone operating
+system. The software will rely more heavily on artificial
+intelligence in predicting what Web address someone wants to
+visit -- and then start loading the page while the user is still
+typing. That feature is currently available in a beta-test form,
+Jain said.  Web Protocols  Google also is pushing for revisions to Internet protocols,
+the decades-old rules that govern the way the Web functions. The
+changes would better handle the quirks of modern mobile
+networks, such as their propensity to occasionally lose data en
+route. A revision called  TCP PRR , for example, will deploy a new
+algorithm that accounts for data losses and network congestion.  Another adjustment, called TCP Fast Open, will eliminate
+the need to synchronize the phone and the server before
+transmitting the data. Once the revision is adopted,
+synchronization will happen at the same time as the transfer of
+data from a website.  Google recently updated its Google Analytics feature to let
+Web publishers overlay the speed of their site with business
+measurements, such as revenue per day. That helps them see the
+correlation and figure out return on investment.  Akamai, meanwhile, is working with  Ericsson AB (ERICB) , the world’s
+largest maker of wireless networks, to  develop special
+technology  that carriers can use to provide priority Web access
+to users of retail websites, Manz said. The technology will
+become available in the U.S. in 2013, she said.  Fewer Requests  In March, Akamai released the Aqua Mobile Accelerator, a
+technology that sends multiple packets over the mobile network
+at the same time, cutting down on the number of repeat requests.  Startups are plunging into mobile Web optimization as well.
+For the past two months,  CloudFlare Inc.  has been testing a
+feature called Polish, which automatically goes through images
+on websites and ensures they are compressed correctly. Mobile-
+app maker Onavo Mobile Ltd.,  makes sure  images only load when
+users scroll down to the part of the Web page where the pictures
+would be visible.  For retailers, such technical advances can’t come soon
+enough. Said Jonathan Johnson, president of retailer
+ Overstock.com Inc. , a Web discounter based in  Salt Lake City :
+“The longer purchasers have to wait, the more frustrated they
+get, and the more likely they are to leave the site.”  To contact the reporter on this story:
+Olga Kharif in  Portland ,  Oregon , at 
+ okharif@bloomberg.net .  To contact the editor responsible for this story:
+Thomas Giles at   tgiles5@bloomberg.net  

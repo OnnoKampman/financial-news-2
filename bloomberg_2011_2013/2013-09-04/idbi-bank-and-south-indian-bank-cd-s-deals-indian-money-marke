@@ -1,0 +1,89 @@
+-- IDBI Bank and South Indian Bank CD's Deals: Indian Money Market
+-- B y   P o o j a   S a r a f
+-- 2013-09-04T12:15:45Z
+-- http://www.bloomberg.com/news/2013-09-04/idbi-bank-and-south-indian-bank-cd-s-deals-indian-money-market.html
+Following is a table showing certificate of deposits
+issued by Indian banks. The data has been provided by Derivium Tradition
+Securities Pvt. Ltd., LKP Securities Limited, NVS Brokerage Ltd, SPA Securities
+Ltd. and Trust Financial Consultancy Services.  T = Tentative  C = Confirmed  Deal Date      Security    Mty Date  Qtm(Crs.) Rate  Buyer       CTRB  Status
+04-Sep-13      IDBI          2 MONTHS            11.50              NVSB    T
+04-Sep-13      SIB           2 MONTHS            11.80              NVSB    T
+04-Sep-13      IDBI          2 MONTHS  50        11.50 HSBC MF      DCAP    T
+04-Sep-13      IDBI          2 MONTHS  160       11.50 HDFC MF      DCAP    T
+04-Sep-13      IDBI          2 MONTHS  50        11.50 PRINCI MF    DCAP    T
+04-Sep-13      IDBI          2 MONTHS  100       11.50 RELIG. MF    DCAP    T
+04-Sep-13      IDBI          2 MONTHS  25        11.50 ING MF       DCAP    T
+04-Sep-13      IDBI          2 MONTHS  100       11.50 TEMPL. MF    DCAP    T
+04-Sep-13      IDBI          2 MONTHS  515       11.50              DCAP    T
+04-Sep-13      IDBI          2 MONTHS            11.50              SPAS    T
+04-Sep-13      IDBI          2 MONTHS            11.50              LKPS    T
+04-Sep-13      SIB           2 MONTHS            11.80              LKPS    T
+04-Sep-13      SIB           2 MONTHS            11.80              SPAS    T
+04-Sep-13      KVB           2 MONTHS            11.60              NVSB    T
+04-Sep-13      KVB           3 MONTHS            11.60              NVSB    T
+04-Sep-13      INDUSIND      2 MONTHS            11.50              NVSB    T
+04-Sep-13      INDUSIND      3 MONTHS            11.50              NVSB    T
+04-Sep-13      J&K           2 MONTHS            11.50              NVSB    T
+04-Sep-13      J&K           3 MONTHS            11.50              NVSB    T
+04-Sep-13      INDUSIND      2 MONTHS            11.50              LKPS    T
+04-Sep-13      INDUSIND      3 MONTHS            11.50              LKPS    T
+04-Sep-13      SYNDICATE     1 YEAR              10.73              NVSB    T
+04-Sep-13      INDIAN        1 YEAR              10.70              NVSB    T
+04-Sep-13      INDIAN        1 YEAR              10.70              LKPS    T
+04-Sep-13      SYNDICATE     1 YEAR    200       10.73              LKPS    T
+04-Sep-13      CORPI         1 YEAR              10.70              LKPS    T
+04-Sep-13      SBOP          1 YEAR              10.68              LKPS    T
+04-Sep-13      SBOP          1 YEAR              10.68              NVSB    T
+04-Sep-13      IDBI          2 MONTHS            11.25              NVSB    T
+04-Sep-13      INDIAN        1 YEAR              10.70              SPAS    T
+04-Sep-13      SBOP          1 YEAR    125       10.68              SPAS    T
+04-Sep-13      CORPY         1 YEAR              10.70              SPAS    T
+04-Sep-13      SYNDICATE     1 YEAR              10.73              SPAS    T
+04-Sep-13      INDUSIND      2 MONTHS            11.50              SPAS    T
+04-Sep-13      INDUSIND      3 MONTHS            11.50              SPAS    T
+04-Sep-13      J&K           3 MONTHS            11.50              SPAS    T
+04-Sep-13      IDBI          1 YEAR              10.76              SPAS    T
+04-Sep-13      BOM           1 MONTH             11.00              LKPS    T
+04-Sep-13      BOM           1 MONTH   500       11.00              NVSB    T
+04-Sep-13      IDBI          1 YEAR    150       10.76              LKPS    T
+04-Sep-13      SBH           1 YEAR              10.61              NVSB    T
+04-Sep-13      SBH           1 YEAR              10.61              SPAS    T
+04-Sep-13      SBH           1 YEAR              10.61              LKPS    T
+04-Sep-13      IDBI          1 YEAR    200       10.76              DCAP    T
+04-Sep-13      IDBI          1 YEAR    200       10.75              DCAP    T
+04-Sep-13      SYNDICATE     1 YEAR    200       10.73              DCAP    T
+04-Sep-13      INDIAN        1 YEAR    300       10.70              DCAP    T
+04-Sep-13      SBH           1 YEAR    50        10.61              DCAP    T
+04-Sep-13      SBOP          1 YEAR    255       10.68              DCAP    T
+04-Sep-13      SBOP          1 YEAR    500       10.70              DCAP    T
+04-Sep-13      CORPY         1 YEAR    1000      10.70              DCAP    T
+04-Sep-13      J&K           3 MONTHS  200       11.50              DCAP    T
+04-Sep-13      INDUSIND      3 MONTHS  60        11.50              DCAP    T
+04-Sep-13      INDUSIND      2 MONTHS  550       11.50              DCAP    T
+04-Sep-13      KVB           2 MONTHS  350       11.60              DCAP    T
+04-Sep-13      BOM           1 MONTH   500       11.00              DCAP    T
+04-Sep-13      BOM           1 MONTH   200       10.95              DCAP    T
+04-Sep-13      IDBI          2 MONTHS  1000      11.50              DCAP    T
+04-Sep-13      IDBI          2 MONTHS  100       11.45              DCAP    T
+04-Sep-13      IDBI          2 MONTHS  200       11.25              DCAP    T
+04-Sep-13      BOM           03-Oct-13 30        10.95              NVSB    T
+04-Sep-13      SBT           1 YEAR              10.60              NVSB    T
+04-Sep-13      SBT           1 YEAR    200       10.60              DCAP    T
+04-Sep-13      SBT           1 YEAR    210       10.60              LKPS    T
+04-Sep-13      BOM           03-oct-13 500       11.00 RELIANCE MF  TFCS    T
+04-Sep-13      BOM           03-oct-13 500       11.00 MF           TFCS    T
+04-Sep-13      BOM           03-oct-13 100       10.95 IDBI MF      TFCS    T
+04-Sep-13      BOM           04-Oct-13 50        10.95 DEUT. MF     TFCS    T
+04-Sep-13      SIB           2 MONTHS  50        11.80 CANARA MF    TFCS    T
+04-Sep-13      SIB           2 MONTHS  25        11.80 IDBI MF      TFCS    T
+04-Sep-13      SIB           2 MONTHS  255       11.80 MF           TFCS    T
+04-Sep-13      INDUSIND      2 MONTHS  500       11.50 KOTAK MF     TFCS    T
+04-Sep-13      INDUSIND      2 MONTHS  500       11.50 MF           TFCS    T
+04-Sep-13      INDUSIND      2 MONTHS  25        11.25 ING MF       TFCS    T
+04-Sep-13      INDUSIND      2 MONTHS  75        11.25 IDFC MF      TFCS    T
+04-Sep-13      INDUSIND      3 MONTHS  100       11.25 MF           TFCS    T
+04-Sep-13      KVB           2 MONTHS  25        11.60 MF           TFCS    T
+04-Sep-13      KVB           2 MONTHS  575       11.60 MF           TFCS    T
+04-Sep-13      SBH           1 YEAR              10.50              NVSB    T
+04-Sep-13      SBT           1 YEAR              10.55              NVSB    T   Contributed via: Bloomberg Publisher WEB Service  Provider ID: ea785d1a8feb4d56bf073317c247fb21
+ 

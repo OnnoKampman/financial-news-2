@@ -1,0 +1,136 @@
+-- 
+Nobel Winners Saved Macroeconomics After Keynes
+
+-- B y   E d w a r d   G l a e s e r
+-- 
+2011-10-10T18:00:27Z
+
+-- http://www.bloomberg.com/news/2011-10-10/nobel-winners-saved-macroeconomics-after-keynes-edward-glaeser.html
+In the midst of great macroeconomic
+uncertainty, the  Nobel Prize  in Economics has been awarded to
+Thomas Sargent, of  New York University , and Christopher Sims, of
+ Princeton University , for work on “empirical macroeconomics.”
+Sargent and Sims are both superb scholars whose work has molded
+macroeconomics. They helped destroy the false certainty of an
+older Keynesian orthodoxy, and did their best to build more
+robust tools that shed light on public policy over the business
+cycle.  Sargent and Sims are part of a small cadre of intellectual
+rebels who have pointed out the logical inconsistencies buried
+within seemingly impressive Keynesian models of macroeconomics.
+In the early 1960s, Keynesian insights had been used somewhat
+successfully to iron out the business cycle. President  John F.
+Kennedy  supported a Keynesian plan to lower taxes to stave off a
+recession, and the economic slump duly diminished.  But economists were seeing flaws in such strategies.  Milton
+Friedman  (the 1975 winner of what’s officially known as the Bank
+of Sweden Prize in Economic Sciences in Memory of  Alfred Nobel )
+was perhaps the most visible early critic, but  Edmund Phelps 
+(the 2006 laureate) was also particularly prescient in pointing
+out that the Phillips curve, an empirical relationship found
+between unemployment and inflation, was unlikely to be stable
+over the long term.  Yet while Friedman and Phelps grasped the failings of
+Keynesianism, they didn’t provide an alternative set of tools.
+And who could blame them? With macroeconomics, there are
+barriers to insight. Micro-economists have vast numbers of
+essentially independent observations. But macroeconomists must
+observe only a limited number of generally idiosyncratic
+economic declines, such as the one we face today.  Sargent and Sims tried to build something new from the
+wreckage of Keynesianism, and are being honored for their
+contributions to empirical work. Sargent was an early leader of
+a movement often labeled as “rational expectations”
+macroeconomics, whose great contribution was to build
+macroeconomics from the ground up, starting with assumptions
+about individuals and firms and then examining the implications
+for the larger economy. That movement has become mainstream,
+partly due to the work of Sargent, who showed how to bring
+theory to data.  Sargent’s Contributions  For instance, the prize committee  cited  Sargent’s 1971
+“ note ” showing that reasonable assumptions about consumer
+rationality mean that typical tests of the connection between
+wage growth and inflationary expectations made little sense.  The committee particularly singled out Sargent’s 1973
+ paper , which “carried out the first successful economic
+estimation under rational expectations.” This paper responded to
+criticisms from Robert Lucas Jr., another Nobel-winning
+economist, about existing empirical work on the natural rate of
+unemployment, and it delivered tools for estimating a
+macroeconomic system. The paper elegantly illustrated the
+profound differences that result from assuming rational, as
+opposed to adaptive, expectations, and it found little support
+for a long-run Phillips curve. This work continued with
+Sargent’s “A Classical Macroeconometric Model for the  United
+States ” in 1976.  Although this year’s prize is focused on “empirical
+macroeconomics,” the committee also discussed Sargent’s major
+theoretical contributions to economic policy making, which is
+cited even more often than his empirical work. Together with the
+economist Neil Wallace at  Pennsylvania State University , another
+pioneer, Sargent explored the implications of expectations for
+monetary policy, finding the surprising result, in a 1975  paper ,
+that “in the rational expectations version of the model, one
+deterministic money supply rule is as good as any other, insofar
+as concerns the probability distribution of real output.”  In other words, as long as monetary supply growth is
+extremely predictable, the real economy will muddle along, no
+matter how quickly or slowly the monetary supply grows. Sargent
+and Wallace’s later “ unpleasant monetarist arithmetic ” argued
+that monetary policy, especially open-market operations, may not
+even be able to control inflation.  Sargent’s work has wonderfully balanced serious
+mathematical theory, strong econometrics and a clear passion for
+history. In 1982, he looked at the end of hyperinflation in
+ Germany ,  Austria , Hungary and  Poland  before World War II, and
+ demonstrated  that these episodes of inflation stopped abruptly,
+rather than gradually. A sharp end to hyperinflation suggests
+that inflationary expectations aren’t controlled by some fixed
+formula based on past inflation.  Sargent has written an insightful  essay  on “Macroeconomic
+Features of the French Revolution.” He used his presidential
+address to the American Economic Association, provocatively
+titled “Evolution and Intelligent Design,” to explore the
+intellectual influences on the legendary economist David Ricardo
+two centuries ago.  Sargent has also been a great teacher and mentor to
+generations of young macroeconomists. Two of his lucid
+monographs, “Macroeconomic Theory” and “Dynamic Economic
+Theory,” have long been mainstays of macroeconomic education.
+They may be the most dog-eared textbooks I own. I had the
+fortune to be a colleague of Sargent’s at the Hoover Institution
+in 1994-1995, and was profoundly influenced by his gentle spirit
+of scholarship.  Theory and Data  He and Sims did their most important work simultaneously,
+and they even cooperated on one well-known paper, but Sims’s
+contributions are quite different in character. Sargent always
+begins with theory. Sims begins with data. Sims taught us how
+empirical work can and should inform theory.  Sims -- like Sargent, Lucas and Edward Prescott (another
+great theorist of the post-Keynesian world) -- saw that the
+Keynesian macroeconometric models were a thing of the past, but
+he understood the ongoing need for economic prediction. Perhaps
+one day, economic theory will make complete sense of the
+business cycle, but until that time, policy makers and ordinary
+investors will still want to have some idea of what lies ahead.
+Sims’s work addressed that need, free from the confining
+assumptions of Keynesianism.  His most-often cited  work  is aptly titled “Macroeconomics
+and Reality.” The paper catalogs the criticisms of macroeconomic
+models, and then provides an alternative approach -- Vector
+Autoregressions. VARs make no pretense of uncovering deep
+parameters of an economic model, but rather provide a
+statistical tool for integrating various macroeconomic series,
+and rely on assumptions, not about the whole economy, but about
+the independent nature of some shocks. If some series of shocks
+to the economy cause, but are not caused by, other series, then
+econometricians can create powerful predictive models. Sims’s
+approach is now accepted around the world.  The prize committee also referred to Sims’s earlier and
+often-cited  work  that focused on applying U.K. economist Clive
+Granger’s definition of causality to macroeconomics. Granger
+defined causality not with philosophy but with timing. If
+variable X helps predict the future of variable Y, usually
+controlling for the past of variable Y, then variable X can be
+said to “Granger cause” variable Y. Sims found that  money supply 
+appears to “Granger cause” changes in income, but there is no
+comparable causal link between income and money supply.  Sims’s contributions to time-series econometrics are
+enormous, and he has also inspired scores of students. His work
+is distinctly pragmatic and the prize committee did well by
+balancing him with Sargent.  The world faces big macroeconomic challenges, and
+macroeconomists lack a clear consensus of what should be done.
+But their debates are guaranteed to persist because the
+conditions are always changing, and natural experiments are
+scarce. Still, we know much more than we did 40 years ago about
+how the macroeconomy operates, and Thomas Sargent and
+Christopher Sims deserve plenty of credit for moving the field
+forward. Their prizes are extremely well-deserved.  ( Edward Glaeser , an economics professor at  Harvard
+University , is a Bloomberg View columnist. He is the author of
+“Triumph of the City.” The opinions expressed are his own.)  To contact the writer of this article:
+Edward Glaeser at  eglaeser@harvard.edu   To contact the editor responsible for this article:
+Mary Duenwald at   mduenwald@bloomberg.net  

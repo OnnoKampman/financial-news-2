@@ -1,0 +1,80 @@
+-- IDBI Bank and Jammu & Kashmir Bank CD's Deals: Indian Money
+-- B y   P o o j a   S a r a f
+-- 2013-09-03T13:46:15Z
+-- http://www.bloomberg.com/news/2013-09-03/idbi-bank-and-jammu-kashmir-bank-cd-s-deals-indian-money.html
+Following is a table showing certificate of deposits
+issued by Indian banks. The data has been provided by Derivium Tradition
+Securities Pvt. Ltd., LKP Securities Limited, NVS Brokerage Ltd, SPA Securities
+Ltd. and Trust Financial Consultancy Services.  T = Tentative  C = Confirmed  Deal Date      Security    Mty Date  Qtm(Crs.) Rate     Buyer      CTRB  Status
+03-Sep-13      J&K           2 MONTHS            11.76              NVSB    T
+03-Sep-13      IDBI          1 YEAR    25        10.755             DCAP    T
+03-Sep-13      INDIAN        1 YEAR    950       10.73              DCAP    T
+03-Sep-13      IDBI          02-Sep-14 25        10.755             LKPS    T
+03-Sep-13      INDIAN        1 YEAR              10.70              NVSB    T
+03-Sep-13      IDBI          1 YEAR              10.755             NVSB    T
+03-Sep-13      J&K           2 MONTHS  150       11.76              DCAP    T
+03-Sep-13      J&K           3 MONTHS  125       11.71              DCAP    T
+03-Sep-13      INDUSIND      2 MONTHS  100       11.75              DCAP    T
+03-Sep-13      INDUSIND      2 MONTHS            11.75              NVSB    T
+03-Sep-13      INDIAN        1 YEAR              10.70              LKPS    T
+03-Sep-13      J&K           2 MONTHS  150       11.76              LKPS    T
+03-Sep-13      SBOP          1 YEAR              10.68              NVSB    T
+03-Sep-13      SBOP          1 YEAR              10.68              SPAS    T
+03-Sep-13      SBH           1 YEAR              10.68              SPAS    T
+03-Sep-13      INDIAN        1 YEAR              10.70              SPAS    T
+03-Sep-13      SBOP          1 YEAR              10.68              LKPS    T
+03-Sep-13      SBH           1 YEAR              10.68              LKPS    T
+03-Sep-13      IDBI          1 YEAR              10.755             SPAS    T
+03-Sep-13      INDUSIND      2 MONTHS            11.75              SPAS    T
+03-Sep-13      INDUSIND      3 MONTHS            11.71              SPAS    T
+03-Sep-13      J&K           2 MONTHS            11.76              SPAS    T
+03-Sep-13      J&K           3 MONTHS            11.71              SPAS    T
+03-Sep-13      SBH           1 YEAR              10.68              NVSB    T
+03-Sep-13      SIB           2 MONTHS            11.85              SPAS    T
+03-Sep-13      SIB           3 MONTHS            11.85              SPAS    T
+03-Sep-13      SIB           2 MONTHS            11.85              NVSB    T
+03-Sep-13      IDBI          1 YEAR              10.73              LKPS    T
+03-Sep-13      SBH           1 YEAR    50        10.68              DCAP    T
+03-Sep-13      SBOP          1 YEAR    50        10.68              DCAP    T
+03-Sep-13      IDBI          1 YEAR    50        10.73              NVSB    T
+03-Sep-13      IDBI          1 YEAR              10.73              SPAS    T
+03-Sep-13      IDBI          1 YEAR              10.76              NVSB    T
+03-Sep-13      IDBI          1 YEAR              10.76              LKPS    T
+03-Sep-13      IDBI          1 YEAR              10.76              DCAP    T
+03-Sep-13      IDBI          1 YEAR    25        10.73              DCAP    T
+03-Sep-13      CORPY         1 YEAR              10.73              NVSB    T
+03-Sep-13      INDUSIND      2 MONTHS  100       11.71              LKPS    T
+03-Sep-13      INDUSIND      03-Oct-13 30        11.45              LKPS    T
+03-Sep-13      IDBI          1 YEAR    50        10.76              SPAS    T
+03-Sep-13      INDUSIND      03-Oct-13 150       11.45              DCAP    T
+03-Sep-13      INDIAN        1 YEAR              10.73              LKPS    T
+03-Sep-13      CORPY         1 YEAR    65        10.73              LKPS    T
+03-Sep-13      INDUSIND      1 MONTH   30        11.45  MF          TFCS    T
+03-Sep-13      J&K           2 MONTHS  50        11.76  L&T MF      TFCS    T
+03-Sep-13      J&K           2 MONTHS  100       11.76              TFCS    T
+03-Sep-13      SIB           2 MONTHS  25        11.85  ING MF      TFCS    T
+03-Sep-13      SIB           2 MONTHS  25        11.85  LIC MF      TFCS    T
+03-Sep-13      SIB           2 MONTHS  25        11.85  CATH. SYR.  TFCS    T
+03-Sep-13      SIB           2 MONTHS  50        11.85  PEERL. MF   TFCS    T
+03-Sep-13      J&K           3 MONTHS  25        11.71  TAURUS MF   TFCS    T
+03-Sep-13      INDUSIND      2 MONTHS  100       11.75  MF          TFCS    T
+03-Sep-13      INDUSIND      3 MONTHS  50        11.71  MF          TFCS    T
+03-Sep-13      INDIAN        1 YEAR    25        10.73  SUND. MF    TFCS    T
+03-Sep-13      INDIAN        1 YEAR    15        10.73  UNION KBC   TFCS    T
+03-Sep-13      INDIAN        1 YEAR    50        10.73  PRU MF      TFCS    T
+03-Sep-13      INDIAN        1 YEAR    100       10.73  RELI. MF    TFCS    T
+03-Sep-13      INDIAN        1 YEAR    500       10.73  RIL         TFCS    T
+03-Sep-13      INDIAN        1 YEAR    78        10.73  KOTAK MF    TFCS    T
+03-Sep-13      INDIAN        1 YEAR    68        10.73  MF          TFCS    T
+03-Sep-13      CORPY         1 YEAR    65        10.73              TFCS    T
+03-Sep-13      SBOP          1 YEAR    50        10.68  KOTAK LIFE  TFCS    T
+03-Sep-13      SBH           1 YEAR    40        10.68              TFCS    T
+03-Sep-13      IDBI          02-Sep-14 65        10.755 SBI MF      TFCS    T
+03-Sep-13      IDBI          04-Sep-14 15        10.755 UNION KBC   TFCS    T
+03-Sep-13      IDBI          04-sep-14 25        10.73  CATHL.SYR.  TFCS    T
+03-Sep-13      IDBI          05-Sep-14 50        10.76  PRU MF      TFCS    T
+03-Sep-13      IDBI          02-Sep-14 65        10.755 SBI MF      IDBO    C
+03-Sep-13      IDBI          04-Sep14  15        10.755 UNION KBC   IDBO    C
+03-Sep-13      IDBI          02-Sep-14 25        10.73  CATHL.SYR.  IDBO    C
+03-Sep-13      IDBI          05-Sep-14 50        10.76  PRU MF      IDBO    C  Contributed via: Bloomberg Publisher WEB Service  Provider ID: 0f0efe5b82a741bdb628bd0ade88b3c2
+ 

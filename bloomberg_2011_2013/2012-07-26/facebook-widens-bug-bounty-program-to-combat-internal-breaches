@@ -1,0 +1,84 @@
+-- Facebook Widens ‘Bug Bounty’ Program to Combat Internal Breaches
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-07-26T04:01:01Z
+-- http://www.bloomberg.com/news/2012-07-26/facebook-widens-bug-bounty-program-to-combat-internal-breaches.html
+Facebook (FB)  Inc.’s computer-security
+team faced a quandary after getting an unexpected tip in May.  An outside researcher unearthed a weakness in the company’s
+network that left internal communications vulnerable to
+eavesdropping.  Facebook  engineers quickly fixed the bug.  Then came a bigger dilemma: whether to reward the tipster,
+who by using information for good is known in  hacking circles  as
+a “white hat.” The team made an unheard-of choice. Facebook
+would offer a bounty to anyone who finds a hole in its corporate
+network and then opts to report -- and not exploit -- it.  “If there’s a million-dollar bug, we will pay it out,”
+said Ryan McGeehan, who  manages  Facebook’s security-incident
+response unit.  Facebook is becoming the first big technology provider to
+reward hackers who uncover vulnerabilities on its own corporate
+network -- a risky proposition considering that’s where the
+company stores data on its more than 900 million users.
+Facebook, based in  Menlo Park ,  California , plans to announce the
+broadened program this week at the  DefCon Hacking Conference  in
+ Las Vegas .  Facebook was already one the few large companies, besides
+ Google Inc. (GOOG) , that pays a “ bug bounty ,” or cash reward, to
+outside hackers who report weaknesses in its products -- say, e-
+mail or profile pages. Many companies shun the practice, saying
+it provides incentives for possibly nefarious deeds.  Bug bounties are a way for companies to make products more
+secure while engaging with hackers, many of whom would be
+looking for the vulnerabilities anyway -- whether for fun or
+research or to sell into a  thriving black market .  Facebook Risks  Facebook, which later today is scheduled to report  second-
+quarter results , has an added incentive to try new ways to
+protect itself: as the owner of the world’s largest social
+network, it’s responsible for one of the richest repositories of
+personal data. A large breach could damage faith in its ability
+to serve as custodian for private information.  More than  563 million records  have been compromised in
+about 3,200 data breaches since 2005, according to the Privacy
+Rights Clearinghouse, a sign that security breakdowns in a few
+key places can do harm on a much wider scale.  As part of its existing program, Facebook has paid $500 to
+$10,000 per bug, and researchers have claimed about $400,000 in
+total rewards, said Fred Wolens, a spokesman for Facebook. The
+company has created  added allure  by distributing the payments on
+ Visa Inc (V) .-branded  debit cards  that look like  American Express
+Co. (AXP) ’s invitation-only Centurion cards.  Paying Up  Facebook says there’s no limit to what it will pay to catch
+weaknesses in internal networks.  Google has paid more than $1 million through its  programs ,
+including payments as high as $60,000 for bugs in the Chrome
+browser, according to  Chris Gaither , a Google spokesman. Mozilla
+Corp., which makes the Firefox Web browser, had paid more than
+$600,000 through its  program , said spokeswoman Gretchen Bender.
+And the  Zero Day Initiative , which collects vulnerabilities on
+multiple vendors’ products, has paid more than $5.6 million
+since 2005, said Scott Lambert, director of  Hewlett-Packard
+Co. (HPQ) ’s  DVLabs , which runs the Zero Day Initiative.  Facebook’s proposition comes as the newly public company
+grapples with concerns over user-data protection and its ability
+to boost sales growth.  Until now, Google and Facebook’s bounties have prohibited
+the submission of network vulnerabilities. Google said that the
+company has no plans to expand its program to the corporate
+network.  Hacker Sensibility  While Mozilla doesn’t specifically exclude attacks on its
+network, it also doesn’t actively encourage them. The Zero Day
+Initiative has paid for a range of vulnerabilities -- though it
+focuses on applications, not entire networks.  Facebook’s decision to expand grew out of the success of
+the bounty program for products, said Joe Sullivan, Facebook’s
+chief security officer. The company’s hacker culture,
+promulgated by Chief Executive Officer  Mark Zuckerberg , helped
+the idea win broad support internally, he said.  The hacker ethic has deep roots in Facebook’s history.
+Zuckerberg invoked the idea in his letter to investors before
+the company’s initial public offering, describing Facebook’s
+culture as centered around the “Hacker Way.”  “Hackers believe that something can always be better, and
+that nothing is ever complete,” Zuckerberg wrote in the letter.
+“They just have to go fix it -- often in the face of people who
+say it’s impossible or are content with the status quo.”  ‘Poking’ Risk  There are risks for Facebook painting a bull’s-eye on its
+network. Hackers who otherwise wouldn’t have considered it will
+likely begin probing the network, and service could be
+disrupted. By the same token, corporate networks are attacked
+constantly anyway, so engaging outsiders who are willing to
+report bugs instead of selling them to criminals is wise, said
+Tom Cross,  director of security research  at Lancope Inc.  “It’s a positive step, and it’s a bold step,” he said.
+“It puts researchers in a position where they’re a little more
+comfortable, knowing that the organization anticipates receiving
+these kinds of disclosures and is not going to turn around and
+accuse them of doing something wrong. But on the other hand, it
+opens up the prospect that people are going to think they’re
+authorized to go poking at the network and poking at the site,
+and if they knock something over, so be it.”  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

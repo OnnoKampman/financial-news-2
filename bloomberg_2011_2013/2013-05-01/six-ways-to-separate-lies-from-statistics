@@ -1,0 +1,100 @@
+-- Six Ways to Separate Lies From Statistics
+-- B y   B e t s e y   S t e v e n s o n   &   J u s t i n   W o l f e r s
+-- 2013-05-01T22:00:00Z
+-- http://www.bloomberg.com/news/2013-05-01/six-ways-to-separate-lies-from-statistics.html
+The discovery of a spreadsheet error
+in an influential  study  by Harvard University economists Carmen Reinhart and Kenneth Rogoff inevitably raises a troubling
+question: To what extent can we trust what any researcher claims
+to be true?  The unfortunate reality is that mistakes much more serious
+than the one committed by Reinhart and Rogoff are far too
+common. Superfast computers and fancy statistical models can’t
+save us from human frailty. But that doesn’t mean empirical
+research has nothing to offer.  The Reinhart-Rogoff incident -- in which they accidentally
+excluded five countries from a calculation of the average
+relationship between government debt and economic growth -- is
+in some sense the wrong launching point for a discussion about
+modern empirical economics. It’s the perfect  made-for-TV 
+mistake: It involved a simple error in a commonly used
+spreadsheet program that can be explained with  screen shots  and
+laughed about with friends. Moreover, it barely affected their
+findings, and it isn’t representative of the challenges
+empirical research presents.  Today’s empirical analyses are more likely to be based on a
+mash-up of huge data sets containing millions of observations,
+which are processed using specialized statistical software. As a
+result, errors can be a lot more insidious. Often they can be
+found only through sophisticated forensics.  Old Aphorism  In one important case, one of us (Wolfers) found an  error 
+in research on the effects of the death penalty buried deep in
+lines of code in the statistical program Stata. It turned out to
+make all the difference, shifting the conclusion from one that
+the death penalty saves lives to an inference that it may cost
+lives. In another case, one of us (Stevenson) found that the raw
+data released by the Census Bureau was flawed, a victim of a
+complicated program designed to preserve people’s anonymity.  Given the complexity, it’s understandable that people might
+fall for the old aphorism that “liars figure and figures lie,”
+that you can say anything with statistics. But this is silly.
+You can say anything in English, too. Indeed, our nation’s
+opinion pages are filled with slanted nonsense written entirely
+in English.  So how can non-experts and policy makers separate the
+useful research from the dross? Allow us to offer six rules.  1. Focus on how robust a finding is, meaning that different
+ways of looking at the evidence point to the same conclusion. Do
+the same patterns repeat in many data sets, in different
+countries, industries or eras? Are the findings fragile,
+changing as one makes small changes in how phenomena are
+measured, and do the results depend on whether particularly
+influential observations are included? Thanks to Moore’s Law of
+increasing computing power, it has never been easier or cheaper
+to assess, test and retest an interesting finding. If the author
+hasn’t made a convincing case, then don’t be convinced.  2. Data mavens often make a big deal of their results being
+statistically significant, which is a statement that it’s
+unlikely their findings simply reflect chance. Don’t  confuse 
+this with something actually mattering. With huge data sets,
+almost everything is statistically significant. On the flip
+side, tests of statistical significance sometimes tell us that
+the evidence is weak, rather than that an effect is nonexistent.
+Remember, results can be useful even if they don’t meet
+significance tests. Sometimes questions are so important that we
+need to glean whatever meaning we can from available data. The
+best bad evidence is still more informative than no evidence.  3. Be wary of scholars using high-powered statistical
+techniques as a  bludgeon  to silence critics who are not
+specialists. If the author can’t explain what they’re doing in
+terms you can understand, then you shouldn’t be convinced. You
+wouldn’t be convinced by an analysis just because it was written
+in ancient Latin, so why be impressed by an abundance of Greek
+letters? Sophisticated statistical methods can be helpful, but
+they can also hide more than they reveal.  4. Don’t fall into the trap of thinking about an empirical
+finding as “right” or “wrong.” At best, data provide an
+imperfect guide. Evidence should always shift your thinking on
+an issue; the question is how far.  5. Don’t mistake correlation for causation. For instance,
+even after revisions and corrections, Reinhart and Rogoff have
+demonstrated that economic growth is typically slower when
+government debt is higher. But does high debt  cause  slow growth,
+or is slow growth in gross domestic product the cause of higher
+debt-to-GDP ratios? Or are there other important determinants,
+such as populist spending by a government looking to get re-elected, which is more likely when growth is slow and typically
+drives debt up?  6. Always ask “so what?” Are the factors that drove the
+observed negative correlation between debt and GDP likely to
+exist today, in the U.S.? Does it even make sense to speak of
+“the” relationship between debt and economic growth, when there
+are surely many such relationships: Governments borrowing simply
+to fund their re-election are likely harming growth, while those
+investing in much-needed public works can provide the foundation
+for growth. The “so what” question is about moving beyond the
+internal validity of a finding to asking about its external
+usefulness.  You might be tempted to conclude that extracting meaning
+from data is a hopelessly difficult task. It’s difficult, but
+it’s not hopeless. The only alternative to facts is intuition,
+which is not only flawed but also, according to psychologists,
+more flawed than we think it is. Far better to base policy on
+imperfect analyses than on the fact-free bloviating of the
+ideologues, charlatans and political hucksters who would take
+their place.  (Betsey Stevenson is an associate professor of public
+policy at the University of Michigan. Justin Wolfers is a
+professor of public policy and economics at the University of
+Michigan, and a nonresident senior fellow of the Brookings
+Institution. Both are Bloomberg View columnists. This is the
+second in a series of articles related to the Reinhart-Rogoff
+research. Read  part  one. The opinions expressed are their own.)  To contact the writers of this article:
+Justin Wolfers at  jwolfers@umich.edu  and
+Betsey Stevenson at  betseys@umich.edu .  To contact the editor responsible for this article:
+Mark Whitehouse at 
+ mwhitehouse1@bloomberg.net . 

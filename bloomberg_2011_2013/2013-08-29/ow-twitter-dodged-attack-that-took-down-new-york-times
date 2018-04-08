@@ -1,0 +1,78 @@
+-- How Twitter Dodged Attack That Took Down New York Times
+-- B y   J o r d a n   R o b e r t s o n
+-- 2013-08-29T04:01:00Z
+-- http://www.bloomberg.com/news/2013-08-29/how-twitter-dodged-attack-that-took-down-new-york-times.html
+Chalk one up for Twitter Inc.  While the New York Times and  Google Inc. (GOOG)  had visitors to
+their sites redirected this week by hackers, the microblogging
+service was better able to deflect attacks because of a simple
+tool called a registry lock. Like alerts sent to credit-card
+users when something bad happens, the feature notifies website
+managers of attempts by intruders to tamper with critical
+information, such as Web-address data.  The cost? As little as  $50 a year .  Large banks, e-commerce companies, gambling sites and
+pornographers have used registry locks from  VeriSign Inc. (VRSN)  and
+ NeuStar Inc. (NSR)  to prevent unauthorized changes. Attacks by the
+Syrian Electronic Army routed New York Times readers to a site
+that displayed the group’s initials and altered some
+registration data. They underscore how vulnerable many companies
+are to relatively unsophisticated attacks, which can take down
+sites and harm their businesses.  “This is certainly an ah-ha moment,” said Rodney Joffe, a
+senior technologist at NeuStar. The Sterling, Virginia-based
+company began offering registry locks in 2010 and requires that
+website domain information be accompanied by two layers of
+verification, such as additional codes from security tokens.  “It is a niche business but there’s no reason for it to
+be,” he said. “It’s the kind of thing you have to do today.”  While Twitter’s site operated normally, twitter.co.uk was
+inaccessible for some users. The Syrian Electronic Army, which
+backs the country’s president, Bashar al-Assad, claimed
+responsibility for the  New York  Times and Twitter intrusions, as
+well as the Washington Post this month and the Financial Times
+in early May. Unknown hackers altered Google’s website in the
+Palestinian territories, displaying a map without  Israel .  Raising Bar  The attacks exploited weaknesses in a registration network
+called the Domain Name System, exposing risks that site
+operators face because they’re relying on third parties to
+handle their online addresses. Weaknesses in DNS, which was
+created in the 1980s to help computers find websites using names
+instead of numbers, haven’t been seen as a significant threat
+outside of the financial-services and retail sectors up to now,
+according to John Pescatore, director of emerging-security
+trends at the SANS Institute in  Stamford ,  Connecticut .  “There are still a lot of sloppy practices,” Pescatore
+said. “There’s a lot of room to raise the bar.”  Because Twitter, based in San Francisco, monitors its DNS
+information in real time and had implemented a registry lock, it
+was better prepared than the New York Times, according to HD Moore, chief research officer at Rapid7, a Boston-based security
+firm. Since the attacks, many other companies have moved to
+institute similar safeguards, he said.  DNS Flaw  Twitter has had its DNS records hacked before. The company
+acknowledged  in 2009  that its DNS records were compromised by
+hackers who defaced the site with a message about  Iran . Jim Prosser, a spokesman for Twitter, declined to comment on the
+company’s security measures.  A vast system that underpins how computers locate each
+other, DNS is often called the phone book of the Internet. In
+2008,  Dan Kaminsky , a security researcher, uncovered a flaw in
+the system that would let hackers easily impersonate legitimate
+sites. He worked with technology companies to fix it. The
+finding prompted several companies that process financial
+transactions online to adopt additional security measures to
+ensure their domain information is secure, while others stayed
+on the sidelines, according to SANS’s Pescatore.  Security Steps  NeuStar and VeriSign, another provider of registry lock
+services, declined to identify the companies using  its registry
+lock services. Danny McPherson, chief security officer of
+VeriSign, said in a statement that the technology gives
+customers more control over who can change information.  Eileen Murphy, a spokeswoman for the  New York Times (NYT)  Co.,
+said the newspaper is looking at additional measures.  “In light of this attack and the apparent vulnerability
+even at what had been highly secure registrars, we are
+tightening all of our security,” she said.  Jay Nancarrow a spokesman for Google, declined to comment
+on the company’s security. The company’s Palestine site itself
+wasn’t hacked and Google is talking with the domain manager to
+resolve the issue, he said.  One complication of hosting sites with addresses of
+specific countries or regions is that many of the registration
+providers don’t use registry locks and other protective steps,
+said  Paco Hope , a principal consultant with Cigital Inc.  “When you’re a company like the New York Times or Twitter
+or Google, your stock in trade is the Internet, it’s the service
+you offer, and that’s why it makes sense to put in a lot more
+security,” Hope said.  The rise in sophisticated hacking attacks is helping fuel a
+market for computer-security technology that is expected to
+exceed $65.7 billion this year, according to Gartner Inc.  Many companies that didn’t prioritize a threat involving
+their DNS records are now rethinking that approach, SANS’s
+Pescatore said.  “It’s one of several Achilles’ heels of using the
+Internet,” he said.  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

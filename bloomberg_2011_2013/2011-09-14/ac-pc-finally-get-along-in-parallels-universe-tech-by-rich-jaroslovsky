@@ -1,0 +1,85 @@
+-- 
+Mac, PC Finally Friends in Parallels Universe: Rich Jaroslovsky
+
+-- B y   R i c h   J a r o s l o v s k y
+-- 
+2011-09-14T20:00:00Z
+
+-- http://www.bloomberg.com/news/2011-09-14/mac-pc-finally-get-along-in-parallels-universe-tech-by-rich-jaroslovsky.html
+Take an underpowered, limited-
+capacity Mac. Load it up with full versions of Microsoft’s
+Windows and Office software. Now try running everything at the
+same time, including the Mac’s operating system, without
+crashing or slowing things to the speed of the Long Island
+Expressway on a summer weekend.  Parallels Desktop 7 , the latest version of Parallels Inc.’s
+Windows-in-a-Mac software, successfully navigated my little
+torture test with nary a hiccup. There’s no better solution for
+Mac users who want Windows compatibility and don’t mind spending
+$80 extra (plus the cost of Windows itself) to get it.  You don’t need Parallels to run Windows on a Mac. Ever
+since  Apple Inc. (AAPL)  switched to using the same  Intel Corp. (INTC)  chips
+that run most Windows personal computers, it has had a free
+program called Boot Camp that lets you switch back and forth.  Boot Camp, though, has several limitations. You have to
+choose which operating system you want to start up, and reboot
+if you want to go back and forth. And there’s no easy way to
+share files between the two sides, or to transfer information
+from one to the other.  Parallels allows the two to co-exist, letting you switch
+between them seamlessly, even cutting and pasting between
+applications. You can run an entire PC in a window on your Mac
+desktop, complete with Windows 7’s “Aero” user interface with
+its translucent borders. Or you can choose a mode called
+Coherence that hides Windows, making PC programs feel and behave
+almost like native Mac applications.  Two Generations Old  To try out the software, I used a year-old 11-inch MacBook
+Air with a now two-generations-old Intel Core 2 Duo processor,
+four gigabytes of memory and 128 gigabytes of storage. I had
+previously installed Windows and Office, using Boot Camp to run
+them when needed.  I started out using Parallels with the Snow Leopard version
+of the Mac’s OS X, then upgraded to the latest version, Lion.
+The installation process under Snow Leopard went smoothly, with
+one exception: a somewhat disconcerting Microsoft message
+informing me that my fully, honestly bought-and-paid-for copy of
+Windows wasn’t legit.  Parallels said the warning was probably triggered because
+Windows had been installed before its software was. In any
+event, I was allowed to proceed with the set-up despite my
+impugned integrity.  Imaginary PC  Recognizing that I had already partitioned the Mac’s flash-
+memory storage to accommodate the two operating systems,
+Parallels incorporated my existing Windows programs and files
+into its “virtual machine” -- the imaginary PC it creates
+within the Mac environment. If I hadn’t already owned Windows,
+Parallels would have allowed me to buy and download a copy from
+its new online Convenience Store, which includes a variety of
+utilities, games and other programs as well.  The software proved to be both low-overhead and low-
+maintenance. It took up less than a gigabyte of my constrained
+storage capacity and speedily launched Microsoft programs in
+Coherence mode from a drop-down Windows start menu accessed via
+a Parallels icon on the Mac’s top bar.  All my custom macros for Microsoft Word worked without a
+hitch. I was also able to easily run the special software used
+for accessing the Bloomberg Professional Service, and even ran -
+- slowly --  Take-Two Interactive Software Inc. (TTWO) ’s Major League
+Baseball 2K11 game.  Hiding the Seams  Even better, Parallels has successfully hidden many of the
+seams that existed in earlier versions of the program. The Mac’s
+camera, for instance, can now be shared between Windows and Mac
+programs without reconfiguring it.  Many of Lion’s new features are enabled for PC programs,
+including gesture-based navigation, full-screen mode and the
+ability to pin Windows icons to the Launchpad screen. And you
+can even choose to replace Windows programs’ borders with a Mac
+look, completing the illusion of complete integration.  In conjunction with the release of Parallels Desktop 7, the
+company also upgraded Parallels Mobile, its iPad app ($5 for a
+limited time, eventually $20) that allows you to remotely
+control your virtual machine and, now, the rest of your Mac as
+well. In general, I found that the app worked well but had no
+particular advantage over other services that offer much the
+same functionality.  Linux and Lion  If you have a more robust Mac than my little Air, you can
+use Parallels Desktop 7 to manage multiple virtual machines --
+not just Windows but Linux and even Lion, which could prove
+useful to Mac developers seeking to try out code in a controlled
+setting.  For us normal people, though, its value comes in the
+meshing of the Windows applications we may need for business
+with the pleasures of the Mac hardware and operating system. If
+it doesn’t completely end the endless Windows-Mac debate, it
+comes pretty close: Just imagine one of those “I’m a Mac, I’m a
+PC” commercials with the two of them walking off arm-in-arm.  ( Rich Jaroslovsky  is a Bloomberg News columnist. The
+opinions expressed are his own.)  To contact the writer of this column:
+Rich Jaroslovsky in  San Francisco  at 
+ rjaroslovsky@bloomberg.net .  To contact the editor responsible for this story:
+Manuela Hoelterhoff at 
+ mhoelterhoff@bloomberg.net . 

@@ -1,0 +1,94 @@
+-- SEC Once Slowed by Data Gap to Report High-Speed Trader Research
+-- B y   D a v e   M i c h a e l s   a n d   S a m   M a m u d i
+-- 2013-10-01T04:01:00Z
+-- http://www.bloomberg.com/news/2013-10-01/sec-once-slowed-by-data-gap-to-report-high-speed-trader-research.html
+The U.S. Securities and Exchange
+Commission will soon issue research from its new system for
+monitoring markets, including a look at practices that some
+blame for giving high-speed traders an unfair edge.  The reports will use data from the SEC’s Midas market-surveillance system, according to two people briefed on the
+plans. The findings could help inform whether new regulations
+are needed to address strategies such as canceling a high
+percentage of orders, said the people, who asked not to be
+identified because the plan isn’t ready to be announced.  The SEC lacked such a tool during the May 2010 plunge 
+known as the flash crash, when the agency was criticized for 
+taking four months to report the cause of turbulence that 
+erased about $862 billion in U.S. equity value in minutes 
+before share prices recovered.  “This shows to the outside world that the SEC has been
+quite active in terms of thinking about these issues in
+sophisticated ways,” said Henry Hu, a professor at the
+ University of Texas  who led the SEC’s research division from
+2009 to 2011. “Too often, people outside the SEC are not really
+aware of just how much effort goes on.”  The SEC acquired its Midas system last year from high-frequency trading firm and technology vendor Tradeworx Inc.
+Midas, an acronym for Market Information Data Analytics System,
+collects about 1 billion trading records per day from 13 U.S.
+equity exchanges, which sell similar data to high-speed firms
+and brokers that want information milliseconds before the
+public.  More Data  Midas provides the regulator with more complete data than
+traders and researchers can see from the public feeds operated
+by  NYSE Euronext (NYX)  and  Nasdaq OMX Group Inc. (NDAQ) , SEC Associate
+Director Gregg E. Berman has said. The SEC’s feed includes every
+displayed order for shares on exchanges, not just the best
+offers reported to the public tape. It also gathers data on
+orders that are modified, canceled or filled.  One of the first reports to be published will present
+information on whether stock-market liquidity is affected by the
+high volume of orders that are canceled before being filled,
+which can give the false appearance of real bids and offers for
+stocks. Some automated strategies may cancel more than 90
+percent of the orders they send to exchanges, the SEC said in a
+2010  report .  Better Decisions  “People have questioned the fact that there are so many
+order cancellations and that there is a relatively small
+fraction of orders from certain market players that get
+executed,” former SEC Chairman Elisse B. Walter said last week
+in a phone interview. “To have better data analysis about that
+is going to help the SEC in making a policy decision about
+whether or not that presents a problem and, if so, what to do
+about it.”  Midas allows the SEC to view what exchanges and some high-speed traders already know about markets, Berman said in a June
+speech at the Securities Industry and Financial Markets
+Association’s Tech conference. It’s not a perfect view of market
+surveillance, because it doesn’t show the SEC how orders are
+routed or include information about the brokers or customers
+behind trades, Berman said.  Berman is leading the SEC’s effort to analyze Midas data
+and publish analyses based on findings. It’s not clear when the
+SEC will publish its first report, but the two people said it
+would be soon.  In a phone interview last week, Berman declined to discuss
+specific reports or when they would be made public. He said each
+analysis began as a research project that his staff has worked
+to translate for a general audience.  ‘Shed Light’  “We focus on using this data in ways that makes sense to
+understand market structure,” Berman said. “This is all around
+helping people better understand markets and shed light on a
+variety of different topics.”  The decision to present research from Midas began under
+Walter, who said in a February speech that the reports would
+explore subjects such as the speed of quotes and subsequent
+cancellations. The information could help people understand the
+impact of new rules sought by critics of high-frequency trading,
+said Walter, who left the agency in August after serving a five-year term as a commissioner and chairman.  Midas gives the SEC a view into market behavior that some
+of the most sophisticated trading firms don’t have, Berman said
+in a speech in June. The data allows the regulator to study the
+speed at which traders respond to quotes, as well as what
+fraction of orders are canceled “within 1 second, 100
+milliseconds, or even 10 microseconds,” Berman said in the June
+speech.  ‘Starting Point’  “Answering these basic factual questions must be the
+starting point for any serious dialogue about market speed, and
+I’m very glad we now have the tools and technology to be able to
+do so,” Berman said in the speech.  Canadian regulators have similarly used a data-driven
+approach as they seek to analyze the role of high-frequency
+traders, said  Adam Sussman , director of research at New York-based Tabb Group LLC. The Investment Industry Regulatory
+Organization of  Canada  has used its real-time market
+surveillance database to identify traders who produce a high
+number of orders relative to the number of trades that were
+consummated, Sussman said in a phone interview.  The Canadian regulator’s study found that high-frequency
+trading accounted for one-fifth of all trading in that country
+and 94 percent of order messages.  Providing different types of aggregated market data to the
+public is a good thing, said Haoxiang Zhu, assistant professor
+of finance at  Massachusetts Institute of Technology ’s  Sloan
+School of Management  who specializes in market structure issues.  “Many everyday investors, and even some smaller
+institutions, have little idea how their stock orders are
+routed, for example, let alone the complexity of market
+structure,” he said in a phone interview. “More transparency
+on the structure of markets can only help.”  To contact the reporters on this story:
+Dave Michaels in Washington at 
+ dmichaels5@bloomberg.net ;
+Sam Mamudi in  New York  at 
+ smamudi@bloomberg.net   To contact the editor responsible for this story:
+ Maura Reynolds  at 
+ mreynolds34@bloomberg.net  

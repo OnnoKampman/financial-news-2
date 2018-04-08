@@ -1,0 +1,154 @@
+-- Knight $440 Million Loss Sealed by Rules on Canceling Trades
+-- B y   N i n a   M e h t a
+-- 2012-08-14T16:10:21Z
+-- http://www.bloomberg.com/news/2012-08-14/knight-440-million-loss-sealed-by-new-rules-on-canceling-trades.html
+Regulations put in place to protect
+investors after $862 billion of market value was briefly erased
+on May 6, 2010, were the same rules that almost ruined  Knight
+Capital Group Inc. (KCG)  this month.  Knight, whose market-making unit executes 10 percent of
+U.S. equity volume, lost $440 million on Aug. 1 and its  stock 
+has plunged 73 percent after a computer malfunction bombarded
+the market with errant orders that exchanges declined to cancel.
+A decade ago, the firm suffered almost no  consequences  in a
+similar breakdown when officials agreed to void trades after
+Knight unintentionally sold 1 million of its own shares.  The refusal to let  Jersey City , New Jersey-based Knight out
+this time shows that brokers face increasing risks from
+technology errors after regulators toughened rules following the
+so-called flash crash two years ago. Knight, which mistakenly
+bought and sold exchange-traded funds and  New York Stock
+Exchange (NYX)  companies, was forced into a rescue that ceded most of
+the firm to six investors led by Jefferies Group Inc.  “This is really a wake-up call,” David Whitcomb, founder
+of Automated Trading Desk LLC, a Knight rival bought by
+Citigroup Inc. for $680 million in 2007, said in a telephone
+interview. “They made one obviously terrible mistake in
+bringing online a new program that they evidently didn’t test
+properly and that evidently blew up in their face.”  Erroneous Trades  Knight has been upended by computer errors before. On June
+2, 2002, three days after Thomas Joyce started work as chief
+executive officer and president, its stock tumbled more than 50
+percent intraday when a software flaw caused its computers to
+spew out orders to sell the company’s shares. The  Nasdaq  Stock
+Market and Cincinnati Stock Exchange canceled the transactions
+and Knight later pared the loss to 7 percent.  The May 2010 flash crash inaugurated reforms aimed at
+reducing the discretion exchanges have to cancel trades. The  Dow
+Jones Industrial Average  tumbled almost 1,000 points in 20
+minutes that day before rebounding after the automated sale of
+ stock futures  helped trigger waves of selling, according to a
+report by the Securities and Exchange Commission and Commodity
+Futures Trading Commission on Sept. 30, 2010.  Rules Stiffened  Rules formalizing the treatment of erroneous trades were
+adopted amid criticism by investors after exchanges and the
+Financial Industry Regulatory Authority voided transactions
+totaling 5.6 million shares on May 6, 2010. Regulators added
+guidelines governing when sales or purchases of stock could be
+canceled after market makers said confusion about which trades
+would stand prevented them from acting during the rout.  The rules had their biggest effect earlier this month after
+Knight’s unintended orders caused  volume  suddenly to surge and
+prices to swing in dozens of securities just after trading
+began. Executives at the  New York  Stock Exchange canceled
+transactions that were 30 percent or more away from their price
+at the start of trading, a decision that applied to six
+securities out of 140 that were reviewed.  Unwanted transactions occurred in ETFs listed on NYSE Arca
+and in companies on the Big Board, Knight said in a regulatory
+ filing  Aug. 9. It previously hadn’t said its mishap affected
+ETFs. An update to software made in preparation for an NYSE
+program to lure more individual investors to the Big Board
+caused the mistaken orders starting at 9:30 a.m. New York time.  Fixing Error  Knight’s loss stemmed from old software that was
+inadvertently reactivated when the new program was installed,
+two people briefed on the matter said. Once triggered, the
+dormant system started multiplying stock trades by one thousand,
+according to the people, who requested anonymity because the
+firm hasn’t commented publicly on what caused the error.
+Knight’s staff spent 45 minutes looking through eight sets of
+software to determine what happened, the people said.  “It was a new application,” Joyce, now chairman and CEO,
+said in a phone interview with Bloomberg News Aug. 6. “It was
+certainly a technology issue that had been engineered to allow
+us to better interact with the retail liquidity program at the
+New York Stock Exchange, and it was obviously a greatly flawed
+application.” Joyce asked the SEC to give NYSE more flexibility
+to cancel trades because they were “one big error,” he said.  Preventing Injury  Even as Knight suffered, the changes prevented its mishap
+from injuring market participants, Matthew Andresen, co-CEO of
+quantitative trading firm Headlands Technologies Inc., said.  “The  market  handled it well,” Andresen, a former Citadel
+LLC executive, said in a phone interview. “The harmonization of
+the clearly erroneous policy worked very well and the plumbing
+worked very well. Unfortunately for Knight, they ended up making
+a $440 million donation to the marketplace.”  Securities professionals are still attempting to dissect
+what went wrong at Knight, whose incident followed the
+cancellation of an initial public offering by Bats Global
+Markets Inc. on March 23 and the May 18 IPO by  Facebook Inc. (FB)  on
+Nasdaq OMX Group Inc., which was marred by technology failures
+and delayed trade confirmations.  While preparations for the NYSE’s retail liquidity program
+led to the error, Knight’s loss didn’t occur within the program,
+nor did it originate with its market-maker group on the NYSE
+trading floor, according to a person with direct knowledge of
+the matter who declined to be identified because the information
+isn’t public. Joyce said the error that led to Knight’s loss was
+an “infrastructure problem” in an interview with Bloomberg
+Television on Aug. 2.  Profits, Losses  Such an issue may involve bad software that leads a company
+to trade in ways it doesn’t expect, according to George Hessler,
+former CEO of Stock USA Execution Services Inc. who was also an
+executive at Lime Brokerage LLC, trading firms that specialize
+in high-frequency electronic transactions. Malfunctioning
+controls may also have prevented systems from updating the
+firm’s profits and losses based on messages sent back by the
+exchange, he said.  “A software problem could have made the firm not aware of
+their own positions,” according to Hessler, who said in a phone
+interview he had no first-hand knowledge of Knight’s situation.
+“But good programming discipline also means there should be
+last-ditch backstop mechanisms to shut down trading when too
+many orders are going out or orders aren’t getting updated the
+way they should be.”  Bid, Ask  Knight appeared to repeatedly send orders “where they were
+buying at the offer and selling at the bid, and some were on
+stocks with wide bid-ask spreads,” Manoj Narang, CEO of
+Tradeworx Inc., a high-frequency firm and technology provider
+based in  Red Bank ,  New Jersey , said in a phone interview.  “It was a slow, painful, 15-cents-at-a-time death by small
+cuts, only it was happening every fraction of a second because
+computers are fast,” he said.  His automated trading firm experienced a similar mishap
+earlier this year in a broker’s dark pool, or private venue, he
+said. Firms supplying liquidity generally do so at the bid and
+offer prices. While Tradeworx’s issue occurred because of system
+changes the firm didn’t know about, the strategy was programmed
+to shut off after it lost $5,000, which took less than a minute,
+Narang said.  “What is confusing virtually everybody, including me, is
+why Knight didn’t have an automated stop loss in their
+strategies,” he said. “It was the first day of NYSE’s RLP
+program so there should have been multiple layers of risk
+controls. In addition to having automated stop losses there
+should have been humans watching the strategy like a hawk.”  ‘Within Minutes’  NYSE Euronext was in touch with Knight “within minutes”
+after identifying the source of the errant trades on Aug. 1, the
+exchange’s CEO,  Duncan Niederauer , said on a conference call two
+days later. Knight participated in user testing associated with
+the start of NYSE’s retail liquidity program, he said, calling
+the problem that befell the member firm a “routing error.”  NYSE held a call with other  stock exchanges  and Finra from
+10:30 a.m. until about 4 p.m. on Aug. 1, according to people
+with direct knowledge of the matter who declined to be
+identified because the discussion was private. The Big Board
+talked separately to the SEC and Knight, one of the people said.  Early in the call, exchange officials discussed whether the
+Knight trades could be treated individually instead of as a
+group event for determining when transactions could be canceled
+and at what price, according to one of the people. The threshold
+for voiding trades in an incident involving 20 or more
+securities is 30 percent.  Individual Events  Defining the errors as individual events may have spared
+Knight from greater losses because it means more trades are
+eligible for cancellation. In most cases, trades that occur 10
+percent or more away their previous price can be voided when the
+error involves a single security. Officials from NYSE Arca and
+Nasdaq argued against this, one of the people said.  Robert Madden, a spokesman for Nasdaq OMX Group Inc., and
+ Richard Adamonis , a spokesman for NYSE Euronext, declined to
+comment. Joyce said Aug. 2 the mishap was Knight’s fault.  Knight will hire an outside adviser to investigate what led
+to the losses, Kara Fitzsimmons, a spokeswoman, said Aug. 10.
+She declined to comment about what happened Aug. 1 beyond what
+the company already disclosed.  NYSE announced just before 3 p.m. it would cancel trades
+that occurred before 10:15 a.m. with price movements of at least
+30 percent from their opening levels. Niederauer and  Mary Schapiro , the chairman of the SEC, said in separate comments on
+Aug. 3 that the exchanges followed the thresholds laid out after
+the 2010 plunge.  “Technology people at trading firms are probably thinking,
+’There but for the grace of god go I,’” said James Angel, a
+professor at  Georgetown University ’s business school in
+ Washington . “Every chief technology officer is thinking they
+don’t know what’s buried in some line of code or what
+unanticipated change will lead to failure. When unanticipated
+problems occur, operations people may face situations they’ve
+never seen before and don’t know what to do. It’s scary.”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Lynn Thomasson in New York at 
+ lthomasson@bloomberg.net . 

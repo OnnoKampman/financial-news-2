@@ -1,0 +1,97 @@
+-- Instinet Extends Average-Price Trade System to Europe, Hong Kong
+-- B y   N i n a   M e h t a
+-- 2012-03-01T01:00:00Z
+-- http://www.bloomberg.com/news/2012-03-01/instinet-extends-average-price-trade-system-to-europe-hong-kong.html
+Instinet Inc., a broker that owns
+more than a dozen alternative venues, will expand a platform
+using so-called  volume-weighted average price , in which orders
+are matched from buyers and sellers who are willing to wait for
+the market to generate a price over time.  The New York-based company owned by  Nomura Holdings Inc. (8604)  in
+ Tokyo  is introducing its VWAP Cross to equity securities in
+ Europe  and  Hong Kong , according to Jonathan Kellner, Instinet’s
+president for U.S. business. The matching system, used in the
+U.S. in its current form since 2003, pairs buy and sell orders
+at the average price over a specified period.  Traders use VWAP crosses to try to ensure that some of
+their buy or sell orders sent before the market opens will be
+filled at the day’s average price. Those transactions don’t
+affect the stock during the day, unlike orders sent to exchanges
+that others can see or that move  prices . A drawback is that a
+trader gives up the possibility of beating the VWAP by buying a
+lot of shares at lower prices as the market starts to rise.  “A product like this is helped by the expansion of
+algorithmic trading and that’s been happening in those parts of
+the world in recent years,” Justin Schack, managing director
+for market structure analysis at New York-based Rosenblatt
+Securities Inc., said in a phone interview. “This trend should
+continue over the next several years.”  Morgan Stanley, ITG  Systems that match orders at the volume-weighted average
+price, including those run by Morgan Stanley and Investment
+Technology Group Inc. in  New York , are a way for asset managers
+to limit the effect of volatility on the prices they get. A
+broker selling at an average level over time avoids second-to-
+second swings. While the VWAP gauge, used since the late 1980s
+as a way for institutions to assess brokers’ trading
+performance, has been supplemented by newer measures, it remains
+popular among pensions and mutual funds.  Brokers that provide clients with algorithms or computer-
+driven strategies that chop larger orders into smaller pieces
+that are sent to exchanges or alternative venues based on a
+stock’s volume and trading characteristics usually have VWAP
+tactics. About 15 percent of Instinet’s volume passes through
+algorithms that seek to achieve a stock’s VWAP, Kellner said.  “When we find there’s going to be meaningful liquidity, we
+launch the cross” in a new region, Kellner said. “There seems
+to be a fair amount of interest. There’s a desire for that kind
+of ability to lay off risk and guarantee VWAP.”  Even if traders don’t use VWAP as their primary execution
+benchmark, they may use algorithms that seek to meet the gauge
+for more-liquid stocks so they can concentrate on equities that
+are harder to buy or sell because they’re less liquid or more
+volatile, Schack said.  Closing Price  Other benchmarks include the previous day’s closing price
+and what’s called implementation shortfall, or the price of a
+company’s shares when the trader receives the order. The
+shortfall refers to the difference between that level and the
+average price received for a transaction when it’s completed.  “VWAP’s primary virtue is everybody can understand it,”
+Wayne Wagner, former founder of Plexus Group Inc., a transaction
+cost analysis firm that JPMorgan Chase & Co. bought in 2002 and
+sold to ITG in 2006, said in a telephone interview. “For
+evaluation purposes, anyone doing the trading is probably using
+more of an implementation shortfall approach. Plan sponsors like
+VWAP because it communicates to them and managers can explain it
+to their clients.”  Instinet’s U.S. VWAP system runs three sessions before the
+market opens, matching orders for the VWAP over the trading day.
+Another session focuses on the average price from 11 a.m. until
+4 p.m. New York time. The  European VWAP  session is set for 7:45
+a.m. London time and matches orders based on the full-day
+average prices. The  Hong Kong cross  will occur at 8:50 a.m.
+local time.  Japan, Korea  Instinet also runs similar matches based on companies’ VWAP
+gauge in  Japan ,  Korea  and  Canada . Its initial system for
+matching customers’ orders based on the VWAP for the trading
+day, called MarketMatch, was introduced in the early 1990s,
+according to James Ross, chief operating officer at  Stamford ,
+Connecticut-based AX Trading Group LLC, which operates an
+alternative venue. He previously worked at Instinet.  The introduction of the matching systems comes as investors
+in Europe and  Asia  seek trades away from the main exchange or
+through venues that allow them to buy or sell without moving the
+stock price in the public market. European dark pools, or
+private venues that pair orders without showing them in advance,
+totaled 4.6 percent of equities value traded in January, up from
+2.9 percent a year earlier, Rosenblatt said in a Feb. 27 report.  Dark Pools  Most dark pools match orders within the spread created by
+the best available bid and offer or at the midpoint of those
+levels. VWAP is a moving price that incorporates the effect of
+trading in the market and is typically easier to achieve than
+buying shares at the offer price when the trader gets the order
+or selling at the best available bid.  “The biggest hurdle is people have to get around the fact
+that they can’t cancel their orders during the day,” Kellner
+said. “But VWAP is a concept everybody gets.”  Instinet’s CBX dark pool in the U.S. averaged 30.8 million
+shares daily in January while the VWAP Cross traded 4.5 million
+a day, according to a Feb. 28 report from Rosenblatt Securities.
+The largest dark pool in the U.S. is Credit Suisse Group AG’s
+Crossfinder, which averaged 132.5 million shares a day in
+January, or 1.9 percent of the average daily equities volume.  Transactions in Instinet’s U.S. VWAP Cross averaged 1,092
+shares in January, behind only Liquidnet Holdings Inc.’s main
+dark pool and ITG’s Posit system. Among the dark markets
+Rosenblatt tracks, Crossfinder has the smallest average trade
+size of 178 shares. Goldman Sachs Group Inc.’s Sigma X pool
+averaged 241 per trade in January and Bids Trading LP’s system
+had an average of 304 shares.  “There’s a challenge to find liquidity,” Kellner said.
+“People are definitely looking at their execution costs. The
+certainty of execution also helps.”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

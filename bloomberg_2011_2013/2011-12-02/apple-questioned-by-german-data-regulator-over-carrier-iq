@@ -1,0 +1,76 @@
+-- 
+Apple Questioned by German Data Regulator About Carrier IQ Software Piracy
+
+-- B y   K a r i n   M a t u s s e k   a n d   S t e p h a n i e   B o d o n i
+-- 
+2011-12-02T17:05:32Z
+
+-- http://www.bloomberg.com/news/2011-12-02/apple-questioned-by-german-data-regulator-over-carrier-iq.html
+European privacy regulators are
+asking mobile-phone carriers and makers including  Apple Inc. (AAPL)  to
+answer questions about privacy issues regarding Carrier IQ
+Inc.’s mobile phone usage-tracking software.  Germany’s Bavarian State Authority for Data Protection
+contacted Apple today as regulators in the U.K.,  France , Ireland
+and  Italy  review whether Carrier IQ is in use in their
+jurisdictions. Apple said yesterday it will stop supporting the
+software.  “We read in the press about the privacy concerns the
+software may pose and decided to ask Apple about the details,”
+said Thomas Kranig, head of the Bavarian agency. “If Apple
+decided to cease the use, all the better.”  Carrier IQ faces allegations that the software logs
+sensitive phone-user information. U.S. Senator Al Franken
+yesterday urged the  Mountain View , California-based developer to
+share more information about what the product does and whether
+it transmits data to other parties.  Privacy watchdogs were alerted to the issue after Trevor
+Eckhart, a Connecticut-based programmer, posted a 17-minute
+video three days ago on his YouTube.com  channel , showing how the
+data-collecting software logs what people are doing on their
+phones without their knowledge.  Carrier IQ’s “mobile service intelligence” platform
+receives data sent from phones for analysis to track “customer
+behavior and usage patterns,” according to the company’s
+ website . The company’s products allow clients to track both
+“broad trend data” and “diagnostic data from individual
+devices,” the site says.  Anonymous, Encrypted  “We stopped supporting Carrier IQ with iOS 5 in most of
+our products and will remove it completely in a future software
+update,”  Natalie Harrison , a spokeswoman for Apple, said in an
+e-mailed statement yesterday. “With any diagnostic data sent to
+Apple, customers must actively opt-in to share this information,
+and if they do, the data is sent in an anonymous and encrypted
+form and does not include any personal information.”  Georg Albrecht, a spokesman for Cupertino, California-based
+Apple in  Germany , declined to comment on the Bavarian agency’s
+letter.  Carrier IQ applications “give wireless carriers and
+handset manufacturers unprecedented insight into their
+customers’ mobile experience,” according to the company
+website. Over 141 million handsets have the software, according
+to data on its website.  The Carrier IQ software doesn’t record keystrokes or
+provide tracking tools, the company said in a Nov. 16  statement .  ‘Direct from Source’  The software works “by automatically providing accurate,
+real-time data direct from the source - your customers’
+handsets,” according to the website. The data is gathered with
+“no visible impact” on customers.  European privacy regulators said today they are checking
+with mobile phone operators in their regions to see if Carrier
+IQ software tracks usage on handsets there.  The U.K. Information Commissioner’s Office “will be
+contacting mobile phone operators to establish if the Carrier IQ
+or similar software is on U.K. customers’ handsets and, if so,
+what steps are being taken to ensure there are no privacy
+implications,” the data protection watchdog said in an e-mailed
+statement.  Italy’s Protection of Personal Data Guarantor opened an
+investigation into how Carrier IQ works and is checking Italian
+mobile phones to verify where the software is in use, according
+to a statement by Francesco Pizzetti, president of the Italian
+watchdog.  Defending Use  French privacy regulator CNIL has also begun reviewing
+Carrier IQ, Elsa Trochet-Mace, a spokeswoman for the regulator,
+said in an e-mail. Initial finding show the software is not in
+use in France, she said. Ireland’s data-protection agency will
+contact mobile phone operators as well to see if and how Carrier
+IQ is used there.  AT&T Inc. (T)  and  Sprint Nextel Corp. (S)  yesterday defended the
+use of Carrier IQ software.  The Carrier IQ software is a so-called rootkit installed at
+the carriers’ request on mobile phones. The application runs in
+the background and logs user activity. The software data is used
+to improve service performance, according to statements from
+AT&T and Sprint, the second- and third-largest U.S. wireless
+providers.  To contact the reporters on this story:
+Karin Matussek in Berlin at 
+ kmatussek@bloomberg.net ;
+Stephanie Bodoni in Luxembourg at 
+ sbodoni@bloomberg.net   To contact the editor responsible for this story:
+Anthony Aarons at 
+ aaarons@bloomberg.net  

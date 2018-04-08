@@ -1,0 +1,96 @@
+-- 
+Bankers Can’t Avoid Risk by Hiding It
+
+-- B y   P a u l   W i l m o t t
+-- 
+2011-05-24T19:03:38Z
+
+-- http://www.bloomberg.com/news/2011-05-24/bankers-can-t-avoid-risk-by-hiding-it.html
+One of the supposed silver linings of
+our recent economic disaster was the idea that we finally
+understood how hazardous our exotic financial instruments are
+and that bankers were finding a better way to "manage"’ that
+risk. But if at least one of the common practices in banking is
+anything to go by, risk-management procedures in many cases
+continue to hide the very dangers they are trying to measure.  This may result in banks taking bigger positions, and end
+up taking more real risk than they should. And it gets worse.
+The practice in question goes by the name of "calibration,"
+which is best described using a non-financial example.  Springs are the basis for simple weighing machines. Attach
+a weight to the end of a spring and it will stretch. Measure how
+much the spring stretches. Repeat using a different weight. You
+will find that the extension is proportional to the weight. (Up
+to a certain point. If the weight is too great this relationship
+breaks down, and the spring may not even return to its rest
+state.)  This relationship is named Hooke’s Law for the English
+scientist who described it in the 17th century,  Robert Hooke .
+F=kx, where F is the force or weight, x is the extension of the
+spring and k is some constant. To use this in practice, just
+attach a known weight to the spring and measure its extension.
+You know F, you know x, you can then infer the k. This is
+calibration. Once you know k, you can weight anything else, take
+the extension and multiply by k and hey presto!  Now let’s see how this idea is applied in finance.  Unknown Parameters  Your goal is to value some complex financial structured
+product. You have a valuation model with lots of lovely
+mathematics. But the model requires the input of parameters. You
+may need volatility, probability of default and other numbers,
+depending on the model and the instrument. A collateralized-debt
+obligation, for example, would require the input of lots of
+default parameters. Yet those parameters are for future
+volatility, future  default risk  and so on. How can we possibly
+know what these parameters are?  Typically, people seek guidance from simpler products, such
+as options and credit-default swaps, that are widely traded in
+the market. These simpler products also depend on the same
+unknown parameters, but their value is known since they are
+traded. With these simpler products, you work backwards, from
+value in the market, to find the unknown parameters -- in much
+the same way as you find the k for the spring. Once the
+parameters have been found, you can then use them in valuing
+other, non-traded, so-called exotic financial instruments.  So where’s the harm?  Model Failure  The beauty of Hooke’s model is that whatever weights are
+used to calibrate the spring, you get the same k. The stability
+of the parameter is a sign of a good model. This doesn’t happen
+in finance. You calibrate your derivatives one day, and then
+come back a week later to find your parameters have changed.
+This indicates the model is wrong. If finance were a proper
+science, then this simple and blatant failure of the model would
+result in it being tossed out and require a trip back to the
+drawing board.  In the context of the CDO, we might get information about
+the probability of default of the individual companies making up
+the instrument by looking at the credit-default swaps for those
+companies. But how much real information can there be in those
+CDS prices, especially since the company in question hasn’t yet,
+by definition, gone bankrupt and therefore the statistical
+sample size is zero.  Repeatable Results  You can see where I’m heading with this. Finance doesn’t
+meet the first requirement of science: repeatable results. The
+models aren’t capable of any great level of precision. In
+finance, when models are calibrated, they always have to be
+recalibrated a week later. But those parameters are supposed to
+remain fixed for evermore. If they have to be changed, then the
+model either was wrong before, is wrong now, or more likely
+both.  I’m not saying that we’ll ever find a perfect finance
+model, but we should be aware of the limitations -- that is to
+say the model error -- of whatever model we do use. And by
+calibrating we throw out all objective measure of model risk.
+Risk has been very effectively hidden.  The only objective test of the accuracy of the model is how
+well the theoretical value matches market prices for traded
+instruments. And in a calibrated model it does that perfectly,
+but only at that one instant in time. Next week, or even
+tomorrow, or just an hour later, theory and practice will
+inevitably diverge. But if you are forever recalibrating, you
+never see this. Recalibration means that risk managers remain in
+blissful ignorance of the errors in their model and hence the
+risk. If anything ever gave a false sense of security, this is
+it. All that risk management has done is to hide the risk,
+making it harder to spot, to estimate and to hedge.  New Set of Teeth  I visited a regulator (who shall remain nameless) in
+ Washington  recently. People say that regulators don’t have
+enough bite, so I went there to offer a set of teeth. My goal
+was to arm them with one simple, surefire way to frighten the
+pants off any bank. My advice was to ask the banks one simple
+question: "So, how stable are your calibrated parameters?" They
+would then find some respect for the regulators. Instead, I
+found myself surrounded by quants praising calibration, not even
+appreciating the negating effect of recalibration.  It doesn’t take a rocket scientist to figure out the
+fallacy in calibration, but it does take someone who can look
+beyond the math.  (Paul Wilmott is the founder of London-based Wilmott, a
+journal of quantitative finance. The opinions expressed are his
+own.)  To contact the author of this column:
+Paul Wilmott at  paul@wilmott.com .  To contact the editor responsible for this column:
+   mberley@bloomberg.net  

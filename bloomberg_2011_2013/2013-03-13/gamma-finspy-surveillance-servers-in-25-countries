@@ -1,0 +1,65 @@
+-- Gamma FinSpy Surveillance Servers in 25 Countries
+-- B y   V e r n o n   S i l v e r
+-- 2013-03-13T11:29:20Z
+-- http://www.bloomberg.com/news/2013-03-13/gamma-finspy-surveillance-servers-in-25-countries.html
+Computers running U.K.-based Gamma
+Group’s FinSpy surveillance tool, which can remotely take over
+computers and phones, have been found in 25 countries, according
+to an updated global scan of the Internet that mapped the
+locations of servers that control infected machines. Research
+published last year found what appeared to be FinSpy command
+servers in at least 15  countries .  The findings, published today by the University of Toronto
+Munk School of Global Affairs’  Citizen Lab , expand the
+previously known reach of the product, which has been criticized
+by human rights advocates as a tool for targeting political
+dissidents. The increased number reflects the additional months
+of work by the researchers, and doesn’t necessarily indicate new
+sales of FinSpy.  FinSpy can be sent to people in spoof e-mails to secretly
+monitor their computers -- intercepting Skype calls, turning on
+Web cameras and recording every keystroke. Marketed by Gamma for
+ law enforcement  and intelligence use, FinSpy sends its pilfered
+data back to command servers controlled by government agencies.  The hunt for FinSpy’s global deployment was sparked in July
+2012 when Citizen Lab research based on e-mails obtained by
+ Bloomberg News  showed activists from the Persian Gulf kingdom of
+Bahrain were targeted by the software.  Martin J. Muench, managing director of Gamma’s Munich-based
+unit, Gamma International GmbH, didn’t immediately respond to
+requests for comment.  Anonymous Traffic  He has previously said that because  Internet traffic  can be
+made anonymous, the presence of what may appear to be a FinSpy
+command server in a country doesn’t mean the computer ultimately
+receiving data is in that nation.  Today’s report also says that discovery of servers in a
+given country alone isn’t a sufficient indicator that the
+product is in use by that nation’s agencies. “In some cases,
+servers were found running on facilities provided by commercial
+hosting providers that could have been purchased by actors from
+any country,” according to the report.  Gamma’s Muench has also said that software samples studied
+by the researchers have been demonstration copies, and not the
+actual product sold to clients.  Muench has said Gamma complies with the export regulations
+of the U.K., U.S. and  Germany .  New Evidence  The new study found evidence that FinSpy is being used in
+ Vietnam  to target smartphones. A piece of malicious software
+that the researchers identified as FinSpy Mobile, a product
+meant to take over phones, connected back to a command computer
+in Hanoi. The sample was also configured to work without an
+Internet connection by connecting through a mobile device’s
+text-messaging system to a phone number in Vietnam.  The Vietnamese Ministry of  Foreign Affairs  didn’t
+immediately respond to an e-mailed request for comment.  The researchers also analyzed a sample of FinSpy software
+that communicated with a command server in  Ethiopia . That sample
+used pictures of opposition figures as bait for recipients who
+would unknowingly download the spyware on their machines, the
+researchers said.  Ethiopian Communications Minister Bereket Simon said in a
+telephone interview that he had no information about FinSpy. “I
+cannot tell you what type of instruments we’re going to use or
+not,” said Simon, who is the government’s spokesman. “I’ve no
+idea, and even if I did, I wouldn’t talk to you about it.”  Today’s paper was written by a team of four security
+experts and graduate students who have been tracking FinSpy for
+the past year.  They are Morgan Marquis-Boire, a San Francisco-based
+researcher who works at  Google Inc. (GOOG)  and has done the research on
+his own time; Bill Marczak, a computer science doctoral
+candidate at the  University of California  Berkeley; Claudio
+Guarnieri of Boston-based security risk-assessment company
+Rapid7; and John Scott-Railton, a doctoral student at the
+University of California Los Angeles’ Luskin School of Public
+Affairs.  To contact the reporter on this story:
+Vernon Silver in Rome at 
+ vtsilver@bloomberg.net   To contact the editor responsible for this story:
+Marcia Myers at 
+Mmyers20@ bloomberg.net 

@@ -1,0 +1,65 @@
+-- Nasdaq Says Flaw Exposed in Data Flood Caused Trade Halt
+-- B y   M i c h a e l   P .   R e g a n ,   N i c k   B a k e r   a n d   W h i t n e y   K i s l i n g
+-- 2013-08-29T18:51:31Z
+-- http://www.bloomberg.com/news/2013-08-29/nasdaq-says-software-flaw-exposed-in-data-flood-that-led-to-halt.html
+Nasdaq  OMX Group Inc. provided more
+details about its three-hour trading halt last week, saying a
+flood of data received from NYSE Arca exposed a software flaw in
+its conduit for disseminating prices.  The deluge “vastly exceeded” the capacity of a marketwide
+feed known as the securities industry processor, “which caused
+its failure and then revealed a latent flaw in the SIP’s
+software code,” Nasdaq said in a statement released today.  Today’s report amplifies previous public statements by
+Nasdaq about what led it to freeze trading in about 3,300 stocks
+both on its own platform and others where equities change hands
+in America. The disruption underscored how quickly the integrity
+of the U.S. market, which has a value of about $20 trillion, can
+be subverted as orders to buy and sell shares are matched on
+more than 50 exchanges and alternative electronic venues.  “Any piece of software, even if it’s run for 100 percent
+for 10 years, there’s still flaws in it,” Nasdaq CEO  Robert Greifeld  said in an interview with Bloomberg News. “Whatever
+you have, it’s a question of what unique set of circumstances
+happen to reveal that.”  Several of the issues that led to the halt were within
+Nasdaq’s control, the New York-based exchange operator said in
+the report.  ‘Regret Them’  “We are responsible for them, regret them, and intend to
+take all steps necessary to address them to enhance stability
+and functionality of the markets,” the report said.  It said, “Other issues contributing to the halt are more
+endemic to technology issues across today’s complex markets and
+will require a broader industry-wide effort to resolve.”  The malfunction began when NYSE Arca sent more than 20
+“connect and disconnect sequences” as well as a stream of
+quotes for inaccurate stock symbols, according to Nasdaq’s
+summary. At one point, Nasdaq received over 2 1/2 times more
+data per second than the system’s tested capacity.  After being inundated with orders, the flaw in the SIP
+software prevented redundancy that is built into the system from
+“failing over cleanly” to a backup program, it said.  “That failover, that is our responsibility and our system
+did not handle that well,” Greifeld told  Bloomberg News .  ‘Public Interest’  The report said a “combination of large system inputs and
+delayed outputs ultimately degraded the ability of the SIP
+system to process quotes to an extent that a shutdown of the
+system was in the broader public interest, to prevent
+information asymmetry and ensure fair conditions for all market
+participants.”  The shutdown was the latest in a series of failures to
+disrupt markets, prompting the Securities and Exchange
+Commission to push for rules requiring executives to boost the
+reliability of their technology. Faulty software caused Nasdaq’s
+mishandling of Facebook Inc.’s public debut last year.  In a separate message sent to clients today, Nasdaq said
+that it’s developing plans to better communicate with companies
+listed on its exchange and identify systems that need
+improvement after last week’s technical malfunction.  Forensic Analysis  Nasdaq will be working with regulators, members of the
+exchange and partners to conduct a “thorough forensic analysis
+on what happened” and identify areas for improvement, the
+market operator told customers today. The message was sent by
+Bruce Aust, executive vice president of Nasdaq’s global
+corporate client group, and Robert McCooey, senior vice
+president of the global corporate client group, and obtained by
+Bloomberg News.  “It is clear that these systems could be more robust in
+their support of markets given the complex ecosystem in which we
+operate,” the client letter said. “We are reviewing additional
+enhancements and potential design changes to further strengthen
+the SIP resiliency,” it said, referring to the securities
+industry processor, which runs the data feed of stock prices
+that are sent to other exchanges and trading firms.  Richard Adamonis , a spokesman for  NYSE Euronext (NYX) , declined
+to comment.  To contact the reporters on this story:
+Nick Baker in  New York  at 
+ nbaker7@bloomberg.net ;
+Michael P. Regan in New York at 
+ mregan12@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

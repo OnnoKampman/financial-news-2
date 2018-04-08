@@ -1,0 +1,37 @@
+-- Bats Says Trading Error Affected Fewer Transactions
+-- B y   L u   W a n g
+-- 2013-01-25T20:43:44Z
+-- http://www.bloomberg.com/news/2013-01-25/bats-says-trading-error-affected-fewer-transactions.html
+Bats Global Markets Inc., the stock
+exchange operator that acknowledged four years of bad trades,
+said the error affected fewer transactions than first estimated.  Computer problems allowed about 12,000 trades that violated
+rules intended to ensure all investors get the best prices for
+equities, fewer than the 440,000 estimated earlier, Randy Williams, a Bats spokesman, said by e-mail today. Customers lost
+$17,000, as opposed to $420,360, because of the error, he said.  Chief Executive Officer Joseph Ratterman had blamed the
+mistakes on regulations he says are too complex, specifically
+the regulatory ban on locked markets. Operators including  NYSE
+Euronext (NYX)  have called for an overhaul of regulations that boosted
+high-speed trading and the fragmentation of equity markets to 13
+stock exchanges and about 50 private broker-run dark pools from
+three dominant venues in the 1990s.  Bats disclosed the trading issues on Jan. 9 after an
+internal review. The Lenexa, Kansas-based company successfully
+deployed a fix for the error today, Williams said.  Regulation NMS, a rule the Securities and Exchange
+Commission adopted in 2005 and implemented two years later,
+prohibits exchanges from allowing locked markets, when a bid on
+one venue is the same price as the ask on another. The rule
+exists to increase the likelihood that someone quoting at the
+best price will receive an execution.  Race Conditions  The violations occurred in situations that programmers
+describe as “race conditions,” in which computers are
+communicating with each other in real time while adjusting to
+new information in the market. Computers that match orders for
+two Bats equity exchanges and an options venue allowed some
+trades to occur at prices inferior to the best available bid or
+offer and enabled others to violate rules for short sales, or
+bearish bets, the company said.  If the SEC permitted bids and offers on different exchanges
+to exist at the same price, it wouldn’t be necessary to have
+order types designed so customers can adjust their trade
+requests as prices change, Ratterman said at the time.  To contact the reporters on this story:
+Lu Wang in  New York  at 
+ lwang8@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

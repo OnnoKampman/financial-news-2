@@ -1,0 +1,131 @@
+-- Code in Aramco Cyber Attack Indicates Lone Perpetrator
+-- B y   M i c h a e l   R i l e y   a n d   E r i c   E n g l e m a n
+-- 2012-10-25T21:54:36Z
+-- http://www.bloomberg.com/news/2012-10-25/code-in-aramco-cyber-attack-indicates-lone-perpetrator.html
+Within hours after a virus had
+devastated the computer network of Saudi Arabian Oil Co., the
+world’s largest state-owned crude oil exporter, investigators
+began searching for evidence of who was behind the attack.  Although anonymous U.S. officials have been suggesting that
+ Iran  was to blame for the Aug. 15 attack, the cyber detectives
+say the virus’s code had none of the sophisticated elements that
+would suggest state-sponsored programmers were responsible.  Instead, they said, as the virus spread through the network
+of the company known as  Saudi Aramco , destroying 55,000
+computers, the malicious software failed to perform as its
+designer had intended.  The mistakes in the virus’s code led investigators to the
+point of attack -- a USB stick that had been inserted in a
+computer on the internal company network -- and to the identity
+of the suspected attacker, an Aramco employee who was logged
+onto the machine at the time of the incident.  While malware constructed by state-sponsored hackers
+doesn’t have to be sophisticated, it’s typically far more
+advanced than the virus used against Saudi Aramco, according to
+one person involved in the probe who characterized the attack as
+amateurish. The investigators spoke on condition of anonymity
+because they weren’t authorized to discuss the attack publicly.  Cyber War  U.S. Defense Secretary  Leon Panetta  and other American
+officials have suggested that the Aramco attack is evidence of a
+brewing global cyber war, one in which countries including Iran
+are improving their ability to attack commercial and government
+targets to retaliate against assaults on their own computers,
+protest U.S. policies or practice a new form of warfare.  Detailed forensic evidence from the Aramco attack and
+others shows how difficult it is to distinguish cyber warfare
+and espionage from a bewildering array of threats that includes
+hacktivists, social malcontents, criminals and others.  The design errors and other aspects of the virus, dubbed
+Shamoon by researchers, offer some of the strongest evidence
+that the attack in Saudi Arabia most likely was perpetrated by a
+single individual, a person involved in the investigation said.
+The company insider didn’t have the skills or access to
+penetrate the company’s oil production facilities, which would
+have been far more devastating, the investigator said.  Nail Al-Jubeir, director of the information office at the
+Saudi Embassy in  Washington , declined to comment, referring
+questions to Saudi Aramco and the Saudi Interior Ministry, which
+didn’t immediately respond to e-mails.  Stuxnet Virus  Two U.S. intelligence officials said in interviews that the
+evidence implicating Iran in the Aramco attack is largely
+circumstantial, though they declined to discuss it in detail.
+The attack, they said, does fit a pattern of increased Iranian
+cyber warfare activity since 2010, after a sophisticated virus
+known as Stuxnet attacked its main uranium enrichment
+facilities.  U.S. officials told the  New York  Times earlier this year
+that President  Barack Obama  had ordered joint U.S.-Israeli
+cyberattacks, code-named  Olympic Games , against Iran.  Forensic investigators involved in the Aramco probe,
+though, aren’t convinced that the incident was an Iranian
+response to attacks on its suspected nuclear weapons program.  The virus destroyed data on Aramco servers and erased hard-
+drives on individual computers, replacing critical company data
+with the image of a burning American flag. It’s considered among
+the most damaging direct attacks against any corporate
+information network.  Coding Errors  Parts of the virus used off-the-shelf software, while other
+elements appear to have been downloaded from hacker forums,
+according to a participant in the investigation. Errors in the
+code kept it from overwriting certain segments of Aramco
+directories that its designer had instructed it to, he said.
+That allowed analysts to retrieve information that assisted
+their investigation.  In response to a question from a reporter, Panetta said
+today that the computer virus that attacked Aramco’s network
+used “a very sophisticated tool.”  “There are only a few countries in the world that have
+that capability,” Panetta said at a Pentagon press conference.
+“But it raises tremendous concerns about the potential for the
+use of that kind of tool when it comes to our  power grid , when
+it comes to our financial systems, when it comes to our
+government systems.”  The virus was “one of the first we’ve seen that can
+actually take and destroy computers,” Panetta said.  Not Exotic  A person who helped investigate the Aramco attack
+contradicted Panetta’s characterization of the virus as exotic.
+The investigator said the malware destroyed computers by
+overwriting the master boot record that computers need to start
+up. That part of the virus, he said, was taken from an off-the-
+shelf product made by  EldoS Corporation , a London-based security
+company.  Eugene Mayevski, the company’s chief technology officer,
+said in an Aug. 17  blog post  that the wiper used in the Shamoon
+virus was a commercial EldoS product called  RawDisk  and guessed
+that it “was probably stolen from some of our clients
+software.”  Iran’s oil industry was hit with a similar data-erasing
+virus in April, which was dubbed Wiper. Roel Schouwenberg, who
+examined the viruses independently, says the Wiper virus may
+have inspired the Aramco technique, but the two don’t use the
+same code. Schouwenberg is senior researcher for Woburn,
+Massachusetts-based Kaspersky Lab Inc., a division of Moscow-
+based Kaspersky Lab.  Middle East  Shamoon also doesn’t share any of its code with Stuxnet or
+Flame, two of the investigators said. Both of the more-advanced
+cyber weapons are now in the hands of many nation-states and
+sophisticated hackers.  “Shamoon really doesn’t have something in common with
+these operations such as Stuxnet and Flame,” Schouwenberg said.
+“The only thing it has in common is it’s an attack on critical
+infrastructure in the  Middle East .”  “If Shamoon had happened in  Norway , we wouldn’t have been
+drawing these comparisons,” he said.  Forensic analysis, though, cannot provide definitive proof
+that an attack wasn’t the work of a nation-state, Schouwenberg
+said. It’s possible a state actor might make a virus look
+amateurish in an attempt to cover its tracks.  “Sloppy code may well become more prevalent as a form of
+obfuscation,” he said.  RasGas Attack  Although pinning the attack on Iran is increasingly popular
+in Washington, Saudi Arabian social networking sites offer a
+different theory. They blame the Shiite Muslim minority in the
+predominantly Sunni country’s oil-rich  Eastern Province , where
+there are religious and economic tensions.  An attack two weeks later against  RasGas , a liquified
+natural gas company in Qatar, underscores the difficulty of
+sorting out motives and attackers in the shadowy world of cyber
+conflict.  An investigator who’s familiar with both attacks said the
+RasGas computer virus shares some characteristics with the one
+used against Aramco but contains different coding errors. He
+said it’s possible the RasGas attack was a copycat designed by
+the attacker to make it look as if the two were linked.  In his Oct. 11 speech to Business Executives for National
+Security on the deck of the USS Intrepid, a decommissioned
+ aircraft carrier  in New York, Panetta said a cyberattack by
+nation-states or violent extremist groups “could be as
+destructive as the terrorist attack of 9/11.”  Effective Attack  Without linking the country to any specific attack, he
+said, “Iran has also undertaken a concerted effort to use
+cyberspace to its advantage.”  If the flaws in the Aramco virus don’t prove that Iran
+wasn’t responsible, they also don’t mean the attack wasn’t
+effective.  The virus not only destroyed the hard drives of more than
+60 percent of Aramco’s computers, it also wiped out data on the
+company’s servers, including the domain management servers that
+were the heart of the corporate network, said an investigator
+involved in the clean-up.  Following the attack, a team of investigators and
+cybersecurity experts flew to  Saudi Arabia  to help analyze what
+had happened and develop stronger defenses.  With few answers in the code itself or the nature of the
+attack, the key to uncovering the culprit and the motive may lie
+in whatever information is provided by the attacker, a piece of
+the puzzle missing in other attacks of this scale.  Reports on Saudi social media suggest that the suspected
+attacker is in custody. One investigator said that there has
+been an information blackout as to the individual’s motives.  To contact the reporters on this story:
+Michael Riley in Washington at 
+ michaelriley@bloomberg.net ;
+Eric Engleman in Washington at 
+ eengleman1@bloomberg.net   To contact the editor responsible for this story:
+John Walcott at 
+ jwalcott9@bloomberg.net  

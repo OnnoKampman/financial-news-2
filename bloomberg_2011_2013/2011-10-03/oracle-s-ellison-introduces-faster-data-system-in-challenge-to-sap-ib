@@ -1,0 +1,74 @@
+-- 
+Oracle’s Ellison Unveils Faster System to Challenge SAP, IBM
+
+-- B y   A a r o n   R i c a d e l a
+-- 
+2011-10-04T01:14:05Z
+
+-- http://www.bloomberg.com/news/2011-10-03/oracle-s-ellison-introduces-faster-data-system-in-challenge-to-sap-ibm.html
+Oracle Corp. (ORCL)  introduced two new
+computer systems, one with faster data access and another for
+organizing information from the Web, as it aims to win market
+share from  International Business Machines Corp. (IBM)  and  SAP AG. (SAP)   Chief Executive Officer  Larry Ellison  unveiled one system
+yesterday, called the Exalytics Intelligence Machine, that
+analyzes information within its dynamic random access memory.
+The approach makes the product many times faster than machines
+that store data on disk drives, Ellison said in a speech at the
+company’s OpenWorld conference in San Francisco.  Thomas Kurian, an executive vice president, said today that
+Oracle will release another system, dubbed the Big Data
+Appliance, to sort information collected by the open-source
+software Hadoop -- used for unstructured data such as e-mails
+and social media postings -- and load it into Oracle’s database.  Oracle -- the world’s largest maker of  database software 
+and the second-biggest maker of business applications, behind
+SAP -- is seeking to keep its database relevant for computing
+jobs that involve increasing amounts of information. Embracing
+open-source software tools like Hadoop may help the company hold
+its lead in the market as customers seek ways to sift through
+information from new sources, such as Facebook and Twitter.  ‘New Stuff’  “When you talk about big data, this is new stuff,” said
+ Peter Goldmacher , an analyst at Cowen & Co. in San Francisco.
+“It’s not cost savings -- it’s an opportunity for IT to drive
+growth.”  For example, companies could meld information from Twitter
+with customer data stored in Oracle’s database to decide which
+customers’ posts are most important, Goldmacher said.  The Big Data Appliance system also includes a so-called
+NoSQL database that can store large quantities of information
+from Web applications and social-media sites, Kurian said.  Responding to Ellison’s introduction of the DRAM-based
+Exalytics system, Sanjay Poonen, president for global solutions
+at SAP, said Oracle’s approach to in-memory computing requires
+customers to buy and maintain more hardware than a competitive
+SAP system, called Hana.  “They’ve taken old technology and thrown more hardware at
+it,” he said. “It’s another machine you have to buy.”  Hana will soon let users analyze data from the Web gathered
+with Hadoop, Poonen said.  Sparc Chips  Ellison also said that  Redwood City , California-based
+Oracle plans another update to its Sparc microprocessor next
+year that’s twice as fast as its recently released T4 chip. The
+idea is to challenge IBM for more hardware sales through
+Oracle’s Sun Microsystems unit, gained in a $7.4 billion
+acquisition last year.  “We want to take IBM on in their strongest suit, which is
+the microprocessor,” Ellison said. Oracle’s T4 chip runs
+software written in the Java programming language faster in a
+benchmark test than a competitive IBM system, he said. The
+company introduced a new Sparc SuperCluster system on Sept. 26
+using the Sparc T4.  Steve Mills , an IBM senior vice president, said Ellison may
+struggle to make inroads with the Sparc chip. Oracle would have
+to make billions of dollars in investments to keep Sparc
+competitive with IBM and  Intel Corp . in the future, he said last
+week in an interview.  “Sparc’s out of gas,” Mills said.  Oracle’s Sun hardware sales declined 1.4 percent to $1.67
+billion in the three months ended in August as it emphasized
+more-profitable systems over lower-priced ones.  High-End Hardware  Oracle has been pushing high-end  computer hardware ,
+including its Exadata system loaded with database software, and
+Exalogic, a system that runs business applications. Ellison
+reiterated that Oracle has sold 1,000 of the Exadata machines to
+companies, including  Procter & Gamble Co. (PG)  and BNP Paribas SA,
+and could sell 3,000 more this year.  Oracle is integrating its hardware and software lines to
+deliver better performance for various computing tasks, co-
+President  Mark Hurd  said during the conference today.  In a separate interview with “Bloomberg West,” Hurd said
+Oracle would focus on internal growth for the time being after
+making about 70 acquisitions in recent years. The company also
+may increase research-and-development spending this year from
+the $4.5 billion it spent in the fiscal year ended May 31, he
+said.  Hurd said he’s spending 80 percent of his time at OpenWorld
+meeting with customers, who are spending on areas such as mobile
+computing and making data available faster to their users.  “We’re very focused this second on organic growth,” Hurd
+said. “We feel great about our portfolio.”  To contact the reporters on this story:
+Aaron Ricadela in  San Francisco  at 
+ aricadela@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

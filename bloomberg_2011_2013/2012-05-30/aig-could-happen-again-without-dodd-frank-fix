@@ -1,0 +1,95 @@
+-- AIG Could Happen Again Without Dodd-Frank Fix
+-- B y   M a t t h e w   S c h o e n f e l d
+-- 2012-05-30T23:00:00Z
+-- http://www.bloomberg.com/news/2012-05-30/aig-could-happen-again-without-dodd-frank-fix.html
+The near-failure of insurance firm
+ American International Group Inc. (AIG)  in 2008 was arguably the most
+perilous moment of the global financial crisis. Unfortunately,
+something similar could easily happen again.  The  Dodd-Frank Wall Street Reform and Consumer Protection
+Act  contains ample measures aimed at preventing a repeat of the
+AIG debacle. It gives regulators new powers to oversee insurance
+companies and other nonbank financial institutions. It sheds
+more light on the  credit derivatives  that got AIG in trouble, so
+regulators can see if any company is taking on too much risk. It
+requires that parties to derivatives contracts put up adequate
+collateral -- cash that would cover debts if one or more of them
+went bust.  Problem is, Dodd-Frank ignores the crucial element that
+ultimately brought AIG to the brink and threatened to topple its
+counterparties: the way demands for collateral can come all at
+once, particularly when market turmoil turns seemingly safe bets
+into big risks.  Consider  what happened to AIG . The company had sold a form
+of insurance, known as credit-default swaps, on pools of
+securities -- largely subprime mortgage bonds -- with a total
+face value of about $55 billion. The deals, struck in 2004 and
+2005, required AIG to make big payments if losses to defaults in
+the bond pools exceeded a certain threshold,  often more than 30
+percent  of the face value of the underlying bonds. The threshold
+was so high, and AIG’s credit so strong, that the banks buying
+the insurance -- including Societe Generale SA, Goldman Sachs
+Group Inc. and Deutsche Bank AG -- initially demanded very
+little collateral.  Loss Position  By 2007, the housing market was in free fall, and defaults
+were accelerating on a trajectory that could breach AIG’s
+threshold. As a result, AIG’s swaps were in a loss position:
+Even if the insurance payments weren’t triggered, the company
+would have to pay to get out of the contracts. At this point,
+AIG’s counterparties should have demanded a lot more collateral
+to make sure the company would make good on its obligations.  Some tried. Goldman Sachs, for example,  demanded  $1.8
+billion in July 2007. AIG disputed the call on the grounds that
+Goldman had improperly calculated its losses -- an easy claim to
+make because the swaps were rarely traded and hence lacked an
+objective market value. For such an illiquid position, AIG’s and
+Goldman’s valuation models could provide different answers.  Others didn’t ask for more collateral, either because they
+maintained a lazy faith in AIG’s creditworthiness or because
+they had significant mortgage bets of their own and didn’t want
+to roil markets by exposing AIG’s predicament.  The counterparties’ collateral deficiency left them in a
+tough spot in 2008, when further deterioration in markets hit
+AIG’s credit rating and sharply increased the company’s
+unrealized losses. In a matter of a few months, AIG’s swap
+counterparties demanded roughly $21 billion in added payments,
+more than in the previous 13 months combined.  The sudden rush turned the collateral calls into a crisis
+for everyone involved. AIG didn’t have enough cash on hand to
+make the payments, a situation tantamount to bankruptcy. If AIG
+failed, its counterparties -- including several systemically
+important banks -- would suffer billions of dollars in losses on
+the unpaid collateral. In some cases, those losses could be big
+enough to trigger more failures. Only the government bailout of
+AIG prevented a disaster.  Collateral Calls  A couple of modest tweaks could prevent such a situation
+from arising in the future.  First, regulators should impose a limit on the amount of
+collateral that can be demanded on illiquid positions. The
+limit, for example, could be 10 percent of the notional value of
+the contract in any two-week period. This constraint would force
+complacent or conflicted parties to be more vigilant because
+they would no longer be able to wait until the eleventh hour to
+request collateral. It would also help prevent collateral calls
+from overwhelming a company’s available cash, as happened with
+AIG.  Second, regulators must provide counterparties with an
+impartial mechanism to resolve valuation disputes. The dispute
+between Goldman and AIG demonstrates that Dodd-Frank cannot --
+as it does -- rely on financial modeling to define adequate
+collateral levels.  Here’s how it could work. Goldman would submit its disputed
+collateral request to a regulator (possibly the Securities and
+Exchange Commission) and immediately cancel its swap contract
+with AIG. Within 24 hours, Goldman would purchase a new,
+identical contract to establish an objective market price.
+Whichever side’s valuation proved wrong would then have to pay
+the other side twice the difference.  The mechanism could help the entire market by providing a
+benchmark for hard-to-value contracts. The potential penalty
+might also help avert disputes by giving counterparties an
+incentive to be honest with their valuations in the first place.  These changes alone, of course, would not have prevented
+AIG’s troubles, which were the result of poor risk controls,
+negligent oversight by regulators, bad assessments by ratings
+companies and reckless internal management. But together with
+the other measures in Dodd-Frank, they could make the system
+much more resilient next time around.  (Matthew Schoenfeld is a third-year student in the JD
+program at  Harvard Law School . Prior to Harvard, he was a member
+of the macro trading team at 3G Capital, a New York-based hedge
+fund. The opinions expressed are his own.)  Read more opinion online from  Bloomberg View . Subscribe to
+receive a  daily e-mail  highlighting new View columns, editorials
+and op-ed articles.  Today’s highlights: the View editors on  Spain ’s banking crisis
+and  turmoil at the Nuclear Regulatory Commission ;  Michael
+Kinsley  on  intervening in Syria ; Haresh Sapra on  stress-test
+results ;  Amity Shlaes  on  corporate sexual harassment ;  Luigi
+Zingales  on  competition and inequality ;  Steven Greenhut  on
+ California referendums .  To contact the writer of this article:
+ mschoenfeld@jd12.law.harvard.edu   To contact the editor responsible for this article:
+Mark Whitehouse at   mwhitehouse1@bloomberg.net  

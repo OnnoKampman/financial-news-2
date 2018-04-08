@@ -1,0 +1,21 @@
+-- Karur Vysya Bank and Jammu & Kashmir Bank: Indian Money Market
+-- B y   P o o j a   S a r a f
+-- 2013-08-06T12:43:27Z
+-- http://www.bloomberg.com/news/2013-08-06/karur-vysya-bank-and-jammu-kashmir-bank-indian-money-market.html
+Following is a table showing certificate of deposits
+issued by Indian banks. The data has been provided by Derivium Tradition
+Securities Pvt. Ltd., NVS Brokerage Ltd., SPA Securities Ltd. and Trust
+Financial Consultancy Services.  T = Tentative  C=Confirmed  Date        Security   Mty Date  Qnty(Cr.) Rate  Buyer    Contributor Status
+06-Aug-13    KVB       05-Nov-13  385       10.75              NVSB     T
+06-Aug-13    KVB        3 MONTHS  300       10.75              SPAS     T
+06-Aug-13    KVB        3 MONTHS  400       10.75              DCAP     T
+06-Aug-13    KVB        3 MONTHS  300       10.75 BKS and MFS  TFCS     T
+06-Aug-13    J&K BK     3 MONTHS            10.60              NVSB     T
+06-Aug-13    J&K BK     3 MONTHS  200       10.60              SPAS     T
+06-Aug-13    J&K BK     3 MONTHS  300       10.60              DCAP     T
+06-Aug-13    J&K BK     3 MONTHS  200       10.60 BKS and MFS  TFCS     T
+06-Aug-13    INDUSIND   1 YEAR              10.20              NVSB     T
+06-Aug-13    INDUSIND   1 YEAR              10.20              SPAS     T
+06-Aug-13    INDUSIND   1 YEAR    130       10.20              DCAP     T
+06-Aug-13    INDUSIND   1 YEAR    400       10.20 BKS and MFS  TFCS     T  Contributed via: Bloomberg Publisher WEB Service  Provider ID: 2a99389060444fe6be70501b1f984649
+ 

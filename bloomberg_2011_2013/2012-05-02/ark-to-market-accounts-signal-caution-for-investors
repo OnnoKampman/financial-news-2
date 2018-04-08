@@ -1,0 +1,123 @@
+-- Mark-to-Market Accounts Signal Caution for Investors
+-- B y   R a y   B a l l
+-- 2012-05-02T23:01:13Z
+-- http://www.bloomberg.com/news/2012-05-02/mark-to-market-accounts-signal-caution-for-investors.html
+Mark-to-market accounting has long
+been viewed in academia as the gold standard for preparing
+financial statements. The rule makers, the  Financial Accounting
+Standards Board  and the  International Accounting Standards 
+Board, are coming to the same view. Yet shifting to those norms
+has some adverse consequences for investors.  For centuries, assets generally had been recorded on
+balance sheets at their actual “historical” costs. Critics
+argued that this method provided investors with stale
+information that was irrelevant to decision-making (“sunk”
+costs). Instead, they advocated marking assets to their
+estimated market prices, or “fair values.”  The greatest impact of the transition to mark-to-market
+accounting has been on financial assets and liabilities, which
+is where the best price information is found.  Banks and financial institutions are particularly affected.
+Their trading assets (debt, equity, Treasuries, derivatives and
+securitized loans) are on their balance sheets at market value.
+Gains and losses are booked in earnings each quarter. Because
+these entities are highly levered (typically more than 10-to-1),
+the effects on earnings are substantial. As an example,
+ Citigroup Inc. (C)  had $292 billion in trading accounts as of Dec.
+31, 2011, about 3.8 times its total market capitalization and
+26.4 times its earnings for the year.  Current Prices  Clearly, mark-to-market accounting has a lot going for it,
+and current prices seem preferable to old. But several recent
+studies, including  research  that I conducted with  Sudarshan
+Jayaraman , of the Olin Business School at  Washington University 
+in  St. Louis , and  Lakshmanan Shivakumar , of the  London Business
+School , indicate it also has several limitations that investors
+need to be aware of:  -- Earnings expectations are more difficult to calculate:
+Under the new rules, published financial statements don’t reveal
+whether mark-to-market gains and losses are due to shocks to
+expected returns (yields) or shocks to expected cash flows, or
+both. This is important because yield shocks reverse in earnings
+over time, and cash-flow shocks don’t. Consequently, by omitting
+causes, mark-to-market accounting doesn’t provide enough
+information to form expectations of  future earnings .  Take the example of a debt instrument bought for $100 and
+expected to pay a single $121 cash flow in two years, an annual
+yield of 10 percent. Imagine if a year after it is purchased,
+the bond is marked to its then market price, $105.22. This is
+bad news for the investor because the asset was expected to
+appreciate by 10 percent, to $110.  There is no way, however, for the investor to know why the
+price has dropped and this deprives him of the ability to
+accurately predict its future value.  If the bond fell because an increased risk of default
+reduced the expected cash flow to $115.74, and the instrument
+still is expected to yield 10 percent, then estimated next-
+period earnings would be $10.52 (calculated as $115.74 -$105.22,
+or as 10 percent of $105.22).  If, on the other hand, the bond fell because market forces
+had driven up the yield to 15 percent ($121/$105.22 - 1), then
+expected next-period earnings would be $15.78 ($121 - $105.22,
+or 15 percent of $105.22).  Interpretation is even messier if yields and  default risk 
+changed together. As the example illustrates, mark to market
+creates uncertainty about expected future earnings, and
+therefore also about the “surprise” content of these earnings
+when they are announced. The uncertainty only can be removed by
+knowing what caused the change in market price. Larger investors
+and insiders are in a better position to acquire that
+information. That means smaller “uninformed” investors are at
+a disadvantage in forming earnings expectations.  Bid-Ask Spreads  Our research shows that shares of  banks  that invest in
+trading securities are quoted at considerably wider bid-ask
+spreads than those that don’t. The spreads widen as banks’
+trading portfolios increase. Widened spreads indicate that
+uninformed investors are attempting to compensate for their
+informational disadvantage.  Trading securities also are associated with diminished
+tracking by analysts, fewer earnings forecasts by management and
+less timely information environments generally.  Traditional accounting theory assumed that up-to-date
+prices provide all the information about company assets that
+investors need. That turns out to be incorrect. In the real
+world, earnings expectations play an important role, and forming
+them requires information about why mark-to-market prices
+changed.  -- Manipulated numbers: Under historical cost accounting,
+gains and losses would be booked only when assets were sold.
+This would allow companies to “manage” earnings by choosing
+what to sell, and when. Winners can be sold to book gains when
+earnings are short of consensus expectations, and losers can be
+unloaded in good years.  Mark to market books gains and losses as they occur,
+eliminating that timing discretion. But don’t be fooled:
+Companies can still manipulate the numbers. Because markets
+aren’t perfectly liquid, companies can make trades at the end of
+the quarter that influence mark-to-market prices. (Such window
+dressing is believed to be a reason for high quarter-end trading
+volumes.) Securities that aren’t actively traded attract “mark-
+to-model” accounting, which bases the reporting on subjective
+judgment and is subject to even greater abuse. In this case,
+too, uninformed investors who take reported numbers at face
+value are at a disadvantage.  -- Marking liabilities to market: FASB’s  Statement 159 
+allows companies to record their liabilities at market price.
+Paradoxically, increased default risk reduces the value of debt
+and then triggers book gains. When Citigroup was bleeding during
+the first quarter of 2008, it booked a $12.65 billion pretax
+gain from deterioration in its  credit quality . The gain was
+buried in the footnotes, and many shareholders wouldn’t have
+been aware of it. Even if they had, many would have found it
+difficult to interpret.  There are traps for investors in debt, too. Borrowers
+commonly agree to restrict risk by maintaining specified maximum
+leverage ratios, such as debt/assets or debt/Ebitda. When these
+covenants are violated, lenders obtain rights such as veto power
+over dividends, stock repurchases, new investment, mergers and
+acquisitions or more borrowing. The loan might become due
+immediately. Renegotiation frequently ensues. But if debt is
+written down on the balance sheet when asset quality
+deteriorates, the covenanted leverage ratio is rendered
+ineffective -- even if the assets are written down, too.  FASB introduced this rule in 2007, so researchers cannot
+untangle its effects from the financial crisis. Preliminary
+research shows a precipitous drop in the use of balance-sheet
+leverage covenants in  Europe  after the European Union adopted
+similar rules in 2005. No wonder: Balance sheets can no longer
+be relied on to record the actual amount that companies owe.  FASB is correct that mark-to-market accounting puts more
+up-to-date information in financial statements, but the theory
+on which that belief is founded places too little emphasis on
+what investors actually use the information for. Until standard
+setters change that mindset, investors need to exercise caution.  (Ray Ball, a professor of accounting at the University of
+Chicago Booth School of Business, is a contributor to  Business
+Class . He is also a trustee of Harbor Funds and chairs its  audit
+committee . The opinions expressed are his own.)  Read more opinion online from  Bloomberg View .  Today’s highlights: the View editors on what’s missing from the
+ U.S.-Afghanistan pact  and better ways to  fix the farm bill ;  Ezra
+Klein  on how  the U.S. isn’t like Greece ;  Amity Shlaes  on why  we
+should all back the gold standard ;  Caroline Baum  on the lack of
+ alternatives to austerity ; Josh Barro on  new arguments for a U.S.
+value-added tax .  To contact the writer of this article:
+Ray Ball at  ray.ball@chicagobooth.edu   To contact the editor responsible for this article:
+Max Berley at  mberley@bloomberg.net  

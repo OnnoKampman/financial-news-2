@@ -1,0 +1,99 @@
+-- 
+Sensitive U.S. Data Imperiled by Agencies’ Weak Cyberdefenses
+
+-- B y   J u l i a n n   F r a n c i s
+-- 
+2011-10-04T04:01:01Z
+
+-- http://www.bloomberg.com/news/2011-10-03/sensitive-data-systems-at-risk-in-u-s-agencies-gao-reports.html
+U.S. government agencies’ failure to
+meet the requirements of a 2002 information-security law are
+putting sensitive federal data and computer systems at risk,
+according to congressional auditors.  Reports of security incidents at 24 agencies have increased
+more than sevenfold over the past five years, according to a
+Government Accountability Office report released yesterday. The
+agencies haven’t fully implemented security measures mandated
+under the law, according to the report, which was sent to the
+Senate Committee on Homeland Security and Governmental Affairs
+and the House Committee on Oversight and Government Reform.  “Threats to systems supporting critical infrastructure and
+federal  information systems  are evolving and growing,”
+according to the report. “Advanced persistent threats -- where
+an adversary that possesses sophisticated levels of expertise
+and significant resources can attack by using multiple means
+such as cyber, physical, or deception to achieve its objectives
+-- pose increasing risks.”  Agencies have not taken steps to comply with GAO security
+recommendations, according to the report. For example, the
+ Internal Revenue Service  and the Federal Deposit Insurance Corp.
+have not restricted database and system access for users to only
+what is needed to perform their jobs. The FDIC also does not
+always encrypt sensitive data, according to the report.  “There is perhaps no greater vulnerability that Congress
+has yet to address through legislation than the insecurity of
+cyberspace,” Senator  Susan Collins  of  Maine , the top Republican
+on the governmental affairs committee, said in a statement. “We
+must fortify the government’s efforts to safeguard its own cyber
+networks from attack and build a public/private partnership to
+promote stronger national cyber-security.”  ‘Risk Management’  The government needs to go beyond the requirements of the
+current law, which is outdated, said Liesyl Franz, vice
+president of cybersecurity and global public policy at
+TechAmerica, a Washington-based technology industry group.  “It’s hard to say that if you’re fully compliant, you’d be
+more secure,” Franz said in an interview yesterday. It’s more
+important for agencies to be fully aware of their network and
+the systems in which they keep data, she said.  If agencies “haven’t fully embraced the risk-management
+aspect of this,” they should focus on having better awareness
+of their vulnerabilities, including the number of connections to
+their networks and the number of people capable of accessing
+their systems, Franz said.  41,776 Incidents  The  Federal Information Security Management Act  (FISMA) of
+2002 established government-wide security standards for computer
+systems and set reporting requirements for U.S. agencies. The
+GAO is required to make periodic reports to Congress on
+government compliance.  Federal agencies control 11,310 information systems,
+according to the report. Of those, 1,296 are high-impact,
+meaning a loss of system integrity or availability may have a
+“catastrophic adverse effect” on “organizational operations,
+organizational assets or individuals,” according to the report.  The number of incidents reported by federal agencies to
+Homeland Security Department’s  Computer Emergency Readiness Team 
+(US-CERT) increased to 41,776 incidents in fiscal year 2010 from
+5,503 incidents in fiscal year 2006, according to the report.  Thirty percent of the incidents reported by agencies to US-
+CERT involved the installation of malicious software that
+infects an operating system or application, according to the
+report. Agencies are not required to report successfully
+quarantined viruses, worms and other malicious code.  ‘Obvious Weaknesses’  An additional 26 percent of incidents in 2010 are still
+being investigated, according to the report. In 14 percent of
+reported incidents, someone gained access to an agency network,
+system, application, data or other resources without permission.  “These findings are all the more troubling given that GAO
+has been telling us for some time that these are areas of
+vulnerability and must be addressed, yet we still haven’t made
+enough progress in shoring up these obvious weaknesses,”
+Senator Tom Carper, a Delaware Democrat and chairman of the
+subcommittee on federal financial management, said in a
+statement.  The  Homeland Security  Department “has taken many steps to
+improve the cybersecurity posture of federal agencies,” Chris
+Ortman, a DHS spokesman, said in an e-mail. The department has
+pushed for agencies to be able to continuously monitor the
+security of their networks, he said.  Authorized Users  The GAO found that most of the agencies reviewed have
+weaknesses in access controls, which ensure that only authorized
+users can access data, and configuration management controls,
+which assure that only authorized software is installed.  FISMA requires the Office of Management and Budget to
+oversee policy implementation and compliance, agency heads and
+chief information officers to protect their systems, inspectors
+general to conduct yearly independent evaluations and the
+ National Institute of Standards and Technology  to provide
+security guidance.  OMB has taken some steps to improve federal information
+security, according to the GAO report. The office has created
+tools to increase security reporting by agencies and has set
+metrics for reporting, though the majority of those metrics did
+not establish performance goals.  Agencies’ efforts to educate users on security awareness
+are falling short, according to the report. The agencies
+reported that while 92 percent of users with log-in privileges
+had received training, there are weaknesses such as how current
+or specialized the training is.  In one security incident described by the GAO, a user on an
+unnamed agency’s network “was tricked by a carefully crafted e-
+mail to go to a website on the pretense that he had won a new
+car in a lottery,” according to the report. The user later
+“found that several credit cards had been opened in his name
+and large amounts of pet supplies had been ordered without his
+knowledge.”  To contact the reporter on this story:
+Juliann Francis in Washington at 
+ jfrancis31@bloomberg.net   To contact the editor responsible for this story:
+Michael Shepard at 
+ mshepard7@bloomberg.net  

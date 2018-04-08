@@ -1,0 +1,112 @@
+-- Trading Errors Show Uneven Testing Policies, NYSE Executive Says
+-- B y   N i n a   M e h t a   a n d   W h i t n e y   K i s l i n g
+-- 2012-10-03T02:30:51Z
+-- http://www.bloomberg.com/news/2012-10-03/trading-errors-show-uneven-testing-policies-nyse-executive-says.html
+Not every trading firm has the same
+commitment to ensuring their systems are sound, a  NYSE Euronext (NYX) 
+official said at a meeting called by the Securities and Exchange
+Commission on technology breakdowns in markets.  The cycle of coding, testing and implementing software
+encompasses plans that start as notes on napkins to formal
+approaches “where an idea has to pass through a set of
+filters” before it’s converted into computer code, Lou Pastina,
+executive vice president for NYSE operations at NYSE Euronext,
+said at the SEC meeting yesterday. Regulators should review how
+often brokers and other firms evaluate their algorithms and
+trading through exchange-sponsored testing systems, he said.  “It’s amazing to me how many times software gets
+introduced and firms don’t test with you,” Pastina said.
+“Whether we have test symbols in production or we run industry
+tests, it’s always the same firms that come in and test -- and
+those are the firms that generally don’t have issues. There’s a
+long list of firms that never show up.”  Technology executives of trading firms and exchanges argued
+that while no system can stop every trading mishap, improved
+testing and oversight of computers can limit them. SEC Chairman
+ Mary Schapiro  is looking for ways to ensure errors such as
+ Knight Capital Group Inc. (KCG) ’s $440 million trading loss on Aug. 1
+don’t create catastrophes for the broader market.  ‘Strongest Message’  “Perhaps the strongest message from the Knight Capital
+episode is that the party committing an error may very well end
+up bearing a massive financial loss,” Schapiro  said . While
+that’s a “wake-up call” to the securities industry, “our
+concern is not whether a single firm might fail, but whether it
+causes collateral damage to investors and their confidence in
+the integrity and stability of our markets,” she said.  The SEC is assessing how market behavior has been altered
+after 15 years of regulatory reform and advances in technology
+that have left  stock trading  fragmented across 13 exchanges, 10
+options markets and dozens of venues operated privately by
+brokerages. The speed of trading in an interconnected market can
+produce “drastic harm” when errors occur, Schapiro said.  “There is no technical fix,” Nancy Leveson, a professor
+of aeronautics and astronautics and engineering systems at the
+ Massachusetts Institute of Technology , told the SEC. “That
+doesn’t mean we shouldn’t test, use the highest quality-
+assurance methods, and do everything we can to build great
+software.”  Stricter Oversight  More discipline in software development for trading and
+stricter oversight of the process is critical, as it is in
+building airplanes and medical devices, she said.  “Failsafe and fault-tolerant designs, whether these
+features are automated or use humans in a monitoring function,
+are a goal and not yet a reality,” Leveson said. “If instead
+this industry engages in hubris and wishful thinking, we’re all
+going to have to live with the consequences.”  Deciding when enough testing has been done for a strategy
+or program to be deployed is a judgment call, Jamil Nazarali,
+head of Citadel Execution Services, said at the meeting.  “You never really know if the testing is enough,”
+Nazarali said. “It’s really just a business judgment where you
+look at the cost-benefit of a potential error.”  Citadel LLC, the Chicago-based hedge fund with a market-
+making subsidiary that competes with Knight, developed “fusebox
+technology” over the last decade that tracks executions, he
+said. If daily volume exceeds preset parameters or the brokerage
+unit’s profits or losses go “out of bounds,” the fusebox
+trips, he said. A person must turn it back on.  System Controls  Minimizing the effect of technology breakdowns requires
+regulators to define and enforce “minimum frameworks” for
+system controls at brokers and exchanges, Citadel said in its
+written  testimony  for the meeting. Exchanges should also have
+the authority to halt activity that looks erroneous and may hurt
+a broker or the market, it said. Citadel said it accounts for a
+daily average of 13 percent of U.S. equities volume.  Automated shutdowns known as kill switches that would stop
+trading at a securities firm when its volume surpasses preset
+maximums are one answer, according to Nasdaq OMX Group Inc.’s
+Anna Ewing. Brokers shouldn’t count on exchanges as the primary
+means of preventing errant trading, she said.  A working group of exchange and investment professionals
+said last week an automatic shutoff may have prevented the
+Knight software error.  ‘Easy Button’  “Kill switches are important, but we need to ensure that
+we don’t think of them as the big red easy button,” Ewing,
+executive vice president and chief information officer at Nasdaq
+OMX, told the SEC. “It’s layered, it’s complex. There’s
+decision-making criteria. There is that human element
+involved,” she said. “The kill switch at the exchange level is
+really the last resort.”  Nasdaq OMX generated criticism from its member firms in May
+for failing to stop trading in  Facebook Inc. (FB)  after botching the
+initial public offering. A software problem prevented it from
+including all the orders and updates to those trade requests in
+the initial auction to set the share price. The fix to get
+trading started then impeded the dissemination of execution
+reports, leaving brokers and investors confused for hours about
+whether they owned shares.  While trading in Facebook wasn’t erroneous activity by a
+broker, Ewing said “ crisis management  101” includes having
+predetermined rules or processes to handle an unexpected event.
+She spoke about crises in general and not the Facebook incident.  Complexity Management  “The philosophy is not just about how something is going
+to work, but how do you break it and what happens when it’s
+broken?” she said. “To deal with the complexity that’s
+required and the monitoring that’s involved, we’re actually
+looking at more instrumentation, more self-healing mechanisms,
+more technology to help complement the oversight that takes
+place within our operations centers.”  A exchange kill switch for trading by member firms could be
+preceded by a warning phone call from the venue that volume is
+reaching a threshold, so humans could intervene and potentially
+explain the reason for the spike in activity, Ewing said.  Nasdaq
+OMX (NDAQ)  is examining what mechanisms and rules could apply to
+shutdown systems and how they could be calculated, she said.  Exchanges and regulators shouldn’t be too rigid about when
+a kill switch is implemented because stopping all trading may
+worsen a problem for a broker trying to correct a failure,
+according to Lou Steinberg, chief technology officer of TD
+Ameritrade Holding Corp.  “If we put in predetermined limits, that suggests that we
+can in advance figure out all the combinations and permutations
+and all the ways things might misbehave,” Steinberg said. He
+agreed with the need for some type of kill switch mechanism.
+Still, “The fear of destabilizing the market because of a
+combination of things we haven’t thought of could actually lead
+us to making and implementing a set of technology that doesn’t
+get used the way it should,” he said.  To contact the reporters on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net ;
+Whitney Kisling in New York at 
+ wkisling@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

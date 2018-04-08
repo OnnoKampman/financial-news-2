@@ -1,0 +1,114 @@
+-- 
+Einstein on Wall Street, Time-Money Continuum: Mark Buchanan
+
+-- B y   M a r k   B u c h a n a n
+-- 
+2011-07-28T00:00:45Z
+
+-- http://www.bloomberg.com/news/2011-07-28/einstein-on-wall-street-time-money-continuum-commentary-by-mark-buchanan.html
+What is the value of time? This
+question was once a matter for philosophers such as Plato or
+Aristotle. Today economists claim to know the answer. The
+future, they say, is “discounted” because the value of having
+something or some amount of cash is greater than the value of
+having that same thing or amount of money a year from now.  How much so? Well, if you can put $96 today into an
+investment earning 4 percent interest, it will be worth almost
+$100 in a year. So $100 a year from now is worth only $96 today.  This way of thinking about future assets can make a big
+difference if we look at things more complicated than cash,
+especially if we try to assess their value many, many years into
+the future.  Pretend, for example, that we want to see if it is worth
+creating a costly marine sanctuary that could take many years to
+establish and even longer to effectively protect a population of
+endangered salmon or cod. The costs of the sanctuary come mainly
+in the first years -- the expense of setting it up and policing
+it, as well as perhaps millions of dollars a year in lost
+fishing revenue. The most important benefits, on the other hand,
+may come in the distant future. Even if the fish population
+might increase 100-fold, creating a sustainable fishing industry
+500 years from now that is far more valuable than today’s,
+economists would discount the advantages coming in those distant
+years almost to nothing.  Discounting 4 percent for 500 years in a row means dividing
+the future value by a number close to 500 million. So those
+future benefits contribute virtually zero in the calculation to
+determine if eventual benefits justify the upfront costs.  Calculating a Payoff  This so-called exponential discounting -- reducing the value
+of something by a fixed percentage for each unit of time -- is
+standard practice in economics. It comes into play whenever
+people consider investing for long-term payoff, whether by
+building railroads for high-speed trains or reining in  carbon
+emissions  to preserve the climate. And it discounts the distant
+future especially drastically. This is why economists and others
+often squabble over the right annual percentage to use -- should
+it be 5 percent, 7 percent, 1 percent? Change this a little, and
+values change a lot.  Some economists and philosophers have even argued that in
+cases of environmental preservation 0 percent is the only
+ethically defensible number. That is, no discounting at all. But
+this debate over percentages may actually be a distraction from
+a more serious problem with the formulas used in discounting.  That’s the message of a recent paper written jointly by John Geanakoplos, an economist at  Yale University , and Doyne Farmer,
+a physicist at the Santa Fe Institute, in  New Mexico . They argue
+that economic discounting as currently practiced is logically
+incorrect and, as a result, the cost/benefit analyses done by
+such authorities as the International Panel on  Climate Change 
+and the U.S. Environmental Protection Agency may drastically
+undervalue the future.  Economists like exponential discounting because it seems
+“rational”; in particular, it discounts equal periods of time
+equally. The standard analysis also assumes that the discount
+rate remains constant. That assumption is rather peculiar,
+Geanakoplos and Farmer point out, given that  interest rates 
+bounce up and down all the time -- and the interest rate at any
+moment should be closely linked to the discount rate, to reflect
+how cash investments gain value through time.  Revising the assumption of a never-changing discount rate
+leads to results totally at odds with current economic practice,
+Geanakoplos and Farmer have shown. To understand their argument,
+consider the next half-century. Year by year, the true discount
+rate (which no one knows precisely) will probably fluctuate in
+some complicated way, following one of many possible up-and-down
+paths. Since we don’t know the future, to determine the
+effective discount rate for the 50-year period, we should
+average over all possibilities.  Counting the Paths  That’s simple enough, but here is where things get
+interesting: In calculating this average, some paths turn out to
+contribute far more than others. In particular, paths that
+descend into relatively low rates and stay there for many years
+have a disproportionate effect -- a path at 1 percent for 50
+years, for instance, counts 20 times as much as a path running
+along at 7 percent. Change 50 to 500 years, and the difference
+becomes 10 trillion times.  This demonstrates how simple thinking about the future can
+lead to terrific mistakes. When something fluctuates, we often
+suppose we can use the average rate over time. And sometimes
+this works. The amount of food you will eat over 20 years, for
+example, will be roughly equal to 20 times what you ate last
+year, because your appetite doesn’t fluctuate that much. But
+averaging to get a true effective discount rate isn’t so easy.
+Some of the paths of fluctuation -- the lower paths -- carry
+extraordinary weight, and hence dominate the outcome.  Not surprisingly, Geanakoplos and Farmer find that the
+correct formulas for discounting over long periods don’t follow
+the textbook exponential form. The math is tricky (I’ve put some
+discussion of the technical stuff on  my blog . But the
+consequences are not. Using a standard model from finance for
+interest rate movements (with an average rate of 4 percent), the
+authors show that, for the first 100 years or so, their correct
+form of discounting gives results that are similar to those that
+come from traditional calculations. But at 500 years the
+standard exponential discounts the future not just a little too
+strongly, but a million times too strongly. And it gets worse
+after that.  Going back to the example of the marine sanctuary, and using
+the Geanakoplos-Farmer formula, you find that the present value
+of benefits 500 years from now gets multiplied millions of times
+compared with the standard analysis. A thriving marine ecosystem
+in the future, linked with a much larger fishing industry, might
+well be worth investing in today.  In effect, today’s standard economic methods make the
+distant future count for almost nothing. And those who always
+thought this seemed hopelessly naïve turn out to be right.  The important point, Geanakoplos and Farmer emphasize, is
+that everything about discounting depends on what assumptions
+you make about how variables fluctuate with time. A fixed
+interest rate doesn’t work. And neither does the strong
+exponential discounting to which it leads -- even though most
+economists continue to use it.  This is a prime example of what  John Maynard Keynes  meant
+when he said the ideas of economists “are more powerful than is
+commonly understood.” Economists calculating the value of the
+future to perform cost-benefit analyses that influence how we
+take care of our world have been making some astronomically
+large mistakes.  (Mark Buchanan, a theoretical physicist and the author of
+“The Social Atom,” is a Bloomberg View columnist. The opinions
+expressed are his own.)  Read more  Bloomberg View columns .  To contact the writer of this article
+Mark Buchanan at  buchanan.mark@gmail.com .  To contact the editor responsible for this article:
+Mary Duenwald at   mduenwald@bloomberg.net . 

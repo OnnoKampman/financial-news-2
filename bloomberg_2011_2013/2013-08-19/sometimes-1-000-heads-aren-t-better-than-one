@@ -1,0 +1,91 @@
+-- Sometimes 1,000 Heads Aren’t Better Than One
+-- B y   C a s s   R .   S u n s t e i n
+-- 2013-08-19T13:59:14Z
+-- http://www.bloomberg.com/news/2013-08-19/sometimes-1-000-heads-aren-t-better-than-one.html
+We are in the midst of an explosion
+of interest in collective intelligence, sometimes described as
+“the wisdom of crowds.” The basic idea is that if you
+aggregate the knowledge of a lot of people, you are likely to
+come up with the correct answer. If two heads are better than
+one, then a hundred heads are even better, and once we are
+dealing with thousands, a good answer starts to look inevitable.
+This idea has major implications for business decisions, stock
+markets, political movements and democracy itself.  In 1907, Francis Galton provided a  memorable example . He
+asked about 800 people to guess the weight of an ox. None of
+them gave the correct answer (1,198 pounds), but the mean
+response was eerily accurate (1,197 pounds). Many experiments
+have replicated Galton’s finding, showing that if a large group
+is asked to make some numerical estimate, the mean answer (and
+sometimes the average) is remarkably good.  This kind of crowd wisdom seems like a parlor trick, but it
+has important practical lessons. Suppose we want to make a
+prediction about a presidential election, gross domestic product
+growth, the  unemployment rate  or the sales of a new commercial
+product. If we have a large number of predictions, we might want
+to aggregate them and use something like the average. Indeed,
+this is a significant part of the approach taken by Nate Silver
+in his  highly publicized , and stunningly successful, work on
+recent elections.  Predictive Value  Alternatively, we might want to create a “prediction
+market,” in which people make wagers on what they think will
+happen and the market’s odds emerge from those wagers. The  Iowa
+Electronic Markets  have long done something like this for
+presidential elections. Google Inc., Microsoft Corp.,  Hewlett-Packard Co. (HPQ)  and other businesses have been experimenting with
+prediction markets as well.  In general, the resulting forecasts have proved extremely
+accurate. With respect to economic forecasts, prediction markets
+outperform both professional forecasters and polls. The  most
+dramatic finding  is that market prices often operate as
+probabilities. Some research has found that when prices suggest
+that events are likely to occur with 90 percent probability,
+they occur 90 percent of the time; when prices suggest a
+probability of 80 percent, the events happen 80 percent of the
+time; and so forth.  An appreciation of crowd wisdom suggests that social
+networks hold special potential, because they can aggregate
+diverse views with astonishing speed. These networks make it
+easy to find out whether people like certain goods and services,
+and if a lot of people do, perhaps we have reason for confidence
+about those goods and services. But  recent research  raises
+cautionary notes. It turns out that crowds may have much less
+wisdom when their members are listening to one another. In such
+cases, we can end up with forms of herding, or social cascades,
+that reflect serious biases.  Researchers have long known that crowds can be misled if
+their members influence one another. But the  new research  goes
+far beyond this simple point. Lev Muchnik, a professor at Hebrew
+University of  Jerusalem , and his colleagues used a website that
+aggregates stories and allows people to post comments, which can
+in turn be voted “up” or “down.” An aggregate score comes
+from subtracting the number of down-votes from the number of up-votes.  The researchers created three conditions: “up-treated,”
+in which a comment, when it appeared, was automatically and
+artificially given an immediate “up” vote; “down-treated,”
+in which a comment, when it appeared, was automatically and
+artificially given an immediate “down” vote; and “control,”
+in which comments did not receive an artificial initial signal.
+Millions of site visitors were randomly assigned to one of the
+three conditions.  Surprising Results  You might think that after so many visitors (and hundreds
+of thousands of ratings), the single initial vote could not
+possibly matter. If so, you would be wrong. After seeing an
+initial up-vote, the first viewer became 32 percent more likely
+to give an up-vote himself. What’s more, this effect persisted
+over time. After a period of five months, a single positive
+initial vote artificially increased the mean rating of comments
+by 25 percent. It also significantly increased “turnout” (the
+number of ratings).  With respect to negative votes, the picture was not
+symmetrical. The initial down-vote did increase the likelihood
+that the first viewer would also give a down-vote. But the
+effect was rapidly corrected, and after a period of five months,
+the artificial down-vote had no effect on median ratings (though
+it did increase turnout). Muchnik and his colleagues conclude
+that “whereas positive social influence accumulates, creating a
+tendency toward ratings bubbles, negative social influence is
+neutralized by crowd correction.” They believe that their
+findings have implications for product recommendations, stock-market predictions and electoral polling.  We should be careful before drawing large lessons from a
+single study, particularly when no money was on the line. But
+there is no question that some products, people, movements and
+ideas have enjoyed social success only because of the functional
+equivalent of early up-votes. On the Internet and elsewhere,
+there are lessons here about the essential unpredictability of
+crowds -- and about their occasional  lack of wisdom .  (Cass R. Sunstein, the Robert Walmsley University professor
+at  Harvard Law School , is a Bloomberg View columnist. He is the
+former administrator of the White House Office of Information
+and Regulatory Affairs, the co-author of “Nudge” and author of
+“Simpler: The Future of Government.”)  To contact the writer of this article:
+Cass R. Sunstein at  csunstei@law.harvard.edu .  To contact the editor responsible for this article:
+David Shipley at  dshipley@bloomberg.net . 

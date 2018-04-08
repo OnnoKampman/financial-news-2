@@ -1,0 +1,110 @@
+-- SEC Charges Dark-Pool Operator for Sharing Confidential Data
+-- B y   N i n a   M e h t a   a n d   W i l l   D a l e y
+-- 2012-10-03T22:22:42Z
+-- http://www.bloomberg.com/news/2012-10-03/sec-charges-dark-pool-operator-for-sharing-confidential-data-3-.html
+Dark-pool operator eBX LLC agreed to
+pay an $800,000 penalty to settle charges that it failed to
+protect customers’ confidential trading information, the
+Securities and Exchange Commission said.  The payment also settles allegations that eBX, which runs
+the  Level ATS  dark pool, failed to tell subscribers that it
+allowed a technology firm to use data about unexecuted orders,
+the SEC said today in a statement. The outside company was
+identified as Lava Trading, a unit of  Citigroup Inc. (C)  that built
+the dark pool, in a letter from Level ATS to clients that was
+obtained by  Bloomberg News .  “Dark pools are dark for a reason: buyers and sellers
+expect confidentiality of their trading information,”  Robert Khuzami , the SEC’s director of the division of enforcement, said
+in the statement. “Many eBX subscribers didn’t get the benefit
+of that bargain.”  The SEC has penalized exchanges and brokerages at least
+three times in the last month for rule violations. NYSE Euronext
+was ordered to pay $5 million to resolve claims that the New
+York Stock Exchange gave certain customers a head start on
+quotation and transaction market data, and the SEC charged a New
+York-based brokerage for allowing overseas clients to run a
+scheme aimed at distorting stock prices.  Routing Decisions  One of the key features of dark pools is that they don’t
+identify the brokers and institutions that buy and sell on their
+systems and give out no information about their orders. The
+platforms are designed to avoid the market impact of trading
+requests by keeping them out of public view until the moment a
+transaction is completed.  EBX allowed the technology company access to information
+about unexecuted orders for its own business purposes, according
+to the statement from the SEC. The outside firm was able to use
+the knowledge to make routing decisions for its own customer
+orders in a separate business, the SEC said. Lava’s so-called
+smart order router, which decides how and when to send trade
+requests to different venues, is known as  ColorBook .  Level ATS, a dark pool or alternative trading system that
+doesn’t display price quotes to the public, began operating in
+October 2006. Boston-based eBX was formed by Citigroup, Credit
+Suisse Group AG,  Fidelity Investments , Lehman Brothers Holdings
+Inc. and Merrill Lynch & Co.  Equity Volume  Level accounted for 0.7 percent of U.S. equities volume, or
+a daily average of more than 37 million shares, in August,
+according to data compiled by Rosenblatt Securities Inc. Credit
+Suisse’s Crossfinder, the largest U.S. dark pool, traded more
+than 90 million shares a day, the Sept. 24 report said.  “At the end of the day, a lot of the securities business
+is based on trust,” Sang Lee, managing partner at Boston-based
+research firm Aite Group LLC, said in a telephone interview.
+“Nothing good will come out of the fact that they wound up
+sharing information with a technology vendor. It gives an
+advantage to one client over others.”  The SEC  said  the outside firm’s order-routing business
+“received an information advantage over other Level subscribers
+because it was able to use its knowledge of their orders to make
+routing decisions for its own customers’ orders and increase its
+execution rate.” Armed with pricing information about orders at
+Level, the firm could send trade requests to Level or elsewhere
+based on where it could get a better price, the SEC said.  Lava Trading  Lava Trading, which built and operates Level, has provided
+technology to the venue since it began trading in 2006, Whit Conary, chief executive officer of Level ATS, said in the letter
+to clients today. The firm was required to keep Level’s order
+information private. In 2008, Lava asked Level if it could use
+data about the dark pool’s orders to improve its own decisions
+about where to send buy and sell requests from its customers and
+received permission, Conary said in the letter.  The SEC’s administrative order against Level did not
+mention Lava by name and didn’t say the technology company did
+anything wrong. Scott Helfman, a spokesman for Citigroup,
+declined to comment.  The regulatory sanction follows the disclosure by Liquidnet
+Holdings Inc. in June that the SEC was investigating the dark-
+pool operator for shortcomings in how it guarded private
+information about firms using its platform. Pipeline Trading
+Systems LLC settled government allegations in 2011 that it
+failed to provide the liquidity and confidentiality it
+advertised to customers of its dark pool.  Other Requests  Level, which had declined requests by other dark pools and
+exchanges for information about orders at the venue, decided
+that Lava’s plan wouldn’t give the firm data it didn’t already
+possess as a technology provider and that the data wouldn’t be
+disclosed to ColorBook users or other parties, Conary wrote.
+Lava stopped using the feature in April 2011, the letter said.  Level violated  Regulation ATS , a set of rules for
+alternative trading venues, from at least 2008 until early 2011,
+according to the SEC. The regulator said it found no evidence
+that information about Level’s unexecuted orders were shown or
+sent to clients of the technology firm’s order-routing business
+or other parties. It also said the firm didn’t get better prices
+at Level than it would have received without employing the
+“memory feature” that gave it information about orders at
+Level.  The dark pool operator didn’t admit or deny wrongdoing in
+settling with the SEC.  Keep Confidential  “Lava has always been obligated to maintain the
+confidentiality of customer information,” Conary said in an e-
+mail. “As the SEC itself stated in the order, at no time was
+customer information displayed to any customer placing orders or
+making trading decisions. Lava’s smart router was permitted to
+use the customer information resident within our trading system
+solely to make routing decisions.”  The technology company’s order-routing business benefited
+by being able to send buy requests to Level when it knew a sell
+order was waiting or vice versa, the SEC said. It filled between
+30 percent and 70 percent of orders that had to be completed
+immediately or canceled that were sent to Level from about May
+2008 through June 2009, compared with 1 percent to 2 percent for
+other subscribers, the commission said.  The company accounted for between 4 percent and 11 percent
+of shares traded in Level during that period, the SEC said.  The broker affiliated with Level’s technology provider also
+enabled a stock market it ran to make routing decisions based on
+order information from the dark pool, the SEC said. Citigroup
+operates  LavaFlow ECN , an electronic communications network.  “The fact that Level has apparently violated these rules
+and the promised conduct by which they operate is a grave
+misstep,” Matt Samelson, principal at Woodbine Associates Inc.,
+a research firm based in  Stamford ,  Connecticut , said in an
+email. “Customers have to trust their brokers and ATS
+operators. This means outlining the rules of engagement and
+following them.”  To contact the reporters on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net ;
+Will Daley in New York at 
+ wdaley2@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

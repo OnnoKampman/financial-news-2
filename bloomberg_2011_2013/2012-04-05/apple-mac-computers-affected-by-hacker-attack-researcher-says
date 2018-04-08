@@ -1,0 +1,44 @@
+-- Apple Mac Computers Hit in Hacker Attack, Researcher Says
+-- B y   J o r d a n   R o b e r t s o n
+-- 2012-04-05T20:49:59Z
+-- http://www.bloomberg.com/news/2012-04-05/apple-mac-computers-affected-by-hacker-attack-researcher-says.html
+More than 600,000  Apple Inc. (AAPL)  Mac
+computers were affected by a hacking attack, a sign that the
+once rarely targeted company is becoming a bigger focus for
+people intent on spreading malware, a security-research firm
+said.  The attack affects computers running Apple’s Mac OS X
+software, according to Russian antivirus software maker Doctor
+Web. Most of the infected computers are in the  United States (X)  and
+ Canada , the firm  said  in a blog posting.  Apple fixed  a security
+hole this week that let the malicious software spread. Users who
+haven’t downloaded the necessary updates are vulnerable, Doctor
+Web said.  “This once again refutes claims by some experts that there
+are no cyber-threats to Mac OS X,” Doctor Web said. Apple
+spokesman  Bill Evans  declined to comment on the hacker attack.
+He noted that there are 63 million Macs in use worldwide.  Macs have historically been an unappealing hacking target
+because of their low market share. Instead, criminals have
+attacked personal computers running Microsoft Corp.’s Windows
+software, seeking the biggest number of victims for illicit
+moneymaking schemes. Windows runs on more than 90 percent of the
+world’s desktop computers, according to market researcher  Net
+Applications .  The attack that Doctor Web analyzed is an especially
+harmful variety that infects computers without user interaction.
+To get hit, users just need to visit a poisoned webpage and the
+infection happens silently in the background. The vulnerability
+that allows the attack to take place exists in Java, the widely
+used programming language for building web pages.  Security Patch  Boris Sharov, Doctor Web’s chief executive officer, said in
+an interview that the spread of the infection appears to have
+leveled off at around 600,000 computers, a sign of the
+effectiveness of the security patch. He pointed to a Doctor Web
+page for detecting and removing the malicious software, which is
+called  BackDoor.Flashback.39.   The malicious software first appeared in September and has
+gone through a number of transformations since then, targeting
+Macs and generally being used to steal personal information such
+as passwords, according to Liam O Murchu, a manager of security-
+response operations at Symantec Corp.  “It just shows that no matter what operating system you’re
+using, you can be at risk,” he said in a phone interview today.
+“No one is immune.”  To contact the reporter on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

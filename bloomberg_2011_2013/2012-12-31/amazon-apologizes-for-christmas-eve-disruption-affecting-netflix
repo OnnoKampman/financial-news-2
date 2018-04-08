@@ -1,0 +1,47 @@
+-- Amazon Apologizes for Christmas Eve Outage Affecting Netflix
+-- B y   D a n i e l l e   K u c e r a
+-- 2012-12-31T19:14:44Z
+-- http://www.bloomberg.com/news/2012-12-31/amazon-apologizes-for-christmas-eve-disruption-affecting-netflix.html
+Amazon.com Inc. (AMZN)  apologized for a
+Dec. 24 disruption in its cloud-computing services that hindered
+ Netflix Inc. (NFLX)  customers from watching movies, and said it is
+taking steps to prevent a recurrence.  Netflix said last week that many users in the Americas were
+unable to access online content on Christmas Eve because of an
+outage caused by Amazon’s Web storage and computing system.
+Amazon didn’t identify Netflix in its  statement , which was
+posted online on Dec. 29, according to Tera Randall, a
+spokeswoman for Amazon Web Services.  “We want to apologize,” Seattle-based Amazon said. “We
+know how critical our services are to our customers’ businesses,
+and we know this disruption came at an inopportune time for some
+of our customers.”  Amazon, the largest online retailer, has billed its 6-year-
+old cloud-computing offering as a cheap and safe way for
+customers to outsource their data centers. It’s a business that
+may bring in about $1.5 billion in revenue for Amazon in 2012,
+according to  Colin Sebastian , an analyst at Robert W. Baird &
+Co. in  San Francisco . Occasional outages can undermine
+confidence in the service, which makes it possible for companies
+like Netflix to run their operations via the Internet.  While Amazon Web Services accounts for a fraction of the
+$62 billion in sales analysts are projecting for the company in
+2012, the business is more profitable than the retail
+operations. The segment has about a 10 percent operating margin,
+Sebastian said. That compares with a 1 percent  margin  expected
+in 2012 for the entire company, according to the average of
+analysts’ estimates compiled by Bloomberg.  Accidentally Deleted  The disruption began at at 12:24 p.m. Seattle time on Dec.
+24 and continued until the following day, according to Amazon.
+The problem was related to Amazon’s Elastic Load Balancing
+service, which apportions demand for computing power among the
+servers that are most able to handle the work loads.  Amazon said that data was accidentally deleted in a
+maintenance process run by a small number of developers, which
+prompted high latency and error rates for technology that
+manages the load balancers. At the peak of the event, 6.8
+percent of ELB load balancers were affected, the company said.  The outage occurred in the eastern U.S., where Amazon has 
+data centers in northern  Virginia . That region was hit by storms
+earlier this year that caused Netflix to lose control over 
+streaming content for about three hours on June 29.  Amazon Web Services is used by companies in more than 190
+countries, letting them rent servers for their websites, support
+mobile applications and store customer data, according to
+Amazon.  To contact the reporter on this story:
+Danielle Kucera in San Francisco at 
+ dkucera6@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

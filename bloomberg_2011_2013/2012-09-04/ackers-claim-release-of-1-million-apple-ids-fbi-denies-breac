@@ -1,0 +1,52 @@
+-- Apple, FBI Deny Hacker Claim of Breach of Apple User Data
+-- B y   J o r d a n   R o b e r t s o n   a n d   A d a m   S a t a r i a n o
+-- 2012-09-05T17:08:37Z
+-- http://www.bloomberg.com/news/2012-09-04/hackers-claim-release-of-1-million-apple-ids-fbi-denies-breach.html
+Apple Inc. (AAPL)  and the U.S.  Federal
+Bureau  of Investigation denied claims by hackers who said they
+stole information on 12 million Apple Inc. user accounts from an
+FBI computer.  Many of the hackers’ claims, posted this week in a long
+online  missive  from the group calling itself Anonymous. The FBI
+said in a statement yesterday that there was “no evidence
+indicating that an FBI laptop was compromised or that the FBI
+either sought or obtained this data.”  Apple said it didn’t provide any user information to the
+FBI or other organizations.  “The FBI has not requested this information from Apple,
+nor have we provided it to the FBI or any organization,” said
+ Natalie Kerris , an Apple spokeswoman.  The hackers may have posted some legitimate users’ device
+names and the unique identifier codes assigned to their iPhones,
+iPads and iPod Touches, according to Sean Sullivan, a security
+adviser at F-Secure Corp. who examined a data file that the
+hackers released. It isn’t known whether the hackers really have
+the other information they claim to have redacted from the data
+file, including user names, mobile phone numbers and addresses.  “What they have released is not a very serious breach at
+all,” Sullivan said in an interview. As for claims that the
+information came from the FBI, he said, “they’ve offered no
+additional corroborating evidence, they’ve offered nothing else
+-- they’ve immediately demanded no interviews. I think they’ve
+made it up.”  Anonymous Attacks  The incident is the latest skirmish between hackers
+operating under the banner of Anonymous -- who have often
+cultivated the media to promote their attacks, and have
+sometimes fallen short in their claims -- and law-enforcement
+agencies and large corporations that the hackers argue are
+violating digital freedoms.  The hackers say they accessed the Apple data in March by
+breaking into a laptop of FBI agent Christopher Stangl, who has
+been active online in recruiting agents with cyber-security
+savvy. They claim to have used a vulnerability in Java, the
+popular Internet technology managed by  Oracle Corp. (ORCL)  whose flaws
+were exploited in attacks that infected more than 600,000 Mac
+computers in April and more than 100,000 Windows machines last
+week.  By themselves, the device codes released in the latest
+incident aren’t sensitive. Called unique device identifier
+numbers, or UDIDs, they are just strings of numbers and letters
+that have limited value when viewed in isolation.  Still, taken with other information, they may be used to
+authenticate users trying to access a service. Amid  privacy 
+complaints, Apple earlier this year banned applications that use
+the code for tracking.  Apple said that its latest version of software for the
+iPhone and mobile devices introduces new features that replace
+the use of UDIDs, which will be eventually phased out.  To contact the reporters on this story:
+Jordan Robertson in  San Francisco  at 
+ jrobertson40@bloomberg.net ;
+Adam Satariano in San Francisco at 
+ asatariano1@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

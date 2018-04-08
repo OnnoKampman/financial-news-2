@@ -1,0 +1,48 @@
+-- 
+IPhone, IPad Tracking Is Probably a ‘Mistake,’ Researchers Say
+
+-- B y   A d a m   S a t a r i a n o
+-- 
+2011-04-21T21:49:20Z
+
+-- http://www.bloomberg.com/news/2011-04-21/apple-iphone-tracking-is-probably-engineering-mistake-researchers-say.html
+The iPhone and iPad’s ability to
+logs users’ whereabouts is probably a mistake that  Apple Inc. (AAPL) 
+will eliminate, said the researchers who discovered the feature.  "If this was a conspiracy, this file would have been hidden
+better and we wouldn’t have found it,’’ said Alasdair Allan, one
+of the computer programmers who discovered the tracking feature.
+“Our best guess is this was an engineering mistake.”  Allan and former Apple software engineer Pete Warden said
+they stumbled upon the file where all the location data was
+being stored by accident while toying with the iPhone to see
+what other data could be pulled from the device. They were
+surprised to find a file with about 29,000 logs of their
+whereabouts -- about a year’s worth.  They determined that Apple’s iOS 4 operating system for the
+iPhone and iPad 3G is logging latitude-longitude coordinates
+along with the time stamp of when a spot was visited. The data
+is transferred to the hard drive of a computer when the 3G
+iPhone or iPad is synched.  "As data geeks, my first reaction was, ‘this is really
+cool; I love seeing this story of my life play out on a map,’"
+said Allan. "My second reaction was, ‘I don’t want anybody else
+to see.’"  If the feature isn’t eliminated by Apple, customers at
+least need to be able to opt out of having their movements
+logged, said Warden, who used to work on Mac software at Apple.  "The key difference is permission and control," he said.
+"With this file you have no control over that. The user can’t
+give informed consent."  ‘Serious’ Concerns  The discovery has led to criticism of Apple from privacy
+groups, regulators in France and  Germany , as well as U.S.
+lawmakers. Allan and Warden said they reached out to Apple about
+the tracking before publishing their results yesterday and
+didn’t hear back.  "The existence of this information -- stored in an
+unencrypted format -- raises serious privacy concerns," U.S.
+Senator Al Franken, a Democrat from  Minnesota , said in a letter
+to Apple Chief Executive Officer  Steve Jobs  seeking answers to
+questions about how the tracking data is being used.  Apple didn’t respond to multiple requests for comment. The
+company has previously told lawmakers that it collects location
+information about users of its smartphones, the Wall Street
+Journal reported today.  Allan and Warden said they hope publicizing the issue will
+ensure that Apple addresses the tracking feature. They also
+suggest users choose to encrypt data that’s being transferred
+from their iPad or iPhone.  “What we’ve been telling everyone is don’t panic,” said
+Warden. At the same time, "we need to make sure this is fixed."  To contact the reporter on this story:
+Adam Satariano in  San Francisco  at 
+ asatariano1@bloomberg.net   To contact the editor responsible for this story:
+ Tom Giles  at   tgiles5@bloomberg.net . 

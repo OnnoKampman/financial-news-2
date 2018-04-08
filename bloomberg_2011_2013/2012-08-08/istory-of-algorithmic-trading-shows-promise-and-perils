@@ -1,0 +1,91 @@
+-- History of Algorithmic Trading Shows Promise and Perils
+-- B y   C o l i n   R e a d
+-- 2012-08-08T16:30:31Z
+-- http://www.bloomberg.com/news/2012-08-08/history-of-algorithmic-trading-shows-promise-and-perils.html
+When machines replace seasoned
+traders and market makers, mistakes can occur at dizzying speed.  It happened with the notorious “flash crash” on May 6,
+2010, and again on Aug. 1 this year, when software at  Knight
+Capital Group Inc. (KCG)  malfunctioned, triggering unintended trades
+and leading to a $440 million loss for the company.  Ironically, Knight Capital Group was originally known as a
+market maker, with trading specialists who oversaw trades on
+each side of a security to ensure the market functioned in an
+orderly and efficient manner. The company’s troubles once again
+show the extent to which  Wall Street  now relies on algorithmic
+programs to execute its trades, for better or worse.  Although many in the financial world have expressed
+concerns that a new era of automated finance is destabilizing
+the markets, algorithmic trading isn’t new -- it’s almost as old
+as computers themselves.  In 1951, Harry Markowitz, a student at the  University of
+Chicago , took the advice of Jacob Marschak, his Ph.D.
+supervisor, and  focused  his dissertation on applying
+mathematical concepts to the stock market. The eventual result
+was modern portfolio theory, which explained how the variance of
+a security may affect the return that risk-averse investors
+demand for riskier securities.  Previously, the typical method to evaluate securities had
+been the fundamental-analysis approach, developed in the 1930s
+by John Burr Williams, in which investors analyze price-to-
+earnings ratios and other metrics of a company’s health. Both
+techniques were designed to help investors determine the correct
+price for a security, and both became standard tools for
+analysts.  Optimal Portfolio  Once Markowitz proposed his new approach, he helped design
+algorithms that could do the many calculations necessary to
+determine an optimal investment portfolio. With his work and the
+development of the IBM System/360 computer in the 1960s,
+financial economists and practitioners were finally able to
+analyze the millions of data points that modern markets
+generate.  Almost immediately, large investment houses and funds
+explored whether these emerging computer techniques could
+determine which direction a properly priced security ought to
+go. The capital asset-pricing model -- an extension of
+Markowitz’s theory that allowed for pricing individual
+securities -- became the primary tool of asset pricing as a
+function of risk, while fundamental analysis continued to guide
+analysts looking to glean bits of information that others may
+not yet have.  Such pricing techniques were written into computer code
+that told sophisticated traders when a given security was
+undervalued or overvalued. Investment houses began using these
+techniques in the 1970s and ’80s to guide trades. As the
+personal-computer revolution unfolded in the ’80s and ’90s,
+their proprietary techniques were adopted more broadly. Soon,
+extensive research departments were the only advantage that
+investment houses had. Their technological edge was largely
+usurped.  At the same time, another theoretical methodology became
+more widely accepted. Signal theory is a technique used to
+extract patterns and information from data. Chartists, or
+technical analysts, weren’t concerned about what a security
+price ought to be, but rather what fluctuations in a stock price
+might portend. The information that can be gleaned from a
+fluctuating stock price depreciates rapidly, so while investment
+houses focusing on fundamental analysis would execute profitable
+trades over days or weeks, the signals that technical analysts
+detected had to be acted on almost immediately.  Fleeting Information  No longer could an  investment company  afford to wait for a
+human to execute the trade a computer recommended. Computers
+were programmed to act immediately on fleeting information.  Long-Term Capital Management, the hedge fund founded by
+John Meriwether in 1994, used computers to detect very small and
+fleeting differentials in securities prices to make huge profits
+in global bond and derivatives markets in the late ’90s. Their
+profits were fleeting, too, though. Their computer trading
+algorithms were soon imitated by others, which required LTCM to
+seek out new methodologies and markets. Soon, such risk taking
+led to the fund’s downfall. In 1998, the  New York  Federal
+Reserve had to orchestrate a bailout.  Following the LTCM debacle, there was scant attention paid
+to the potentially destabilizing role of algorithmic trading in
+financial markets. LTCM’s techniques weren’t broadly understood,
+and those who appreciated them were busy designing algorithmic-
+trading departments of their own. Few wanted to let that cat out
+of the bag.  Algorithmic trading soon evolved into nanotrading. In the
+signal extraction world, a second is an eternity. An
+algorithmic-trading facility located within a block or two of
+the  New York Stock Exchange (NYX) ’s servers could see trade data a
+millisecond sooner than a trading facility half a state away. A
+modern computer can execute millions of calculations in that
+millisecond. Such signal theory and nanotrading soon required
+that humans were all but removed from trade execution.  We may never return to primary reliance on fundamental
+analysis and computer-aided trading. Chartists and algorithmic
+traders now rule the day, and computers now do battle against
+one another’s algos. If the history of such technology tells us
+anything, it’s that we can expect more meltdowns.  (Colin Read is chairman of the finance department at the
+ State University of New York , Plattsburgh. He is the author of
+the “Great Minds in Finance” series and other finance titles
+published by Palgrave MacMillan.)  Read more Echoes columns  online .  To contact the writer of this post: Colin Read at
+ readcl@gmail.com .  To contact the editor responsible for this post: Timothy Lavin
+at   tlavin1@bloomberg.net . 

@@ -1,0 +1,26 @@
+-- How We Crunched the Numbers to Find the Top Mutual Funds
+-- B y   B l o o m b e r g   R a n k i n g s
+-- 2012-04-09T23:00:30Z
+-- http://www.bloomberg.com/news/2012-04-09/how-we-crunched-the-numbers-to-find-the-top-mutual-funds.html
+The mutual-fund rankings were
+created using two Bloomberg functions. We used the Fund
+Screening (FSRC) function to generate separate lists of funds
+for global and U.S. equities and global and U.S. bonds.  All searches included only active, open-end, U.S.-domiciled
+funds with more than $250 million in total assets. We excluded
+institutional-class, index, sector and market-neutral funds. For
+global equity and global bond funds, we limited the universe to
+funds with at least one-third of their assets invested outside
+the U.S. For the U.S. bond ranking, we included only
+intermediate/long funds.  We used the Fund Scoring (FSCO) function to create a
+scoring model with five criteria: total returns for one, three
+and five years and Sharpe ratios for three and five years, all
+as of Feb. 17. Sharpe ratios were added because they show how
+well the return of a fund compensates investors for the risk
+taken. A fund that takes substantial risk to produce a high
+return may score a lower ratio than a fund that takes less risk
+and gets a lower return.  We gave equal weight to the five criteria. Each of the
+funds in our customized mutual-fund searches was ranked using
+this scoring model. The winning funds were those that received
+the highest scores.  To contact the reporters on this story:
+ rankings@bloomberg.net   To contact the editor responsible for this story: Michael
+Serrill at   mserrill@bloomberg.net . 

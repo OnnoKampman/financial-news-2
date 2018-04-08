@@ -1,0 +1,103 @@
+-- 
+Dell Loses Orders as Facebook Do-It-Yourself Servers Gain: Tech
+
+-- B y   I a n   K i n g   a n d   D i n a   B a s s
+-- 
+2011-09-12T04:01:00Z
+
+-- http://www.bloomberg.com/news/2011-09-12/dell-loses-orders-as-facebook-do-it-yourself-servers-gain-tech.html
+When Facebook Inc. set out to build
+two new data centers, engineers couldn’t find the server
+computers they wanted from  Dell Inc. (DELL)  or  Hewlett-Packard Co. (HPQ)  They
+decided to build their own.  “We weren’t able to get exactly what we wanted,” Frank
+Frankovsky, Facebook’s director of hardware design, said at a
+conference on data-center technology last month.  Hewlett-Packard, Dell and companies that sell the computers
+off the shelf are losing sales in a key market because Facebook
+and larger rival  Google Inc. (GOOG)  are leading a switch among Internet
+companies to do-it-yourself servers. These customized machines
+now account for 20 percent of the U.S. market for servers, which
+generated $31.9 billion globally in last year, said Jeffrey Hewitt, an analyst at Stamford, Connecticut-based Gartner Inc.  As sales of personal computers slump and consumers shift to
+tablets such as Apple Inc.’s iPad, computer makers are becoming
+more dependent on servers. Dell and Hewlett-Packard lose out
+when they’re shunned by large customers such as Facebook, which
+are outfitting data centers with thousands of servers.  “It’s definitely a threat to the traditional business
+model,” said  Jim McGregor , chief technology  strategist  for
+researcher In-Stat in Scottsdale,  Arizona . “Customers are
+finding solutions that the industry wasn’t ready to provide.”  Buyers say custom servers provide a cheaper, more efficient
+way of meeting the boom in demand for personal data shared via
+the Web. A lot of that demand can be met by less expensive
+machines shorn of the components, upgrades and backup services
+that server makers traditionally offer to large corporations.  Hold the ‘Pickles’  “People want to be able to build it their way,”
+Frankovsky said at the Dell-Samsung Chief Information Officer
+Forum in Half Moon Bay, California. “They kind of want a Burger
+King: ‘I don’t like pickles -- why do I have to have pickles?’”  The market for servers, which increased almost 20 percent
+in the second quarter, is outpacing growth in desktop PCs as
+companies upgrade their corporate networks and snap up the
+thousands of servers needed to run data centers.  That traditionally has spurred demand for machines made by
+Hewlett-Packard, Dell and  International Business Machines Corp. (IBM) 
+Yet surging costs for running and maintaining data centers is
+causing Facebook and other companies to seek cheaper options.  Hewlett-Packard, which last month cut its profit forecast
+for the third time since November, can’t afford to lose momentum
+in one of its better-performing units. Hewlett-Packard’s revenue
+from the servers that are typically deployed in so-called cloud-
+computing data centers rose slower than the industry average in
+the second quarter, according to Gartner.  Slow Growth  Dell, where sales have barely budged for two quarters,
+needs to keep server customers happy too. Dell’s sales of
+servers based on PC chips -- the type most often used in cloud-
+computing data centers -- grew 4.4 percent in the June period,
+according to Gartner. Cloud-computing networks store and deliver
+software and services via the Internet.  In one indication of the growing demand for servers that
+are being built from the ground up,  Intel Corp. (INTC)  said its revenue
+from chips used to craft servers for data centers surged 50
+percent in the second quarter.  Intel’s understanding that cloud data centers had different
+needs was key to a turnaround in market share. The company share
+of the cloud server-chip market is above 90 percent from a low
+of 35 percent in 2007.  ‘Different Animal’  “It’s a completely different animal” than corporate
+servers, said Rejeanne Skillern, head of marketing at Intel’s
+cloud computing division.  Google, Facebook and  Microsoft Corp. (MSFT)  have designed servers
+that contain the minimum amount of components required for their
+specific task. Facebook’s servers, for example, have custom
+power supplies and circuit boards in sheet-metal enclosures
+designed to maximize airflow with the minimum number of fans.  Those and other tweaks -- combined with a specially
+designed facility -- boosted efficiency by 38 percent and
+reduced the cost of building a  data center  in  Oregon  by 24
+percent, according to the company.  Google’s servers are also built to the company’s
+specifications, with hardware limited to what is needed for
+applications to run. The machines run a stripped-down version of
+the  Linux operating system  that leaves out unnecessary code.  Microsoft is hedging its bets. The software maker designs
+its own servers. Yet it also has big computer makers build them,
+sticking with suppliers that can provide worldwide support to
+quickly fix any server that breaks down, said Dileep Bhandarkar,
+chief architect of Microsoft’s Global Foundation Services.  Custom Designs  For the data centers that underpin its cloud services and
+ Bing  search engine, Microsoft uses machines similar to the
+scaled-down, low-power ones Google uses. Though instead of
+making the hardware itself or through contractors, the company
+has a team of engineers who create server designs. Microsoft
+then commissions companies like Dell and Hewlett-Packard to
+build the machines.  Computers makers must come up with products that fit the
+new needs of data-center builders.  “Many of them are realizing they’re going to have to
+address that,” said Gartner’s Hewitt, who is based in  San Jose ,
+ California . “Most of this is being driven at the moment by
+Google, but there are others who will look at it.”  Microsoft and other companies’ demands for tailor-made
+machines leave server makers with a dilemma: go after build-to-
+order market and accept lower profits, or lose customers and
+relevance.  ‘Execution Team’  Hewlett-Packard sees the market as an avenue for growth,
+said Jim Ganthier, vice president for marketing in the company’s
+server unit.  “We’ve gotten entire design teams, we’ve got an entire
+execution team that wakes up every morning thinking about
+this,” he said. “If you think you’re going to go in there with
+a generic off-the-shelf product, you’re going to lose.”  Dell, meanwhile, supplies customized servers to Microsoft
+and Facebook, as well as Chinese Internet companies Tencent
+Holdings Ltd. and Baidu Inc., said Tim Mattox, vice president of
+worldwide enterprise product management.  “There’s quite a lot of opportunity, but there’s not a lot
+of margin in it,” said Matthew Eastwood, an analyst at
+Framingham, Massachusetts-based IDC.  The computer industry has little choice but to adapt. The
+shift to using cheaper servers for cloud computing may spread
+beyond Internet search and social media and find its way into
+other areas, such as mobile-phone service providers.  To contact the reporters on this story:
+Ian King in  San Francisco  at 
+ ianking@bloomberg.net ;
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

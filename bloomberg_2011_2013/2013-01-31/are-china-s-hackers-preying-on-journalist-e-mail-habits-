@@ -1,0 +1,94 @@
+-- Are China’s Hackers Preying on Journalist E-Mail Habits?
+-- B y   Z a r a   K e s s l e r
+-- 2013-01-31T21:37:01Z
+-- http://www.bloomberg.com/news/2013-01-31/are-china-s-hackers-preying-on-journalist-e-mail-habits-.html
+This afternoon the Wall Street
+Journal  said  that Chinese hackers had infiltrated its computer
+systems.  This comes after last night’s lengthy  revelation  from the
+New York Times that it was attacked by hackers -- seemingly from
+ China , possibly from the country’s military -- over the last
+four months. The intruders were apparently interested in
+uncovering information about reporting done for a story,
+ published on Oct. 25 , on the incredible wealth of the relatives
+of Chinese Premier Wen Jiabao. But during their espionage, the
+hackers accessed the corporate passwords of every Times
+employee, according to security experts.  Much of the response to this breach will probably -- and
+rightly -- center on the lengths to which the Chinese go to
+control the news media. Local censorship,  cutting off  access to
+popular sites such as Facebook and Twitter, even blocking  news
+websites  such as the  New York  Times and Bloomberg News after
+they publish exposes on Chinese leaders’ wealth and power are
+not enough. There’s an offensive side to this battle with
+transparency, one that requires meddling in the business of
+those whom the Chinese fear might be watching them too closely.
+(A Bloomberg News representative confirmed for the Times that
+hackers attempted to infiltrate Bloomberg as well, though “no
+computer systems or computers were compromised.”)  But we must also not forget the initial source of the
+breach. As the Times article, written by Nicole Perlroth,
+explains: “Investigators still do not know how hackers initially
+broke into the Times’s systems. They suspect the hackers used a
+so-called spear-phishing attack, in which they send e-mail to
+employees that contain malicious links or attachments. All it
+takes is one click on the e-mail by an employee for hackers to
+install ’remote access tools’ -- or RATs. Those tools can siphon
+off oceans of data -- passwords, keystrokes, screen images,
+documents and, in some cases, recordings from computers’
+microphones and Web cameras -- and send the information back to
+the attackers’ Web servers. Michael Higgins, chief security
+officer at The Times, said: ’Attackers no longer go after our
+firewall. They go after individuals. They send a malicious piece
+of code to your e-mail account and you’re opening it and letting
+them in.’”  In other words, it seems plausible that this sustained
+hacking attack was the result of a single employee clicking on a
+phony link in an e-mail.  There’s a precedent for that. Take the case of the South
+Carolina Department of Revenue, where  this past fall , records
+from 3.8 million individual tax filers, 699,900 businesses, 3.3
+million bank accounts and 5,000 credit cards were exposed. How
+did the hackers initially get in? According to  a report  by
+Mandiant, the same company that the Times hired to investigate
+and respond to its breaches, at least one Department of Revenue
+employee clicked a link on a malicious e-mail.  This is not to say we should blame the victim. These
+attacks did not result from lost laptops or misplaced sets of
+documents getting into the wrong hands: They were planned to
+trick people and to steal information. So too, at least in the
+South Carolina case, sensitive information was not adequately
+protected;  for example, social security numbers were not
+encrypted, meaning that once the hackers broke down the
+necessary doors, the data were right there waiting for them in
+readable form.  At the Times, employee passwords were “hashed,” or
+scrambled, but as Perlroth says, “While hashes make hackers’
+break-ins more difficult, hashed passwords can easily be cracked
+using so-called rainbow tables -- readily available databases of
+hash values for nearly every alphanumeric character combination,
+up to a certain length.”  Yes, it would be great if the bad guys (or bad governments)
+didn’t exist and if vulnerable information was kept behind doors
+locked more tightly and in forms read less easily. But at the
+end of the day, employees are the ones opening the doors for
+these attacks.  We think a lot about the accidents we make when sending e-
+mail. With one click of a button, we can send permanent messages
+without thinking, taking stock of the situation or taking a walk
+to the post office to cool our emotions. Nifty Google Gmail add-
+ons can allow you to  “undo” sending  an e-mail after pressing the
+button (it really just holds your message for five seconds
+before sending) and  can ask you math  problems before allowing
+you to send a note late on a Friday night in an attempt to bar
+an intoxicated you from saying things a sober you might wish to
+take back. The notion is clear: “send” and “regret” come hand-
+in-hand.  But we need to think more about the regret that comes with
+reading e-mail, too. Spam is not just annoying and inbox-
+clogging, but can also be dangerous. Filters and anti-virus
+software will never catch all the rogue e-mail, and hackers are
+getting better at making themselves seem more like friends,
+colleagues and the companies with which you do business, who
+themselves are more frequently sending you links and articles
+and forms to be filled out.  We keep hearing of the cyberwars that will wreak havoc on
+our world in the coming years. The Times article alluded to the
+cyberattack allegedly used by the U.S. and  Israel  against  Iran ’s
+nuclear enrichment plan. U.S. Secretary of Defense Leon Panetta
+ has told  us  more than once  to fear the possibility of an
+impending cyber-“Pearl Harbor.”  But before it gets to that, it’s probably going to be the
+next local robbery and tax-fraud scheme and set of stolen
+research. It might be worth doing a bit more mental calculus
+before opening your  virtual doors.   (Zara Kessler is an assistant editor and producer for Bloomberg
+View.  Follow  her on Twitter.)
+ 

@@ -1,0 +1,119 @@
+-- 
+Hackers Fight Rivals, FBI to Control Hijacked-Computer Networks
+
+-- B y   M i c h a e l   R i l e y
+-- 
+2011-06-10T04:01:01Z
+
+-- http://www.bloomberg.com/news/2011-06-10/hackers-grapple-with-rivals-fbi-to-control-armies-of-hijacked-computers.html
+Just after 3 a.m. on May 26, Karim
+Hijazi, the chief executive of  Unveillance , a cyber-security
+firm, received an e-mail from hackers calling themselves
+LulzSec. They demanded he help them take over some networks of
+hijacked computers that other criminals were operating.  Unveillance had information on the so-called botnets
+because it was tracking them for potential corporate targets,
+Hijazi said in an interview. LulzSec had leverage to make Hijazi
+comply because it had hacked his Wilmington, Delaware-based
+company’s e-mail system and threatened to post captured
+confidential documents online if he didn’t help the group.  “If they did get a hold of these, they could potentially
+do way more damage than what’s already being done to these
+corporate targets,” said Hijazi, who rejected the demands.
+“The harm could be monumental.”  Botnets, which secretly control almost one-fifth of all
+home computers, have become a hotly contested terrain in the
+cyber-underground, according to Alex Cox, a security researcher
+at Reston, Virginia-based  NetWitness Corp.  Criminals who run
+them or rivals who want to are facing off against each other and
+against  law enforcement  and intelligence agencies that seek to
+render the rogue networks harmless or use them for their own
+devices, according to cyber-security experts.  Botnets are created through programs secretly downloaded on
+computers in homes, offices and schools across the globe. The
+programs have grown more powerful each year, and cyber-criminals
+have learned to create networks far larger than any corporation
+using other peoples’ computers.  Internet Threat  The enslaved “bots,” as the infected computers are known,
+have become so pervasive they now threaten the security of the
+Internet, said Gunter Ollmann, head of research at Atlanta-based
+Damballa Inc., which tracks botnet activity. At least 18 percent
+of home computers are now under remote command of cyber-thieves
+without their owners’ knowledge, according to Damballa’s
+research.  For corporate computers, which are usually protected by
+expensive security measures, around seven percent are controlled
+by such malware, which is hidden from the user and controlled
+via the Internet, Ollmann said.  The FBI dismantled the so-called Coreflood botnet in April.
+Operated by a gang of Russian cyber-thieves who siphoned
+financial information off their hosts, agents estimated that the
+software that controlled it had infected more than 1.8 million
+computers in the U.S. alone.  Botnet Victims  The stolen information was used to make bank transfers in
+some cases of hundreds of thousands of dollars, the  Justice
+Department  said. Thieves attempted to transfer more than
+$934,000 from an unnamed defense contracting company in
+ Tennessee  in one case. They removed $78,421 from the bank
+account of an unidentified  law firm  in  South Carolina  and
+$115,771 from an unidentified real estate company in  Michigan ,
+according to court papers.  “Botnets are one of the most common ways of making money
+in the cyber-underground,” said Cox, the NetWitness security
+researcher. “When I have control of a botnet, regardless of
+what family of malware it is, I have a tremendous amount of
+power.”  Botnets do have a weakness. The infected computers feed
+confidential information to command-and-control servers, which
+can themselves be hijacked. Though technically demanding, the
+move allows the takeover of a valuable criminal asset by a rival
+or the dismantling of it if law enforcement does the seizing.  Unveillance had access to data that could make such
+hijacking easier, and Hijazi said that’s what LulzSec wanted.  The Threat  “I’m sure we can settle on control of bots,” a LulzSec
+hacker called Ninetales told Hijazi, according to a computer log
+of their interaction provided to Bloomberg News by Hijazi.  When Hijazi said he didn’t want to face extortion, another
+hacker named hamster_nipples replied: “Unfortunately, you have
+little choice at this point.”  Hijazi, who declined to identify his corporate clients,
+refused to comply with LulzSec’s demands and rejected a separate
+request for money. The hackers posted the company’s e-mails on
+the Internet June 3.  Botnets can be used to launch so-called denial-of-service
+attacks, which can bring down websites by inundating them with
+thousands of service requests a second.  “Imagine a crank phone call,” said E.J. Hilbert, a former
+FBI cyber-crime investigator. “Now imagine 10,000 people
+calling your house all at the same time. That’s basically what a
+botnet can do to a website.”  More sophisticated malicious software or “malware” can
+scrape company computers for login passwords and financial
+information, automatically siphoning terabytes of data into
+servers located in Ukraine or Belarus or  China , where law
+enforcement is lax, according to Cox.  Zeus for Sale  Malware sold under the name Zeus lets cyber-thieves hijack
+online banking sessions in progress, transferring money to
+illicit accounts without the computer owner realizing it, said
+Don Jackson, who tracks malware for  Dell SecureWorks Inc. , a
+cyber-security firm based in Atlanta.  Jackson estimated that Zeus has been used to steal more
+than $1 billion from bank accounts over the past several years.  Hijazi said the LulzSec experience made him realize how his
+company’s research on botnets had turned his small firm into a
+target not just for LulzSec, but potentially much more powerful
+criminal enterprises.  ‘Fraud Machines’  “We’re taking away their fraud machines, their DDOS
+tools,” Hijazi said, referring to denial-of-service programs.
+“It’s something that is going to make these people mad.”  So would a takeover of a botnet by a government agency.  “From an intelligence standpoint, getting control of a
+botnet in a country an intelligence officer is interested in
+would be a pretty good spying opportunity,” Cox said. He said
+he didn’t have personal knowledge that U.S. intelligence
+employees were using botnets.  Documents leaked when hackers posted the e-mails of another
+security firm,  Sacramento , California-based HBGary Inc.,
+detailed how botnets were being used for spying by U.S. military
+and intelligence agencies.  The FBI’s seizure of Coreflood’s command-and-control
+systems was the first time that U.S. law enforcement officials
+were known to have hijacked a botnet, a technique pioneered by
+researchers years before, according to Wenke Lee, a botnet
+researcher at the  Georgia Institute of Technology .  Decapitating Network  After obtaining a court order, FBI agents took control and
+ordered the malware in infected machines to shut down. The move
+was praised by many cyber-security experts for decapitating a
+massive criminal network that had been operating for almost ten
+years.  The FBI briefly had control over millions of individual
+computers in the same way the hackers did in what was previously
+considered a violation of federal hacking statutes, Hilbert
+said.  “Whenever we tried to do it before, we were always told it
+was illegal,” Hilbert said of earlier efforts by some in the
+FBI to try the takeover strategy.  “Shades of gray or not, the bottom line is you’re going
+into a computer without the owner’s permission and killing the
+program.”  U.S. District Judge Vanessa Bryant in Hartford,
+ Connecticut , ruled that the U.S. could set up a substitute
+server to replace the seized ones. The ruling allowed the server
+to be operated, under law enforcement supervision, by the
+Internet Systems Consortium, a nonprofit group based in  Redwood
+City ,  California .  Gordon Snow, FBI assistant director for the cyber-division,
+said the Coreflood operation would be followed by others like
+it.  “I expect we’ll see more of it,” he said.  To contact the reporter on this story:
+Michael Riley in Washington at 
+ michaelriley@bloomberg.net   To contact the editors responsible for this story:
+Michael Hytha at   mhytha@bloomberg.net  

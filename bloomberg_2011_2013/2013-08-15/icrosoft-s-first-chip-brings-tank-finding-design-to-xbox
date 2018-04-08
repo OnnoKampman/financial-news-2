@@ -1,0 +1,102 @@
+-- Microsoft’s First Chip Brings Tank-Finding Design to Xbox
+-- B y   D i n a   B a s s
+-- 2013-08-15T04:01:00Z
+-- http://www.bloomberg.com/news/2013-08-15/microsoft-s-first-chip-brings-tank-finding-design-to-xbox.html
+Microsoft Corp. (MSFT) , seeking to fend off
+competition for its Xbox game console by souping up the Kinect
+motion sensor, is tapping a new semiconductor developer: itself.  For the first time, the company will build its own
+processors based on an in-house design. The new chips will make
+Kinect more accurate and responsive using an imaging technology
+found in military gear, said Cyrus Bamji, who played a key role
+in developing the silicon architecture. Previously, Kinect
+relied on an off-the-shelf chip from Israel’s PrimeSense Ltd.  Microsoft joins companies such as  Apple Inc. (AAPL)  that are doing
+more work on chips internally to add exclusive features and set
+their devices apart. Microsoft will package the Kinect with the
+latest version of the Xbox later this year, adding $100 to its
+price. Gamers who don’t see the value may be tempted to opt for
+ Sony Corp. (6758) ’s $399 PlayStation 4, instead of Xbox One at $499.  “We are seeing a big trend towards more of the hardware
+makers out there, whether it’s smartphones or whether it’s
+tablets, starting to bring more of that semiconductor function
+in-house,” said Jon Erensen, an analyst at market-research firm
+Gartner Inc. “It allows them to differentiate. Everybody in the
+market is using the same off-the-shelf processor.”  Time of Flight  Kinect is a  camera-based device  that connects to the Xbox
+to let users translate body motions and voice commands into game
+moves -- say, in a virtual tennis or car-racing game. The newest
+version of the sensor will include TV controls.  The Kinect chips, designed by a team mostly based in
+Microsoft’s Silicon Valley office, use a technology called Time
+of Flight that will let the sensor track minute changes in a
+user’s body, like finger movements and facial expressions, a
+much more precise system than the earlier version. That lets
+Microsoft eliminate some of the failings of the first Kinect,
+Bamji said.  Time of Flight works by bouncing photons off a person or
+object, and has been used by military agencies for tasks like
+detecting a tank hiding behind tree cover, Bamji said. Texas
+Instruments Inc. and Infineon Technologies AG are also
+developing chips using Time of Flight.  When it goes on sale, Xbox One will face tough competition
+from Sony’s new PlayStation 4, as well as  Nintendo Co. (7974) ’s Wii U.
+Kinect in the past has largely appealed to kids and casual
+gamers and hasn’t had much content targeted at serious gamers,
+said Rob Sanfilippo, an analyst at Kirkland, Washington-based
+Directions on Microsoft. The new version may still not lure
+those customers from rivals.  Design Challenge  There’s also the challenge and cost of creating a new chip
+from scratch, which can run into the tens of millions of dollars
+and take months of testing. One mistake in design or
+manufacturing slip-up can cause months of delay to a final
+product. For a company like Microsoft, with less experience in
+developing chips, there’s a risk that performance may not be as
+expected, Gartner’s Erensen said.  Microsoft, which announced the shift in May, follows some
+of the largest consumer-electronics makers in taking over more
+of its own chip design. Apple’s  iPhone and iPad  run on
+processors that the Cupertino, California-based company designs
+itself and has manufactured by Samsung Electronics Co. While the
+chips are based on ARM Holdings Plc technology, Apple customized
+the layout and makeup of the chip’s components.  Samsung also is using more of its own chips in its mobile
+phones, and LG Electronics Inc., HTC Corp. and Lenovo Group Ltd.
+have all talked about it, Gartner’s Erensen said.  Taking Note  While Microsoft’s Xbox and WebTV units have previously done
+some work designing chips, the company has never handled this
+much of a chip’s design, development and assembly, said
+Microsoft Distinguished Engineer  Nick Baker , who leads the
+silicon architecture and verification teams. The company has
+about 200 people working on microprocessors. Only the mass
+manufacturing for the Kinect chips has been handed off to a chip
+foundry, Taiwan Semiconductor Manufacturing Co.  Other groups at Microsoft are taking notice, asking the
+Xbox team about their work on chips, and may even pursue a
+greater role in customizing their own microprocessors, said  Todd
+Holmdahl , the vice president who has overseen Xbox hardware
+since the development of the first version in 1999.  Custom Features  The world’s largest software maker first moved into making
+its own computer hardware last year with a line of tablets
+called Surface. The company could choose to customize existing
+chips in order to gain attention and new features for Microsoft-powered smartphones and tablets, which have a tiny share of both
+those markets, Directions on Microsoft’s Sanfilippo said.  “It’s pretty likely that Microsoft will be getting more
+into the hardware business,” he said. “So it makes sense for
+them to invest more right down to the silicon so they can have
+proprietary features.”  That investment may be crucial to the continued success of
+Xbox, the bright spot among Microsoft’s consumer businesses,
+especially as  sales  of the company’s Windows personal-computer
+software stagnate and as Surface demand disappoints. Xbox
+accounted for the bulk of revenue in Microsoft’s $10.2 billion
+Entertainment and Devices division.  The appeal of Xbox One will rest partially on whether the
+new chips improve on the previous Kinect. After Nintendo Co.’s
+Wii introduced a handheld controller than let gamers play by
+swinging and moving the device, Kinect pushed the envelope
+further by integrating full-body motion and voice into games.
+For some customers, it hasn’t delivered on its initial promise.  “I’m unhappy with the way it works,” Sanfilippo said of
+the current Kinect. “And I’m not sure if I would want the
+device if I upgrade to an Xbox One. The selling point from
+Microsoft is that this one is more accurate and faster.”  Precision Needed  The PrimeSense chip in the previous Kinect, which sold 24
+million units, or about one for every three Xbox 360 machines,
+didn’t provide the precision and responsiveness that Microsoft
+needed for the device. That version has trouble reading the
+motions of small children, seated players and low-light
+situations, Holmdahl said.  The new iteration handles those situations better and can
+pick up even small changes, such as a finger movement, facial
+expressions and heart rate, he said, and has a field of view
+that’s 60 percent bigger than the previous Kinect.  As the new Xbox is rolled out for the holiday shopping
+season, Microsoft will see whether the new chips can make Kinect
+a bigger draw for both families and hard-core gamers -- and help
+justify Xbox One’s premium price.  “It’s super-important,” Holmdahl said. “We have an
+opportunity to change the living room.”  To contact the reporter on this story:
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net   To contact the editor responsible for this story:
+Pui-Wing Tam at 
+ ptam13@bloomberg.net  

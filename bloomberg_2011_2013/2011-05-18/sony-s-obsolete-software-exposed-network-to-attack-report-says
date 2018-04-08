@@ -1,0 +1,23 @@
+-- 
+Sony’s Obsolete Software Exposed Network to Attack, Report Says
+
+-- B y   P a v e l   A l p e y e v
+-- 
+2011-05-18T03:17:29Z
+
+-- http://www.bloomberg.com/news/2011-05-18/sony-s-obsolete-software-exposed-network-to-attack-report-says.html
+Sony Corp. (6758) ’s use of outdated network
+software on its PlayStation Network and Qriocity entertainment
+services has helped hackers steal data on more than 100 million
+users, according to  Computer Bild .  The company used software that was outdated for as long as
+five years, the report by the online technology publication
+said, citing server scan logs provided by hacker collective
+Anonymous. Sony used the OpenSSH 4.4 data-encryption software,
+while the most recent version is 5.7, it said.  Sony was also running the 2.2.10 version of Apache server
+software, the report said. The most recent iteration of the
+program is 2.2.18, according to its  website .  Mai Hora, a Tokyo-based spokeswoman at Sony’s games unit,
+declined to comment on the report.  To contact the reporter on this story:
+Pavel Alpeyev in Tokyo at 
+ palpeyev@bloomberg.net   To contact the editor responsible for this story:
+Young-Sam Cho at 
+ ycho2@bloomberg.net  

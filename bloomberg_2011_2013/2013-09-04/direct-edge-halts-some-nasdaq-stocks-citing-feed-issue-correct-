@@ -1,0 +1,54 @@
+-- Nasdaq Fixes Another Malfunction With Price Feed
+-- B y   W h i t n e y   K i s l i n g
+-- 2013-09-04T22:15:07Z
+-- http://www.bloomberg.com/news/2013-09-04/direct-edge-halts-some-nasdaq-stocks-citing-feed-issue-correct-.html
+For the second time in two weeks, a
+malfunction in a price feed overseen by  Nasdaq  OMX Group Inc.
+led to a trading halt of some of the companies it lists.  Nasdaq’s securities information processor had a “hardware
+memory failure” at 11:35 a.m. New York time today, the company
+said after a preliminary review. The issue was resolved six
+minutes later. Direct Edge Holdings LLC, another U.S. exchange
+operator, briefly stopped transactions for some Nasdaq-listed
+shares, according to a statement.  Nasdaq halted trading in thousands of its stocks for three
+hours on Aug. 22 out of concern a connectivity issue in the
+feed, known by its initials SIP, would cause uneven
+dissemination of prices in the market. The disruption
+underscored how quickly the integrity of the U.S. market can be
+subverted as orders to buy and sell shares are matched on more
+than 50 exchanges and alternative electronic venues.  “We are not inspired by the fact that this has become a
+recurring issue,”  Peter Sorrentino , a senior vice president who
+helps manage about $15 billion at Huntington Asset Advisors,
+said by phone from Cincinnati. “This type of thing does an
+awful lot to kill investor confidence in the markets.”  Backup System  Last month’s market disruption snowballed when a software
+flaw prevented Nasdaq’s backup program from kicking in. This
+time, the affected system “successfully failed over,”
+according to the company.  “Any piece of software, even if it’s run for 100 percent
+for 10 years, there’s still flaws in it,” Nasdaq Chief
+Executive Officer  Robert Greifeld  said in an Aug. 29 interview
+with  Bloomberg News . “Whatever you have, it’s a question of
+what unique set of circumstances happen to reveal that.”  The Aug. 22 flaw was revealed when NYSE Arca, one of the
+exchanges that sends price and trade data directly to the SIP,
+sent more than 20 “connect and disconnect sequences” and a
+stream of quotes for inaccurate stock symbols, according to a
+Nasdaq summary released Aug. 29. The amount of data “vastly
+exceeded” the capacity of the processor, Nasdaq said.  The SIP will manually block connection attempts the next
+time it’s deluged with data, according to a separate statement
+today based on a review by the 15-member committee that oversees
+the feed. The group also plans to review today’s issue.  Tape C  Nasdaq and the  New York  Stock Exchange, the venues where
+almost all U.S. companies go public, each operate SIPs that
+receive quotes and trades from around the country and
+disseminate them in three groups, known as tapes. NYSE operates
+Tapes A and B, and Nasdaq runs Tape C.  Today’s disruption affected Tape C stocks with symbols from
+“PC” to “SPZ,” Nasdaq said. The exchange operator’s  shares 
+briefly erased gains following the issue, declining as much as
+0.9 percent, before rising 0.7 percent to $30 as of 4 p.m. New
+York time.  U.S. Securities and Exchange Commission Chairman Mary Jo White plans to meet Sept. 12 with the heads of exchanges and
+other self-regulatory organizations to discuss the Aug. 22 halt.  “As is our practice, we’re in contact with them and
+monitoring developments,”  John Nester , an SEC spokesman, said
+regarding today’s Nasdaq outage.  To contact the reporter on this story:
+Whitney Kisling in New York at 
+ wkisling@bloomberg.net   To contact the editors responsible for this story:
+Nick Baker at 
+ nbaker7@bloomberg.net ;
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

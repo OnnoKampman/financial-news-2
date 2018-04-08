@@ -1,0 +1,123 @@
+-- Nasdaq to Offer Algorithms to Members, Competing With Brokers
+-- B y   N i n a   M e h t a
+-- 2012-05-14T13:57:48Z
+-- http://www.bloomberg.com/news/2012-05-14/nasdaq-to-offer-algorithms-to-members-competing-with-brokers.html
+Nasdaq Stock Market (NDAQ)  plans to compete
+with brokers by offering tactics for executing larger stock
+orders as a way to boost its share of U.S. equities trading.  The exchange will provide three algorithms, or computer-
+driven strategies that chop larger orders into smaller pieces
+based on a stock’s volume and trading characteristics, in a bid
+to increase its market share by between 3 percent and 7 percent,
+said  Eric Noll , executive vice president for transaction
+services at Nasdaq OMX Group Inc. The venture requires approval
+from the Securities and Exchange Commission.  The provision of algorithms, a service most brokers offer
+to institutional clients, is part of a plan to bring more equity
+orders to the New York-based company’s three exchanges.  Nasdaq 
+OMX will also try to boost business by changing the way orders
+are executed on one of its smaller venues and will begin a
+program to entice retail customers to its market, Noll said at a
+May 10 conference. The algorithm effort will target Nasdaq’s
+brokerage members, many of which may no longer need to build the
+“commoditized” strategies the exchange will supply, he said.  “It’s a very interesting example of how technology brings
+exchanges and brokerage firms into competition,”  Bruce Weber ,
+dean of the Alfred Lerner College of Business and Economics at
+the University of  Delaware , said in a telephone interview.
+“Before electronic trading really took off, it was clear where
+the exchange function ended and the brokerage function began.
+That line is getting blurred.”  Market Share  Nasdaq OMX’s share of U.S. equities was 21.2 percent in the
+first quarter while  NYSE Euronext (NYX) ’s was 24 percent, data
+compiled by Barclays Plc showed. The pursuit of new trading
+business is occurring against declining average daily volume,
+with this year’s level at 6.75 billion shares on all U.S.
+exchanges, compared with 7.69 billion in the same period last
+year, according to  data  compiled by Bloomberg.  Brokers provide clients with algorithms that send smaller
+pieces of a bigger buy or sell request to exchanges or
+alternative venues such as dark pools, private markets that
+don’t display bids and offers. Traders at securities firms and
+asset managers use the automated strategies to mute price impact
+and mask activity as they try to scoop up visible and hidden
+orders spread across exchanges and about 40 other markets.  Nasdaq will furnish what it calls benchmark orders to
+member firms seeking to achieve an average price for their stock
+sales or purchases in line with one of several common measures
+of trading performance. One algorithm will employ a volume-
+weighted average price, or VWAP, strategy that seeks to buy or
+sell stock over a certain period, weighted for the number of
+shares traded at different levels, Nasdaq said in an  SEC filing .  Time Weighted  Nasdaq also plans to offer a time-weighted average price
+algorithm and another that tries to trade a specified percentage
+of share volume over a predetermined period. Such algorithms are
+standard offerings at brokers such as  Credit Suisse Group AG ,
+Goldman Sachs Group Inc., Citigroup Inc. and Morgan Stanley.  The company won’t market the services to mutual funds and
+other asset managers, Noll said. The offering also won’t
+displace the more complex strategies brokers develop for
+themselves and their customers, he said.  “What this is intended to do is provide order
+functionality to our broker-dealer base that allows us to
+provide a cheaper, better, faster product than having them all
+develop their own algo offerings and go out into the marketplace
+and compete for the low-end commodity business,” Noll said at
+the conference. “This is not intended to compete with the high-
+end, high-touch, highly sophisticated algo providers.”  Commission Rate  U.S. asset managers used algorithms to trade 19 percent of
+the dollar value of their U.S. equity orders in the year ending
+mid-February 2011, according to Greenwich Associates.
+Institutions paid their brokers an average commission rate for
+algorithms of 1.3 cents per share, the  Stamford , Connecticut-
+based research firm said in a June 2011 report.  Nasdaq hasn’t decided how much to charge, it said in its
+filing to the SEC.  The benchmark orders will generate smaller buy or sell
+requests to compile executions over a period of time such as an
+hour or day. These so-called child orders will be traded on
+Nasdaq or sent to other markets, the company told the SEC in its
+ filing . The orders will be processed the same way other buy or
+sell requests that enter the exchange’s systems are handled.  Analytics Scorecard  The exchange will license technology for the benchmark
+orders from a company it didn’t name in the filing. While no
+information about the identity of member firms or their
+customers employing the algorithms will be shared with the
+vendor, that company will furnish a scorecard with analytics
+about the performance of the orders when the trade is completed,
+Nasdaq told the SEC.  The algorithms will offer what Nasdaq called an “exchange-
+based alternative” to tactics that seek transactions in public
+markets as well as dark pools, the exchange told the SEC. Noll
+said the automated strategies, which may augment the exchange’s
+share of trading, will be introduced by the end of June, pending
+SEC approval.  “The benchmark order will permit members to achieve on an
+exchange via a single order type what previously has required
+access to multiple venues using multiple order types,” Nasdaq
+wrote in the filing. The orders will provide cost savings to
+members and allow them “to manage more order flow at a single
+trading platform,” the company said.  Order Matching  Nasdaq is going too far afield with its proposal, according
+to Robert Almgren, former head of quantitative strategies at
+Bank of America Corp. Almgren, who has written academic papers
+about equity algorithms, is co-founder and head of research at
+ Quantitative Brokers LLC  in  New York , which builds execution
+strategies for interest rate futures.  “Exchanges should focus on efficient executions and
+shouldn’t act like a broker-dealer,” Almgren said in a phone
+interview. “A broker-dealer applies intelligence to getting the
+order done beyond the simple order matching, which is what you
+get from an exchange. There are a lot of subtle decisions and I
+would hate to see it favor one exchange.”  The computer models that drive algorithms make decisions
+based on so-called anticipated order fill rates, or the
+percentage of trading submissions that are completed on
+different exchanges or dark pools, Almgren said. They must also
+select the price level at which they’re willing to supply bids
+or offers to a particular venue and when to cross the bid-ask
+spread to grab liquidity, he said. Almgren added that these
+decisions should take into account all markets and not focus on
+one to get the best overall execution.  Customer Data  Nasdaq’s initiative may appeal to customers that aren’t
+comfortable entering all their trading interest into brokers’
+algorithmic engines “because they’re concerned there’s some
+sniffing going on,” the  University of Delaware ’s Weber said.
+The worry is that securities firms could use data about customer
+decisions to their own advantage, he said.  The proposal may also benefit users since the algorithms
+could be run close to the exchange’s computers that match buy
+and sell requests and “could probably deliver good latency
+performance,” Weber said. Brokers and traders seek fast
+executions to capture orders at the best available bid or offer
+price before they disappear or are traded against by others.
+Requests that don’t execute on one venue are usually forwarded
+to other markets based on the available orders and fill rates.  Weber said algorithms should seek the best execution and be
+“agnostic” about the venue to which they route orders.  “If they truly create a level playing field for non-Nasdaq
+venues, then it’s a pretty compelling proposition for the
+customer,” Weber said. “If they don’t, customers will ask a
+lot of questions about when they do outbound routing and when
+they will keep orders hoping for an internal cross.”  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

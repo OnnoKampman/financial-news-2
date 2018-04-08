@@ -1,0 +1,89 @@
+-- 
+Google Chases Computer Criminals to Search-Engine Competitors
+
+-- B y   J e f f   B l i s s
+-- 
+2011-02-15T05:00:01Z
+
+-- http://www.bloomberg.com/news/2011-02-15/google-chases-computer-criminals-to-search-engine-competitors.html
+  Google Inc . has almost cut in half
+the malicious software affecting users of its search engine,
+driving hackers to competitors including Microsoft Inc.’s  Bing ,
+ Yahoo!  Inc. and  Twitter Inc. , a report says.  Hackers targeted Google, owner of the most popular search
+engine, 38 percent of the time as of Dec. 31, according to the
+report to be released later this month by Barracuda Networks
+Inc., a web security firm.  Mountain View , California-based
+Google accounted for 69 percent of the attacks in a sample
+conducted around June, the report says. A Barracuda  report  in
+July labeled Google “king of malware.”  Even as Google improved its security, the number of attacks
+increased. In the December sample, Barracuda said it found 226
+pieces of bad software a day, compared with 146 in June.
+Meanwhile, Google’s competitors recorded an increase in malware-
+laced search results: Cyber criminals placed 30 percent of their
+bad software on Yahoo! search results in December, up from 18
+percent in June. Bing accounted for 24 percent in December, up
+from 12 percent in June. And the targeting of Twitter rose to 8
+percent from 1 percent, the report says.  Google said it has ratcheted up efforts to identify and
+scrub attempts at so-called search poisoning, which allows
+criminals to take control of computers to perpetuate cyber
+attacks, as well as large-scale banking and identity-theft
+swindles.  Faster Detection  “We have done a lot of work to detect these quickly and to
+warn users,”  Niels Provos , principal software engineer in
+Google’s infrastructure security group, said in an interview.
+Last year, it took 10 hours to remove the bugs; now it takes an
+hour, he said.  Until a few years ago, worms, viruses, Trojans and other
+such malware could largely be avoided if users stayed away from
+porn sites and other dubious web neighborhoods. The cyber
+thieves’ gambit to infect search results is harder to bypass.
+Americans conducted 17.8 billion searches in November 2010, a 23
+percent increase from a year earlier, according to  ComScore
+Inc. , a Reston Virginia-based market-research firm.  “One of the reasons this is so highly targeted is the
+volume of searches is increasing rapidly,” said Paul Judge,
+chief research officer of Campbell, California-based Barracuda.
+“People have become lazy and dependent on” Google and its
+rivals.  Targeting Popular Searches  During a 60-day period last year, one out of every three
+terms  ranked  most popular by  search  companies produced a result
+that linked to malicious code, Judge said.  Recently, some web users who clicked on search results for  Gwyneth Paltrow ,  Brett Favre  and Prince William’s fiancée Kate
+Middleton were tricked into downloading programs that allowed
+criminals to take over their computers, the consultants said.  Once hackers get access, they scour data banks for Social
+Security numbers, tax returns and other personal information,
+said Chris Swecker, former assistant director of the Federal
+Bureau of Investigation’s criminal investigative division.  “They want to suck information out of your computer,”
+said Swecker, who heads his own  Charlotte , North Carolina-based
+security consulting firm.  The infected PCs then also can be enlisted in an army of
+other unwitting machines known as botnets that are used to carry
+out scams.  Marketing Lessons  The criminals rely on some of the same techniques --
+sprinkling key words, links and videos on their websites --
+legitimate companies use to boost their search-result rankings,
+Judge said.  “The attackers have learned from the marketing people,”
+he said.  Some companies make the criminals’ job easier by ranking
+their searches, the most popular of which are then targeted to
+be infected, he said.  Cyber criminals also spread rumors -- including recent
+ false  reports of singer Gwen Stefani’s death -- to spark
+searches they can embed with their programs, said  Anup Ghosh , a
+former program manager at the  Defense Advanced Research Projects
+Agency .  In one recent incident, users who clicked on a picture of
+ Paltrow  at a New York charity event were greeted by a dialog box
+that said their computer needed to be scanned for viruses. A
+click on that box triggered animation simulating a scan that
+claimed to find numerous viruses. Choosing “remove all”
+downloaded the malicious program. The link was taken down one
+hour after it appeared.  Anti-Virus Focus  For the most part, security companies spend most of their
+time developing anti-viral programs and fixes for existing
+software and aren’t focused on cleaning up the searches, said
+Ghosh, who founded Fairfax, Virginia-based  Invincea  Inc. to
+create products to fill that void.  “Just about everybody in the security industry ignores
+this problem,” said Ghosh.  That may be changing. Google and Microsoft engineers said
+they scan billions of web addresses daily to identify suspect
+sites. The rivals also share information on hacker search ploys,
+said Bruce Cowper, a group manager in Redmond, Washington-based
+Microsoft’s Trustworthy Computing unit.  “As attacks become more complex, I think there’s going to
+be a lot more collaboration across the industry,” he said.  Dana Lengkeek, a Yahoo! spokeswoman, referred questions to
+Microsoft, which provides security for the Sunnyvale,
+California-based company’s search engine. Matt Graves and Jodi
+Olson, spokespeople for San Francisco-based Twitter, didn’t
+respond to e-mails.  To contact the reporter on this story:
+Jeff Bliss in Washington at 
+ jbliss@bloomberg.net   To contact the editor responsible for this story:
+Mark Silva in Washington at 
+ msilva34@bloomberg.net  

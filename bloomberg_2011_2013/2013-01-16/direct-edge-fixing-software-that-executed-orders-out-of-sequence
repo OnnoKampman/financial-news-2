@@ -1,0 +1,26 @@
+-- Direct Edge Fixing Software That Executed Orders Out of Sequence
+-- B y   N i n a   M e h t a
+-- 2013-01-16T22:39:24Z
+-- http://www.bloomberg.com/news/2013-01-16/direct-edge-fixing-software-that-executed-orders-out-of-sequence.html
+Direct Edge Holdings LLC made
+changes to its technology to ensure that orders on its EDGA
+Exchange are handled the way its rules specify, according to a
+ notice  by the market operator.  The company said last month that it had discovered two
+discrepancies between rules that dictate the execution priority
+for orders sent to its EDGA and EDGX trading venues. In one,
+orders sent to EDGA may have executed out of sequence, and in
+the other hidden orders and those for fewer than 100 shares on
+EDGA and EDGX may have been ignored when they should have
+traded, Direct Edge said.  The disclosure of the changes comes after an announcement
+last week by Bats Global Markets Inc. that computer errors
+permitted almost 450,000 bad trades over four years, costing
+users less than $500,000 in losses. While Bats’s issue
+represented a violation of Securities and Exchange Commission
+rules aimed primarily at ensuring investors get the best
+possible price, Direct Edge’s notice made no mention of
+violating regulations, saying it was making changes to ensure
+its own rules were followed.  To contact the reporter on this story:
+Nina Mehta in  New York  at 
+ nmehta24@bloomberg.net   To contact the editor responsible for this story:
+Lynn Thomasson at 
+ lthomasson@bloomberg.net  

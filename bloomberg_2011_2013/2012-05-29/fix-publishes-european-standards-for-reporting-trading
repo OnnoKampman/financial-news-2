@@ -1,0 +1,50 @@
+-- FIX Publishes European Standards for Reporting Trading
+-- B y   N a n d i n i   S u k u m a r
+-- 2012-05-29T06:00:00Z
+-- http://www.bloomberg.com/news/2012-05-29/fix-publishes-european-standards-for-reporting-trading.html
+FIX Protocol Ltd.,  the London-based
+organization that owns the global messaging format for financial
+trading, published a set of European guidelines on how banks
+should report their equity trades.  Brokers and banks should tag their trades using FIX’s
+standards so fund managers can tell on which exchange or
+alternative trading system the order has been executed, FIX said
+in a statement today. The protocol would also enable them to see
+whether the transaction occurred in a so-called dark pool, where
+prices aren’t publicly disseminated, or a lit market.  The guidelines follow requests from fund managers seeking
+transparency on where and how their trades were executed as
+market structure and trading practices grow more complex,
+according to FIX. Since the Markets in Financial Instrument
+Directive legislation was introduced in 2007 to spur
+competition, volume has spread across alternative venues such as
+Bats Chi-X  Europe  that vie with  London Stock Exchange Group Plc (LSE) ,
+Deutsche Boerse AG and  NYSE Euronext. (NYX)   “The quality of venue information from the brokers has
+been very patchy and inconsistent,” Chris Sims, co-chair of the
+EMEA Business Practices Subcommittee at FIX, said in an
+interview. “The standards work kicked off in the U.S. We have a
+common global standard and it’s a nice straightforward read now.
+It was a painful process before.”  Trade Flags  The guidelines should also flag whether a trade was agency,
+on behalf of a customer, or principal, on behalf of a bank’s own
+account, and whether it was executed passively, by posting
+liquidity, or aggressively, by taking liquidity, Sims said.
+Under the Mifid rules, markets and brokers are permitted to
+report transactions to any exchange, venue or third party, or
+publish it on their own website. The European Union is now
+reviewing the legislation.  “We welcome all industry initiatives designed to provide
+the buy side with greater transparency over how and where their
+orders were executed,” Guy Sears, a director at the Investment
+Management Association, said in an e-mailed statement. “As the
+equity markets become ever more complex, algorithmic trading
+strategies are increasingly used by brokers in the quest for
+best execution. Buy-side firms need to understand how their
+liquidity interacts in the markets.”  Piecemeal data also complicate attempts to benchmark the
+performance of traders executing orders for pension and mutual
+funds, analysts including Simmy Grewal with Boston-based Aite
+Group LLC in  London , have said.  The lack of a common source of data has frustrated issuers
+who may not know where their shares are trading. It has also led
+to double- and triple-counting of volume in some segments as
+primary markets such as the LSE lost their role as a funnel for
+information, according to Grewal.  To contact the reporter on this story:
+Nandini Sukumar in London at 
+ nsukumar@bloomberg.net   To contact the editor responsible for this story:
+Andrew Rummer at 
+ arummer@bloomberg.net  

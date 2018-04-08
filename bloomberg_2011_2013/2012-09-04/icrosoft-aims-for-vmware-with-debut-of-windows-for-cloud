@@ -1,0 +1,63 @@
+-- Microsoft Aims for VMware With Debut of Windows for Cloud
+-- B y   D i n a   B a s s
+-- 2012-09-04T15:01:00Z
+-- http://www.bloomberg.com/news/2012-09-04/microsoft-aims-for-vmware-with-debut-of-windows-for-cloud.html
+Microsoft Corp. (MSFT)  released a new
+version of Windows for running corporate networks, trying to
+take share from  VMware Inc. (VMW)  and gain ground as companies seek to
+cut the cost of managing business programs.  Windows Server 2012 improves features for virtualization,
+which allows companies to cut costs by using fewer server
+computers in their data centers. More businesses are relying on
+virtualization technology amid the shift to so-called cloud
+computing, where information is managed and stored remotely,
+rather than on local software and hardware.  The new program has already won over customers such as
+ Equifax Inc. (EFX)  and Bank of Montreal, which tried out early
+versions of the product, said Satya Nadella, president of
+Microsoft’s server and tools division, in an interview.  Microsoft, the world’s largest software maker, wants to
+boost sales of Windows Server by getting customers to set up so-
+called private clouds, which are accessed from within a
+corporate network, rather than the wider Internet. Forrester
+Research Inc. forecasts spending on private clouds will top $20
+billion in sales next year, allowing companies to get the
+benefits of running applications on large pools of servers and
+storage machines while keeping programs secure on their own
+servers.  “They have to go into hand-to-hand combat with strong
+competitors,” said Al Gillen, an analyst at IDC. “VMware is
+very, very well established and has a very strong platform.”  VMware rolled out its latest offering last month.  Competitive Offering  Microsoft doesn’t break out annual sales of Windows Server,
+which market research firm IDC estimated at more than $5 billion
+in 2011.  Included in Windows Server is a program called a
+hypervisor, a piece of software that lets companies run multiple
+operating systems on a single server, helping cut costs. Many
+customers will stick with their current hypervisor vendor when
+setting up private clouds, Gillen said.  That’s a disadvantage for Microsoft, which had 26 percent
+of the hypervisor market last year, compared to VMware’s 58
+percent, according to IDC.  Part of the issue is that for years Microsoft didn’t have a
+competitive hypervisor offering, so even companies using
+Microsoft products for things such as e-mail and internal
+company websites chose VMware when they wanted to use
+virtualization software on fewer servers, Nadella said.  Good Enough  Now Microsoft is trying to get those customers back and
+attract new ones, Nadella said. One such company is window-maker
+ Pella Corp. , which mostly uses Microsoft programs yet chose
+VMware for virtualization software in 2004. The company, which
+plans to deploy Windows Server 2012, will save hundreds of
+thousands of dollars in the costs of licensing the software
+compared with what Pella paid VMware, Nadella said.  “The refrain was ‘hey we are good enough,’” Nadella said
+about Microsoft’s previous appeal to VMware customers. “For the
+first time we can claim we are better.”  VMware executives said they’ve heard that before.  “This is not a new strategy for Microsoft,” said former
+VMware Chief Executive Officer Paul Maritz, in an interview on
+Aug. 27. A former Microsoft executive until 2000, Maritz left
+VMware on Sept. 1 to become chief strategist at  EMC Corp. (EMC) , which
+owns 79 percent of VMware. “This is the third or fourth time
+they’re coming to market saying, ‘Our product is now good
+enough.’”  Equifax, which provides credit reports, is using Windows
+Server 2012 to handle the data that enables lenders to verify
+the employment status of people applying for credit or buying a
+home. Next, the company will probably start using Windows Server
+hypervisor software for virtualized networks and the company
+plans to turn to Microsoft to build its first private cloud,
+said Equifax’s Chief Technology Officer Bryan Garcia in an
+interview.  “This one is really data center quality,” Garcia said.  To contact the reporter on this story:
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  

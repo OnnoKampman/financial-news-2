@@ -1,0 +1,89 @@
+-- FinFisher Spyware Reach Found on Five Continents: Report
+-- B y   V e r n o n   S i l v e r
+-- 2012-08-08T11:34:47Z
+-- http://www.bloomberg.com/news/2012-08-08/finfisher-spyware-reach-found-on-five-continents-report.html
+The FinFisher spyware made by U.K.-
+based Gamma Group likely has previously undisclosed global
+reach, with computers on at least five continents showing signs
+of being command centers that run the intrusion tool, according
+to cybersecurity experts.  FinFisher can secretly monitor computers -- intercepting
+Skype calls, turning on Web cameras and recording every
+keystroke. It is marketed by Gamma for  law enforcement  and
+government use.  Research published last month based on e-mails obtained by
+Bloomberg News showed activists from the Persian Gulf kingdom of
+Bahrain were targeted by what looked like the software, sparking
+a hunt for further clues to the product’s deployment.  In new findings, a team, led by Claudio Guarnieri of
+Boston-based security risk-assessment company Rapid7, analyzed
+how the presumed FinFisher samples from Bahrain communicated
+with their command computer. They then compared those attributes
+with a global scan of computers on the Internet.  The survey has so far come up with what it reports as
+matches in  Australia , the  Czech Republic , Dubai,  Ethiopia ,
+Estonia,  Indonesia , Latvia, Mongolia, Qatar and the U.S.  Guarnieri, a security researcher based in Amsterdam, said
+that the locations aren’t proof that the governments of any of
+these countries use Gamma’s  FinFisher . It’s possible that Gamma
+clients use computers based in other nations to run their
+FinFisher systems, he said in an interview.  ‘Active Fingerprinting’  “They are simply the results of an active fingerprinting of
+a unique behavior associated with what is believed to be the
+FinFisher infrastructure,” he wrote in his report, which Rapid7
+is publishing today on its  blog  at
+https://community.rapid7.com/community/infosec/blog.  The emerging picture of the commercially available
+spyware’s reach shines a light on the growing, global
+marketplace for cyber weapons with potential consequences.  “Once any malware is used in the wild, it’s typically only
+a matter of time before it gets used for nefarious purposes,”
+Guarnieri wrote in his report. “It’s impossible to keep this
+kind of thing under control in the long term.”  In response to questions about Guarnieri’s findings, Gamma
+International GmbH managing director Martin J. Muench said a
+global scan by third parties would not reveal servers running
+the FinFisher product in question, which is called FinSpy.  “The core FinSpy servers are protected with firewalls,” he
+said in an Aug. 4 e-mail.  Gamma International  Muench, who is based in Munich, has said his company didn’t
+sell FinFisher spyware to Bahrain. He said he’s investigating
+whether the samples used against Bahraini activists were stolen
+demonstration copies or were sold via a third party.  Gamma International GmbH in  Germany  is part of U.K.-based
+Gamma Group. The group also markets FinFisher through Andover,
+England-based Gamma International UK Ltd. Muench leads the
+FinFisher product portfolio.  Muench says that Gamma complies with the export regulations
+of the U.K., U.S. and Germany.  It was unclear which, if any, government agencies in the
+countries Guarnieri identified are Gamma clients.  A U.S.  Federal Bureau  of Investigation spokeswoman in
+ Washington  declined to comment.  Officials in Ethiopia’s Communications Minister, Qatar’s
+foreign ministry and Mongolia’s president’s office didn’t
+immediately return phone calls seeking comment or respond to
+questions. Dubai’s deputy commander of police said he has no
+knowledge of such programs when reached on his mobile phone.  Australia’s department of foreign affairs and trade said in
+an e-mailed statement it does not use FinFisher software. A
+spokesman at the Czech Republic’s interior ministry said he has
+no information of Gamma being used there, nor any knowledge of
+its use at other state institutions.  Violating Human Rights?  At Indonesia’s Ministry of Communications, head of public
+relations Gatot S. Dewa Broto said that to his knowledge the
+government doesn’t use that program, or ones that do similar
+things, because it would violate privacy and  human rights  in
+that country. The ministry got an offer to purchase a similar
+program about six months ago but declined, he said, unable to
+recall the name of the company pitching it.  The Estonian Information Systems Authority RIA has not
+detected any exposure to FinSpy, a spokeswoman said. Neither has
+Latvia’s information technologies security incident response
+institution, according to a technical expert there.  Bloomberg News reported July 25 that researchers believe
+they identified copies of FinFisher, following an examination of
+malware e-mailed to Bahraini activists. Their work, led by
+security researcher Morgan Marquis-Boire, was  published  the same
+day by the University of Toronto Munk School of Global Affairs’
+Citizen Lab.  ‘Hallo Steffi’  The new study builds on those findings, using the same
+samples of malicious software.  Guarnieri’s study found, among other things, that the
+ Bahrain  server answered anyone connecting to it with the
+message, “Hallo Steffi.”  The investigators then found this pattern in other
+computers by searching data from an Internet survey research
+project,  Critical.IO , which has been cataloging publicly
+accessible computers around the world.  The researchers then developed a  map  that shows the
+location of the servers, along with their unique IP addresses on
+the Internet.  Gamma’s Muench said none of its server components sends out
+strings such as “Hallo Steffi.”  The earlier Citizen Lab research linked the malware sent to
+the activists to FinSpy, part of the FinFisher spyware tool kit.  The  Citizen Lab  research showed the malware took screen
+shots, intercepted voice-over-Internet calls and transmitted a
+record of every keystroke to a computer in Manama, the capital
+of Bahrain, which has been gripped by tension since a government
+crackdown on protests last year.  Muench said the computer found in Manama isn’t a FinFisher
+product. Instead, the server very likely runs custom-built
+software used to forward traffic between two or more other
+systems, he said.  To contact the reporter on this story:
+Vernon Silver in Rome at 
+ vtsilver@bloomberg.net ;  To contact the editor responsible for this story:
+Melissa Pozsgay at   mpozsgay@bloomberg.net  

@@ -1,0 +1,78 @@
+-- How to Identify Influence Leaders in Social Media: Zsolt Katona
+-- B y   Z s o l t   K a t o n a
+-- 2012-02-27T00:01:38Z
+-- http://www.bloomberg.com/news/2012-02-27/how-to-identify-influence-leaders-in-social-media-zsolt-katona.html
+The currency of social media is
+influence. Credit-card companies offer rewards to customers with
+a high influence score, airlines give such people free flights,
+and some employers make job offers dependent on those ratings.  So how do they find opinion leaders? How do they determine
+a person’s influence? Where do these scores come from?  Recent research  I conducted with  Peter Zubcsek  and  Miklos
+Sarvary  examined personal influences in an online social network
+in a European county. Building on an almost 300-year-old
+discipline, graph theory, we studied how members attracted their
+friends to join the network.  We found that, besides the number of one’s friends already
+using the service, the interconnectedness of these friends is
+just as relevant in making a person join. In other words,
+whether your friends know one another makes a big difference in
+how much they are able to influence you. This force is so strong
+that when five of your friends are already users, the effect of
+adding one friend as a user is the same as having one extra
+friendship between your friends.  Network structure matters. But how do we identify the
+influencers? Because we had access to data on all the
+friendships in the network, in addition to some demographic
+variables, we were able to determine how one person’s position
+in the network affected his or her power of influence. A common
+measure of influence is simply the number of connections someone
+has, but that isn’t always the correct way to pinpoint leaders.  Highly Connected  We found that highly connected individuals have less
+influence on each of their friends on average. Having more
+friends can make your total reach and influence higher when it
+comes to compelling others to sign up for a free service, for
+example. But this isn’t necessarily so when it’s a matter of
+swaying people who are making an important decision. If you are
+in the process of buying a new car or a home, you are likely to
+ignore the advice of your highly connected but not so close
+friends. The lesson is that more connections don’t always mean
+higher influence.  To determine a person’s influence, it isn’t enough to
+simply count the number of connections they have. More
+meaningful are the communities or groups that people belong to
+within social networks. Most users have a separate but
+potentially overlapping set of friends that includes work
+colleagues, family and schoolmates.  To understand the mechanics of a social network it is
+imperative to be aware of these communities, but they are often
+impossible to observe. For example, in telecommunications
+networks, all calls are recorded, resulting in vast amounts of
+data on one-to-one connections, but no information on how the
+callers know each other.  We discovered that social-network analysis makes it
+possible to  find these communities  using network data, and we
+used our algorithm to identify communities in a number of phone
+networks. (See attached graphic.)  Finding communities in a social network allows companies to
+identify influential individuals and to better understand their
+role. Some people are at the center of communities, possibly
+having a strong influence on their peers. Others may be on the
+periphery, but still have an important role in connecting
+different communities. Mapping out communities helps us
+understand how information travels in a network.  We conducted an experiment that illustrates the benefits of
+community-based social-network analysis. We obtained call data
+records from a mobile-phone provider in  Asia  that was trying to
+expand its  loyalty program . Using our social-network analysis
+methods, we identified a target group of people who were active
+in a community for a text-message campaign that asked customers
+to join the program. We then compared the response rate to a
+control group that was targeted by the provider using only
+traditional marketing tools.  Call Data  There was a substantial difference in response rates (9.2
+percent versus 5.4 percent), proving the benefits of detailed
+network analysis. Moreover, a unique code sent with the messages
+allowed us to track customers who received a forwarded text
+message from a friend and not directly from the provider. Once
+again, our target outperformed the control group (6.3 percent
+versus 4.1 percent).  With all the network data available to marketers, it is
+important to appreciate the value in finding influential
+consumers and communities. We are just at the beginning of a
+long journey to fully understand the role of influence in social
+networks, but it’s already clear that simple metrics aren’t
+sufficient.  (Zsolt Katona is an assistant professor of marketing at the
+ University of California , Berkeley’s Haas School of Business and
+a contributor to  Business Class . The opinions expressed are his
+own.)  Read more opinion online from  Bloomberg View .  To contact the writer of this article:
+Zsolt Katona at  zskatona@haas.berkeley.edu .  To contact the editor responsible for this article:
+Max Berley at   mberley@bloomberg.net . 

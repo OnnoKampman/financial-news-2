@@ -1,0 +1,113 @@
+-- Oracle Losing Ground as More Businesses Look to the Cloud
+-- B y   A a r o n   R i c a d e l a
+-- 2012-03-20T04:01:00Z
+-- http://www.bloomberg.com/news/2012-03-20/oracle-losing-ground-as-more-businesses-look-to-the-cloud.html
+When  Activision Blizzard Inc. (ATVI) 
+needed new software to help it field questions from users of its
+“Call of Duty” shooter franchise and other games, it held a
+bakeoff between  Oracle Corp. (ORCL)  and Salesforce.com Inc.  Oracle lost.  Activision, the world’s biggest video-game maker, wanted
+applications delivered over the Internet and stored in the
+cloud, rather than on its own servers, Activision Chief
+Information Officer Robert Schmid said in an interview.  “Salesforce has really stepped up to the plate,” he said.
+“I’m much more interested in a cloud application than an on-
+premises application. I don’t want to do plumbing.”  Companies as varied as Bayer AG, Zynga Inc. and Hewlett-
+Packard Co. also have opted in recent months for  Salesforce (CRM)  over
+Oracle, evidence of shifting loyalties in the $113.8 billion
+business-applications market. Some corporations aiming to cut
+costs and find more flexible ways to run operations are turning
+to cloud providers like Salesforce and Workday Inc., shunning
+the kinds of pre-packaged applications made by Oracle that are
+installed on machines and carry multiyear service agreements.  “Salesforce.com and Workday are taking share and eroding
+Oracle’s application maintenance stream,” said Brad Zelnick, an
+analyst at  Macquarie Capital  in  New York , who downgraded
+Oracle’s stock to neutral in January. “That’s what’s really
+giving Oracle a run for their money.”  Slower Growth  Evidence of Oracle’s challenges may come later today, when
+the company releases fiscal third-quarter results. Oracle, based
+in  Redwood City ,  California , is  forecast  to report that revenue
+rose 3 percent in the period that ended in February, according
+to analysts’ projections compiled by Bloomberg. That would
+follow a sales gain of 2.5 percent in the second quarter, which
+was the slowest rate of growth in two years.  The company’s shares have declined 3.3 percent in the past
+12 months, compared with a gain of 13 percent for the  Standard &
+Poor’s 500 Systems Software Index. (S5SYSF)  Besides Macquarie, JMP
+Securities and Jefferies & Co. also have downgraded Oracle’s
+stock in the past two months. JMP cut Oracle shares to market
+perform, while Jefferies has a hold rating on the stock.  Workday, a Pleasanton, California-based maker of Web
+software that helps companies manage human resources and
+finances, is also gaining ground at the expense of industry
+stalwarts like Oracle and  SAP AG (SAP) ,  Europe ’s largest software
+maker.  Workday Moves In  Workday replaced Oracle and SAP systems at companies
+including Flextronics International Ltd., Kimberly-Clark Corp.,
+Sun Life Financial Inc. and Lenovo Group Ltd. The startup plans
+to file for an initial public offering this year that would
+raise as much as $500 million. Workday is aiming for the same
+companywide software installations that are Oracle’s and SAP’s
+strong suits.  Salesforce and Workday espouse an approach called
+“software as a service” that lets customers rent business
+applications instead of installing them on their own servers.
+This means companies that want to arm employees with new
+software don’t have to buy the underlying hardware, databases
+and the middleware that helps various programs work together.
+Nor do they have to retain the phalanx of consultants often
+needed to keep the systems working well.  The enterprise software industry, meantime, has thrived by
+shipping big upgrades after years-long development cycles, then
+collecting richly profitable maintenance fees each year for bug
+fixes, said Salesforce Executive Vice President John Wookey, a
+veteran of Oracle and SAP who joined Salesforce last November.  Customers’ Burden?  “In that model, the burden for making the software work is
+on the customer,” said Wookey, who spent a dozen years at
+Oracle and led development of the company’s new Fusion
+applications, then worked at SAP from 2008 until last year.
+“What’s different about the cloud is if people don’t like your
+software, they’ll stop using it.”  Oracle is still a software powerhouse, many times bigger
+and more profitable than Salesforce. Excluding options costs and
+other expenses, Oracle turned an $11.4 billion profit in its
+most recent fiscal year, compared with Salesforce’s $193.6
+million.  There’s also ample chance for Oracle and other large
+software makers to peel off customers of aging business
+applications like those made by Lawson Software Inc. and Sage
+Group Plc. Sensitive data can’t always be stored outside a
+company’s walls. What’s more, cloud computing companies’
+software may actually cost more than the sticker price because
+some companies need to hire consultants from  Accenture Plc  and
+Infosys Ltd. to integrate it with other programs they run.  Web-Friendly  Yet as companies swap older enterprise resource planning
+systems with newer cloud-computing software, SAP and Oracle have
+struggled to offer more Web-friendly applications. Oracle was
+years late to market with its Fusion applications, meant to knit
+together its  acquisitions  of Siebel, PeopleSoft and other
+companies with a more modern user interface and software code.  Responding to the threat, Oracle is making forays into
+cloud computing. It agreed last month to buy Taleo Corp., a
+maker of online human resources software, for $1.9 billion. In
+January, Oracle acquired RightNow Technologies Inc. for $1.5
+billion to gain online customer-service software. The company
+has also announced a service called the Oracle Public Cloud to
+run Fusion applications in Oracle’s data centers.  “We are well positioned as the only vendor with a
+standards-based, fully integrated suite of modern applications
+which can be deployed on premises or on a public or private
+cloud,” Oracle President  Mark Hurd  said in an e-mailed
+statement.  SAP’s Push  SAP also has reacted to the competition with its own
+efforts to take on newer companies -- and Oracle -- in the
+cloud. The German software maker on Feb. 23 closed its $3.4
+billion acquisition of SuccessFactors Inc., whose online
+software for managing employees’ performance has more than 3,500
+customers and 15 million users.  The company is directly targeting Oracle’s database
+customers with its own data-analysis software, called Hana.
+Eventually, large enterprise customers will be able to run Hana
+with SAP’s applications outside their own data centers, Chief
+Technology Officer Vishal Sikka said in an interview.  “In five years there’s no doubt the majority of deployments
+will be in the cloud,” he said.  Activision’s Mix  Activision still uses Oracle applications and databases to
+run its operations, financial planning and data analysis, Schmid
+said. Still, the  Santa Monica , California-based company chose
+Salesforce’s Service Cloud, Chatter social network and Radian6
+marketing software to respond to gamers’ problems and analyze
+data from players of the “Call of Duty” war game to refine
+future versions.  Salesforce’s software helps Activision analyze data flowing
+in from as many as 3 million simultaneous online  “Call of
+Duty”  players, then feed the findings to the company’s game
+developers to improve future versions, Schmid said.  Software-as-a-service companies like Salesforce and Workday
+will continue to pressure traditional software companies like
+Oracle in the months and years to come, said Mike Volpi, a
+partner at venture capital firm Index Ventures.  “This is the critical battleground for the next decade,”
+he said.  To contact the reporters on this story:
+Aaron Ricadela in  San Francisco  at 
+ aricadela@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net  

@@ -1,0 +1,64 @@
+-- Twitter Adopts Two-Step Authentication After Account Hack
+-- B y   D o u g l a s   M a c M i l l a n   a n d   B r i a n   W o m a c k
+-- 2013-05-23T04:01:00Z
+-- http://www.bloomberg.com/news/2013-05-22/twitter-boosts-security-with-two-step-authentication-after-hacks.html
+Twitter Inc. is adding a new security
+tool to its website, making it harder for outsiders to gain
+access to accounts, a month after a false posting triggered a
+stock-market decline.  The two-step authentication measure, available as an option
+starting today, requires users to input a code sent via text
+message to a mobile phone in order to log in, Jim O’Leary, a
+member of Twitter’s product security team, said in a blog  post 
+yesterday.  Twitter, which has more than 200 million users, follows
+ Apple Inc. (AAPL) ,  Google Inc. (GOOG) , and  Facebook Inc. (FB)  in introducing two-step authentication, as people put more information online. The
+hack of an Associated Press account last month resulted in
+tweets about explosions at the White House that temporarily 
+wiped out $136 billion in value from the Standard & Poor’s 500 
+Index. That increased pressure on Twitter Chief Executive 
+Officer  Dick Costolo  to install safeguards for users as he 
+prepares for an eventual initial public offering.  “Social sites are a big target of these hackers,” said
+Barmak Meftah, chief executive officer of  San Mateo , California-based computer-security company AlienVault Inc. “All the
+efforts around fortifying and securing these sites is obviously
+huge. It’s great that Twitter is taking steps toward stopping
+this.”  Twitter’s new authentication feature has been in
+development since at least last month, according to a person
+familiar with the matter. The San Francisco-based company said
+it plans to introduce more security measures to prevent hacking.  AP Attack  “When you sign in to twitter.com, there’s a second check
+to make sure it’s really you,” O’Leary wrote. “Much of the
+server-side engineering work required to ship this feature has
+cleared the way for us to deliver more account security
+enhancements in the future.”  In the AP hacking attack, the fabricated tweet was sent
+after unauthorized users gained access to the account, the  news
+agency  said. Common tactics that hackers use include spear
+phishing attacks, in which someone is duped into installing
+malicious code onto their computer or mobile device, and malware
+hidden on websites.  The AP restored its Twitter account after a security
+review. The false information from the AP account, which also
+said President  Barack Obama  had been injured, came after
+repeated attempts by hackers to gain access to AP reporters’
+passwords, the news agency said.  Corporate Information  In February, the Twitter account for Jeep was taken over.
+About that same time, the account for Burger King also was
+compromised. While those breaches were quickly remedied without
+any significant loss of sales, businesses can come under greater
+scrutiny after financial regulators approved the use of social
+media to release market-sensitive information.  That followed an investigation into  Netflix Inc. (NFLX)  Chief
+Executive Officer  Reed Hastings . He had posted monthly
+viewership results on his Facebook page, rather than in a U.S.
+Securities and Exchange Commission filing or news release.  Tesla
+Motors Inc. (TSLA)  Chief Executive Officer  Elon Musk  also fueled the
+debate in March, when he sent Twitter postings that moved the
+electric-car company’s shares.  The SEC changed its guidance for companies distributing
+information April 2, allowing them to use social-media sites
+such as Twitter and Facebook to distribute announcements that
+can move markets.  “For a long period of time, banks were the main target,
+where hackers would embed a phishing link inside an e-mail,”
+Meftah said. “Social sites are the new attack surface for these
+guys. If you can phish against Twitter, phish against Facebook -
+- the number of consumers that are going to be affected by it is
+massive.”  To contact the reporters on this story:
+Douglas MacMillan in  San Francisco  at 
+ dmacmillan3@bloomberg.net ;
+Brian Womack in San Francisco at 
+ bwomack1@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at 
+ tgiles5@bloomberg.net  
